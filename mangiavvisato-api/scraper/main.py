@@ -34,7 +34,7 @@ def process(fetcher: Fetcher, url: str) -> dict:
     if item["pdf_url"]:
         try:
             pdf = fetcher.get(item["pdf_url"]).content
-            item["dettagli"] = parse_pdf_text(extract_pdf_text(pdf))
+            item["dettagli"] = parse_pdf_text(extract_pdf_text(pdf, config.PDF_TIMEOUT))
         except Exception as exc:  # noqa: BLE001 - il PDF è un di più, non deve bloccare
             log.warning("PDF non elaborato per %s: %s", url, exc)
     return item
@@ -98,13 +98,21 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
         log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
         exit_code = 3
 
+    consecutive_failures = 0
     for n, url in enumerate(todo[: args.max_new], start=1):
         try:
             item = process(fetcher, url)
+            consecutive_failures = 0
         except BlockedError as exc:
-            log.error("%s", exc)
-            exit_code = 2
-            break
+            # Un richiamo irraggiungibile si salta; tre di fila indicano un blocco vero.
+            consecutive_failures += 1
+            if consecutive_failures >= 3:
+                log.error("%s", exc)
+                log.error("Tre richiami di fila non raggiungibili: interrompo l'esecuzione")
+                exit_code = 2
+                break
+            log.warning("Salto %s: %s", url, exc)
+            continue
         except Exception as exc:  # noqa: BLE001
             log.warning("Errore su %s: %s", url, exc)
             continue
@@ -112,8 +120,7 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
             new_ids.append(item["id"])
         store.upsert(item)
         log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
-        if n % 25 == 0:  # salvataggio periodico: un'interruzione non fa perdere tutto
-            store.save()
+        store.save()  # dopo ogni richiamo: un'interruzione non fa perdere il lavoro fatto
     remaining = max(0, len(todo) - args.max_new)
     if remaining:
         log.info("Restano %d richiami da elaborare nelle prossime esecuzioni", remaining)

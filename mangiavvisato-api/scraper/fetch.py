@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 import time
 from pathlib import Path
 
@@ -59,6 +60,24 @@ def is_challenge(response) -> bool:
     return looks_like_challenge(response.text, response.headers.get("Content-Type", ""))
 
 
+def decode_body(body: bytes, content_type: str = "") -> str:
+    """Decodifica rispettando il charset dichiarato. Il portale non usa sempre
+    UTF-8: decodificare alla cieca rovina accenti e trattini."""
+    m = re.search(r"charset=([\w-]+)", content_type or "", re.I) or re.search(
+        rb"<meta[^>]+charset=[\"']?([\w-]+)", body[:4000], re.I
+    )
+    if m:
+        charset = m.group(1).decode() if isinstance(m.group(1), bytes) else m.group(1)
+        try:
+            return body.decode(charset)
+        except (LookupError, UnicodeDecodeError):
+            pass
+    try:
+        return body.decode("utf-8")
+    except UnicodeDecodeError:
+        return body.decode("cp1252", errors="replace")
+
+
 class SimpleResponse:
     """Risposta minimale, compatibile con l'uso che ne fa lo scraper."""
 
@@ -70,7 +89,7 @@ class SimpleResponse:
 
     @property
     def text(self) -> str:
-        return self.content.decode("utf-8", errors="replace")
+        return decode_body(self.content, self.headers.get("Content-Type", ""))
 
     def raise_for_status(self) -> None:
         if self.status_code >= 400:
@@ -142,6 +161,9 @@ class Fetcher:
             viewport={"width": 1366, "height": 900},
         )
         self._context.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        # Nessuna operazione del browser può attendere più di un minuto.
+        self._context.set_default_timeout(60_000)
+        self._context.set_default_navigation_timeout(60_000)
         self._page = self._context.new_page()
 
     def _wait_challenge_cleared(self) -> bool:
@@ -164,39 +186,58 @@ class Fetcher:
 
     def _is_file(self, url: str) -> bool:
         path = url.lower().split("?")[0]
-        return path.endswith((".pdf", ".doc", ".docx", ".xls", ".xlsx", ".zip", ".jpg", ".jpeg", ".png"))
+        return path.endswith((".pdf", ".xml", ".rss", ".doc", ".docx", ".xls", ".xlsx", ".zip", ".jpg", ".jpeg", ".png"))
+
+    def reset_browser(self) -> None:
+        """Chiude il browser: la richiesta successiva lo riavvia da capo."""
+        try:
+            self.close()
+        except Exception:  # noqa: BLE001
+            self._pw = self._browser = self._context = self._page = None
 
     def _browser_get(self, url: str) -> SimpleResponse:
         last_status = None
         for attempt in range(1, 4):
             try:
                 if self._is_file(url):
-                    # I file non si aprono nella scheda (partirebbe un download):
-                    # si usa il client HTTP del browser, con gli stessi cookie.
-                    r = self._context.request.get(url, timeout=60_000)
+                    # File e feed: client HTTP del browser, con gli stessi cookie.
+                    r = self._context.request.get(url, timeout=30_000)
                     status, headers, body = r.status, r.headers, r.body()
-                else:
-                    r = self._page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-                    if r is None:
-                        raise RuntimeError("nessuna risposta")
-                    status, headers, body = r.status, r.headers, r.body()
+                    ctype = headers.get("content-type", "")
+                    last_status = status
+                    if status not in (403, 429, 503) and not looks_like_challenge(body, ctype):
+                        return SimpleResponse(url, status, headers, body)
+                    # Verifica da superare: si apre una pagina HTML del sito e si riprova.
+                    log.info("Verifica anti-bot in corso su %s (tentativo %d)", url, attempt)
+                    self._page.goto(config.BASE_URL + "/new/it/", wait_until="domcontentloaded", timeout=60_000)
+                    self._wait_challenge_cleared()
+                    continue
+
+                # Pagine HTML: si legge il DOM dopo che la verifica e il JavaScript
+                # della pagina hanno finito, già decodificato correttamente.
+                r = self._page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                status = r.status if r is not None else 200
+                last_status = status
+                if not self._wait_challenge_cleared():
+                    log.info("Verifica anti-bot non completata su %s (tentativo %d)", url, attempt)
+                    continue
+                try:
+                    self._page.wait_for_load_state("networkidle", timeout=10_000)
+                except Exception:  # noqa: BLE001 - pagine con richieste continue
+                    pass
+                html = self._page.content()
+                if looks_like_challenge(html):
+                    continue
+                # Lo stato della prima risposta può essere quello della verifica:
+                # se ora la pagina è quella vera, vale come 200 (tranne il 404).
+                final_status = 404 if status == 404 else 200
+                return SimpleResponse(url, final_status, {"content-type": "text/html; charset=utf-8"}, html.encode("utf-8"))
             except Exception as exc:  # noqa: BLE001
-                log.info("Tentativo %d su %s non riuscito: %s", attempt, url, exc)
-                self._page.wait_for_timeout(2000)
-                continue
-
-            ctype = headers.get("content-type", "")
-            last_status = status
-            if status not in (403, 429, 503) and not looks_like_challenge(body, ctype):
-                return SimpleResponse(url, status, headers, body)
-
-            log.info("Verifica anti-bot in corso su %s (tentativo %d)", url, attempt)
-            if self._is_file(url):
-                # Per i file la verifica si supera aprendo una pagina HTML del sito.
-                self._page.goto(config.BASE_URL + "/new/it/", wait_until="domcontentloaded", timeout=60_000)
-            if not self._wait_challenge_cleared():
-                log.info("La verifica non si è completata entro %d secondi", CHALLENGE_WAIT)
-            # Si ricarica l'URL richiesto: ora i cookie della verifica ci sono.
+                log.info("Tentativo %d su %s non riuscito: %s", attempt, url, str(exc).splitlines()[0])
+                try:
+                    self._page.wait_for_timeout(2000)
+                except Exception:  # noqa: BLE001
+                    pass
 
         self._save_debug(url)
         raise BlockedError(f"Accesso bloccato dalla protezione anti-bot: {url} (ultimo stato HTTP {last_status})")

@@ -213,8 +213,17 @@ def split_lots(text: str) -> list[str]:
     return [p.strip() for p in parts if p.strip()]
 
 
-def extract_pdf_text(pdf_bytes: bytes) -> str:
-    import pdfplumber
+def extract_pdf_text(pdf_bytes: bytes, timeout: int = 60) -> str:
+    """Testo del PDF, estratto in un processo separato con un tempo massimo."""
+    import subprocess
+    import sys
 
-    with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
-        return "\n".join(page.extract_text() or "" for page in pdf.pages)
+    result = subprocess.run(
+        [sys.executable, "-m", "scraper.pdftext"],
+        input=pdf_bytes,
+        capture_output=True,
+        timeout=timeout,
+        check=True,
+        cwd=str(__import__("pathlib").Path(__file__).resolve().parent.parent),
+    )
+    return result.stdout.decode("utf-8", errors="replace")

@@ -37,6 +37,9 @@ BROWSER_USER_AGENT = (
 REQUEST_DELAY = 2.0
 REQUEST_TIMEOUT = 30
 
+# Tempo massimo per estrarre il testo di un PDF, in secondi.
+PDF_TIMEOUT = 60
+
 # Numero massimo di nuovi richiami elaborati in una singola esecuzione.
 MAX_NEW_PER_RUN = 40
 
