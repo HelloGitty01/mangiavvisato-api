@@ -47,6 +47,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
+          sudo apt-get install -y -qq xvfb
 
       - name: Test
         run: python -m pytest -q
@@ -55,10 +56,23 @@ jobs:
         env:
           BACKFILL: ${{ inputs.backfill }}
           MAX_NEW: ${{ inputs.max_new || '40' }}
+          # Chromium con finestra (virtuale, tramite xvfb): meno riconoscibile come bot.
+          MANGIAVVISATO_HEADED: "1"
+          MANGIAVVISATO_DEBUG_DIR: debug
         run: |
           ARGS="--new-ids-file new_ids.txt --max-new $MAX_NEW"
           if [ "$BACKFILL" = "true" ]; then ARGS="$ARGS --backfill"; fi
-          python -m scraper.main $ARGS
+          xvfb-run -a python -m scraper.main $ARGS
+
+      # Se la verifica anti-bot non viene superata, screenshot e HTML della
+      # pagina vista dal browser si scaricano dal riepilogo dell'esecuzione.
+      - name: Allega i file di debug
+        if: ${{ failure() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-antibot
+          path: mangiavvisato-api/debug/
+          if-no-files-found: ignore
 
       # I passi seguenti girano anche se lo scraper si è fermato a metà,
       # così il lavoro già fatto viene salvato e pubblicato.
