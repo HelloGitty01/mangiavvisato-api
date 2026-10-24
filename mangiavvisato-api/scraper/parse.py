@@ -59,6 +59,43 @@ def classify_risk(motivo: str | None) -> str:
     return "altro"
 
 
+FILE_EXTENSIONS = (".pdf", ".doc", ".docx", ".xls", ".xlsx", ".odt", ".zip", ".jpg", ".jpeg", ".png", ".webp")
+GENERIC_LABEL_RE = re.compile(r"^([A-ZÀ-Ýa-zà-ý][^:]{1,60}):\s*(.*)$")
+
+
+def _generic_fields(lines: list[str]) -> dict[str, str]:
+    """Tutte le coppie 'Etichetta: valore' presenti nella pagina."""
+    fields: dict[str, str] = {}
+    for i, line in enumerate(lines):
+        m = GENERIC_LABEL_RE.match(line)
+        if not m or "http" in m.group(1).lower():
+            continue
+        label, value = m.group(1).strip(), m.group(2).strip()
+        if not value and i + 1 < len(lines) and not GENERIC_LABEL_RE.match(lines[i + 1]):
+            value = lines[i + 1]
+        if value and label not in fields:
+            fields[label] = value
+    return fields
+
+
+def _attachments(main, url: str) -> list[dict]:
+    """Tutti i documenti collegati alla pagina (PDF, immagini, ecc.)."""
+    seen: set[str] = set()
+    out = []
+    for a in main.find_all("a", href=True):
+        href = urljoin(url, a["href"])
+        path = href.lower().split("?")[0]
+        if path.endswith(FILE_EXTENSIONS) and href not in seen:
+            seen.add(href)
+            out.append({"titolo": a.get_text(" ", strip=True) or None, "url": href})
+    for img in main.find_all("img", src=True):
+        src = urljoin(url, img["src"])
+        if "/files/" in src and src not in seen:
+            seen.add(src)
+            out.append({"titolo": img.get("alt") or None, "url": src, "immagine": True})
+    return out
+
+
 def parse_detail(html: str, url: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
     main = soup.find("main") or soup.body or soup
@@ -77,12 +114,10 @@ def parse_detail(html: str, url: str) -> dict:
     h1 = main.find("h1")
     titolo = h1.get_text(" ", strip=True) if h1 else fields["denominazione"]
 
-    pdf_url = None
-    for a in main.find_all("a", href=True):
-        href = a["href"]
-        if href.lower().split("?")[0].endswith(".pdf") or "modello di richiamo" in a.get_text(" ").lower():
-            pdf_url = urljoin(url, href)
-            break
+    allegati = _attachments(main, url)
+    pdfs = [a for a in allegati if a["url"].lower().split("?")[0].endswith(".pdf")]
+    modello = next((a for a in pdfs if "modello" in (a["titolo"] or "").lower()), None)
+    pdf_url = (modello or (pdfs[0] if pdfs else {})).get("url")
 
     text_for_type = f"{titolo or ''} {fields['motivo'] or ''}".lower()
     return {
@@ -95,6 +130,8 @@ def parse_detail(html: str, url: str) -> dict:
         "categoria_rischio": classify_risk(fields["motivo"]),
         "tipo": "revoca" if "revoca" in text_for_type else "richiamo",
         "pdf_url": pdf_url,
+        "allegati": allegati,
+        "campi_pagina": _generic_fields(lines),
     }
 
 
@@ -157,6 +194,17 @@ def parse_pdf_text(text: str) -> dict:
             out[key] = value
     if "lotti" in out:
         out["lotti"] = split_lots(str(out["lotti"]))
+
+    # Ogni altra riga 'Etichetta: valore' non riconosciuta finisce in campi_extra.
+    extra: dict[str, str] = {}
+    for raw in text.splitlines():
+        line = re.sub(r"\s+", " ", raw).strip()
+        m = GENERIC_LABEL_RE.match(line)
+        if m and not _match_label(line) and m.group(2).strip():
+            extra.setdefault(m.group(1).strip(), m.group(2).strip())
+    if extra:
+        out["campi_extra"] = extra
+    out["testo"] = text.strip()
     return out
 
 

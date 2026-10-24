@@ -4,6 +4,7 @@ Uso:
     python -m scraper.main                      # esecuzione normale
     python -m scraper.main --url URL_DETTAGLIO  # elabora un solo richiamo (per prove)
     python -m scraper.main --only-build         # rigenera public/ senza scaricare nulla
+    python -m scraper.main --backfill --max-new 300  # recupera lo storico, a blocchi
 """
 
 from __future__ import annotations
@@ -27,6 +28,8 @@ ROOT = Path(__file__).resolve().parent.parent
 def process(fetcher: Fetcher, url: str) -> dict:
     item = parse_detail(fetcher.get(url).text, url)
     item["id"] = recall_id(url)
+    item["versione_parser"] = config.PARSER_VERSION
+    item["fonte"] = "Ministero della Salute"
     item["dettagli"] = {}
     if item["pdf_url"]:
         try:
@@ -44,6 +47,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--static-dir", type=Path, default=ROOT / "static")
     ap.add_argument("--max-new", type=int, default=config.MAX_NEW_PER_RUN)
     ap.add_argument("--url", action="append", help="elabora solo questo URL di dettaglio (ripetibile)")
+    ap.add_argument("--backfill", action="store_true", help="sfoglia tutte le pagine dell'elenco per recuperare lo storico")
     ap.add_argument("--no-browser", action="store_true", help="non usare Playwright per la verifica anti-bot")
     ap.add_argument("--only-build", action="store_true", help="rigenera solo public/ dai dati esistenti")
     ap.add_argument("--new-ids-file", type=Path, default=None, help="scrive qui gli id dei nuovi richiami")
@@ -62,19 +66,24 @@ def main(argv: list[str] | None = None) -> int:
     if not args.only_build:
         fetcher = Fetcher(use_browser_fallback=not args.no_browser)
         try:
-            urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher)
+            urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher, backfill=args.backfill)
         except BlockedError as exc:
             log.error("%s", exc)
             urls = []
             exit_code = 2
 
         todo = [u for u in urls if args.url or not store.has(recall_id(u))]
-        log.info("Trovati %d richiami, %d da elaborare", len(urls), len(todo))
+        outdated = [] if args.url else [u for u in store.outdated(config.PARSER_VERSION) if u not in todo]
+        log.info(
+            "Trovati %d richiami: %d nuovi, %d da rielaborare (parser aggiornato)",
+            len(urls), len(todo), len(outdated),
+        )
+        todo += outdated
         if not urls and exit_code == 0:
             log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
             exit_code = 3
 
-        for url in todo[: args.max_new]:
+        for n, url in enumerate(todo[: args.max_new], start=1):
             try:
                 item = process(fetcher, url)
             except BlockedError as exc:
@@ -88,6 +97,11 @@ def main(argv: list[str] | None = None) -> int:
                 new_ids.append(item["id"])
             store.upsert(item)
             log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
+            if n % 25 == 0:  # salvataggio periodico: un'interruzione non fa perdere tutto
+                store.save()
+        remaining = max(0, len(todo) - args.max_new)
+        if remaining:
+            log.info("Restano %d richiami da elaborare nelle prossime esecuzioni", remaining)
 
         store.save()
 

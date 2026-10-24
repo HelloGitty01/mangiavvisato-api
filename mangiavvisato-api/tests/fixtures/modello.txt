@@ -11,3 +11,4 @@ Data di scadenza o termine minimo di conservazione: 31/12/2026
 Descrizione peso/volume unità di vendita: 100 g
 Motivo del richiamo: presenza di sostanza non autorizzata
 Avvertenze: non consumare il prodotto e riportarlo al punto vendita
+Codice EAN: 8001234567890

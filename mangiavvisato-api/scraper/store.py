@@ -11,7 +11,7 @@ from . import config
 
 SUMMARY_FIELDS = (
     "id", "tipo", "data_pubblicazione", "marca", "denominazione",
-    "motivo", "categoria_rischio", "lotti", "scadenza", "url",
+    "motivo", "categoria_rischio", "lotti", "scadenza", "url", "pdf_url",
 )
 
 
@@ -33,6 +33,10 @@ class Store:
 
     def has(self, rid: str) -> bool:
         return rid in self.items
+
+    def outdated(self, version: int) -> list[str]:
+        """URL dei richiami elaborati con una versione dei parser precedente."""
+        return [i["url"] for i in self.sorted_items() if i.get("versione_parser", 1) < version]
 
     def upsert(self, item: dict) -> None:
         old = self.items.get(item["id"], {})

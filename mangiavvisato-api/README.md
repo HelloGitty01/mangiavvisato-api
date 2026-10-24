@@ -11,7 +11,7 @@ aggiorna l'archivio in `data/` e pubblica i file JSON su GitHub Pages.
 
 ## Endpoint
 
-Base: `https://TUO-UTENTE.github.io/mangiavvisato-api/`
+Base: `https://hellogitty01.github.io/mangiavvisato-api/`
 
 | Percorso | Contenuto |
 |---|---|
@@ -34,13 +34,24 @@ Esempio di sintesi:
   "categoria_rischio": "chimico",
   "lotti": ["L2601", "L2602"],
   "scadenza": "31/12/2026",
-  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-0/"
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-0/",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/.../modello-richiamo.pdf"
 }
 ```
 
-Il dettaglio aggiunge `pdf_url`, `titolo`, le date di rilevazione e l'oggetto
-`dettagli` con i campi estratti dal modello PDF (operatore, stabilimento,
-marchio di identificazione, peso/volume, motivo esteso, avvertenze).
+`url` è la pagina originale del richiamo sul portale del Ministero, `pdf_url`
+il modello di richiamo in PDF.
+
+Il dettaglio (`v1/richiami/{id}.json`) contiene tutto ciò che è disponibile:
+
+- `titolo`, `fonte`, date di prima rilevazione e ultimo aggiornamento;
+- `allegati`: tutti i documenti e le immagini collegati alla pagina, con titolo e URL;
+- `campi_pagina`: tutte le coppie "etichetta: valore" presenti nella pagina;
+- `dettagli`: i campi estratti dal modello PDF (denominazione di vendita,
+  marchio, operatore, produttore, sede e marchio di identificazione dello
+  stabilimento, lotti, scadenza, peso/volume, motivo esteso, avvertenze),
+  più `campi_extra` con ogni altra etichetta trovata nel PDF e `testo` con il
+  testo integrale del PDF.
 
 ## Come funziona
 
@@ -52,6 +63,22 @@ marchio di identificazione, peso/volume, motivo esteso, avvertenze).
 4. **Pubblicazione**: rigenera `public/` e la pubblica su GitHub Pages.
 
 L'id di un richiamo è l'ultimo segmento del suo URL sul portale, che è stabile.
+
+### Recupero dello storico
+
+Il portale conserva i richiami dal 2017. Per importarli:
+*Actions → Aggiorna richiami → Run workflow*, spunta **backfill** e imposta
+**max_new** a `300`. Lo scraper sfoglia tutte le pagine dell'elenco ed elabora
+fino a 300 richiami mancanti (circa mezz'ora). Ripeti finché il log dello step
+*Scarica i richiami* non riporta `0 nuovi`. Ogni esecuzione salva e pubblica
+quello che ha fatto, anche se si interrompe a metà.
+
+### Rielaborazione automatica
+
+Ogni richiamo registra la `versione_parser` con cui è stato estratto. Quando
+si migliora un parser si incrementa `PARSER_VERSION` in `scraper/config.py`:
+le esecuzioni successive rielaborano da sole i richiami con versione
+precedente, sempre entro il limite `max_new`.
 
 ### Protezione anti-bot
 
@@ -66,7 +93,7 @@ via email; i dati già pubblicati restano online.
 
 1. Crea un repository **pubblico** chiamato `mangiavvisato-api` e carica
    questi file.
-2. In `scraper/config.py` sostituisci `TUO-UTENTE` nello user-agent.
+2. In `scraper/config.py` sostituisci `HelloGitty01` nello user-agent.
 3. *Settings → Pages → Build and deployment → Source*: **GitHub Actions**.
 4. *Actions → Aggiorna richiami → Run workflow* per la prima esecuzione.
 5. Controlla il log: se tutto va bene trovi l'API all'indirizzo indicato sopra.
@@ -82,6 +109,7 @@ python -m pytest -q                       # test dei parser
 python -m scraper.main -v                 # esecuzione completa
 python -m scraper.main --url URL          # un solo richiamo, utile per le prove
 python -m scraper.main --only-build       # rigenera public/ dai dati esistenti
+python -m scraper.main --backfill --max-new 300   # recupero dello storico
 ```
 
 ## Cose da verificare alla prima esecuzione reale
@@ -102,8 +130,9 @@ Quando un parser va corretto, salva la pagina o il testo del PDF in
 ## Limiti noti
 
 - Le revoche non sono ancora collegate al richiamo originale.
-- Lo storico parte dalla prima esecuzione: il feed contiene solo gli avvisi
-  recenti.
+- La paginazione dell'elenco segue il link "successiva" o, in mancanza, il
+  parametro `?page=N`: va verificata sul portale alla prima esecuzione con
+  backfill (il log mostra quanti richiami trova per pagina).
 - GitHub può sospendere i workflow pianificati nei repository inattivi da 60
   giorni; i commit automatici dei dati di norma bastano a evitarlo, ma se
   succede basta riattivarlo da *Actions*.

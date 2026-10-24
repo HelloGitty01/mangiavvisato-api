@@ -33,6 +33,17 @@ REQUEST_TIMEOUT = 30
 # Numero massimo di nuovi richiami elaborati in una singola esecuzione.
 MAX_NEW_PER_RUN = 40
 
+# Recupero dello storico (--backfill): numero massimo di pagine dell'elenco da
+# sfogliare e nome del parametro di paginazione usato come riserva se la pagina
+# non contiene un link "successiva" riconoscibile (Drupal usa ?page=N, da 0).
+BACKFILL_MAX_PAGES = 500
+PAGE_PARAM = "page"
+
+# Versione dei parser. Quando si migliora l'estrazione dei dati si incrementa:
+# i richiami elaborati con una versione precedente vengono rielaborati
+# automaticamente nelle esecuzioni successive (sempre entro MAX_NEW_PER_RUN).
+PARSER_VERSION = 2
+
 # Quanti richiami recenti finiscono in ultimi.json.
 LATEST_COUNT = 50
 
