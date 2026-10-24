@@ -26,6 +26,13 @@ USER_AGENT = (
     "(+https://github.com/HelloGitty01/mangiavvisato-api)"
 )
 
+# User-agent del browser usato per superare la verifica anti-bot: un normale
+# Chrome desktop. Un user-agent con "Bot" verrebbe respinto dalla verifica.
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+)
+
 # Pausa tra una richiesta e l'altra, in secondi. Siamo ospiti: niente fretta.
 REQUEST_DELAY = 2.0
 REQUEST_TIMEOUT = 30

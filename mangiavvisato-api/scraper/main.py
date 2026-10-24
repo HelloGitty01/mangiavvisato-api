@@ -66,49 +66,58 @@ def main(argv: list[str] | None = None) -> int:
     if not args.only_build:
         fetcher = Fetcher(use_browser_fallback=not args.no_browser)
         try:
-            urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher, backfill=args.backfill)
-        except BlockedError as exc:
-            log.error("%s", exc)
-            urls = []
-            exit_code = 2
-
-        todo = [u for u in urls if args.url or not store.has(recall_id(u))]
-        outdated = [] if args.url else [u for u in store.outdated(config.PARSER_VERSION) if u not in todo]
-        log.info(
-            "Trovati %d richiami: %d nuovi, %d da rielaborare (parser aggiornato)",
-            len(urls), len(todo), len(outdated),
-        )
-        todo += outdated
-        if not urls and exit_code == 0:
-            log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
-            exit_code = 3
-
-        for n, url in enumerate(todo[: args.max_new], start=1):
-            try:
-                item = process(fetcher, url)
-            except BlockedError as exc:
-                log.error("%s", exc)
-                exit_code = 2
-                break
-            except Exception as exc:  # noqa: BLE001
-                log.warning("Errore su %s: %s", url, exc)
-                continue
-            if not store.has(item["id"]):
-                new_ids.append(item["id"])
-            store.upsert(item)
-            log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
-            if n % 25 == 0:  # salvataggio periodico: un'interruzione non fa perdere tutto
-                store.save()
-        remaining = max(0, len(todo) - args.max_new)
-        if remaining:
-            log.info("Restano %d richiami da elaborare nelle prossime esecuzioni", remaining)
-
+            exit_code = run(fetcher, store, args, new_ids)
+        finally:
+            fetcher.close()
         store.save()
 
     build_public(store, args.out_dir, args.static_dir)
     if args.new_ids_file:
         args.new_ids_file.write_text("\n".join(new_ids) + ("\n" if new_ids else ""), encoding="utf-8")
     log.info("Nuovi richiami: %d. Totale in archivio: %d", len(new_ids), len(store.items))
+    return exit_code
+
+
+def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
+    exit_code = 0
+    try:
+        urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher, backfill=args.backfill)
+    except BlockedError as exc:
+        log.error("%s", exc)
+        urls = []
+        exit_code = 2
+
+    todo = [u for u in urls if args.url or not store.has(recall_id(u))]
+    outdated = [] if args.url else [u for u in store.outdated(config.PARSER_VERSION) if u not in todo]
+    log.info(
+        "Trovati %d richiami: %d nuovi, %d da rielaborare (parser aggiornato)",
+        len(urls), len(todo), len(outdated),
+    )
+    todo += outdated
+    if not urls and exit_code == 0:
+        log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
+        exit_code = 3
+
+    for n, url in enumerate(todo[: args.max_new], start=1):
+        try:
+            item = process(fetcher, url)
+        except BlockedError as exc:
+            log.error("%s", exc)
+            exit_code = 2
+            break
+        except Exception as exc:  # noqa: BLE001
+            log.warning("Errore su %s: %s", url, exc)
+            continue
+        if not store.has(item["id"]):
+            new_ids.append(item["id"])
+        store.upsert(item)
+        log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
+        if n % 25 == 0:  # salvataggio periodico: un'interruzione non fa perdere tutto
+            store.save()
+    remaining = max(0, len(todo) - args.max_new)
+    if remaining:
+        log.info("Restano %d richiami da elaborare nelle prossime esecuzioni", remaining)
+
     return exit_code
 
 
