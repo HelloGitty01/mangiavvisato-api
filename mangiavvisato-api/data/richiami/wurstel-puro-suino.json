@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-puro-suino/",
+ "titolo": "WURSTEL PURO SUINO",
+ "data_pubblicazione": "2025-03-25",
+ "marca": "CONAD S.C.",
+ "denominazione": "WURSTEL PURO SUINO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761206690.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_1761206690.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761206690.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wurstel-puro-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:33+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:33+00:00"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-agrel-stagionato/",
+ "titolo": "Formaggio AGREL stagionato",
+ "data_pubblicazione": "2025-06-09",
+ "marca": "Casearia Arnoldi",
+ "denominazione": "Formaggio AGREL stagionato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGREL%20STAG.%20LOTTO%20520020_1761207557.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RICHIAMO AGREL STAG. LOTTO 520020_1761207557.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGREL%20STAG.%20LOTTO%20520020_1761207557.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-agrel-stagionato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "AGREL STAGIONATO",
+  "operatore": "CASEARIA ARNOLDI VALTALEGGIO SRL",
+  "lotti": [
+   "LOTTO 520020"
+  ],
+  "marchio_identificazione": "CE IT 03 272",
+  "produttore": "CASEARIA ARNOLDI VALTALEGGIO SRL",
+  "sede_stabilimento": "VIA PIAZZE 156 24010 TALEGGIO (BG)",
+  "scadenza": "12/06/2025",
+  "peso_volume": "FORMAGGINI SFUSI CONFEZIONATI IN VASCHE DA 850 GR CA RISCONTRATA PRESENZA LISTERIA MONOCYTOGENES (presente/25g) Inserire immagine due: Inserire immagine uno",
+  "campi_extra": {
+   "Data": "30/05/2025 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nARNOLDI\nData: 30/05/2025 Marchio del prodotto:\nDenominazione di vendita: AGREL STAGIONATO\nNome o ragione sociale dell'OSA CASEARIA ARNOLDI VALTALEGGIO SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: LOTTO 520020\nMarchio di identificazione dello stabilimento/del produttore: CE IT 03 272\nNome del produttore: CASEARIA ARNOLDI VALTALEGGIO SRL\nSede dello stabilimento: VIA PIAZZE 156 24010 TALEGGIO (BG)\nData di scadenza o termine minimo di conservazione: 12/06/2025\nDescrizione peso/volume unità di vendita: FORMAGGINI SFUSI CONFEZIONATI IN VASCHE DA 850 GR CA\nRISCONTRATA PRESENZA LISTERIA MONOCYTOGENES (presente/25g)\nInserire immagine due:\nInserire immagine uno:"
+ },
+ "prima_rilevazione": "2026-10-24T22:41:53+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:53+00:00"
+}

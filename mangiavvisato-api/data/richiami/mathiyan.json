@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mathiyan/",
+ "titolo": "MATHIYAN",
+ "data_pubblicazione": "2026-04-02",
+ "marca": "PUNJABI & RESTAURANT SWEET HOUSE - BITTA HALY",
+ "denominazione": "MATHIYAN",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%203_1775123054.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 3_1775123054.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%203_1775123054.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mathiyan",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "o se del caso tutti i lotti eventualmente riportati\nassente\n500 gr"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:26+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:26+00:00"
+}

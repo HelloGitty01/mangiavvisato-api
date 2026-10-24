@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp-0/",
+ "titolo": "Ciauscolo IGP",
+ "data_pubblicazione": "2026-07-21",
+ "marca": "Norcineria Alto nera snc",
+ "denominazione": "Ciauscolo IGP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AST%20MC%20cartello%20richiamo%20compilato%20CON%20FOTO_1784645083.pdf",
+ "allegati": [
+  {
+   "titolo": "AST MC cartello richiamo compilato CON FOTO_1784645083.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AST%20MC%20cartello%20richiamo%20compilato%20CON%20FOTO_1784645083.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ciauscolo-igp-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:05:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:05:35+00:00"
+}

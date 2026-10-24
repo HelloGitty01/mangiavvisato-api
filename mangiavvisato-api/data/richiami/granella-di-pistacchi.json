@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granella-di-pistacchi/",
+ "titolo": "Granella di pistacchi",
+ "data_pubblicazione": "2025-05-08",
+ "marca": "Amonatura",
+ "denominazione": "Granella di pistacchi",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761207411.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1761207411.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761207411.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "granella-di-pistacchi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "(cid:19)(cid:25)(cid:18)(cid:19)(cid:24)(cid:18)(cid:21)(cid:19)(cid:21)(cid:24)"
+ },
+ "prima_rilevazione": "2026-10-24T22:44:30+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:44:30+00:00"
+}

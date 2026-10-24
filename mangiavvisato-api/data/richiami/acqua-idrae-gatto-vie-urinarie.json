@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-idrae-gatto-vie-urinarie/",
+ "titolo": "ACQUA IDRAE GATTO – VIE URINARIE",
+ "data_pubblicazione": "2026-07-28",
+ "marca": "APALASOL",
+ "denominazione": "ACQUA IDRAE GATTO – VIE URINARIE",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1785240163.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo_1785240163.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1785240163.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "acqua-idrae-gatto-vie-urinarie",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ACQUA IDRAE GATTO – VIE URINARIE",
+  "operatore": "APALASOL SRL",
+  "lotti": [
+   "L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH"
+  ],
+  "marchio_identificazione": "ALFAIT000079PC",
+  "produttore": "APALASOL SRL",
+  "sede_stabilimento": "LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)",
+  "scadenza": "31-01-2028",
+  "peso_volume": "500 ml",
+  "motivo_esteso": "REVOCA PER COMPLETAMENTO OPERAZIONI DI RITIRO RICHIAMO",
+  "campi_extra": {
+   "Data": "28/07/2026 Marchio del prodotto: APALASOL"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 28/07/2026 Marchio del prodotto: APALASOL\nDenominazione di vendita:ACQUA IDRAE GATTO – VIE URINARIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è APALASOL SRL\ncommercializzato:\nLotto di produzione: L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH\nMarchio di identificazione dello stabilimento/del produttore: ALFAIT000079PC\nNome del produttore: APALASOL SRL\nSede dello stabilimento: LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)\nData di scadenza o termine minimo di conservazione: 31-01-2028\nDescrizione peso/volume unità di vendita: 500 ml\nMotivo del richiamo:\nREVOCA PER COMPLETAMENTO OPERAZIONI DI RITIRO RICHIAMO\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:04:50+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:50+00:00"
+}

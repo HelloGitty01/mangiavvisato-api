@@ -1,0 +1,50 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-agricoltura-biologica-cat-4-uova/",
+ "titolo": "uova fresche da agricoltura biologica cat. A 4 uova",
+ "data_pubblicazione": "2026-06-05",
+ "marca": "BIO FATTORIA",
+ "denominazione": "uova fresche da agricoltura biologica cat. A 4 uova",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%204%20UOVA%20PARADELLO_1784712895.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo 4 UOVA PARADELLO_1784712895.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%204%20UOVA%20PARADELLO_1784712895.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-da-agricoltura-biologica-cat-4-uova",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A",
+  "operatore": "FATTORIA PARADELLO SOC. AGR. S.S.",
+  "lotti": [
+   "200526",
+   "210526",
+   "220526",
+   "230526",
+   "240526",
+   "250526",
+   "260526",
+   "270526",
+   "280526"
+  ],
+  "marchio_identificazione": "C.I. N. IT017084",
+  "produttore": "FATTORIA PARADELLO SOC.AGR. S.S.",
+  "sede_stabilimento": "VIA PARADELLO 9, RODENGO SAIANO (BS)",
+  "scadenza": "17/06/2026; 18/06/2026;19/06/2026; 20/06/2026; 21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026; 25/06/2026",
+  "peso_volume": "CONF. DA 4: 0.270 GR; CONF DA 6: 0.400 GR; CONF. DA 30: 1.9",
+  "motivo_esteso": "ISOLAMENTO SALMONELLA TYPHIMURIUM",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E SE ANCORA IN VOSTRO POSSESSO RICONSEGNARLO AL FORNITORE",
+  "campi_extra": {
+   "Data": "05/06/2026 Marchio del prodotto: BIO FATTORIA"
+  },
+  "testo": "RICHIAMO\nData: 05/06/2026 Marchio del prodotto: BIO FATTORIA\nDenominazione di vendita: UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FATTORIA PARADELLO SOC. AGR. S.S.\ncommercializzato:\nLotto di produzione: 200526; 210526; 220526; 230526; 240526; 250526; 260526; 270526; 280526\nMarchio di identificazione dello stabilimento/del produttore: C.I. N. IT017084\nNome del produttore: FATTORIA PARADELLO SOC.AGR. S.S.\nSede dello stabilimento: VIA PARADELLO 9, RODENGO SAIANO (BS)\nData di scadenza o termine minimo di conservazione: 17/06/2026; 18/06/2026;19/06/2026; 20/06/2026;\n21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026;\n25/06/2026\nDescrizione peso/volume unità di vendita: CONF. DA 4: 0.270 GR; CONF DA 6: 0.400 GR; CONF. DA 30: 1.9\nMotivo del richiamo:\nISOLAMENTO SALMONELLA TYPHIMURIUM\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E SE ANCORA IN VOSTRO POSSESSO RICONSEGNARLO AL FORNITORE"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:44+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:44+00:00"
+}

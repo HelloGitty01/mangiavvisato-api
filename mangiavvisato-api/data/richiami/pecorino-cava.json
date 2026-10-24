@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-cava/",
+ "titolo": "PECORINO VIA CAVA",
+ "data_pubblicazione": "2025-08-20",
+ "marca": "CASEIFICIO DI SORANO",
+ "denominazione": "PECORINO VIA CAVA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20250819_1761208462.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO 250819_1761208462.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20250819_1761208462.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pecorino-cava",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PECORINO VIA CAVA",
+  "operatore": "SOC. COOP. CONSORZIO CASEIFICIO DI SORANO SOC. AGRICOLA",
+  "lotti": [
+   "80T"
+  ],
+  "marchio_identificazione": "IT 09 24 UE",
+  "produttore": "SOC. COOP. CONSORZIO CASEIFICIO DI SORANO SOC. AGRICOLA",
+  "sede_stabilimento": "SORANO, LOC. LA FRATTA N. 54",
+  "scadenza": "01/2026",
+  "peso_volume": "1,4 KG CIRCA UNITA' DI VENDITA INTERA",
+  "motivo_esteso": "PRODOTTO NON CONFORME PER LISTERIA MONOCYTOGENES PRESENTE SU 1 UNITA' CAMPIONARIA DI 5, CON CONTA INFERIORE A 10 ufc/gr",
+  "avvertenze": "Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/08/2025 Marchio del prodotto: CASEIFICIO DI SORANO"
+  },
+  "testo": "RICHIAMO\nData: 19/08/2025 Marchio del prodotto: CASEIFICIO DI SORANO\nDenominazione di vendita: PECORINO VIA CAVA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SOC. COOP. CONSORZIO CASEIFICIO DI SORANO SOC. AGRICOLA\ncommercializzato:\nLotto di produzione: 80T\nMarchio di identificazione dello stabilimento/del produttore: IT 09 24 UE\nNome del produttore: SOC. COOP. CONSORZIO CASEIFICIO DI SORANO SOC. AGRICOLA\nSede dello stabilimento: SORANO, LOC. LA FRATTA N. 54\nData di scadenza o termine minimo di conservazione: 01/2026\nDescrizione peso/volume unità di vendita: 1,4 KG CIRCA UNITA' DI VENDITA INTERA\nMotivo del richiamo:\nPRODOTTO NON CONFORME PER LISTERIA MONOCYTOGENES PRESENTE SU 1 UNITA' CAMPIONARIA DI 5,\nCON CONTA INFERIORE A 10 ufc/gr\nAvvertenze:\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:37:26+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:26+00:00"
+}

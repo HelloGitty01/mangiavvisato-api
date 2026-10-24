@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-nostrale/",
+ "titolo": "Mortadella Nostrale",
+ "data_pubblicazione": "2026-08-05",
+ "marca": "Salumificio Pignone Mortadella Nostrale",
+ "denominazione": "Mortadella Nostrale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20NOSTRALE%20PIGNONE_1785941128.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO MORTADELLA NOSTRALE PIGNONE_1785941128.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20NOSTRALE%20PIGNONE_1785941128.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mortadella-nostrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:03:52+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:52+00:00"
+}

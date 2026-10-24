@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-taggiasche/",
+ "titolo": "PATE' DI OLIVE TAGGIASCHE",
+ "data_pubblicazione": "2025-01-18",
+ "marca": "PRIMIA-PERCORSI DI GUSTO",
+ "denominazione": "PATE' DI OLIVE TAGGIASCHE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOPATEDIOLIVE3lotti_1761206209.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLODIRICHIAMOPATEDIOLIVE3lotti_1761206209.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOPATEDIOLIVE3lotti_1761206209.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pate-di-olive-taggiasche",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PATE' DI OLIVE TAGGIASCHE",
+  "operatore": "AGORA' NETWORK S.c.a.r.l",
+  "lotti": [
+   "L 071124 - L 271124 - L 031224"
+  ],
+  "produttore": "F.LLI MERANO",
+  "sede_stabilimento": "STRADA DEL LUNARO , 18020 LUCINASCO (IM)",
+  "peso_volume": "180 GR",
+  "motivo_esteso": "Possibile presenza di Frammenti di noccioli di olive",
+  "avvertenze": "Si raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di ripartarlo nel punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "10/01/2025 Marchio del prodotto: PRIMIA - PERCORSI DI GUSTO"
+  },
+  "testo": "RICHIAMO\nData: 10/01/2025 Marchio del prodotto: PRIMIA - PERCORSI DI GUSTO\nDenominazione di vendita:PATE' DI OLIVE TAGGIASCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AGORA' NETWORK S.c.a.r.l\ncommercializzato:\nLotto di produzione: L 071124 - L 271124 - L 031224\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: F.LLI MERANO\nSede dello stabilimento: STRADA DEL LUNARO , 18020 LUCINASCO (IM)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 180 GR\nMotivo del richiamo:\nPossibile presenza di Frammenti di noccioli di olive\nAvvertenze:\nSi raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di ripartarlo nel\npunto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:40+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:40+00:00"
+}

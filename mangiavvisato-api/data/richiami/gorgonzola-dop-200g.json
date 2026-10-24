@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-200g/",
+ "titolo": "Gorgonzola DOP 200g",
+ "data_pubblicazione": "2026-08-27",
+ "marca": "TAPPOROSSO - Centrale del Latte di Torino",
+ "denominazione": "Gorgonzola DOP 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_TAPPOROSSO%20_%20Centrale%20del%20Latte%20di%20Torino_1787832494.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_Gorgonzola_TAPPOROSSO _ Centrale del Latte di Torino_1787832494.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_TAPPOROSSO%20_%20Centrale%20del%20Latte%20di%20Torino_1787832494.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dop-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gorgonzola DOP 200g",
+  "operatore": "Centrale del Latte d'Italia S.p.A.",
+  "lotti": [
+   "L126G22"
+  ],
+  "marchio_identificazione": "IT T616G UE",
+  "produttore": "GRANAROLO S.p.A.",
+  "sede_stabilimento": "via dell'Industria, 26 - 28060 Casalino (NO)",
+  "scadenza": "05/09/2026",
+  "peso_volume": "200g",
+  "motivo_esteso": "Possibile rischio microbiologico (potenziale rischio di presenza di Listeria Monocytogenes)",
+  "avvertenze": "Si prega di non consumare il prodotto e riconsegnarlo presso il punto vendita.",
+  "campi_extra": {
+   "Data": "25/08/2026 Marchio del prodotto: TAPPOROSSO - Centrale del Latte di Torino",
+   "commercializzato": "Centrale del Latte d'Italia S.p.A."
+  },
+  "testo": "RICHIAMO\nData: 25/08/2026 Marchio del prodotto: TAPPOROSSO - Centrale del Latte di Torino\nDenominazione di vendita: Gorgonzola DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: Centrale del Latte d'Italia S.p.A.\nLotto di produzione: L126G22\nMarchio di identificazione dello stabilimento/del produttore: IT T616G UE\nNome del produttore: GRANAROLO S.p.A.\nSede dello stabilimento: via dell'Industria, 26 - 28060 Casalino (NO)\nData di scadenza o termine minimo di conservazione: 05/09/2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile rischio microbiologico (potenziale rischio di presenza di Listeria Monocytogenes)\nAvvertenze:\nSi prega di non consumare il prodotto e riconsegnarlo presso il punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:02:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:49+00:00"
+}

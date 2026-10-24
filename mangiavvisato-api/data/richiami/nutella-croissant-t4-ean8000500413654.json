@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-croissant-t4-ean8000500413654/",
+ "titolo": "NUTELLA CROISSANT T4 EAN:8000500413654",
+ "data_pubblicazione": "2026-06-26",
+ "marca": "NUTELLA CROISSANT",
+ "denominazione": "NUTELLA CROISSANT T4 EAN:8000500413654",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20croissant%20T4_1782489200.pdf",
+ "allegati": [
+  {
+   "titolo": "Nutella croissant T4_1782489200.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Nutella%20croissant%20T4_1782489200.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nutella-croissant-t4-ean8000500413654",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUTELLA CROISSANT T4 EAN:8000500413654",
+  "operatore": "FRESYSTEM SPA",
+  "lotti": [
+   "Vedi Immagine 2"
+  ],
+  "marchio_identificazione": "U150011NA000164",
+  "produttore": "FRESYSTEM SPA",
+  "sede_stabilimento": "ZONA INDUSTRIALE ASI-PASCAROLA 80023 CAIVANO-NAPOLI-ITALIA",
+  "scadenza": "Vedi Immagine 2",
+  "peso_volume": "340 g",
+  "motivo_esteso": "Possibile presenza di frammenti metallici",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/06/2026 Marchio del prodotto: NUTELLA CROISSANT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 25/06/2026 Marchio del prodotto: NUTELLA CROISSANT\nDenominazione di vendita:NUTELLA CROISSANT T4 EAN:8000500413654\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESYSTEM SPA\ncommercializzato:\nLotto di produzione: Vedi Immagine 2\nMarchio di identificazione dello stabilimento/del produttore: U150011NA000164\nNome del produttore: FRESYSTEM SPA\nSede dello stabilimento: ZONA INDUSTRIALE ASI-PASCAROLA 80023 CAIVANO-NAPOLI-ITALIA\nData di scadenza o termine minimo di conservazione: Vedi Immagine 2\nDescrizione peso/volume unità di vendita: 340 g\nMotivo del richiamo:\nPossibile presenza di frammenti metallici\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:13:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:13:16+00:00"
+}

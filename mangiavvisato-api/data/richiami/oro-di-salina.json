@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/oro-di-salina/",
+ "titolo": "Oro di salina",
+ "data_pubblicazione": "2025-01-24",
+ "marca": "Mentuccia di Zavone Anita",
+ "denominazione": "Oro di salina",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ORO%20DI%20SALINA_1761206337.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_ORO DI SALINA_1761206337.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ORO%20DI%20SALINA_1761206337.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "oro-di-salina",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:50:33+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:50:33+00:00"
+}

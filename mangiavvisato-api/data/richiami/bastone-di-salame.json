@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastone-di-salame/",
+ "titolo": "Bastone di salame",
+ "data_pubblicazione": "2026-06-12",
+ "marca": "Il Tagliere del Re",
+ "denominazione": "Bastone di salame",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_71110_Bastonedisalame250g_1781283857.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_71110_Bastonedisalame250g_1781283857.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_71110_Bastonedisalame250g_1781283857.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bastone-di-salame",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bastone di salame",
+  "operatore": "ALDI SRL",
+  "lotti": [
+   "628796"
+  ],
+  "marchio_identificazione": "IT 807 L UE",
+  "produttore": "Becher S.p.A. Via Povegliano 46, 31050, Ponzano Veneto (TV), Italia",
+  "sede_stabilimento": "Date di scadenza o termine minimo di conservazione: 19/08/26",
+  "peso_volume": "250g",
+  "motivo_esteso": "Possibile presenza di Salmonella.",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "10/06/2 026 Marchio del prodotto: Il Tagliere del Re",
+   "Date di scadenza o termine minimo di conservazione": "19/08/26"
+  },
+  "testo": "R ICHIAMO\nData: 10/06/2 026 Marchio del prodotto: Il Tagliere del Re\nDenominazione di vendita: Bastone di salame\nNome o ragione sociale dell’OSA ALDI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: 628796\nMarchio di identificazione dello stabilimento/del produttore: IT 807 L UE\nNome del produttore: Becher S.p.A.\nVia Povegliano 46, 31050, Ponzano Veneto (TV), Italia\nSede dello stabilimento:\nDate di scadenza o termine minimo di conservazione: 19/08/26\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nPossibile presenza di Salmonella.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà\nrimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:12+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:12+00:00"
+}

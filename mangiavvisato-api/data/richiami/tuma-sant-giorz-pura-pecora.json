@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tuma-sant-giorz-pura-pecora/",
+ "titolo": "Tuma sant Giorz - Pura pecora",
+ "data_pubblicazione": "2026-06-11",
+ "marca": "Azienda Agricola Marcello Gatto",
+ "denominazione": "Tuma sant Giorz - Pura pecora",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_10.06.2026%20toma%20piemonte_1781179778.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_10.06.2026 toma piemonte_1781179778.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_10.06.2026%20toma%20piemonte_1781179778.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tuma-sant-giorz-pura-pecora",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:14:15+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:15+00:00"
+}

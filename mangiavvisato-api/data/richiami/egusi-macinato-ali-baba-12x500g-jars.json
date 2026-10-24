@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/egusi-macinato-ali-baba-12x500g-jars/",
+ "titolo": "EGUSI MACINATO ALI BABA 12x500g JARS",
+ "data_pubblicazione": "2025-01-30",
+ "marca": "ALI BABA",
+ "denominazione": "EGUSI MACINATO ALI BABA 12x500g JARS",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1761206464.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO DI RICHIAMO_1761206464.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1761206464.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "egusi-macinato-ali-baba-12x500g-jars",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "EGUSI MACINATO ALI BABA 12X500G JARS",
+  "operatore": "FRESH TROPICAL SRL BY JAWAD",
+  "lotti": [
+   "23/06/2026"
+  ],
+  "marchio_identificazione": "ALI BABA",
+  "produttore": "JAAL IMPORT EXPORT SRLS",
+  "sede_stabilimento": "GHANA",
+  "scadenza": "23-06-2026",
+  "peso_volume": "BARATTOLO DA 500g",
+  "motivo_esteso": "PRESENZA DI SALMONELLA s pp... PRESENCE OF SALMONELLA spp...",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RENDERLO INDIETRO AL PUNTO VENDITA DO NOT CONSUME THE PRODUCT AND RETURN IT TO THE POINT OF SALE",
+  "campi_extra": {
+   "Data": "27/11/2025 Marchio del prodotto: ALI BABA"
+  },
+  "testo": "RICHIAMO\nData: 27/11/2025 Marchio del prodotto: ALI BABA\nDenominazione di vendita:EGUSI MACINATO ALI BABA 12X500G JARS\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD\ncommercializzato:\nLotto di produzione: 23/06/2026\nMarchio di identificazione dello stabilimento/del produttore: ALI BABA\nNome del produttore: JAAL IMPORT EXPORT SRLS\nSede dello stabilimento: GHANA\nData di scadenza o termine minimo di conservazione: 23-06-2026\nDescrizione peso/volume unità di vendita: BARATTOLO DA 500g\nMotivo del richiamo:\nPRESENZA DI SALMONELLA s pp...\nPRESENCE OF SALMONELLA spp...\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RENDERLO INDIETRO AL PUNTO VENDITA\nDO NOT CONSUME THE PRODUCT AND RETURN IT TO THE POINT OF SALE"
+ },
+ "prima_rilevazione": "2026-10-24T22:49:41+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:49:41+00:00"
+}

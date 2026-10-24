@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-dipollo-cotto-al-forno/",
+ "titolo": "PETTO DIPOLLO COTTO AL FORNO",
+ "data_pubblicazione": "2025-03-27",
+ "marca": "IL TAGLIERE DEL RE",
+ "denominazione": "PETTO DIPOLLO COTTO AL FORNO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ALDI%20_1__1761206704.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO MINISTERIALE COMPILATO ALDI _1__1761206704.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ALDI%20_1__1761206704.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "petto-dipollo-cotto-al-forno",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PETTO DI POLLO COTTO AL FORNO",
+  "operatore": "ALDI SRL VEDI AVVERTENZE",
+  "lotti": [
+   "IT F1M1S UE"
+  ],
+  "marchio_identificazione": "FORNO D'ORO SRL",
+  "sede_stabilimento": "VIA SILA 1/A, ISOLA VICENTINA 36033",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "140 g",
+  "motivo_esteso": "Possibile presenza di allergene uova non dichiarato in etichetta.",
+  "avvertenze": "Non consumare se allergici. Rendere il prodotto al punto vendita di acquisto. Lotto: 5518135700-29/03/25, 5518195700-27/03/25, 5946105700-03/04/25, 5946245700-03/04/25, 5982085700-05/04/25. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/03/2025 Marchio del prodotto: IL TAGLIERE DEL RE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/03/2025 Marchio del prodotto: IL TAGLIERE DEL RE\nDenominazione di vendita:PETTO DI POLLO COTTO AL FORNO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI SRL\ncommercializzato:\nVEDI AVVERTENZE\nLotto di produzione:\nIT F1M1S UE\nMarchio di identificazione dello stabilimento/del produttore:\nFORNO D'ORO SRL\nNome del produttore:\nSede dello stabilimento: VIA SILA 1/A, ISOLA VICENTINA 36033\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nPossibile presenza di allergene uova non dichiarato in etichetta.\nAvvertenze:\nNon consumare se allergici. Rendere il prodotto al punto vendita di acquisto. Lotto: 5518135700-29/03/25,\n5518195700-27/03/25, 5946105700-03/04/25, 5946245700-03/04/25, 5982085700-05/04/25.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:46:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:18+00:00"
+}

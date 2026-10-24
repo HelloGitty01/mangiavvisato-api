@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/butterfly-100g/",
+ "titolo": "BUTTERFLY 100g",
+ "data_pubblicazione": "2025-10-08",
+ "marca": "KAMBLY",
+ "denominazione": "BUTTERFLY 100g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2025.10.06richiamoButterflyL521268_1761209214.pdf",
+ "allegati": [
+  {
+   "titolo": "2025.10.06richiamoButterflyL521268_1761209214.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2025.10.06richiamoButterflyL521268_1761209214.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "butterfly-100g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BUTTERFLY 100 g",
+  "operatore": "Di Co s.r.l.",
+  "lotti": [
+   "L521268"
+  ],
+  "marchio_identificazione": "KAMBLY",
+  "produttore": "Kambly Deutschland Gmbh",
+  "sede_stabilimento": "Ravensburg - Germania",
+  "scadenza": "15-03-2026",
+  "peso_volume": "100 g",
+  "motivo_esteso": "Presenza di etichettatura in lingua INGLESE e TEDESCO non idonea al mercato nazionale per errore di allestimento",
+  "avvertenze": "Il prodotto oggetto del richiamo non riporta le informazioni legali in lingua italiana sull'etichetta, necessarie per una corretta comprensione da parte del consumatore italiano. Il contenuto del prodotto è conforme agli standard di qualità e sicurezza alimentare. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/10/2025 Marchio del prodotto: KAMBLY",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 06/10/2025 Marchio del prodotto: KAMBLY\nDenominazione di vendita:BUTTERFLY 100 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Di Co s.r.l.\ncommercializzato:\nLotto di produzione: L521268\nMarchio di identificazione dello stabilimento/del produttore: KAMBLY\nNome del produttore: Kambly Deutschland Gmbh\nSede dello stabilimento: Ravensburg - Germania\nData di scadenza o termine minimo di conservazione: 15-03-2026\nDescrizione peso/volume unità di vendita: 100 g\nMotivo del richiamo:\nPresenza di etichettatura in lingua INGLESE e TEDESCO non idonea al mercato nazionale per errore di\nallestimento\nAvvertenze:\nIl prodotto oggetto del richiamo non riporta le informazioni legali in lingua italiana sull'etichetta, necessarie\nper una corretta comprensione da parte del consumatore italiano. Il contenuto del prodotto è conforme\nagli standard di qualità e sicurezza alimentare.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:34:58+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:58+00:00"
+}

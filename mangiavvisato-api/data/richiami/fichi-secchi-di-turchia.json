@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-di-turchia/",
+ "titolo": "FICHI SECCHI DI TURCHIA",
+ "data_pubblicazione": "2025-05-26",
+ "marca": "DE LUCIA",
+ "denominazione": "FICHI SECCHI DI TURCHIA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DAL%20MERCATO%20FICHI%20SECCHI%20DI%20TURCHIA%20_DOM.DE%20LUCIA__1761207492.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO DAL MERCATO FICHI SECCHI DI TURCHIA _DOM.DE LUCIA__1761207492.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DAL%20MERCATO%20FICHI%20SECCHI%20DI%20TURCHIA%20_DOM.DE%20LUCIA__1761207492.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-secchi-di-turchia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FICHI SECCHI DI TURCHIA",
+  "operatore": "DOMENICO DE LUCIA SPA VIA MADDALONI,3 81027 SAN FELICE A CANCELLO",
+  "lotti": [
+   "350020356/2-11-582"
+  ],
+  "produttore": "OSMAN AKCA SA",
+  "sede_stabilimento": "ADALET MAH.MANAS BULV.FOLKART TOWERS NO:47/A K:42 35530 BAYRAKLI - İZMİR/TURKEY",
+  "scadenza": "31/10/2025",
+  "peso_volume": "250 G",
+  "motivo_esteso": "presenza di Aflatossine (Aflatossina B1 + totali) al di sopra dei limiti previsti dal Reg. UE 915/2023.",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "24/05/2025 marchio DE LUCIA",
+   "commercializzato": "CANCELLO"
+  },
+  "testo": "RICHIAMO\nData: 24/05/2025 marchio DE LUCIA\nDenominazione di vendita: FICHI SECCHI DI TURCHIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DOMENICO DE LUCIA SPA VIA MADDALONI,3 81027 SAN FELICE A\ncommercializzato: CANCELLO\nLotto di produzione: 350020356/2-11-582\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: OSMAN AKCA SA\nSede dello stabilimento: ADALET MAH.MANAS BULV.FOLKART TOWERS NO:47/A K:42 35530 BAYRAKLI -\nİZMİR/TURKEY\nData di scadenza o termine minimo di conservazione: 31/10/2025\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\npresenza di Aflatossine (Aflatossina B1 + totali) al di sopra dei limiti previsti dal Reg. UE 915/2023.\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:42:43+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:43+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tranci-di-pesce-spada-surgelati-450-g/",
+ "titolo": "Tranci di Pesce Spada surgelati 450 g",
+ "data_pubblicazione": "2026-09-03",
+ "marca": "Mobilpesca Surgelati S.r.l",
+ "denominazione": "Tranci di Pesce Spada surgelati 450 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20mobilpesca%20surgelati_%20tranci%20di%20pesce%20spada%20450g_Lotto%20V15290%20_1__1788446032.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo mobilpesca surgelati_ tranci di pesce spada 450g_Lotto V15290 _1__1788446032.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20mobilpesca%20surgelati_%20tranci%20di%20pesce%20spada%20450g_Lotto%20V15290%20_1__1788446032.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tranci-di-pesce-spada-surgelati-450-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tranci di Pesce Spada surgelati 450 g",
+  "operatore": "Mobilpesca Surgelati S.r.l.",
+  "lotti": [
+   "V15290"
+  ],
+  "marchio_identificazione": "IT B4U1U UE",
+  "produttore": "Mobilpesca Surgelati S.r.l.",
+  "sede_stabilimento": "Via della Sibolla, 45 55011 Altopascio (LU)",
+  "scadenza": "31-01-2028",
+  "peso_volume": "450 g peso netto (senza glassatura)",
+  "motivo_esteso": "Superamento dei limiti di legge per mercurio",
+  "avvertenze": "Si invitano i consumatori a non consumare il prodotto appartenente al lotto indicato e a riportarlo al punto vendita",
+  "campi_extra": {
+   "Data": "03/09/2026 Marchio del prodotto: Mobilpesca Surgelati S.r.l"
+  },
+  "testo": "RICHIAMO\nData: 03/09/2026 Marchio del prodotto: Mobilpesca Surgelati S.r.l\nDenominazione di vendita:Tranci di Pesce Spada surgelati 450 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Mobilpesca Surgelati S.r.l.\ncommercializzato:\nLotto di produzione: V15290\nMarchio di identificazione dello stabilimento/del produttore: IT B4U1U UE\nNome del produttore: Mobilpesca Surgelati S.r.l.\nSede dello stabilimento: Via della Sibolla, 45 55011 Altopascio (LU)\nData di scadenza o termine minimo di conservazione: 31-01-2028\nDescrizione peso/volume unità di vendita: 450 g peso netto (senza glassatura)\nMotivo del richiamo:\nSuperamento dei limiti di legge per mercurio\nAvvertenze:\nSi invitano i consumatori a non consumare il prodotto appartenente al lotto indicato e a riportarlo al punto\nvendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:02:15+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:15+00:00"
+}

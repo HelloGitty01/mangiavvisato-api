@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rasgula/",
+ "titolo": "RASGULA",
+ "data_pubblicazione": "2026-04-02",
+ "marca": "PUNJABI & RESTAURANT SWEET HOUSE - BITTA HALY",
+ "denominazione": "RASGULA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%202_1775122882.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 2_1775122882.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%202_1775122882.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "rasgula",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "o se del caso tutti i lotti eventualmente riportati\nassente\n500 gr"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:21+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:21+00:00"
+}

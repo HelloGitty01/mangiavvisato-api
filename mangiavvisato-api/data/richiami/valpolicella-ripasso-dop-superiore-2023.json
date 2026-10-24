@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/valpolicella-ripasso-dop-superiore-2023/",
+ "titolo": "VALPOLICELLA RIPASSO- DOP SUPERIORE 2023",
+ "data_pubblicazione": "2026-02-24",
+ "marca": "Corte della Pieve",
+ "denominazione": "VALPOLICELLA RIPASSO- DOP SUPERIORE 2023",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RECALLVALPOLICELLARIPASSODOCSUPERIORECORTEDELLAPIEVE20260220%20_1__1771947642.pdf",
+ "allegati": [
+  {
+   "titolo": "RECALLVALPOLICELLARIPASSODOCSUPERIORECORTEDELLAPIEVE20260220 _1__1771947642.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RECALLVALPOLICELLARIPASSODOCSUPERIORECORTEDELLAPIEVE20260220%20_1__1771947642.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "valpolicella-ripasso-dop-superiore-2023",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VALPOLICELLA RIPASSO DOP SUPERIORE 2023",
+  "operatore": "IN'S MERCATO S.P.A.",
+  "lotti": [
+   "L2512071",
+   "L2511977",
+   "L2512609"
+  ],
+  "marchio_identificazione": "ENOITALIA S.P.A.",
+  "produttore": "ENOITALIA S.P.A.",
+  "sede_stabilimento": "LOCALITA' COLOMBARA, 5, 37011 CALMASINO DI BARDOLINO",
+  "scadenza": "NON APPLICABILE",
+  "peso_volume": "750 ML",
+  "motivo_esteso": "ASSENZA DELLA DICITURA \"CONTIENE SOLFITI\"",
+  "campi_extra": {
+   "Data": "20/02/2026 Marchio del prodotto: CORTE DELLA PIEVE"
+  },
+  "testo": "RICHIAMO\nData: 20/02/2026 Marchio del prodotto: CORTE DELLA PIEVE\nDenominazione di vendita:VALPOLICELLA RIPASSO DOP SUPERIORE 2023\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IN'S MERCATO S.P.A.\ncommercializzato:\nLotto di produzione: L2512071, L2511977, L2512609\nMarchio di identificazione dello stabilimento/del produttore: ENOITALIA S.P.A.\nNome del produttore: ENOITALIA S.P.A.\nSede dello stabilimento: LOCALITA' COLOMBARA, 5, 37011 CALMASINO DI BARDOLINO\nData di scadenza o termine minimo di conservazione: NON APPLICABILE\nDescrizione peso/volume unità di vendita: 750 ML\nMotivo del richiamo:\nASSENZA DELLA DICITURA \"CONTIENE SOLFITI\"\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:20:56+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:20:56+00:00"
+}

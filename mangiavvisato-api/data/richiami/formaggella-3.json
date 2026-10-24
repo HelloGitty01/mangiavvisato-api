@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-3/",
+ "titolo": "Formaggella",
+ "data_pubblicazione": "2026-07-31",
+ "marca": "CAPRISS",
+ "denominazione": "Formaggella",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20formaggella%20per%20scad%2019.07.26_1785518161.pdf",
+ "allegati": [
+  {
+   "titolo": "revoca formaggella per scad 19.07.26_1785518161.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20formaggella%20per%20scad%2019.07.26_1785518161.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggella-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:04:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:35+00:00"
+}

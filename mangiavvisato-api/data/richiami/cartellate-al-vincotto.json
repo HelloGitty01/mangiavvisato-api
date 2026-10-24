@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cartellate-al-vincotto/",
+ "titolo": "Cartellate al vincotto",
+ "data_pubblicazione": "2026-01-28",
+ "marca": "Reale",
+ "denominazione": "Cartellate al vincotto",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1769614373.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1769614373.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1769614373.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cartellate-al-vincotto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:23:37+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:23:37+00:00"
+}

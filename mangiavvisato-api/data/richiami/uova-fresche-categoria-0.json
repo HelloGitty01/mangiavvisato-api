@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria-0/",
+ "titolo": "UOVA FRESCHE- CATEGORIA A",
+ "data_pubblicazione": "2026-03-24",
+ "marca": "SAN PIETRO- SALIS ANTONELLA",
+ "denominazione": "UOVA FRESCHE- CATEGORIA A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Salis%20Antonella_1774366928.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello Richiamo Salis Antonella_1774366928.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Salis%20Antonella_1774366928.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-categoria-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "CASSE DA 180 E 120 UOVA / CARTELLE DA 30 E CONF. DA 6 UOVA\nRICHIAMO A SCOPO CAUTELATIVO PER POTENZIALE RISCHIO DI SALMONELLA\nSI AVVISA LA CLIENTELA DI NON CONSUMARE IL PRODOTTO (UOVA CATEGORIA “A”\nMISURE M/L/XL/XXL) CON STAMPIGLIATURA 3IT092CA019 E DI RESTITUIRLO PRESSO IL\nPUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-24T22:19:08+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:08+00:00"
+}

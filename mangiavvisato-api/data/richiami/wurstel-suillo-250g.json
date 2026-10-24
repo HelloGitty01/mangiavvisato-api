@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-suillo-250g/",
+ "titolo": "Wurstel Suillo 250g",
+ "data_pubblicazione": "2026-06-05",
+ "marca": "Cesare Fiorucci S.p.A.",
+ "denominazione": "Wurstel Suillo 250g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20da%20esporre%20Suillo%20250gr_1780679389.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo da esporre Suillo 250gr_1780679389.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20da%20esporre%20Suillo%20250gr_1780679389.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wurstel-suillo-250g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Wurstel Suillo 250g",
+  "operatore": "Cesare Fiorucci S.p.A.",
+  "lotti": [
+   "160926LM"
+  ],
+  "marchio_identificazione": "IT 1253 L CE",
+  "produttore": "Scarlino",
+  "sede_stabilimento": "Ugento (LE)",
+  "scadenza": "16/09/2026",
+  "peso_volume": "250g",
+  "motivo_esteso": "Rilevata la presenza di allergene CASEINE non dichiarate in etichetta in un campione del lotto indicato.",
+  "avvertenze": "Richiamo del prodotto dai punti vendita in cui è stato distribuito Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/06/2026 Marchio del prodotto: Cesare Fiorucci S.p.A.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/06/2026 Marchio del prodotto: Cesare Fiorucci S.p.A.\nDenominazione di vendita:Wurstel Suillo 250g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cesare Fiorucci S.p.A.\ncommercializzato:\nLotto di produzione: 160926LM\nMarchio di identificazione dello stabilimento/del produttore: IT 1253 L CE\nNome del produttore: Scarlino\nSede dello stabilimento: Ugento (LE)\nData di scadenza o termine minimo di conservazione: 16/09/2026\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nRilevata la presenza di allergene CASEINE non dichiarate in etichetta in un campione del lotto indicato.\nAvvertenze:\nRichiamo del prodotto dai punti vendita in cui è stato distribuito\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:42+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:42+00:00"
+}

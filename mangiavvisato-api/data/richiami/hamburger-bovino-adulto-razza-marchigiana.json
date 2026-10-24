@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-bovino-adulto-razza-marchigiana/",
+ "titolo": "Hamburger bovino adulto razza Marchigiana",
+ "data_pubblicazione": "2026-08-06",
+ "marca": "JUBATTI BBQ",
+ "denominazione": "Hamburger bovino adulto razza Marchigiana",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Jubatti_1786017785.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Ministero _ Jubatti_1786017785.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Jubatti_1786017785.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hamburger-bovino-adulto-razza-marchigiana",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "HAMBURGER BOVINO ADULTO RAZZA MARCHIGIANA",
+  "operatore": "SOALCA S.r.l Località Cerrani 13/B 66010 Pretoro CH",
+  "lotti": [
+   "506091"
+  ],
+  "marchio_identificazione": "IT 1392/L UE",
+  "produttore": "SOALCA S.r.l.",
+  "sede_stabilimento": "Località Cerrani 13/B 66010 Pretoro CH",
+  "scadenza": "06 09/08/26",
+  "peso_volume": "180 g",
+  "motivo_esteso": "Possibile presenza di E.coli STEC",
+  "avvertenze": "Nonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta, si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/08/26 Marchio del prodotto: JUBATTI BBQ",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 04/08/26 Marchio del prodotto: JUBATTI BBQ\nDenominazione di vendita:HAMBURGER BOVINO ADULTO RAZZA MARCHIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SOALCA S.r.l Località Cerrani 13/B 66010 Pretoro CH\ncommercializzato:\nLotto di produzione: 506091\nMarchio di identificazione dello stabilimento/del produttore: IT 1392/L UE\nNome del produttore: SOALCA S.r.l.\nSede dello stabilimento: Località Cerrani 13/B 66010 Pretoro CH\nData di scadenza o termine minimo di conservazione: 06 09/08/26\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\nPossibile presenza di E.coli STEC\nAvvertenze:\nNonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta,\nsi invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:36+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:36+00:00"
+}

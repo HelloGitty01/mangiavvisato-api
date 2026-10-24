@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-grigliati-olio/",
+ "titolo": "FUNGHI GRIGLIATI IN OLIO",
+ "data_pubblicazione": "2025-09-04",
+ "marca": "Terra mia",
+ "denominazione": "FUNGHI GRIGLIATI IN OLIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_richiamo%20FUNGHI%20GRIGLIATI%20GR%20500_1761209135.pdf",
+ "allegati": [
+  {
+   "titolo": "mod_richiamo FUNGHI GRIGLIATI GR 500_1761209135.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_richiamo%20FUNGHI%20GRIGLIATI%20GR%20500_1761209135.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "funghi-grigliati-olio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FUNGHI GRIGLIATI IN OLIO",
+  "operatore": "AMURA STEFANO",
+  "lotti": [
+   "061224"
+  ],
+  "marchio_identificazione": "C.C.I.A.A 467438 -SA",
+  "produttore": "AMURA STEFANO",
+  "sede_stabilimento": "VIA CANGIANI 16 SCAFATI -SA",
+  "scadenza": "06/12/2027",
+  "peso_volume": "VASO IN VETRO GR 500",
+  "motivo_esteso": "SOSPETTO CONTAMINAZIONE MICROBIOLOGICO",
+  "avvertenze": "Si prega di non consumare il prodotto interessato al RITIRO con Lotto 061224 e di riportalo presso il punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "20/08/2025 Marchio del prodotto: TERRA MIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 20/08/2025 Marchio del prodotto: TERRA MIA\nDenominazione di vendita: FUNGHI GRIGLIATI IN OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato\nAMURA STEFANO\nLotto di produzione: 061224\nMarchio di identificazione dello stabilimento/del produttore: C.C.I.A.A 467438 -SA-\nNome del produttore: AMURA STEFANO\nSede dello stabilimento: VIA CANGIANI 16 SCAFATI -SA-\nData di scadenza o termine minimo di conservazione: 06/12/2027\nDescrizione peso/volume unità di vendita: VASO IN VETRO GR 500\nMotivo del richiamo: SOSPETTO CONTAMINAZIONE MICROBIOLOGICO\nAvvertenze: Si prega di non consumare il prodotto interessato al RITIRO con Lotto 061224 e di riportalo presso il\npunto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:36:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:36:24+00:00"
+}

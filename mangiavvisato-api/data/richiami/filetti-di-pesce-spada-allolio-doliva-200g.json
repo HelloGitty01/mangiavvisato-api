@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g/",
+ "titolo": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+ "data_pubblicazione": "2026-08-06",
+ "marca": "TOSI&RAGGINI SAS",
+ "denominazione": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Cartello%20di%20richiamo_1786029578.pdf",
+ "allegati": [
+  {
+   "titolo": "3 Cartello di richiamo_1786029578.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Cartello%20di%20richiamo_1786029578.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-pesce-spada-allolio-doliva-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI PESCE SPADA ALL’OLIO D’OLIVA 200g",
+  "operatore": "TOSI & RAGGINI SAS DI RAGGINI MAURO E FAUSTO",
+  "lotti": [
+   "L 180-334/024"
+  ],
+  "marchio_identificazione": "IT 997 CE",
+  "produttore": "Drago Sebastiano di Giuseppe Drago",
+  "sede_stabilimento": "Via stentinello 10/A c.da Targia 96100 Siracusa",
+  "scadenza": "30-11-2027",
+  "peso_volume": "VASETTO IN VETRO DA 200g",
+  "motivo_esteso": "Rischio chimico / Tossicità da metalli pesanti (superamento dei limiti massimi di sicurezza per il mercurio nei prodotti ittici).",
+  "avvertenze": "Si invitano i consumatori che avessero acquistato il prodotto appartenente al lotto indicato a non consumarlo e a restituirlo al punto vendita per il rimborso o la sostituzione.",
+  "campi_extra": {
+   "Data": "05/08/2026 Marchio del prodotto: TOSI&RAGGINI SAS"
+  },
+  "testo": "RICHIAMO\nData: 05/08/2026 Marchio del prodotto: TOSI&RAGGINI SAS\nDenominazione di vendita:FILETTI DI PESCE SPADA ALL’OLIO D’OLIVA 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TOSI & RAGGINI SAS DI RAGGINI MAURO E FAUSTO\ncommercializzato:\nLotto di produzione: L 180-334/024\nMarchio di identificazione dello stabilimento/del produttore: IT 997 CE\nNome del produttore: Drago Sebastiano di Giuseppe Drago\nSede dello stabilimento: Via stentinello 10/A c.da Targia 96100 Siracusa\nData di scadenza o termine minimo di conservazione: 30-11-2027\nDescrizione peso/volume unità di vendita: VASETTO IN VETRO DA 200g\nMotivo del richiamo:\nRischio chimico / Tossicità da metalli pesanti (superamento dei limiti massimi di sicurezza per il mercurio\nnei prodotti ittici).\nAvvertenze:\nSi invitano i consumatori che avessero acquistato il prodotto appartenente al lotto indicato a non\nconsumarlo e a restituirlo al punto vendita per il rimborso o la sostituzione."
+ },
+ "prima_rilevazione": "2026-10-24T22:03:38+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:38+00:00"
+}

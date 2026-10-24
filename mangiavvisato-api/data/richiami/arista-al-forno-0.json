@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno-0/",
+ "titolo": "ARISTA AL FORNO",
+ "data_pubblicazione": "2025-12-23",
+ "marca": "FIOR FIORE - COOP",
+ "denominazione": "ARISTA AL FORNO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_aggiornato_Arista%20Fior%20Fiore%20L2541329_1766495338.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_aggiornato_Arista Fior Fiore L2541329_1766495338.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_aggiornato_Arista%20Fior%20Fiore%20L2541329_1766495338.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "arista-al-forno-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ARISTA AL FORNO",
+  "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)",
+  "lotti": [
+   "2541329"
+  ],
+  "marchio_identificazione": "lT 1048L CE",
+  "produttore": "RUGGER S.R.L.",
+  "sede_stabilimento": "VIA TEHI GIRO N. 7 SANTENA (TO)",
+  "scadenza": "3/01/2026",
+  "peso_volume": "0,120 Kg",
+  "motivo_esteso": "Possibile presenza di Listeria Monocytogenes",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/12/2025 Marchio del prodotto: FIOR FIORE COOP",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "_________________________________\nRICHIAMO\nData: 19/12/2025 Marchio del prodotto: FIOR FIORE COOP\n-\nDenominazione di vendita:ARISTA AL FORNO\nNome o ragione sociale dellOSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 2541329\nMarchio di identificazione dello stabilimento/del produttore: lT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TEHI GIRO N. 7 SANTENA (TO)\n-\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0,120 Kg\nMotivo del richiamo:\nPossibile presenza di Listeria Monocytogenes\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:26+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:26+00:00"
+}

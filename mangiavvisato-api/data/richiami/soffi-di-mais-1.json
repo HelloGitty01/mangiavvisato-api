@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-1/",
+ "titolo": "Soffi Di Mais",
+ "data_pubblicazione": "2025-12-22",
+ "marca": "La Grande Ruota",
+ "denominazione": "Soffi Di Mais",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20La%20Grande%20Ruota_1766408550.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca La Grande Ruota_1766408550.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20La%20Grande%20Ruota_1766408550.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "soffi-di-mais-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Soffi Di Mais",
+  "operatore": "LA GRANDE RUOTA",
+  "lotti": [
+   "B2585"
+  ],
+  "marchio_identificazione": "Langalletta srl",
+  "produttore": "Langalletta srl",
+  "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+  "scadenza": "17-03-2026",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+  "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/12/2025 Marchio del prodotto: La Grande Ruota",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 22/12/2025 Marchio del prodotto: La Grande Ruota\nDenominazione di vendita: Soffi Di Mais\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA GRANDE RUOTA\ncommercializzato:\nLotto di produzione: B2585\nMarchio di identificazione dello stabilimento/del produttore: Langalletta srl\nNome del produttore: Langalletta srl\nSede dello stabilimento: Santa vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: 17-03-2026\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:32+00:00"
+}

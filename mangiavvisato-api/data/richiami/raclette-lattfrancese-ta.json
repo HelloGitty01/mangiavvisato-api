@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/raclette-lattfrancese-ta/",
+ "titolo": "RACLETTE LATT.FRANCESE T.A.",
+ "data_pubblicazione": "2025-11-26",
+ "marca": "Supermercati Tosano",
+ "denominazione": "RACLETTE LATT.FRANCESE T.A.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tosano_Raclette_Latt_Francese_1764153982.pdf",
+ "allegati": [
+  {
+   "titolo": "Tosano_Raclette_Latt_Francese_1764153982.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tosano_Raclette_Latt_Francese_1764153982.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "raclette-lattfrancese-ta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RACLETTE LATT.FRANCESE T.A.",
+  "operatore": "S u p ermercati Tosano Cerea s.r.l.",
+  "lotti": [
+   "30251114 scadenza 23/11/2025 18251113 scadenza 22/11/2025 64251112 scadenza 21/11/2025 39251115 scadenza 24/11/2025 26251120 scadenza 29/11/2025 67251113 scadenza 22/11/2025"
+  ],
+  "marchio_identificazione": "Supermercati Tosano – punto vendita di riferimento",
+  "produttore": "Supermercati Tosano Cerea s.r.l.",
+  "sede_stabilimento": "Punto vendita indicato in confezione",
+  "scadenza": "come sopra",
+  "peso_volume": "Formaggio porzionato in confezioni a peso variabile",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto. Riconsegnarlo al punto vendita dove è stato acquistato. Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/11/2025 Marchio del prodotto: Supermercati Tosano"
+  },
+  "testo": "RICHIAMO\nData: 21/11/2025 Marchio del prodotto: Supermercati Tosano\nDenominazione di vendita: RACLETTE LATT.FRANCESE T.A.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è S u p ermercati Tosano Cerea s.r.l.\ncommercializzato:\nLotto di produzione: 30251114 scadenza 23/11/2025 18251113 scadenza 22/11/2025\n64251112 scadenza 21/11/2025 39251115 scadenza 24/11/2025\n26251120 scadenza 29/11/2025 67251113 scadenza 22/11/2025\nMarchio di identificazione dello stabilimento/del produttore: Supermercati Tosano – punto vendita di riferimento\nNome del produttore: Supermercati Tosano Cerea s.r.l.\nSede dello stabilimento: Punto vendita indicato in confezione\nData di scadenza o termine minimo di conservazione: come sopra\nDescrizione peso/volume unità di vendita: Formaggio porzionato in confezioni a peso variabile\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto. Riconsegnarlo al punto vendita dove è stato acquistato.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:30:05+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:30:05+00:00"
+}

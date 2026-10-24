@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-milano-affettato-100-gr/",
+ "titolo": "Salame Milano affettato 100 gr.",
+ "data_pubblicazione": "2026-03-18",
+ "marca": "Sigma - freschi da gustare",
+ "denominazione": "Salame Milano affettato 100 gr.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1773839327.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo_1773839327.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1773839327.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-milano-affettato-100-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:20:15+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:20:15+00:00"
+}

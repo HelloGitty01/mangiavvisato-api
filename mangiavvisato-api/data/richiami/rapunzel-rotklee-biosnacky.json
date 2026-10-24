@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rapunzel-rotklee-biosnacky/",
+ "titolo": "Rapunzel Rotklee bioSnacky",
+ "data_pubblicazione": "2026-07-31",
+ "marca": "RAPUNZEL Naturkost GmbH & Co. KG",
+ "denominazione": "Rapunzel Rotklee bioSnacky",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelRotklee_1785490608.pdf",
+ "allegati": [
+  {
+   "titolo": "CartelloDiRichiamoRapunzelRotklee_1785490608.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelRotklee_1785490608.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "rapunzel-rotklee-biosnacky",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Rapunzel Rotklee bioSnacky",
+  "operatore": "RAPUNZEL Naturkost GmbH & Co. KG",
+  "lotti": [
+   "Art. 690280 EAN 4006040169871"
+  ],
+  "marchio_identificazione": "Rapunzel",
+  "produttore": "RAPUNZEL Naturkost GmbH & Co. KG",
+  "sede_stabilimento": "Rapunzelstraße 1 – 87764 Legau, Germania",
+  "scadenza": "12/2028",
+  "peso_volume": "30 g",
+  "motivo_esteso": "Escherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e piantine",
+  "avvertenze": "Il prodotto è stato distribuito soltanto in Provincia di Bolzano. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/07/2026 Marchio del prodotto: Rapunzel",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 31/07/2026 Marchio del prodotto: Rapunzel\nDenominazione di vendita:Rapunzel Rotklee bioSnacky\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RAPUNZEL Naturkost GmbH & Co. KG\ncommercializzato:\nLotto di produzione: Art. 690280 EAN 4006040169871\nMarchio di identificazione dello stabilimento/del produttore: Rapunzel\nNome del produttore: RAPUNZEL Naturkost GmbH & Co. KG\nSede dello stabilimento: Rapunzelstraße 1 – 87764 Legau, Germania\nData di scadenza o termine minimo di conservazione: 12/2028\nDescrizione peso/volume unità di vendita: 30 g\nMotivo del richiamo:\nEscherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e\npiantine\nAvvertenze:\nIl prodotto è stato distribuito soltanto in Provincia di Bolzano.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:04:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:17+00:00"
+}

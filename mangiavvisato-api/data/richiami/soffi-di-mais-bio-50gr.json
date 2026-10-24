@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-bio-50gr/",
+ "titolo": "Soffi di mais bio 50gr",
+ "data_pubblicazione": "2025-12-30",
+ "marca": "Azienda Agricola Podere Pereto",
+ "denominazione": "Soffi di mais bio 50gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Soffi%20di%20mais%20bio%2050gr_1767108838.pdf",
+ "allegati": [
+  {
+   "titolo": "Soffi di mais bio 50gr_1767108838.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Soffi%20di%20mais%20bio%2050gr_1767108838.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "soffi-di-mais-bio-50gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Soffi di mais bio 50gr",
+  "operatore": "Azienda Agricola Podere Pereto",
+  "lotti": [
+   "Lotti: 100826",
+   "070326"
+  ],
+  "marchio_identificazione": "Azienda Agricola Podere Pereto",
+  "produttore": "Azienda Agricola Podere Pereto",
+  "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+  "scadenza": "10 mesi (come riportato in ciascun lotto)",
+  "peso_volume": "50g",
+  "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+  "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+  "campi_extra": {
+   "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+  },
+  "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Soffi di mais bio 50gr\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 100826 e 070326\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 10 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 50g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+ },
+ "prima_rilevazione": "2026-10-24T22:27:57+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:27:57+00:00"
+}

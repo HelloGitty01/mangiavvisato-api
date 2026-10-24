@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/camembert-250g/",
+ "titolo": "Camembert 250g",
+ "data_pubblicazione": "2026-04-01",
+ "marca": "La Réserve des Crémiers",
+ "denominazione": "Camembert 250g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Ditta%20Dallatte%20Srl_1775054491.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo Ditta Dallatte Srl_1775054491.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Ditta%20Dallatte%20Srl_1775054491.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "camembert-250g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:18:29+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:29+00:00"
+}

@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-cotti-e-salati-1-kg/",
+ "titolo": "Lupini Cotti e salati 1 kg",
+ "data_pubblicazione": "2026-03-19",
+ "marca": "Milani Remigio & C snc",
+ "denominazione": "Lupini Cotti e salati 1 kg",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%201%20Kg_1773925713.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo 1 Kg_1773925713.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%201%20Kg_1773925713.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lupini-cotti-e-salati-1-kg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Lupini Cotti e salati Kg 1",
+  "operatore": "Milani Remigio e C snc",
+  "lotti": [
+   "F6019",
+   "C6036",
+   "J5245"
+  ],
+  "marchio_identificazione": "Milani Frutta Secca",
+  "produttore": "Milani Remigio e C snc",
+  "sede_stabilimento": "Occhiobello (RO) via Trieste n°45 Cap: 45030",
+  "scadenza": "20/07/2026 (F6019), 06/08/2026 (C6036), 03/03/2026 (J5245)",
+  "peso_volume": "Secchiello di lupini in salamoia, peso sgocciolato 1 Kg",
+  "motivo_esteso": "SU SEGNALAZIONE DEL NOSTRO FORNITORE DELLA MATERIA PRIMA: LUPINO SECCO cal 13/15 RISULTANO VALORI NON AMMESSI DI ALCALOIDI CHINOLIZIDINICI.",
+  "avvertenze": "SI PREGA DI ASTENERSI DALLA VENDITA E DAL CONSUMO DELLA MERCE E DI RENDERLA AL FORNITORE. QUALORA I LOTTI INDICATI SIANO ESAURITI DARNE AVVISO AL FORNITORE",
+  "campi_extra": {
+   "Data": "16/03/2026 Marchio del prodotto: Milani Remigio & C snc",
+   "SU SEGNALAZIONE DEL NOSTRO FORNITORE DELLA MATERIA PRIMA": "LUPINO SECCO cal 13/15"
+  },
+  "testo": "RICHIAMO\nData: 16/03/2026 Marchio del prodotto: Milani Remigio & C snc\nDenominazione di vendita: Lupini Cotti e salati Kg 1\nNome o ragione sociale dell'OSA\nMilani Remigio e C snc\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione F6019, C6036, J5245\nMarchio di identificazione dello stabilimento/del produttore: Milani Frutta Secca\nNome del produttore: Milani Remigio e C snc\nSede dello stabilimento: Occhiobello (RO) via Trieste n°45 Cap: 45030\nData di scadenza o termine minimo di conservazione: 20/07/2026 (F6019), 06/08/2026 (C6036),\n03/03/2026 (J5245)\nDescrizione peso/volume unità di vendita: Secchiello di lupini in salamoia, peso sgocciolato 1 Kg\nMotivo del richiamo:\nSU SEGNALAZIONE DEL NOSTRO FORNITORE DELLA MATERIA PRIMA: LUPINO SECCO cal 13/15\nRISULTANO VALORI NON AMMESSI DI ALCALOIDI CHINOLIZIDINICI.\nAvvertenze:\nSI PREGA DI ASTENERSI DALLA VENDITA E DAL CONSUMO DELLA MERCE E DI RENDERLA AL FORNITORE.\nQUALORA I LOTTI INDICATI SIANO ESAURITI DARNE AVVISO AL FORNITORE"
+ },
+ "prima_rilevazione": "2026-10-24T22:19:55+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:55+00:00"
+}

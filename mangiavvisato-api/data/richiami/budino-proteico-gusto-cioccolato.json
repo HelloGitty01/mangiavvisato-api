@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/budino-proteico-gusto-cioccolato/",
+ "titolo": "Budino proteico gusto cioccolato",
+ "data_pubblicazione": "2026-08-21",
+ "marca": "Milbona",
+ "denominazione": "Budino proteico gusto cioccolato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/budino_Allegato3_ModellodiRichiamo_1787332213.pdf",
+ "allegati": [
+  {
+   "titolo": "budino_Allegato3_ModellodiRichiamo_1787332213.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/budino_Allegato3_ModellodiRichiamo_1787332213.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "budino-proteico-gusto-cioccolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "EAN": "4056489216162"
+  },
+  "testo": "20/08/26 Milbona\nBudino proteico gusto cioccolato\nLidl Italia\nTMC 14/09/2026\nDE NW 85511 EG\nFude + Serrahn Milchprodukte GmbH & Co. KG\nvia Dreischkamp 40, 48653 Coesfeld - Germania\n14/09/2026\n200g\nNon conformità microbiologica (B.cereus).\nEAN: 4056489216162\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:03:00+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:00+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vistal-gea-60-opr-500-mg/",
+ "titolo": "VISTAL - GEA 60 OPR 500 mg",
+ "data_pubblicazione": "2026-04-29",
+ "marca": "Arcangea Srl",
+ "denominazione": "VISTAL - GEA 60 OPR 500 mg",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto%20Vistal_gea%20Lotto%2026019_1777464490.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo prodotto Vistal_gea Lotto 26019_1777464490.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto%20Vistal_gea%20Lotto%2026019_1777464490.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vistal-gea-60-opr-500-mg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VISTAL-GEA 60 OPR 500 mg",
+  "operatore": "A rcangea Srl",
+  "lotti": [
+   "26019"
+  ],
+  "marchio_identificazione": "Arcangea",
+  "produttore": "Arcangea srl",
+  "sede_stabilimento": "Via Gessi, 18 47030 Borghi (FC)",
+  "scadenza": "01/2029",
+  "peso_volume": "FLACONE DA 60 OPR DA 500 MG (30 g)",
+  "motivo_esteso": "Segnalazione da parte del fornitore della materia prima Zinco liposomiale della presenza di elevati livelli di piombo.",
+  "campi_extra": {
+   "Data": "07/0472026 Marchio del prodotto: ARCANGEA srl"
+  },
+  "testo": "RICHIAMO\nData: 07/0472026 Marchio del prodotto: ARCANGEA srl\nDenominazione di vendita: VISTAL-GEA 60 OPR 500 mg\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A rcangea Srl\ncommercializzato:\nLotto di produzione: 26019\nMarchio di identificazione dello stabilimento/del produttore: Arcangea\nNome del produttore: Arcangea srl\nSede dello stabilimento: Via Gessi, 18 47030 Borghi (FC)\nData di scadenza o termine minimo di conservazione: 01/2029\nDescrizione peso/volume unità di vendita: FLACONE DA 60 OPR DA 500 MG (30 g)\nMotivo del richiamo: Segnalazione da parte del fornitore della materia prima Zinco liposomiale della presenza\ndi elevati livelli di piombo.\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:28+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:28+00:00"
+}

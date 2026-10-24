@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gambero-bianco-congelato/",
+ "titolo": "GAMBERO BIANCO CONGELATO",
+ "data_pubblicazione": "2026-03-12",
+ "marca": "GIACALONE LUCIANO GROUP SRL",
+ "denominazione": "GAMBERO BIANCO CONGELATO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ALLERTA_1773744074.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RICHIAMO ALLERTA_1773744074.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ALLERTA_1773744074.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "gambero-bianco-congelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:20:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:20:24+00:00"
+}

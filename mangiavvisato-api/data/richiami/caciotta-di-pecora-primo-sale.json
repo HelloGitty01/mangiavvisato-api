@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-primo-sale/",
+ "titolo": "Caciotta di Pecora primo sale",
+ "data_pubblicazione": "2026-09-09",
+ "marca": "Ditta Sabino Francesco - UE IT 17 4",
+ "denominazione": "Caciotta di Pecora primo sale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sabino%20Francesco%20modello%20richiamo_alert_09set26_1788973411.pdf",
+ "allegati": [
+  {
+   "titolo": "Sabino Francesco modello richiamo_alert_09set26_1788973411.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sabino%20Francesco%20modello%20richiamo_alert_09set26_1788973411.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caciotta-di-pecora-primo-sale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "Caseificio Sabino Francesco 432_01/06/2026",
+  "marchio_identificazione": "UE IT 17 4",
+  "produttore": "Caseificio Sabino Francesco",
+  "sede_stabilimento": "Contrada Sansaniello 85029 Venosa (PZ) Basilicata - 40.9918 N - 15.7529 E",
+  "scadenza": "TMC 17/12/2026 Vendita a peso (KG) - prodotto soggetto a calo peso",
+  "motivo_esteso": "Sospetta presenza Listeria Monocytogenes",
+  "avvertenze": "Si prega di non consumare il prodotto e di riportarlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/09/2026 Marchio del prodotto: Caseificio Sabino Francesco",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: 09/09/2026 Marchio del prodotto: Caseificio Sabino Francesco\nCaciotta di pecora Primo Sale\nDenominazione di vendita:\nNome o ragione sociale dell'OSA Caseificio Sabino Francesco\na nome del quale il prodotto è\ncommercializzato:\n432_01/06/2026\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: UE IT 17 4\nNome del produttore: Caseificio Sabino Francesco\nSede dello stabilimento: Contrada Sansaniello 85029 Venosa (PZ) Basilicata - 40.9918 N - 15.7529 E\nData di scadenza o termine minimo di conservazione: TMC 17/12/2026\nVendita a peso (KG) - prodotto soggetto a calo peso\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nSospetta presenza Listeria Monocytogenes\nAvvertenze:\nSi prega di non consumare il prodotto e di riportarlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:01:30+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:01:30+00:00"
+}

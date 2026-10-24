@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-gragnano-igp-o-calamaro/",
+ "titolo": "Pasta di Gragnano IGP \"O Calamaro\"",
+ "data_pubblicazione": "2025-09-26",
+ "marca": "COOP",
+ "denominazione": "Pasta di Gragnano IGP \"O Calamaro\"",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Coop%20PASTA%20GRAGNANO%20Ausl%20BO%20def_1761209173.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Coop PASTA GRAGNANO Ausl BO def_1761209173.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Coop%20PASTA%20GRAGNANO%20Ausl%20BO%20def_1761209173.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-di-gragnano-igp-o-calamaro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pasta di Gragnano IGP \" O Calamaro\" 500 gr",
+  "operatore": "Coop Italia S.c.",
+  "lotti": [
+   "L2514827"
+  ],
+  "produttore": "Pastai Gragnanesi Società Cooperativa",
+  "sede_stabilimento": "Via Giovanni della Rocca 20, 80054 Gragnano (NA)",
+  "scadenza": "28/05/28",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Possibili frammenti di legno nel prodotto",
+  "avvertenze": "Coop precauzionalmente ha già ritirato il prodotto dalla vendita. Invitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e restituirlo al punto vendita per il rimborso. Per ulteriori informazioni è disponibile il numero verde gatuito 800-805580",
+  "campi_extra": {
+   "Data": "26/09/2025 Marchio del prodotto: COOP"
+  },
+  "testo": "RICHIAMO\nData: 26/09/2025 Marchio del prodotto: COOP\nDenominazione di vendita:Pasta di Gragnano IGP \" O Calamaro\" 500 gr\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coop Italia S.c.\ncommercializzato:\nLotto di produzione: L2514827\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Pastai Gragnanesi Società Cooperativa\nSede dello stabilimento: Via Giovanni della Rocca 20, 80054 Gragnano (NA)\nData di scadenza o termine minimo di conservazione: 28/05/28\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nPossibili frammenti di legno nel prodotto\nAvvertenze:\nCoop precauzionalmente ha già ritirato il prodotto dalla vendita.\nInvitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e restituirlo al punto vendita\nper il rimborso.\nPer ulteriori informazioni è disponibile il numero verde gatuito 800-805580"
+ },
+ "prima_rilevazione": "2026-10-24T22:35:34+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:35:34+00:00"
+}

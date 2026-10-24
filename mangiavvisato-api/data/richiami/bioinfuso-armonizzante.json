@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bioinfuso-armonizzante/",
+ "titolo": "BIOINFUSO ARMONIZZANTE",
+ "data_pubblicazione": "2025-11-06",
+ "marca": "FLORA",
+ "denominazione": "BIOINFUSO ARMONIZZANTE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20FLORA%20SRL_1762426871.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo FLORA SRL_1762426871.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20FLORA%20SRL_1762426871.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bioinfuso-armonizzante",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BIOINFUSO ARMONIZZANTE",
+  "operatore": "FLORA srl Viale Karol Wojtyla 1 56042 Lorenzana (PI)",
+  "lotti": [
+   "240090"
+  ],
+  "marchio_identificazione": "CE IT AAE09011- CE IT AIP09022",
+  "produttore": "FLORA SRL",
+  "sede_stabilimento": "FLORA srl, Viale Karol Wojtyla 1, Lorenzana (PI) Confezionato nello stabilimento di Via",
+  "scadenza": "01/2028",
+  "peso_volume": "36 g (20 filtri da 1.8 g)",
+  "motivo_esteso": "A seguito di analisi post vendita, è stato rilevato un valore analitico DEGLI ALCALOIDI PIRROLIZIDINICI fuori dal range di conformità alla normativa vigente e pertanto, si ritiene necessario il ritiro di questo lotto (L240090) di Bioinfuso armonizzante dal mercato.",
+  "avvertenze": "SI INVITANO GLI UTENTI FINALI A NON CONSUMARE IL PRODOTTO E RICONSEGNARE LE CONFEZIONI IN LORO POSSESSO AL PUNTO VENDITA IN CUI L'HANNO ACQUISTATO. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/10/2025 Marchio del prodotto: FLORA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 31/10/2025 Marchio del prodotto: FLORA\nDenominazione di vendita:BIOINFUSO ARMONIZZANTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FLORA srl Viale Karol Wojtyla 1 56042 Lorenzana (PI)\ncommercializzato:\nLotto di produzione: 240090\nMarchio di identificazione dello stabilimento/del produttore: CE IT AAE09011- CE IT AIP09022\nNome del produttore: FLORA SRL\nSede dello stabilimento: FLORA srl, Viale Karol Wojtyla 1, Lorenzana (PI) Confezionato nello stabilimento di Via\nData di scadenza o termine minimo di conservazione: 01/2028\nDescrizione peso/volume unità di vendita: 36 g (20 filtri da 1.8 g)\nMotivo del richiamo:\nA seguito di analisi post vendita, è stato rilevato un valore analitico DEGLI ALCALOIDI PIRROLIZIDINICI\nfuori dal range di conformità alla normativa vigente e pertanto, si ritiene necessario il ritiro di questo lotto\n(L240090) di Bioinfuso armonizzante dal mercato.\nAvvertenze:\nSI INVITANO GLI UTENTI FINALI A NON CONSUMARE IL PRODOTTO E RICONSEGNARE LE CONFEZIONI IN\nLORO POSSESSO AL PUNTO VENDITA IN CUI L'HANNO ACQUISTATO.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:31:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:31:09+00:00"
+}

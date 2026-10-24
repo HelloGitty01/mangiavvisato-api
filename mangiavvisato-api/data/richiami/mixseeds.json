@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mixseeds/",
+ "titolo": "Mixseeds",
+ "data_pubblicazione": "2025-03-24",
+ "marca": "Bongiovanni srl",
+ "denominazione": "Mixseeds",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_mixseeds_1761206685.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_di_richiamo_mixseeds_1761206685.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_mixseeds_1761206685.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mixseeds",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:40+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:40+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-ps-puro-suino/",
+ "titolo": "SALAMINO P.S. (PURO SUINO)",
+ "data_pubblicazione": "2025-03-07",
+ "marca": "G.A. Prodotti Toscani srl",
+ "denominazione": "SALAMINO P.S. (PURO SUINO)",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALAMINOP.S._1761206602.pdf",
+ "allegati": [
+  {
+   "titolo": "SALAMINOP.S._1761206602.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALAMINOP.S._1761206602.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamino-ps-puro-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMINO P.S. (PURO SUINO)",
+  "operatore": "G.A. PRODOTTI TOSCANI SRL",
+  "lotti": [
+   "L. 00000115"
+  ],
+  "marchio_identificazione": "G. A. PRODOTTI TOSCANI",
+  "produttore": "G.A PRODOTTI TOSCANI",
+  "sede_stabilimento": "I 1460 S",
+  "peso_volume": "0,450 KG",
+  "motivo_esteso": "SOSPETTA PRESENZA DI LISTERIA M.",
+  "avvertenze": "IL SALAMINO NON DEVE ESSERE CONSUMATO E RESTITUITO AL PUNTO VENDITA DOVE E’ STATO ACQUISTATO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/03/2025 Marchio del prodotto: G.A. Prodotti Toscani srl",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 06/03/2025 Marchio del prodotto: G.A. Prodotti Toscani srl\nDenominazione di vendita: SALAMINO P.S. (PURO SUINO)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.A. PRODOTTI TOSCANI SRL\ncommercializzato:\nLotto di produzione: L. 00000115\nMarchio di identificazione dello stabilimento/del produttore: G. A. PRODOTTI TOSCANI\nNome del produttore: G.A PRODOTTI TOSCANI\nSede dello stabilimento: I 1460 S\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 0,450 KG\nMotivo del richiamo:\nSOSPETTA PRESENZA DI LISTERIA M.\nAvvertenze:\nIL SALAMINO NON DEVE ESSERE CONSUMATO E RESTITUITO AL PUNTO VENDITA DOVE E’ STATO\nACQUISTATO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:47:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:47:39+00:00"
+}

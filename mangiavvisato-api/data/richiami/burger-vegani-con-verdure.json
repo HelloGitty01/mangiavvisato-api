@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-vegani-con-verdure/",
+ "titolo": "Burger vegani con verdure",
+ "data_pubblicazione": "2026-06-04",
+ "marca": "Vemondo",
+ "denominazione": "Burger vegani con verdure",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20Modello%20di%20Richiamo%20K26032%20_1__1780584093.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 3 _ Modello di Richiamo K26032 _1__1780584093.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20Modello%20di%20Richiamo%20K26032%20_1__1780584093.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "burger-vegani-con-verdure",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "EAN": "4335619202801"
+  },
+  "testo": "29/05/2026 Vemondo\nBurger vegani con verdure\nLidl Italia\nTMC 22/06/2026\nVivera B.V\nHandelsweg 9, 7451 PJ Holten, Paesi Bassi\n22/06/2026\n200 g\nPossibile presenza di parti vegetali dure\nEAN: 4335619202801\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:14:55+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:55+00:00"
+}

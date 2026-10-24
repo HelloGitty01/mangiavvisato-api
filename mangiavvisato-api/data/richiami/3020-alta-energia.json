@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/3020-alta-energia/",
+ "titolo": "30/20 ALTA ENERGIA",
+ "data_pubblicazione": "2026-01-28",
+ "marca": "Colella",
+ "denominazione": "30/20 ALTA ENERGIA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/alta%20energia_1769668528.pdf",
+ "allegati": [
+  {
+   "titolo": "alta energia_1769668528.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/alta%20energia_1769668528.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "3020-alta-energia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "30/20 ALTA ENERGIA",
+  "operatore": "COLELLA TRADE SRL, C/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)",
+  "lotti": [
+   "25C02A10210 scadenza 02/10/2026 25C02A10306 scadenza 03/06/2026 25C02A10509 scadenza 05/09/2026 25C02A10707 scadenza 07/07/2026 25C02A10908 scadenza 09/08/2026 25C02A11509 scadenza 15/09/2026 25C02A12005 scadenza 20/05/2026 25C02A12205 scadenza 22/05/2026 25C02A12606 scadenza 26/06/2026 25C02A12807 scadenza 28/07/2026 25C02A13006 scadenza 30/06/2026 25C02A13007 scadenza 30/07/2026"
+  ],
+  "marchio_identificazione": "ABP5452PETP",
+  "produttore": "COLELLA TRADE SRL",
+  "sede_stabilimento": "C/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)",
+  "scadenza": "1 anno da data di produzione (vedi sopra - lotto di produzione)",
+  "peso_volume": "Sacchi da 20 kg",
+  "motivo_esteso": "sospetta contaminazione da SOA non conformi.",
+  "avvertenze": "Da non utilizzare per l’alimentazione animale Rif. Lotto e scadenza vedi sezione dedicata (lotto di produzione) Inserire immagine due: Inserire immagine uno",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: Marchio del prodotto:\n28/01/2026 Colella\nDenominazione di vendita: 30/20 ALTA ENERGIA\nNome o ragione sociale dell'OSA\nCOLELLA TRADE SRL, C/DA CAMPOREALE S.S. 90 BIS –\na nome del quale il prodotto è\n83031 – ARIANO IRPINO (AV)\ncommercializzato:\nLotto di produzione:\n25C02A10210 scadenza 02/10/2026\n25C02A10306 scadenza 03/06/2026\n25C02A10509 scadenza 05/09/2026\n25C02A10707 scadenza 07/07/2026\n25C02A10908 scadenza 09/08/2026\n25C02A11509 scadenza 15/09/2026\n25C02A12005 scadenza 20/05/2026\n25C02A12205 scadenza 22/05/2026\n25C02A12606 scadenza 26/06/2026\n25C02A12807 scadenza 28/07/2026\n25C02A13006 scadenza 30/06/2026\n25C02A13007 scadenza 30/07/2026\nMarchio di identificazione dello stabilimento/del produttore:\nABP5452PETP\nNome del produttore: COLELLA TRADE SRL\nSede dello stabilimento:\nC/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)\nData di scadenza o termine minimo di conservazione:\n1 anno da data di produzione (vedi\nsopra - lotto di produzione)\nDescrizione peso/volume unità di vendita:\nSacchi da 20 kg\nMotivo del richiamo: sospetta contaminazione da SOA non conformi.\nAvvertenze: Da non utilizzare per l’alimentazione animale\nRif. Lotto e scadenza vedi sezione dedicata (lotto di produzione)\nInserire immagine due:\nInserire immagine uno:"
+ },
+ "prima_rilevazione": "2026-10-24T22:24:02+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:24:02+00:00"
+}

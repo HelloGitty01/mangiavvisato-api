@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/saporito-dalpeggio/",
+ "titolo": "SAPORITO D'ALPEGGIO",
+ "data_pubblicazione": "2025-08-04",
+ "marca": "SAPORITO D'ALPEGGIO",
+ "denominazione": "SAPORITO D'ALPEGGIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Alpeggio_1761208337.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo Alpeggio_1761208337.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Alpeggio_1761208337.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "saporito-dalpeggio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SAPORITO D'ALPEGGIO",
+  "operatore": "TESSARO SPA",
+  "lotti": [
+   "00000L.25085 - L.25085"
+  ],
+  "marchio_identificazione": "UE IT D2L1M",
+  "produttore": "CASEIFICIO SOCIALE CATINACCIO SOC. COOP. AGR.",
+  "sede_stabilimento": "STRADA DE SORAPOZAT, 11 - 38036 SAN GIOVANNI DI FASSA - SEN JAN (TN)",
+  "peso_volume": "FORME INTERE DA CIRCA 5,5/6 KG",
+  "motivo_esteso": "PRESENZA DI LISTERIA MONOCYTOGENES",
+  "avvertenze": "NON CONSUMARE. RENDERE AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "01/08/2025 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 01/08/2025 Marchio del prodotto:\nDenominazione di vendita:SAPORITO D'ALPEGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TESSARO SPA\ncommercializzato:\nLotto di produzione: 00000L.25085 - L.25085\nMarchio di identificazione dello stabilimento/del produttore: UE IT D2L1M\nNome del produttore: CASEIFICIO SOCIALE CATINACCIO SOC. COOP. AGR.\nSede dello stabilimento: STRADA DE SORAPOZAT, 11 - 38036 SAN GIOVANNI DI FASSA - SEN JAN (TN)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FORME INTERE DA CIRCA 5,5/6 KG\nMotivo del richiamo:\nPRESENZA DI LISTERIA MONOCYTOGENES\nAvvertenze:\nNON CONSUMARE. RENDERE AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:39:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:39:17+00:00"
+}

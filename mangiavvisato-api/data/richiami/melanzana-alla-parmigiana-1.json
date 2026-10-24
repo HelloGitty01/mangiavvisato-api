@@ -1,0 +1,37 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melanzana-alla-parmigiana-1/",
+ "titolo": "MELANZANA ALLA PARMIGIANA",
+ "data_pubblicazione": "2025-09-02",
+ "marca": "CAMPESAN",
+ "denominazione": "MELANZANA ALLA PARMIGIANA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CAMPESAN%20MELANZANE%20ALLA%20PARMIGIANA%20250g%20500g_1761208536.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CAMPESAN MELANZANE ALLA PARMIGIANA 250g 500g_1761208536.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CAMPESAN%20MELANZANE%20ALLA%20PARMIGIANA%20250g%20500g_1761208536.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "melanzana-alla-parmigiana-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MELANZANA ALLA PARMIGIANA",
+  "operatore": "CAMPESAN",
+  "sede_stabilimento": "VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)",
+  "scadenza": "13/09/2025 ; 14/09/2025",
+  "peso_volume": "formato: 250g,500g",
+  "motivo_esteso": "Presenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.",
+  "avvertenze": "Il prodotto non va consumato, e va riportato al punto vendita.",
+  "campi_extra": {
+   "Data": "30/08/2025 Marchio del prodotto: CAMPESAN"
+  },
+  "testo": "RICHIAMO\nData: 30/08/2025 Marchio del prodotto: CAMPESAN\nDenominazione di vendita:MELANZANA ALLA PARMIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAMPESAN\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)\nData di scadenza o termine minimo di conservazione: 13/09/2025 ; 14/09/2025\nDescrizione peso/volume unità di vendita: formato: 250g,500g\nMotivo del richiamo:\nPresenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.\nAvvertenze:\nIl prodotto non va consumato, e va riportato al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:36:48+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:36:48+00:00"
+}

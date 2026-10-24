@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-gelato-nutella-ice-cream-pot/",
+ "titolo": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+ "data_pubblicazione": "2025-06-26",
+ "marca": "FERRERO",
+ "denominazione": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Nutella%20Gelato_1761207641.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo Nutella Gelato_1761207641.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Nutella%20Gelato_1761207641.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nutella-gelato-nutella-ice-cream-pot",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUTELLA ICE CREAM POT - COD EAN: 8000500425183",
+  "operatore": "FERRERO COMMERCIALE ITALIA SRL",
+  "lotti": [
+   "vedi immagine 2"
+  ],
+  "marchio_identificazione": "FERRERO",
+  "produttore": "ICE CREAM FACTORY COMAKER",
+  "sede_stabilimento": "Calle de la antigua Avidesa nº 1, 46600 Alzira (Valencia) Spain",
+  "scadenza": "vedi immagine 2",
+  "peso_volume": "230gr; 470ml",
+  "motivo_esteso": "lista ingredienti non in lingua italiana sui barattoli di gelato citati nella immagine 2",
+  "avvertenze": "per reperire la lista ingredienti in italiano consultare il sito: https://www.ferrero.it/nutella-gelato in caso di dubbi o altre segnalazioni contattare il numero verde Ferrero al 800 909690",
+  "campi_extra": {
+   "Data": "23/06/2025 Marchio del prodotto: NUTELLA ICE CREAM"
+  },
+  "testo": "RICHIAMO\nData: 23/06/2025 Marchio del prodotto: NUTELLA ICE CREAM\nDenominazione di vendita:NUTELLA ICE CREAM POT - COD EAN: 8000500425183\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRERO COMMERCIALE ITALIA SRL\ncommercializzato:\nLotto di produzione: vedi immagine 2\nMarchio di identificazione dello stabilimento/del produttore: FERRERO\nNome del produttore: ICE CREAM FACTORY COMAKER\nSede dello stabilimento: Calle de la antigua Avidesa nº 1, 46600 Alzira (Valencia) Spain\nData di scadenza o termine minimo di conservazione: vedi immagine 2\nDescrizione peso/volume unità di vendita: 230gr; 470ml\nMotivo del richiamo:\nlista ingredienti non in lingua italiana sui barattoli di gelato citati nella immagine 2\nAvvertenze:\nper reperire la lista ingredienti in italiano consultare il sito: https://www.ferrero.it/nutella-gelato\nin caso di dubbi o altre segnalazioni contattare il numero verde Ferrero al 800 909690"
+ },
+ "prima_rilevazione": "2026-10-24T22:41:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:07+00:00"
+}

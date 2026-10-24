@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-taggiasche-1/",
+ "titolo": "PATE' DI OLIVE TAGGIASCHE",
+ "data_pubblicazione": "2025-01-18",
+ "marca": "PAM & PANORAMA",
+ "denominazione": "PATE' DI OLIVE TAGGIASCHE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PAM_1761206216.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO DI RICHIAMO PAM_1761206216.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20PAM_1761206216.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pate-di-olive-taggiasche-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PATE' DI OLIVE TAGGIASCHE",
+  "operatore": "PAM E PANORAMA SPA",
+  "lotti": [
+   "L.071124 – L.271124"
+  ],
+  "produttore": "F.LLI MERANO",
+  "sede_stabilimento": "STRADA DEL LUNARO , 18020 LUCINASCO (IM)",
+  "peso_volume": "180 GR",
+  "motivo_esteso": "Possibile presenza di frammenti di noccioli di olive.",
+  "avvertenze": "Si raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "1107//0011//22052 5 Marchio del prodotto: PAM E PANORAMA"
+  },
+  "testo": "RICHIAMO\nData: 1107//0011//22052 5 Marchio del prodotto: PAM E PANORAMA\nDenominazione di vendita: PATE' DI OLIVE TAGGIASCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PAM E PANORAMA SPA\ncommercializzato:\nLotto di produzione: L.071124 – L.271124\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: F.LLI MERANO\nSede dello stabilimento: STRADA DEL LUNARO , 18020 LUCINASCO (IM)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 180 GR\nMotivo del richiamo:\nPossibile presenza di frammenti di noccioli di olive.\nAvvertenze:\nSi raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel\npunto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:45+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:45+00:00"
+}

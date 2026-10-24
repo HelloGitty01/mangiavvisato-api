@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-valbonta/",
+ "titolo": "MOZZARELLA VALBONTA'",
+ "data_pubblicazione": "2025-08-15",
+ "marca": "PENNY MARKET",
+ "denominazione": "MOZZARELLA VALBONTA'",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PENNY%20100842%20LN5205E_1761208458.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO PENNY 100842 LN5205E_1761208458.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PENNY%20100842%20LN5205E_1761208458.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-valbonta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA VALBONTA'",
+  "operatore": "PENNY MARKET S.R.L.",
+  "lotti": [
+   "N5205E"
+  ],
+  "marchio_identificazione": "IT 03 144 CE",
+  "produttore": "GRANAROLO S.P.A.",
+  "sede_stabilimento": "VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)",
+  "scadenza": "17-08-2025",
+  "peso_volume": "4X125g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI",
+  "avvertenze": "Si raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "14/08/2025 Marchio del prodotto: VALBONTA'"
+  },
+  "testo": "RICHIAMO\nData: 14/08/2025 Marchio del prodotto: VALBONTA'\nDenominazione di vendita:MOZZARELLA VALBONTA'\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PENNY MARKET S.R.L.\ncommercializzato:\nLotto di produzione: N5205E\nMarchio di identificazione dello stabilimento/del produttore: IT 03 144 CE\nNome del produttore: GRANAROLO S.P.A.\nSede dello stabilimento: VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)\nData di scadenza o termine minimo di conservazione: 17-08-2025\nDescrizione peso/volume unità di vendita: 4X125g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI\nAvvertenze:\nSi raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di\nriportarlo nel punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:37:51+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:51+00:00"
+}

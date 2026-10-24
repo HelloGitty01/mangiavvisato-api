@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-alimentare-cubetti-1kg-0/",
+ "titolo": "Ghiaccio alimentare a cubetti 1Kg",
+ "data_pubblicazione": "2026-06-08",
+ "marca": "BLUES",
+ "denominazione": "Ghiaccio alimentare a cubetti 1Kg",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_BLUES_1780938801.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_BLUES_1780938801.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_BLUES_1780938801.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ghiaccio-alimentare-cubetti-1kg-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Ghiaccio alimentare a cubetti 1 kg",
+  "operatore": "Eurospin Italia SpA",
+  "lotti": [
+   "B130426"
+  ],
+  "marchio_identificazione": "Ghiaccio Facile",
+  "produttore": "Premium Italia srl",
+  "sede_stabilimento": "Via A. Tommaso n.28 30020 Quarto D'Altino (VE)",
+  "scadenza": "13-04-2028",
+  "peso_volume": "1 kg",
+  "motivo_esteso": "Presenza di entero-cocchi intestinali oltre i limiti tabellari (D.Lgs 18/2023)",
+  "avvertenze": "Non consumare il prodotto, restituire il prodotto al punto vendita.",
+  "campi_extra": {
+   "Data": "01/06/2026 Marchio del prodotto: BLUES"
+  },
+  "testo": "RICHIAMO\nData: 01/06/2026 Marchio del prodotto: BLUES\nDenominazione di vendita:Ghiaccio alimentare a cubetti 1 kg\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia SpA\ncommercializzato:\nLotto di produzione: B130426\nMarchio di identificazione dello stabilimento/del produttore: Ghiaccio Facile\nNome del produttore: Premium Italia srl\nSede dello stabilimento: Via A. Tommaso n.28 30020 Quarto D'Altino (VE)\nData di scadenza o termine minimo di conservazione: 13-04-2028\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nPresenza di entero-cocchi intestinali oltre i limiti tabellari (D.Lgs 18/2023)\nAvvertenze:\nNon consumare il prodotto, restituire il prodotto al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:14:27+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:27+00:00"
+}

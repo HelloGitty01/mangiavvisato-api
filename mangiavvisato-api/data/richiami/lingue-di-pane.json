@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lingue-di-pane/",
+ "titolo": "LINGUE DI PANE",
+ "data_pubblicazione": "2026-08-13",
+ "marca": "PAN DEI MASSI",
+ "denominazione": "LINGUE DI PANE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LINGUE_DI_PANE_1786622905.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_LINGUE_DI_PANE_1786622905.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LINGUE_DI_PANE_1786622905.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lingue-di-pane",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LINGUE DI PANE",
+  "operatore": "GIOVANNI CANE SRL",
+  "lotti": [
+   "30.11.26"
+  ],
+  "marchio_identificazione": "PAN DEI MASSI - FORNERIA PIEMONTESE",
+  "produttore": "GIOVANNI CANE SRL",
+  "sede_stabilimento": "ALESSANDRIA - VIA SCAZZOLA 72",
+  "scadenza": "30.11.26",
+  "peso_volume": "180g",
+  "motivo_esteso": "CORPO ESTRANEO (AGO METALLICO DA CUCITO)",
+  "avvertenze": "NON CONSUMARE E RICONSEGNARE IL PRODOTTO AL PUNTO DI VENDITA PER LA RICONSEGNA AL PRODUTTORE. la fotografia non rappresenta il lotto oggetto del richiamo. Inserire immagine uno: Inserire immagine due: 12/08/2026",
+  "campi_extra": {
+   "Data": "12/08/2026 Marchio del prodotto: PAN DEI MASSI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/08/2026 Marchio del prodotto: PAN DEI MASSI\nDenominazione di vendita:LINGUE DI PANE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GIOVANNI CANE SRL\ncommercializzato:\nLotto di produzione: 30.11.26\nMarchio di identificazione dello stabilimento/del produttore: PAN DEI MASSI - FORNERIA PIEMONTESE\nNome del produttore: GIOVANNI CANE SRL\nSede dello stabilimento: ALESSANDRIA - VIA SCAZZOLA 72\nData di scadenza o termine minimo di conservazione: 30.11.26\nDescrizione peso/volume unità di vendita: 180g\nMotivo del richiamo:\nCORPO ESTRANEO (AGO METALLICO DA CUCITO)\nAvvertenze:\nNON CONSUMARE E RICONSEGNARE IL PRODOTTO AL PUNTO DI VENDITA PER LA RICONSEGNA AL\nPRODUTTORE.\nla fotografia non rappresenta\nil lotto oggetto del richiamo.\nInserire immagine uno: Inserire immagine due:\n12/08/2026"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:14+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:14+00:00"
+}

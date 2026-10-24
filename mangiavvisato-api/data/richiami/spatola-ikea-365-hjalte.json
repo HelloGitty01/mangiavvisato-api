@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spatola-ikea-365-hjalte/",
+ "titolo": "Spatola Ikea 365 + Hjalte",
+ "data_pubblicazione": "2025-06-12",
+ "marca": "Ikea",
+ "denominazione": "Spatola Ikea 365 + Hjalte",
+ "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spatola_1761207587.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo spatola_1761207587.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spatola_1761207587.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spatola-ikea-365-hjalte",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "spatola IKEA 365+ HJÄLTE",
+  "operatore": "IKEA",
+  "lotti": [
+   "data di produzione 2445 (AASS)"
+  ],
+  "marchio_identificazione": "IKEA",
+  "produttore": "IKEA",
+  "sede_stabilimento": "SVEZIA",
+  "scadenza": "/",
+  "peso_volume": "/",
+  "motivo_esteso": "I valori di migrazione delle ammine aromatiche primarie (AAP) sono state rilevate non conformi",
+  "avvertenze": "clienti in possesso del prodotto con data di produzione 2445 (AASS) (che corrisponde ai prodotti acquistati dopo il mese di Novembre 2024), devono interromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto.",
+  "campi_extra": {
+   "Data": "06/06/2025 Marchio del prodotto: IKEA"
+  },
+  "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: IKEA\nDenominazione di vendita:spatola IKEA 365+ HJÄLTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IKEA\ncommercializzato:\nLotto di produzione: data di produzione 2445 (AASS)\nMarchio di identificazione dello stabilimento/del produttore: IKEA\nNome del produttore: IKEA\nSede dello stabilimento: SVEZIA\nData di scadenza o termine minimo di conservazione: /\nDescrizione peso/volume unità di vendita: /\nMotivo del richiamo:\nI valori di migrazione delle ammine aromatiche primarie (AAP) sono state rilevate non conformi\nAvvertenze:\nclienti in possesso del prodotto con data di produzione 2445 (AASS) (che corrisponde ai prodotti\nacquistati dopo il mese di Novembre 2024), devono interromperne l'uso e contattare IKEA per ricevere un\nrimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi\nnegozio IKEA e non è richiesta la prova d'acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:41:34+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:34+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-confezione-da-6-uova-grandi/",
+ "titolo": "UOVA FRESCHE CONFEZIONE DA 6 UOVA GRANDI",
+ "data_pubblicazione": "2025-11-14",
+ "marca": "SPINOVO",
+ "denominazione": "UOVA FRESCHE CONFEZIONE DA 6 UOVA GRANDI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20%20LC_1763143973.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO CONFEZIONI DA 6   LC_1763143973.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20CONFEZIONI%20DA%206%20%20%20LC_1763143973.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-confezione-da-6-uova-grandi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "6 UOVA FRESCHE GRANDI",
+  "operatore": "Spinovo di Bondioli Valentina",
+  "lotti": [
+   "VEDI SOTTO"
+  ],
+  "marchio_identificazione": "Bollo CEE U320E",
+  "produttore": "primario Società Agricola Fiorin di Lionello &C SS 3IT018MN181 Sede del centro imballaggio: Via Fornace, 1 Spino d’Adda (CR)",
+  "scadenza": "20/11/2025 - 27/11/2025",
+  "peso_volume": "CONFEZIONE DA 6 UOVA FRESCHE GRANDI",
+  "motivo_esteso": "POTENZIALE RISCHIO MICROBIOLOGICO",
+  "avvertenze": "NON CONSUMARE, RESTITUIRE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "12/11/2025 Marchio del prodotto: SPINOVO",
+   "Sede del centro imballaggio": "Via Fornace, 1 Spino d’Adda (CR)"
+  },
+  "testo": "RICHIAMO\nData: 12/11/2025 Marchio del prodotto: SPINOVO\nDenominazione di vendita: 6 UOVA FRESCHE GRANDI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Spinovo di Bondioli Valentina\ncommercializzato:\nLotto di produzione: VEDI SOTTO\nMarchio di identificazione dello stabilimento/del produttore: Bollo CEE U320E\nNome del produttore primario Società Agricola Fiorin di Lionello &C SS 3IT018MN181\nSede del centro imballaggio: Via Fornace, 1 Spino d’Adda (CR)\nData di scadenza o termine minimo di conservazione: 20/11/2025 - 27/11/2025\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 6 UOVA FRESCHE GRANDI\nMotivo del richiamo:\nPOTENZIALE RISCHIO MICROBIOLOGICO\nAvvertenze:\nNON CONSUMARE, RESTITUIRE AL PUNTO VENDITA\nLOTTI:\nLC2011\nLC2711"
+ },
+ "prima_rilevazione": "2026-10-24T22:30:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:30:32+00:00"
+}

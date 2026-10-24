@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-salsa-senza-aglio-base-di-ceci/",
+ "titolo": "Hummus salsa senza aglio a base di ceci",
+ "data_pubblicazione": "2026-07-17",
+ "marca": "Zorbas",
+ "denominazione": "Hummus salsa senza aglio a base di ceci",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20hummus%20senza%20aglio%20200g_1784314808.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo Zorbas hummus senza aglio 200g_1784314808.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20hummus%20senza%20aglio%20200g_1784314808.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hummus-salsa-senza-aglio-base-di-ceci",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Hummus salsa senza aglio a base di ceci",
+  "operatore": "Manuzzi Import-Export s.r.l.",
+  "lotti": [
+   "110601"
+  ],
+  "produttore": "Amvrosia S.A.",
+  "sede_stabilimento": "Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)",
+  "scadenza": "08/09/2026",
+  "peso_volume": "200g",
+  "motivo_esteso": "Richiamo precauzionale per possibile presenza di Salmonella spp.",
+  "avvertenze": "Si prega di non consumare il prodotto e riconsegnarlo presso il punto vendita.",
+  "campi_extra": {
+   "Data": "03/07/2026 Marchio del prodotto: Zorbas"
+  },
+  "testo": "RICHIAMO\nData: 03/07/2026 Marchio del prodotto: Zorbas\nDenominazione di vendita:Hummus salsa senza aglio a base di ceci\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Manuzzi Import-Export s.r.l.\ncommercializzato:\nLotto di produzione: 110601\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Amvrosia S.A.\nSede dello stabilimento: Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)\nData di scadenza o termine minimo di conservazione: 08/09/2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nRichiamo precauzionale per possibile presenza di Salmonella spp.\nAvvertenze:\nSi prega di non consumare il prodotto e riconsegnarlo presso il punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:05:55+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:05:55+00:00"
+}

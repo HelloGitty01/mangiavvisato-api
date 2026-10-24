@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-maxi-pack-x-3/",
+ "titolo": "MOZZARELLA MAXI PACK X 3",
+ "data_pubblicazione": "2025-08-15",
+ "marca": "GRANAROLO S.P.A.",
+ "denominazione": "MOZZARELLA MAXI PACK X 3",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CARREFOUR%20100479%20LN5205E_1761208441.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CARREFOUR 100479 LN5205E_1761208441.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CARREFOUR%20100479%20LN5205E_1761208441.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-maxi-pack-x-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA MAXI PACK X 3",
+  "operatore": "INTERDIS - TSA",
+  "lotti": [
+   "N5205E"
+  ],
+  "marchio_identificazione": "IT 03 144 CE",
+  "produttore": "GRANAROLO S.P.A.",
+  "sede_stabilimento": "VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)",
+  "scadenza": "18-08-2025",
+  "peso_volume": "3X125g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI",
+  "avvertenze": "Si raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "14/08/2025 Marchio del prodotto: CARREFOUR CLASSIC"
+  },
+  "testo": "RICHIAMO\nData: 14/08/2025 Marchio del prodotto: CARREFOUR CLASSIC\nDenominazione di vendita:MOZZARELLA MAXI PACK X 3\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è INTERDIS - TSA\ncommercializzato:\nLotto di produzione: N5205E\nMarchio di identificazione dello stabilimento/del produttore: IT 03 144 CE\nNome del produttore: GRANAROLO S.P.A.\nSede dello stabilimento: VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)\nData di scadenza o termine minimo di conservazione: 18-08-2025\nDescrizione peso/volume unità di vendita: 3X125g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI\nAvvertenze:\nSi raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di\nriportarlo nel punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:37:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:39+00:00"
+}

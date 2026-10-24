@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostrica-concava-di-sardegna-shardana-2/",
+ "titolo": "Ostrica concava di Sardegna \"shardana\"",
+ "data_pubblicazione": "2025-05-02",
+ "marca": "FINITTICA S.r.l.u. IT 513 CDM UE",
+ "denominazione": "Ostrica concava di Sardegna \"shardana\"",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%20RIT%20modello%20ministeriale.pdf%20_%20shardana%20bennet_1761207401.pdf",
+ "allegati": [
+  {
+   "titolo": "DOC RIT modello ministeriale.pdf _ shardana bennet_1761207401.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%20RIT%20modello%20ministeriale.pdf%20_%20shardana%20bennet_1761207401.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "ostrica-concava-di-sardegna-shardana-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ostrica concava di Sardegna \"shardana\"",
+  "operatore": "Finittica srlu",
+  "lotti": [
+   "250416F62B"
+  ],
+  "marchio_identificazione": "IT 513 CDM UE",
+  "produttore": "FINITTICA SRLU",
+  "sede_stabilimento": "VIA PROVINCIALE 21, 44020 GORO (FE)",
+  "scadenza": "TUTTE, VEDI NOTE",
+  "peso_volume": "CONFEZIONE IN LEGNO DA 0,5 KG",
+  "motivo_esteso": "RILEVATO GENOMA DI NOROVIRUS",
+  "avvertenze": "il prodotto puo essere consumato solamente previa cottura a 100°C dopo 2 minuti dall'apertura delle valve. (note:la data di scadenza puo essere: 04/05/25 e 08/05/25)",
+  "campi_extra": {
+   "Data": "01/05/2025 Marchio del prodotto: Finittica"
+  },
+  "testo": "RICHIAMO\nData: 01/05/2025 Marchio del prodotto: Finittica\nDenominazione di vendita:ostrica concava di Sardegna \"shardana\"\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Finittica srlu\ncommercializzato:\nLotto di produzione: 250416F62B\nMarchio di identificazione dello stabilimento/del produttore: IT 513 CDM UE\nNome del produttore: FINITTICA SRLU\nSede dello stabilimento: VIA PROVINCIALE 21, 44020 GORO (FE)\nData di scadenza o termine minimo di conservazione: TUTTE, VEDI NOTE\nDescrizione peso/volume unità di vendita: CONFEZIONE IN LEGNO DA 0,5 KG\nMotivo del richiamo:\nRILEVATO GENOMA DI NOROVIRUS\nAvvertenze:\nil prodotto puo essere consumato solamente previa cottura a 100°C dopo 2 minuti dall'apertura delle\nvalve.\n(note:la data di scadenza puo essere: 04/05/25 e 08/05/25)"
+ },
+ "prima_rilevazione": "2026-10-24T22:44:44+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:44:44+00:00"
+}

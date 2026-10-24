@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature/",
+ "titolo": "latte parzialmente scremato pastorizzato ad elevate temperature",
+ "data_pubblicazione": "2025-05-15",
+ "marca": "Basko",
+ "denominazione": "latte parzialmente scremato pastorizzato ad elevate temperature",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale_1761207419.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo ministeriale_1761207419.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale_1761207419.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "latte-parzialmente-scremato-pastorizzato-ad-elevate-temperature",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:44:20+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:44:20+00:00"
+}

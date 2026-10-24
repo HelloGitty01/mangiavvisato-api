@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-assortiti/",
+ "titolo": "Cremini assortiti",
+ "data_pubblicazione": "2025-01-23",
+ "marca": "OSP CAMBIO DI ROTTA",
+ "denominazione": "Cremini assortiti",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino_OPS%20Cambio%20di%20rotta%20_C_1761206272.pdf",
+ "allegati": [
+  {
+   "titolo": "Cremino_OPS Cambio di rotta _C_1761206272.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino_OPS%20Cambio%20di%20rotta%20_C_1761206272.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cremini-assortiti",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cremini assortiti",
+  "operatore": "MAJANI 1796 S.p.A.",
+  "lotti": [
+   "P1TGT"
+  ],
+  "produttore": "MAJANI 1796 S.p.A.",
+  "sede_stabilimento": "Via G. Brodolini, 16 - Loc. Crespellano - 40053 VALSAMOGGIA (BO)",
+  "scadenza": "30-03-2026",
+  "peso_volume": "152g - 15 cremini",
+  "motivo_esteso": "Precauzionale per presenza di glutine oltre i 20 ppm Prodotto dichiarato \"senza glutine\". Il lotto indicato contiene tracce di glutine",
+  "avvertenze": "Prodotto non in commercio. Confezione personalizzata per cliente privato",
+  "campi_extra": {
+   "Data": "21/01/2025 Marchio del prodotto: OPS CAMBIO DI ROTTA"
+  },
+  "testo": "RICHIAMO\nData: 21/01/2025 Marchio del prodotto: OPS CAMBIO DI ROTTA\nDenominazione di vendita:Cremini assortiti\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAJANI 1796 S.p.A.\ncommercializzato:\nLotto di produzione: P1TGT\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MAJANI 1796 S.p.A.\nSede dello stabilimento: Via G. Brodolini, 16 - Loc. Crespellano - 40053 VALSAMOGGIA (BO)\nData di scadenza o termine minimo di conservazione: 30-03-2026\nDescrizione peso/volume unità di vendita: 152g - 15 cremini\nMotivo del richiamo:\nPrecauzionale per presenza di glutine oltre i 20 ppm\nProdotto dichiarato \"senza glutine\". Il lotto indicato contiene tracce di glutine\nAvvertenze:\nProdotto non in commercio. Confezione personalizzata per cliente privato"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:07+00:00"
+}

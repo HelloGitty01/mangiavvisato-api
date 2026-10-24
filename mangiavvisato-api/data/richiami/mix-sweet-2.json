@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-sweet-2/",
+ "titolo": "MIX SWEET 2",
+ "data_pubblicazione": "2026-04-08",
+ "marca": "PUNJABI & RESTAURANT SWEET HOUSE – BITTA HALWAYI",
+ "denominazione": "MIX SWEET 2",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%202_1775641262.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 2_1775641262.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%202_1775641262.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mix-sweet-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MIX SWEET",
+  "operatore": "PUNJABI SWEET SHOP AND CATTERING DI BITTA NARINDER KUMAR",
+  "lotti": [
+   "Non presenteo se del caso tutti i lotti eventualmente riportati"
+  ],
+  "marchio_identificazione": "BI TTA HALWAYI",
+  "produttore": "PUNJABI SWEET SHOP",
+  "sede_stabilimento": "Strada Vicinale dei Pizzali, 12 – Martignana di Po ( CR)",
+  "scadenza": "08-04-2026 ed eventuali date successive",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Etichettatura non corretta. Possibile presenza di allergeni non indicati e non individuabili in etichetta. Possibili coloranti non identificati.",
+  "avvertenze": "In caso di allergie non consumare il prodotto",
+  "campi_extra": {
+   "Data": "08/04/2026 Marchio del prodotto: PUNJABI & RESTAURANT SWEET HOUSE"
+  },
+  "testo": "RICHIAMO\nData: 08/04/2026 Marchio del prodotto: PUNJABI & RESTAURANT SWEET HOUSE\nDenominazione di vendita:MIX SWEET\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PUNJABI SWEET SHOP AND CATTERING DI BITTA NARINDER KUMAR\ncommercializzato:\nLotto di produzione: Non presenteo se del caso tutti i lotti eventualmente riportati\nMarchio di identificazione dello stabilimento/del produttore: BI TTA HALWAYI\nNome del produttore: PUNJABI SWEET SHOP\nSede dello stabilimento: Strada Vicinale dei Pizzali, 12 – Martignana di Po ( CR)\nData di scadenza o termine minimo di conservazione: 08-04-2026 ed eventuali date successive\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nEtichettatura non corretta.\nPossibile presenza di allergeni non indicati e non individuabili in etichetta.\nPossibili coloranti non identificati.\nAvvertenze:\nIn caso di allergie non consumare il prodotto"
+ },
+ "prima_rilevazione": "2026-10-24T22:17:50+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:17:50+00:00"
+}

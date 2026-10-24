@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardina-mar-ligure/",
+ "titolo": "SARDINA MAR LIGURE",
+ "data_pubblicazione": "2025-06-25",
+ "marca": "NESSUN MARCHIO",
+ "denominazione": "SARDINA MAR LIGURE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761207636.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_1761207636.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761207636.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sardina-mar-ligure",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:41:12+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:12+00:00"
+}

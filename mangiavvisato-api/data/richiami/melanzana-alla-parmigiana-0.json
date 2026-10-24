@@ -1,0 +1,37 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melanzana-alla-parmigiana-0/",
+ "titolo": "MELANZANA ALLA PARMIGIANA",
+ "data_pubblicazione": "2025-09-02",
+ "marca": "MULINA",
+ "denominazione": "MELANZANA ALLA PARMIGIANA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MULINA%20MELANZANA%20ALLA%20PARMIGIANA_1761208531.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO MULINA MELANZANA ALLA PARMIGIANA_1761208531.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MULINA%20MELANZANA%20ALLA%20PARMIGIANA_1761208531.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "melanzana-alla-parmigiana-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MELANZANA ALLA PARMIGIANA",
+  "operatore": "MULINA",
+  "sede_stabilimento": "VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)",
+  "scadenza": "14-09-2025",
+  "peso_volume": "500g",
+  "motivo_esteso": "Presenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.",
+  "avvertenze": "Il prodotto non va consumato, e va riportato al punto vendita.",
+  "campi_extra": {
+   "Data": "30/08/2025 Marchio del prodotto: MULINA"
+  },
+  "testo": "RICHIAMO\nData: 30/08/2025 Marchio del prodotto: MULINA\nDenominazione di vendita:MELANZANA ALLA PARMIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MULINA\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)\nData di scadenza o termine minimo di conservazione: 14-09-2025\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPresenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.\nAvvertenze:\nIl prodotto non va consumato, e va riportato al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:36:45+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:36:45+00:00"
+}

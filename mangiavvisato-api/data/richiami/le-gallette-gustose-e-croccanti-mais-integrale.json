@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-gallette-gustose-e-croccanti-mais-integrale/",
+ "titolo": "Le Gallette Gustose e Croccanti Mais Integrale",
+ "data_pubblicazione": "2025-12-03",
+ "marca": "Brezzo",
+ "denominazione": "Le Gallette Gustose e Croccanti Mais Integrale",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Brezzo_1764777854.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_di_richiamo_Brezzo_1764777854.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Brezzo_1764777854.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "le-gallette-gustose-e-croccanti-mais-integrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Le Gallette Gustose e Croccanti Mais Integrale",
+  "operatore": "BREZZO",
+  "lotti": [
+   "C2554",
+   "G2531"
+  ],
+  "marchio_identificazione": "Langalletta srl",
+  "produttore": "Langalletta srl",
+  "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+  "scadenza": "C2554 17/03/26, G2531 14/07/26",
+  "peso_volume": "150g",
+  "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+  "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/11/2025 Marchio del prodotto: BREZZO"
+  },
+  "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: BREZZO\nDenominazione di vendita: Le Gallette Gustose e Croccanti Mais Integrale\nNome o ragione sociale dell'OSA BREZZO\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: C2554, G2531\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: C2554 17/03/26, G2531 14/07/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:29:48+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:29:48+00:00"
+}

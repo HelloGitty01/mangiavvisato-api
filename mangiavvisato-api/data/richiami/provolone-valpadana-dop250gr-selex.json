@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/provolone-valpadana-dop250gr-selex/",
+ "titolo": "PROVOLONE VALPADANA D.O.P.250gr Selex",
+ "data_pubblicazione": "2025-09-03",
+ "marca": "SELEX",
+ "denominazione": "PROVOLONE VALPADANA D.O.P.250gr Selex",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20provolone_1761209131.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo provolone_1761209131.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20provolone_1761209131.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "provolone-valpadana-dop250gr-selex",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PROVOLONE VALPADANA D.O.P. 250g SELEX",
+  "operatore": "Selex Gruppo Commerciale S.p.A.",
+  "lotti": [
+   "3018956"
+  ],
+  "marchio_identificazione": "IT 05 337 UE",
+  "produttore": "ALIMENTA S.p.A. ---Società Unipersonale",
+  "sede_stabilimento": "Via Calnova 97/99 30020 Noventa di Piave (VE)",
+  "scadenza": "06-11-2025",
+  "peso_volume": "250g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo nel punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "01/09/2025 Marchio del prodotto: Selex"
+  },
+  "testo": "RICHIAMO\nData: 01/09/2025 Marchio del prodotto: Selex\nDenominazione di vendita:PROVOLONE VALPADANA D.O.P. 250g SELEX\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex Gruppo Commerciale S.p.A.\ncommercializzato:\nLotto di produzione: 3018956\nMarchio di identificazione dello stabilimento/del produttore: IT 05 337 UE\nNome del produttore: ALIMENTA S.p.A. ---Società Unipersonale\nSede dello stabilimento: Via Calnova 97/99 30020 Noventa di Piave (VE)\nData di scadenza o termine minimo di conservazione: 06-11-2025\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo nel punto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:36:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:36:32+00:00"
+}

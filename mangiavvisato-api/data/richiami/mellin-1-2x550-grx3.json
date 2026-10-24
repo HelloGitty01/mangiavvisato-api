@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mellin-1-2x550-grx3/",
+ "titolo": "MELLIN 1 - (2X550 GR)X3",
+ "data_pubblicazione": "2026-02-10",
+ "marca": "Danone Nutricia Spa Società benefit",
+ "denominazione": "MELLIN 1 - (2X550 GR)X3",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MELLIN%201%20_2X550%20GR_X3_1770728651.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO MELLIN 1 _2X550 GR_X3_1770728651.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MELLIN%201%20_2X550%20GR_X3_1770728651.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mellin-1-2x550-grx3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LATTE PER LATTANTI IN POLVERE",
+  "operatore": "Danone Nutricia Spa Società benefit",
+  "lotti": [
+   "101489727"
+  ],
+  "produttore": "NUTRICIA Zakłady Produkcyjne Sp. z o. o",
+  "sede_stabilimento": "Marka z Jemielnicy 1, 45-952 Opole, Polska",
+  "scadenza": "23/01/2027",
+  "peso_volume": "1100 (2X550g)",
+  "motivo_esteso": "Adeguamento alle nuove linee guida EFSA sui limiti di cereulide.",
+  "avvertenze": "Si avvisano i consumatori di non consumare il prodotto con il lotto sopra indicato Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/02/2026 Marchio del prodotto: MELLIN 1 - (2X550 GR)X3"
+  },
+  "testo": "RICHIAMO\nData: 06/02/2026 Marchio del prodotto: MELLIN 1 - (2X550 GR)X3\nDenominazione di vendita: LATTE PER LATTANTI IN POLVERE\nNome o ragione sociale dell'OSA Danone Nutricia Spa Società benefit\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 101489727\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: NUTRICIA Zakłady Produkcyjne Sp. z o. o\nSede dello stabilimento: Marka z Jemielnicy 1, 45-952 Opole, Polska\nData di scadenza o termine minimo di conservazione: 23/01/2027\nDescrizione peso/volume unità di vendita: 1100 (2X550g)\nMotivo del richiamo:\nAdeguamento alle nuove linee guida EFSA sui limiti di cereulide.\nAvvertenze:\nSi avvisano i consumatori di non consumare il prodotto con il lotto sopra indicato\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:22:38+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:22:38+00:00"
+}

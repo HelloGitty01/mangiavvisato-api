@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizza-salsiccia-e-friarielli-440g/",
+ "titolo": "PIZZA SALSICCIA E FRIARIELLI 440G",
+ "data_pubblicazione": "2025-11-14",
+ "marca": "Napoli Gran Gourmet",
+ "denominazione": "PIZZA SALSICCIA E FRIARIELLI 440G",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/V.P.N.%20richiamo%201_1763143762.pdf",
+ "allegati": [
+  {
+   "titolo": "V.P.N. richiamo 1_1763143762.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/V.P.N.%20richiamo%201_1763143762.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pizza-salsiccia-e-friarielli-440g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PIZZA SALSICCIA E FRIARIELLI 440G",
+  "operatore": "VERA PIZZA NAPOLI SRL",
+  "lotti": [
+   "29/09/2025"
+  ],
+  "produttore": "VERA PIZZA NAPOLI SRL",
+  "sede_stabilimento": "MONTECORVINO PUGLIANO (SA), VIA MONTE BIANCO 4, 84090",
+  "scadenza": "29-03-2027",
+  "peso_volume": "3960 g (440g x 9)",
+  "motivo_esteso": "SOSPETTA PRESENZA DI CLOSTRIDIUM BOTULINUM NEI FRIARIELLI \"BROCCOLI ALLA NAPOLETANA\" SOTTO OLIO DI SEMI DI GIRASOLE",
+  "campi_extra": {
+   "Data": "11/11/2025 Marchio del prodotto: Napoli Gran Gourmet"
+  },
+  "testo": "RICHIAMO\nData: 11/11/2025 Marchio del prodotto: Napoli Gran Gourmet\nDenominazione di vendita:PIZZA SALSICCIA E FRIARIELLI 440G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VERA PIZZA NAPOLI SRL\ncommercializzato:\nLotto di produzione: 29/09/2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: VERA PIZZA NAPOLI SRL\nSede dello stabilimento: MONTECORVINO PUGLIANO (SA), VIA MONTE BIANCO 4, 84090\nData di scadenza o termine minimo di conservazione: 29-03-2027\nDescrizione peso/volume unità di vendita: 3960 g (440g x 9)\nMotivo del richiamo:\nSOSPETTA PRESENZA DI CLOSTRIDIUM BOTULINUM NEI FRIARIELLI \"BROCCOLI ALLA NAPOLETANA\"\nSOTTO OLIO DI SEMI DI GIRASOLE\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:30:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:30:18+00:00"
+}

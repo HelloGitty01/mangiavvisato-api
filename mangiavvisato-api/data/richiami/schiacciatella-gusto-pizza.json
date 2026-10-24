@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/schiacciatella-gusto-pizza/",
+ "titolo": "Schiacciatella gusto pizza",
+ "data_pubblicazione": "2025-04-20",
+ "marca": "Piaceri Mediterranei",
+ "denominazione": "Schiacciatella gusto pizza",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20schiacciatella%20pizza_1761207365.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo schiacciatella pizza_1761207365.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20schiacciatella%20pizza_1761207365.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "schiacciatella-gusto-pizza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Schiacciatella gusto pizza",
+  "operatore": "Eurospital S.p.A.",
+  "lotti": [
+   "241205"
+  ],
+  "produttore": "Celifood srl",
+  "sede_stabilimento": "via delle Camelie 5 - 70026 Modugno (BA)",
+  "scadenza": "05.09.2025",
+  "peso_volume": "sacchetto contenente 100g di prodotto",
+  "motivo_esteso": "presenza di allergeni non dichiarati in etichetta ( proteine del latte)",
+  "avvertenze": "non consumare il prodotto e a riportare la confezione al punto vendita",
+  "campi_extra": {
+   "Data": "19/04/2025 Marchio del prodotto: Piaceri Mediterranei"
+  },
+  "testo": "RICHIAMO\nData: 19/04/2025 Marchio del prodotto: Piaceri Mediterranei\nDenominazione di vendita:Schiacciatella gusto pizza\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospital S.p.A.\ncommercializzato:\nLotto di produzione: 241205\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Celifood srl\nSede dello stabilimento: via delle Camelie 5 - 70026 Modugno (BA)\nData di scadenza o termine minimo di conservazione: 05.09.2025\nDescrizione peso/volume unità di vendita: sacchetto contenente 100g di prodotto\nMotivo del richiamo:\npresenza di allergeni non dichiarati in etichetta ( proteine del latte)\nAvvertenze:\nnon consumare il prodotto e a riportare la confezione al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:45:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:45:35+00:00"
+}

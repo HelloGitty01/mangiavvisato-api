@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soppressa-veneta/",
+ "titolo": "SOPPRESSA VENETA",
+ "data_pubblicazione": "2026-05-30",
+ "marca": "LA FATTORIA",
+ "denominazione": "SOPPRESSA VENETA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026%2005.29%20S%20Cartello_richiamo_Sopressa%20Veneta%20La%20Fattoria_1780160978.pdf",
+ "allegati": [
+  {
+   "titolo": "2026 05.29 S Cartello_richiamo_Sopressa Veneta La Fattoria_1780160978.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026%2005.29%20S%20Cartello_richiamo_Sopressa%20Veneta%20La%20Fattoria_1780160978.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "soppressa-veneta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SOPRESSA VENETA",
+  "operatore": "MD S.P.A.",
+  "lotti": [
+   "716"
+  ],
+  "marchio_identificazione": "CE IT 1255 M",
+  "produttore": "SAVEN S.R.L.",
+  "sede_stabilimento": "VIA TRIESTE 158 - 36010 ZANE'",
+  "scadenza": "29-08-2026",
+  "peso_volume": "600 GRAMMI",
+  "motivo_esteso": "PRESENZA DI SALMONELLA SPP",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO RENDERLO AL VENDITORE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29/05/2026 Marchio del prodotto: LA FATTORIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29/05/2026 Marchio del prodotto: LA FATTORIA\nDenominazione di vendita:SOPRESSA VENETA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MD S.P.A.\ncommercializzato:\nLotto di produzione: 716\nMarchio di identificazione dello stabilimento/del produttore: CE IT 1255 M\nNome del produttore: SAVEN S.R.L.\nSede dello stabilimento: VIA TRIESTE 158 - 36010 ZANE'\nData di scadenza o termine minimo di conservazione: 29-08-2026\nDescrizione peso/volume unità di vendita: 600 GRAMMI\nMotivo del richiamo:\nPRESENZA DI SALMONELLA SPP\nAvvertenze:\nNON CONSUMARE IL PRODOTTO\nRENDERLO AL VENDITORE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:06+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:06+00:00"
+}

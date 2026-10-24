@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-preparata-con-sugo-2/",
+ "titolo": "Trippa preparata con sugo",
+ "data_pubblicazione": "2026-09-04",
+ "marca": "SIMMENTHAL",
+ "denominazione": "Trippa preparata con sugo",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20TRIPPA%20K155%20_%20K175%20_%20K176_1788618852.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo TRIPPA K155 _ K175 _ K176_1788618852.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20TRIPPA%20K155%20_%20K175%20_%20K176_1788618852.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "trippa-preparata-con-sugo-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Trippa preparata con sugo",
+  "operatore": "BOLTON FOOD S.P.A.",
+  "lotti": [
+   "K155 - K175 - K176"
+  ],
+  "marchio_identificazione": "IT 14 L UE",
+  "produttore": "BOLTON FOOD S.P.A.",
+  "sede_stabilimento": "Via Matteotti 2 Aprilia (LT)",
+  "scadenza": "30-06-2029",
+  "peso_volume": "420g",
+  "motivo_esteso": "Possibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta",
+  "avvertenze": "Si prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "02/09/2026 Marchio del prodotto: SIMMENTHAL"
+  },
+  "testo": "RICHIAMO\nData: 02/09/2026 Marchio del prodotto: SIMMENTHAL\nDenominazione di vendita:Trippa preparata con sugo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BOLTON FOOD S.P.A.\ncommercializzato:\nLotto di produzione: K155 - K175 - K176\nMarchio di identificazione dello stabilimento/del produttore: IT 14 L UE\nNome del produttore: BOLTON FOOD S.P.A.\nSede dello stabilimento: Via Matteotti 2 Aprilia (LT)\nData di scadenza o termine minimo di conservazione: 30-06-2029\nDescrizione peso/volume unità di vendita: 420g\nMotivo del richiamo:\nPossibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta\nAvvertenze:\nSi prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:02:06+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:06+00:00"
+}

@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-yogurt-e-arancia-amara/",
+ "titolo": "Mousse yogurt e arancia amara",
+ "data_pubblicazione": "2025-01-21",
+ "marca": "Iginio Massari Alta Pasticceria",
+ "denominazione": "Mousse yogurt e arancia amara",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20yogurt%20arancia%20amara_1761206243.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello yogurt arancia amara_1761206243.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20yogurt%20arancia%20amara_1761206243.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mousse-yogurt-e-arancia-amara",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mousse yogurt e arancia amara",
+  "operatore": "Iginio Massari Alta Pasticceria",
+  "lotti": [
+   "240618",
+   "240628",
+   "240910",
+   "240919",
+   "240920",
+   "241001",
+   "241101"
+  ],
+  "produttore": "Iginio Massari Srl",
+  "sede_stabilimento": "Via Orzinuovi 117, 25125 Brescia (BS)",
+  "scadenza": "18/02/2025 (Lot.240618); 28/02/2025 (Lot.240628); 10/05/2025 (Lot.240910); 19/05/2025 (Lot.240919); 20/05/2025 (Lot.240920); 01/06/2025 (Lot.241001); 01/07/2025 (Lot.241101)",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Etichettatura non conforme Immagine del prodotto",
+  "campi_extra": {
+   "Data": "16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria"
+  },
+  "testo": "RICHIAMO\nData: 16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria\nDenominazione di vendita: Mousse yogurt e arancia amara\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Iginio Massari Alta Pasticceria\ncommercializzato:\nLotto di produzione: 240618; 240628; 240910; 240919; 240920; 241001; 241101\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Iginio Massari Srl\nSede dello stabilimento: Via Orzinuovi 117, 25125 Brescia (BS)\nData di scadenza o termine minimo di conservazione: 18/02/2025 (Lot.240618); 28/02/2025\n(Lot.240628); 10/05/2025 (Lot.240910); 19/05/2025 (Lot.240919); 20/05/2025 (Lot.240920);\n01/06/2025 (Lot.241001); 01/07/2025 (Lot.241101)\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo: Etichettatura non conforme\nImmagine del prodotto:"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:24+00:00"
+}

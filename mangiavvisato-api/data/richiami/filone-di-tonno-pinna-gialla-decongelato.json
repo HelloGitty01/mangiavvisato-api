@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-tonno-pinna-gialla-decongelato/",
+ "titolo": "Filone di Tonno a pinna gialla decongelato",
+ "data_pubblicazione": "2026-02-20",
+ "marca": "COPROMAR Srl",
+ "denominazione": "Filone di Tonno a pinna gialla decongelato",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO_1771592905.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO PRODOTTO_1771592905.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO_1771592905.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filone-di-tonno-pinna-gialla-decongelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILONE DI TONNO A PINNA GIALLA DECONGELATO",
+  "operatore": "COPROMAR Srl",
+  "lotti": [
+   "SNB073M0D180762"
+  ],
+  "marchio_identificazione": "IT Z7Z8J CE",
+  "produttore": "COPROMAR Srl",
+  "sede_stabilimento": "Via G. Galilei - 25015 Desenzano del Garda (BS)",
+  "scadenza": "20/02/2026",
+  "peso_volume": "Sfuso",
+  "motivo_esteso": "Istamina oltre i limiti di legge",
+  "avvertenze": "Prodotto non idoneo al consumo. Si prega di non consumare il prodotto e di riconsegnarlo al punto vendita dove si è verificato l'acquisto.",
+  "campi_extra": {
+   "Data": "18/02/2026 Marchio del prodotto: COPROMAR Srl"
+  },
+  "testo": "RICHIAMO\nData: 18/02/2026 Marchio del prodotto: COPROMAR Srl\nDenominazione di vendita: FILONE DI TONNO A PINNA GIALLA DECONGELATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COPROMAR Srl\ncommercializzato:\nLotto di produzione: SNB073M0D180762\nMarchio di identificazione dello stabilimento/del produttore: IT Z7Z8J CE\nNome del produttore: COPROMAR Srl\nSede dello stabilimento: Via G. Galilei - 25015 Desenzano del Garda (BS)\nData di scadenza o termine minimo di conservazione: 20/02/2026\nDescrizione peso/volume unità di vendita: Sfuso\nMotivo del richiamo:\nIstamina oltre i limiti di legge\nAvvertenze:\nProdotto non idoneo al consumo.\nSi prega di non consumare il prodotto e di riconsegnarlo al punto vendita dove si è verificato l'acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:21:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:21:01+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-contadina-di-suino/",
+ "titolo": "SALAMELLA CONTADINA DI SUINO",
+ "data_pubblicazione": "2026-03-27",
+ "marca": "FIOR DI SCELTA",
+ "denominazione": "SALAMELLA CONTADINA DI SUINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20salamella%20contadina%20di%20suino_1774616964.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo salamella contadina di suino_1774616964.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20salamella%20contadina%20di%20suino_1774616964.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamella-contadina-di-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMELLA CONTADINA DI SUINO",
+  "operatore": "CARNI CELIN SRL",
+  "lotti": [
+   "26124"
+  ],
+  "marchio_identificazione": "IT 2361-P CE",
+  "produttore": "CARNI CELIN SRL",
+  "sede_stabilimento": "VIA STAZIONE 119/I 30035 MIRANO (VE)",
+  "scadenza": "28-03-2026",
+  "peso_volume": "300 g",
+  "motivo_esteso": "Possibile presenza di Salmonella",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/03/2026 Marchio del prodotto: FIOR DI SCELTA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/03/2026 Marchio del prodotto: FIOR DI SCELTA\nDenominazione di vendita:SALAMELLA CONTADINA DI SUINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CARNI CELIN SRL\ncommercializzato:\nLotto di produzione: 26124\nMarchio di identificazione dello stabilimento/del produttore: IT 2361-P CE\nNome del produttore: CARNI CELIN SRL\nSede dello stabilimento: VIA STAZIONE 119/I 30035 MIRANO (VE)\nData di scadenza o termine minimo di conservazione: 28-03-2026\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPossibile presenza di Salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:37+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:37+00:00"
+}

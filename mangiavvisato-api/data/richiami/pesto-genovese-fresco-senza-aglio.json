@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-fresco-senza-aglio/",
+ "titolo": "PESTO GENOVESE FRESCO SENZA AGLIO",
+ "data_pubblicazione": "2025-12-11",
+ "marca": "Fior Fiore COOP",
+ "denominazione": "PESTO GENOVESE FRESCO SENZA AGLIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PESTO%20COOP%20modello%20richiamo%20FF_1765477218.pdf",
+ "allegati": [
+  {
+   "titolo": "PESTO COOP modello richiamo FF_1765477218.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PESTO%20COOP%20modello%20richiamo%20FF_1765477218.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-genovese-fresco-senza-aglio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PESTO GENOVESE FRESCO SENZA AGLIO",
+  "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)",
+  "lotti": [
+   "24/12/25"
+  ],
+  "marchio_identificazione": "IT N2R 69 UE",
+  "produttore": "IFEX GROUP SRL",
+  "sede_stabilimento": "VIA DELLA NUNZIATA 8 - 17100 - SAVONA",
+  "scadenza": "24-12-2025",
+  "peso_volume": "130g",
+  "motivo_esteso": "Possibile contaminazione microbiologica",
+  "avvertenze": "Invitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto vendita per il rimborso",
+  "campi_extra": {
+   "Data": "10/12/2025 Marchio del prodotto: FIOR FIORE COOP"
+  },
+  "testo": "RICHIAMO\nData: 10/12/2025 Marchio del prodotto: FIOR FIORE COOP\nDenominazione di vendita:PESTO GENOVESE FRESCO SENZA AGLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 24/12/25\nMarchio di identificazione dello stabilimento/del produttore: IT N2R 69 UE\nNome del produttore: IFEX GROUP SRL\nSede dello stabilimento: VIA DELLA NUNZIATA 8 - 17100 - SAVONA\nData di scadenza o termine minimo di conservazione: 24-12-2025\nDescrizione peso/volume unità di vendita: 130g\nMotivo del richiamo:\nPossibile contaminazione microbiologica\nAvvertenze:\nInvitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto\nvendita per il rimborso"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:56+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:56+00:00"
+}

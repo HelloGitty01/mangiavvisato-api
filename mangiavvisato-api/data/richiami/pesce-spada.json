@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada/",
+ "titolo": "Pesce Spada",
+ "data_pubblicazione": "2026-04-09",
+ "marca": "Surgelati Italpesca",
+ "denominazione": "Pesce Spada",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_Pesce%20spada_Italpesca%20sas_1775755184.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di Richiamo_Pesce spada_Italpesca sas_1775755184.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_Pesce%20spada_Italpesca%20sas_1775755184.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesce-spada",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PESCE SPADA",
+  "operatore": "Italpesca s.a.s. di Gerardo Cozzolino & C.",
+  "lotti": [
+   "Lotto 81/25"
+  ],
+  "marchio_identificazione": "IT U3T43 UE",
+  "produttore": "ITALPESCA S.a.s. di Cozzolino Gerardo & C.",
+  "sede_stabilimento": "Zona ASI Acerra – Via delle Industrie 126, 80011 Acerra (NA) – Loc. Pantano",
+  "scadenza": "01/10/2027",
+  "peso_volume": "920 Kg",
+  "avvertenze": "Il consumo di pesce spada contaminato da mercurio superiore ai limiti stabiliti dalla normativa vigente può comportare rischi per la salute, in particolare per donne in gravidanza, bambini e soggetti sensibili. Chiunque sia in possesso di questo prodotto, è invitato a non mangiarlo e a restituirlo al punto vendita in cui è stato acquistato. INSERIRE IMMAGINE UNO: INSERIRE IMMAGINE DUE",
+  "campi_extra": {
+   "Modello R": "Modello di richiamo Allegato D del DG n. 593 del 28 dicembre 2021 rep. Atti n.",
+   "DATA": "07/04/2026 MARCHIO DEL PRODOTTO: Surgelati Italpesca"
+  },
+  "testo": "Modello R: Modello di richiamo Allegato D del DG n. 593 del 28 dicembre 2021 rep. Atti n.\n50 CSR del 5 maggio 2021\nDATA: 07/04/2026 MARCHIO DEL PRODOTTO: Surgelati Italpesca\nDENOMINAZIONE DI VENDITA: PESCE SPADA\nNOME O RAGIONE SOCIALE DELL’OSA A\nNOME DEL QUALE IL PRODOTTO È Italpesca s.a.s. di Gerardo Cozzolino & C.\nCOMMERCIALIZZATO:\nLOTTO DI PRODUZIONE: Lotto 81/25\nMARCHIO DI IDENTIFICAZIONE DELLO STABILIMENTO/DEL PRODUTTORE: IT U3T43 UE\nNOME DEL PRODUTTORE: ITALPESCA S.a.s. di Cozzolino Gerardo & C.\nSEDE DELLO STABILIMENTO: Zona ASI Acerra – Via delle Industrie 126, 80011 Acerra (NA) – Loc. Pantano\nDATA DI SCADENZA O TERMINE MINIMO DI CONSERVAZIONE: 01/10/2027\nDESCRIZIONE PESO/VOLUME UNITÀ DI VENDITA: 920 Kg\nMOTIVO DEL RICHIAMO:\nLotto di pesce spada non conforme per presenza di Mercurio oltre i limiti.\nAVVERTENZE:\nIl consumo di pesce spada contaminato da mercurio superiore ai limiti stabiliti dalla normativa vigente può comportare rischi per la\nsalute, in particolare per donne in gravidanza, bambini e soggetti sensibili.\nChiunque sia in possesso di questo prodotto, è invitato a non mangiarlo e a restituirlo al punto vendita in cui è stato acquistato.\nINSERIRE IMMAGINE UNO:\nINSERIRE IMMAGINE DUE:"
+ },
+ "prima_rilevazione": "2026-10-24T22:17:45+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:17:45+00:00"
+}

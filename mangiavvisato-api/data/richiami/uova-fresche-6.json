@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-6/",
+ "titolo": "UOVA FRESCHE",
+ "data_pubblicazione": "2026-02-19",
+ "marca": "LA CASETTA DELLE UOVA",
+ "denominazione": "UOVA FRESCHE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FACCIOLI_1771506164.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO FACCIOLI_1771506164.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FACCIOLI_1771506164.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-6",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE",
+  "operatore": "LA CASETTA DELLE UOVA",
+  "lotti": [
+   "1-29"
+  ],
+  "marchio_identificazione": "2IT061VR064",
+  "produttore": "SOC. AGR. FACCIOLI MARCO & C. SAS (CENTRO IMBALLAGGIO IT020038)",
+  "sede_stabilimento": "ROVERBELLA VIA MONTE SEI BUSI 25/2",
+  "scadenza": "23-02-2026",
+  "peso_volume": "CONFEZIONI DA 6/12/30 UOVA",
+  "motivo_esteso": "PRESENZA MICRORGANISMI PATOGENI (SALMONELLA SPP.)",
+  "avvertenze": "GENTILE CLIENTE, CHIEDIAMO DI NON CONSUMARE IL PRODOTTO CON LOTTO DI SCADENZA INDICATO (UOVA GUSCIO BIANCO) E DI CONTATTARCI PER RICONSEGNAREIL PRODOTTO PRESSO LA NOSTRA SEDE AL N. WHATSAPP 03761230987",
+  "campi_extra": {
+   "Data": "19-02-26 Marchio del prodotto: LA CASETTA DELLE UOVA"
+  },
+  "testo": "RICHIAMO\nData: 19-02-26 Marchio del prodotto: LA CASETTA DELLE UOVA\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA CASETTA DELLE UOVA\ncommercializzato:\nLotto di produzione: 1-29\nMarchio di identificazione dello stabilimento/del produttore: 2IT061VR064\nNome del produttore: SOC. AGR. FACCIOLI MARCO & C. SAS (CENTRO IMBALLAGGIO IT020038)\nSede dello stabilimento: ROVERBELLA VIA MONTE SEI BUSI 25/2\nData di scadenza o termine minimo di conservazione: 23-02-2026\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 6/12/30 UOVA\nMotivo del richiamo:\nPRESENZA MICRORGANISMI PATOGENI (SALMONELLA SPP.)\nAvvertenze:\nGENTILE CLIENTE, CHIEDIAMO DI NON CONSUMARE IL PRODOTTO CON LOTTO DI SCADENZA INDICATO\n(UOVA GUSCIO BIANCO) E DI CONTATTARCI PER RICONSEGNAREIL PRODOTTO PRESSO LA NOSTRA\nSEDE AL N. WHATSAPP 03761230987"
+ },
+ "prima_rilevazione": "2026-10-24T22:21:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:21:09+00:00"
+}

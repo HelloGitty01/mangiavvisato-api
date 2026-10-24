@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-220g-24cf-x4-0/",
+ "titolo": "UOVA AIA APERTO 220G 24CF X4",
+ "data_pubblicazione": "2026-08-06",
+ "marca": "AIA",
+ "denominazione": "UOVA AIA APERTO 220G 24CF X4",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4%20_1__1786029761.pdf",
+ "allegati": [
+  {
+   "titolo": "REVOCA _ UOVA AIA APERTO 220G 24CF X4 _1__1786029761.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4%20_1__1786029761.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-aia-aperto-220g-24cf-x4-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA AIA APERTO 220G 24CF X4",
+  "operatore": "A.I.A. S.p.A.",
+  "lotti": [
+   "1IT040VR006"
+  ],
+  "marchio_identificazione": "IT Q8C3N",
+  "produttore": "Agricola Tre Valli Soc.Coop.",
+  "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+  "scadenza": "04/08/2026",
+  "peso_volume": "confezione 4 pezzi peso 220 g",
+  "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+  "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232",
+  "campi_extra": {
+   "Data": "23/07/2026 Marchio del prodotto: AIA"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 23/07/2026 Marchio del prodotto: AIA\nDenominazione di vendita: UOVA AIA APERTO 220G 24CF X4\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.A. S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 4 pezzi peso 220 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:45+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:45+00:00"
+}

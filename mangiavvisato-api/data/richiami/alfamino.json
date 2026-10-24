@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alfamino/",
+ "titolo": "ALFAMINO",
+ "data_pubblicazione": "2026-01-09",
+ "marca": "Nestlè Italiana SpA",
+ "denominazione": "ALFAMINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/13%20Modulo%20Richiamo%20ALFAMINO%20ACS041%206x400g%20IT_rev1_1767982052.pdf",
+ "allegati": [
+  {
+   "titolo": "13 Modulo Richiamo ALFAMINO ACS041 6x400g IT_rev1_1767982052.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/13%20Modulo%20Richiamo%20ALFAMINO%20ACS041%206x400g%20IT_rev1_1767982052.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "alfamino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ALFAMINO ACS041 6x400gIT",
+  "operatore": "Nestlé Italiana SpA",
+  "lotti": [
+   "51140017Y1"
+  ],
+  "marchio_identificazione": "N/A",
+  "produttore": "Nestlé Suisse SA",
+  "sede_stabilimento": "Nestlé Strasse 1, 3510, Konolfingen, Svizzera",
+  "scadenza": "30/04/2027",
+  "peso_volume": "400g",
+  "motivo_esteso": "Potenziale contaminazione microbiologica (possibile presenza di cereulide) dei lotti 51140017Y1 – scadenza 30/04/2027",
+  "avvertenze": "Avvertiamo i consumatori in possesso del lotto 51140017Y1di non consumarlo Immagine 1",
+  "testo": "RICHIAMO\nData 05/01/2026 Marchio del Prodotto ALFAMINO\nDenominazione di Vendita ALFAMINO ACS041 6x400gIT\nNome o ragione sociale dell’OSA a\nnome del quale il prodotto è Nestlé Italiana SpA\ncommercializzato\nLotto di Produzione: 51140017Y1\nMarchio di identificazione dello stabilimento/del N/A\nproduttore:\nNome del produttore: Nestlé Suisse SA\nSede dello stabilimento: Nestlé Strasse 1, 3510, Konolfingen, Svizzera\nData di scadenza o termine minimo di conservazione: 30/04/2027\nDescrizione peso/volume unità di vendita 400g\nMotivo del richiamo:\nPotenziale contaminazione microbiologica (possibile presenza di cereulide) dei lotti\n51140017Y1 – scadenza 30/04/2027\nAvvertenze:\nAvvertiamo i consumatori in possesso del lotto 51140017Y1di non consumarlo\nImmagine 1"
+ },
+ "prima_rilevazione": "2026-10-24T22:25:33+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:25:33+00:00"
+}

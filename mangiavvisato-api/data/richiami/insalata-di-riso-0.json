@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-0/",
+ "titolo": "INSALATA DI RISO",
+ "data_pubblicazione": "2026-07-09",
+ "marca": "I PRONTISSIMI",
+ "denominazione": "INSALATA DI RISO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_SAIT_%20_1__1783607741.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO INSALATA DI RISO 250G SCADENZA 23.07.26 _SAIT_ _1__1783607741.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_SAIT_%20_1__1783607741.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-di-riso-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:06:55+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:55+00:00"
+}

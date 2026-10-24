@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-fiordilatte/",
+ "titolo": "Mozzarella Fiordilatte",
+ "data_pubblicazione": "2025-08-22",
+ "marca": "AZ.AGR. FATTORIA DEI CALANCHI di Cerniero B. & D.",
+ "denominazione": "Mozzarella Fiordilatte",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULI%20RICHIAMO%20FATTORIA%20DEI%20CALANCHI_1761208488.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULI RICHIAMO FATTORIA DEI CALANCHI_1761208488.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULI%20RICHIAMO%20FATTORIA%20DEI%20CALANCHI_1761208488.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-fiordilatte",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:37:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:09+00:00"
+}

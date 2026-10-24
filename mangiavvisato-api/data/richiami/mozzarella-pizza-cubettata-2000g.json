@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-pizza-cubettata-2000g/",
+ "titolo": "Mozzarella per pizza Cubettata 2000g",
+ "data_pubblicazione": "2025-08-28",
+ "marca": "Latteria Soligo sac",
+ "denominazione": "Mozzarella per pizza Cubettata 2000g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Mozzarella%20Soligo%20Cubettata_1761208507.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Mozzarella Soligo Cubettata_1761208507.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Mozzarella%20Soligo%20Cubettata_1761208507.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-pizza-cubettata-2000g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:37:06+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:06+00:00"
+}

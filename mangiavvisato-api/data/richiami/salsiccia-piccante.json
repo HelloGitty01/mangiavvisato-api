@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-piccante/",
+ "titolo": "Salsiccia piccante",
+ "data_pubblicazione": "2025-12-22",
+ "marca": "Salsiccia piccante",
+ "denominazione": "Salsiccia piccante",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salsiccia_1766417971.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello salsiccia_1766417971.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salsiccia_1766417971.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-piccante",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "salsiccia piccante",
+  "operatore": "TRINITA' SPA FOOD INDUSTRY-VIA R.Maffei 195- VALLESE OPPEANO (VR) 908570",
+  "lotti": [
+   "IT 1025L CE"
+  ],
+  "marchio_identificazione": "EMILIA OVEST SALUMI SOC. COP.",
+  "sede_stabilimento": "VIA MARCONI 23 - 29010 - ALSENO (PC)",
+  "scadenza": "AVVERTENZE",
+  "peso_volume": "CONFEZIONE 500 G",
+  "motivo_esteso": "PRESENZA DI LISTERIA",
+  "avvertenze": "SCADENZE PRODOTTO RICHIAMATO: 19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 - 11/01/2026 -18/01/2026-25/01/2026",
+  "campi_extra": {
+   "Data": "202511-07 Marchio del prodotto:",
+   "SCADENZE PRODOTTO RICHIAMATO": "19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 -"
+  },
+  "testo": "RICHIAMO\nData: 202511-07 Marchio del prodotto:\nDenominazione di vendita: salsiccia piccante\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRINITA' SPA FOOD INDUSTRY-VIA R.Maffei 195- VALLESE OPPEANO (VR)\ncommercializzato:\n908570\nLotto di produzione:\nIT 1025L CE\nMarchio di identificazione dello stabilimento/del produttore:\nEMILIA OVEST SALUMI SOC. COP.\nNome del produttore:\nSede dello stabilimento:VIA MARCONI 23 - 29010 - ALSENO (PC)\nData di scadenza o termine minimo di conservazione: AVVERTENZE\nDescrizione peso/volume unità di vendita: CONFEZIONE 500 G\nMotivo del richiamo:\nPRESENZA DI LISTERIA\nAvvertenze:\nSCADENZE PRODOTTO RICHIAMATO: 19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 -\n11/01/2026 -18/01/2026-25/01/2026"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:35+00:00"
+}

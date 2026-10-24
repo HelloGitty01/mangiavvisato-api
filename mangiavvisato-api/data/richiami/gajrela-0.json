@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gajrela-0/",
+ "titolo": "GAJRELA",
+ "data_pubblicazione": "2026-04-02",
+ "marca": "PUNJABI & RESTAURANT SWEET HOUSE - BITTA HALY",
+ "denominazione": "GAJRELA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%201_1775122973.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 1_1775122973.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%201_1775122973.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gajrela-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "o se del caso tutti i lotti eventualmente riportati\nassente\n500 GR"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:23+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:23+00:00"
+}

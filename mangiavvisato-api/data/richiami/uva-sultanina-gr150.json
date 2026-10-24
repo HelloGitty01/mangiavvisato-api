@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-sultanina-gr150/",
+ "titolo": "UVA SULTANINA GR.150",
+ "data_pubblicazione": "2026-05-15",
+ "marca": "FRUIT'S BETTER",
+ "denominazione": "UVA SULTANINA GR.150",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_FRUIT.S_BETTER_MANNONI_1778871214.pdf",
+ "allegati": [
+  {
+   "titolo": "120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_FRUIT.S_BETTER_MANNONI_1778871214.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_FRUIT.S_BETTER_MANNONI_1778871214.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uva-sultanina-gr150",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "lotti": [
+   "26013"
+  ],
+  "marchio_identificazione": "FRUIT’S BETTER",
+  "produttore": "MOCERINO FRUTTA SECCA SRL",
+  "sede_stabilimento": "VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "scadenza": "13/01/2027",
+  "peso_volume": "150",
+  "motivo_esteso": "Presenza di OCRATOSSINA A oltre i limiti di legge consentiti.",
+  "avvertenze": "Possibili disturbi gastrointestinali dovuto all'ingestione dell'alimento. Inserire immagine due: G UVA SULTANINA GR.150",
+  "campi_extra": {
+   "Data": "14/05/2026 Marchio del prodotto: FRUIT’S BETTER"
+  },
+  "testo": "RICHIAMO\nData: 14/05/2026 Marchio del prodotto: FRUIT’S BETTER\nDenominazione di vendita:\nNome o ragione sociale dell'OSA MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA\na nome del quale il prodotto è\nVES.NA (NA)\ncommercializzato:\nLotto di produzione: 26013\nMarchio di identificazione dello stabilimento/del produttore: FRUIT’S BETTER\nNome del produttore: MOCERINO FRUTTA SECCA SRL\nSede dello stabilimento: VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)\nData di scadenza o termine minimo di conservazione: 13/01/2027\nDescrizione peso/volume unità di vendita: 150\nMotivo del richiamo:\nPresenza di OCRATOSSINA A oltre i limiti di legge consentiti.\nAvvertenze:\nPossibili disturbi gastrointestinali dovuto all'ingestione dell'alimento.\nInserire immagine due:\nG\nUVA SULTANINA GR.150"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:53+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:53+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-macinata-pietra-500g/",
+ "titolo": "POLENTA MACINATA A PIETRA 500g",
+ "data_pubblicazione": "2025-10-10",
+ "marca": "BREZZO",
+ "denominazione": "POLENTA MACINATA A PIETRA 500g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_di_richiamo_1761209220.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_di_richiamo_1761209220.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_di_richiamo_1761209220.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polenta-macinata-pietra-500g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLENTA MACINATA A PIETRA 500g",
+  "operatore": "APICOLTURA BREZZO s.r.l.",
+  "lotti": [
+   "06022026"
+  ],
+  "marchio_identificazione": "BREZZO",
+  "produttore": "MOLINO ROSSO",
+  "sede_stabilimento": "VIA TORINO, 41 - CORNELIANO (CN)",
+  "scadenza": "06-02-2026",
+  "peso_volume": "500g",
+  "motivo_esteso": "CONTENUTO DI FUMONISINE SUPERIORE AI LIMITI DI LEGGE",
+  "avvertenze": "RESTITUIRE ALLA NOSTRA AZIENDA IL PRODOTTO OGGETTO DI RICHIAMO ED ESPORRE IL PRESENTE MODELLO PRESSO IL VS PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "07/10/2025 Marchio del prodotto: APICOLTURA BREZZO S.R.L."
+  },
+  "testo": "RICHIAMO\nData: 07/10/2025 Marchio del prodotto: APICOLTURA BREZZO S.R.L.\nDenominazione di vendita:POLENTA MACINATA A PIETRA 500g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è APICOLTURA BREZZO s.r.l.\ncommercializzato:\nLotto di produzione: 06022026\nMarchio di identificazione dello stabilimento/del produttore: BREZZO\nNome del produttore: MOLINO ROSSO\nSede dello stabilimento: VIA TORINO, 41 - CORNELIANO (CN)\nData di scadenza o termine minimo di conservazione: 06-02-2026\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nCONTENUTO DI FUMONISINE SUPERIORE AI LIMITI DI LEGGE\nAvvertenze:\nRESTITUIRE ALLA NOSTRA AZIENDA IL PRODOTTO OGGETTO DI RICHIAMO ED ESPORRE IL PRESENTE\nMODELLO PRESSO IL VS PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:34:20+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:20+00:00"
+}

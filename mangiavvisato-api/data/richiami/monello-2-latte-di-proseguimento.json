@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/monello-2-latte-di-proseguimento/",
+ "titolo": "MONELLO 2 LATTE DI PROSEGUIMENTO",
+ "data_pubblicazione": "2026-02-04",
+ "marca": "MONELLO",
+ "denominazione": "MONELLO 2 LATTE DI PROSEGUIMENTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20MONELLO%202%20L.Q5185B%20e%20L.%20Q5150B_1770228618.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo MONELLO 2 L.Q5185B e L. Q5150B_1770228618.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20MONELLO%202%20L.Q5185B%20e%20L.%20Q5150B_1770228618.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "monello-2-latte-di-proseguimento",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MONELLO 2 LATTE DI PROSEGUIMENTO",
+  "operatore": "STERIL FARMA SRL",
+  "lotti": [
+   "Q5150B - Q5185B"
+  ],
+  "marchio_identificazione": "IT 08 4 CE",
+  "produttore": "GRANAROLO SPA",
+  "sede_stabilimento": "Via Verdi, 74 - 41019 Soliera (MO)",
+  "scadenza": "Q5150B (23/02/26) - Q5185B (30/03/26)",
+  "peso_volume": "500 ML",
+  "motivo_esteso": "Potenziale deviazione microbiologica di un ingrediente",
+  "avvertenze": "Avvertiamo i consumatori in possesso dei lotti Q5150B - Q5185B di non consumarli e di riportarli al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "03/02/2026 Marchio del prodotto: MONELLO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 03/02/2026 Marchio del prodotto: MONELLO\nDenominazione di vendita: MONELLO 2 LATTE DI PROSEGUIMENTO\nNome o ragione sociale dell'OSA STERIL FARMA SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: Q5150B - Q5185B\nMarchio di identificazione dello stabilimento/del produttore: IT 08 4 CE\nNome del produttore: GRANAROLO SPA\nSede dello stabilimento: Via Verdi, 74 - 41019 Soliera (MO)\nData di scadenza o termine minimo di conservazione: Q5150B (23/02/26) - Q5185B (30/03/26)\nDescrizione peso/volume unità di vendita: 500 ML\nMotivo del richiamo:\nPotenziale deviazione microbiologica di un ingrediente\nAvvertenze:\nAvvertiamo i consumatori in possesso dei lotti Q5150B - Q5185B di non consumarli e di riportarli\nal punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:23:30+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:23:30+00:00"
+}

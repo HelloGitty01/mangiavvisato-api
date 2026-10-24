@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-0/",
+ "titolo": "Latte intero pastorizzato a temperatura elevata",
+ "data_pubblicazione": "2025-04-29",
+ "marca": "Giglio",
+ "denominazione": "Latte intero pastorizzato a temperatura elevata",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLGiglio22.04.25%20_1__1761207386.pdf",
+ "allegati": [
+  {
+   "titolo": "cartelloRichiamoESLGiglio22.04.25 _1__1761207386.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloRichiamoESLGiglio22.04.25%20_1__1761207386.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "latte-intero-pastorizzato-temperatura-elevata-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "latte intero pastorizzato a temperatura elevata",
+  "operatore": "Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino",
+  "lotti": [
+   "15/05/25 B"
+  ],
+  "marchio_identificazione": "Centrale del Latte d'Italia S.p.A.",
+  "produttore": "Centrale del Latte d'Italia S.p.A.",
+  "sede_stabilimento": "via A. Faedo, 60 Vicenza",
+  "scadenza": "15/05/25",
+  "peso_volume": "1 litro",
+  "avvertenze": "Non consumare il prodotto, restituire al punto vendita",
+  "campi_extra": {
+   "Data": "22/04/2025 Marchio del prodotto: Giglio"
+  },
+  "testo": "RICHIAMO\nData: 22/04/2025 Marchio del prodotto: Giglio\nDenominazione di vendita:latte intero pastorizzato a temperatura elevata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino\ncommercializzato:\nLotto di produzione: 15/05/25 B\nMarchio di identificazione dello stabilimento/del produttore: Centrale del Latte d'Italia S.p.A.\nNome del produttore: Centrale del Latte d'Italia S.p.A.\nSede dello stabilimento: via A. Faedo, 60 Vicenza\nData di scadenza o termine minimo di conservazione: 15/05/25\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nLotto con possibile presenza di corpi estranei\nAvvertenze:\nNon consumare il prodotto, restituire al punto vendita\ndata di scadenza e lotto 15/05/25 B stampato sul collo della bottiglia"
+ },
+ "prima_rilevazione": "2026-10-24T22:45:02+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:45:02+00:00"
+}

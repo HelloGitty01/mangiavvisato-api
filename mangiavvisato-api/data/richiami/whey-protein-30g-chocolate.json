@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/whey-protein-30g-chocolate/",
+ "titolo": "WHEY PROTEIN 30G CHOCOLATE",
+ "data_pubblicazione": "2024-12-12",
+ "marca": "Decathlon",
+ "denominazione": "WHEY PROTEIN 30G CHOCOLATE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_Decathlon_1761206112.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello_richiamo_Decathlon_1761206112.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_Decathlon_1761206112.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "whey-protein-30g-chocolate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:52:56+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:52:56+00:00"
+}

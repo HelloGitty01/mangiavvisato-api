@@ -1,0 +1,49 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-mais-rosso-biologico-90g/",
+ "titolo": "Gallette mais rosso biologico 90g",
+ "data_pubblicazione": "2025-12-30",
+ "marca": "Azienda Agricola Podere Pereto",
+ "denominazione": "Gallette mais rosso biologico 90g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%2090g_1767108913.pdf",
+ "allegati": [
+  {
+   "titolo": "Gallette di mais rosso bio 90g_1767108913.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%2090g_1767108913.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gallette-mais-rosso-biologico-90g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gallette mais rosso biologico 90g",
+  "operatore": "Azienda Agricola Podere Pereto",
+  "lotti": [
+   "Lotti: 291225",
+   "041225",
+   "050326",
+   "060326",
+   "160426",
+   "230426",
+   "130826",
+   "140826"
+  ],
+  "marchio_identificazione": "Azienda Agricola Podere Pereto",
+  "produttore": "Azienda Agricola Podere Pereto",
+  "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+  "scadenza": "10 mesi (come riportato in ciascun lotto)",
+  "peso_volume": "90g",
+  "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+  "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+  "campi_extra": {
+   "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+  },
+  "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Gallette mais rosso biologico 90g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 291225; 041225; 050326; 060326; 160426; 230426; 130826; 140826\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 10 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 90g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+ },
+ "prima_rilevazione": "2026-10-24T22:28:04+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:04+00:00"
+}

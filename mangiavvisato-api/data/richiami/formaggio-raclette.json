@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-raclette/",
+ "titolo": "Formaggio Raclette",
+ "data_pubblicazione": "2025-11-21",
+ "marca": "Iperal",
+ "denominazione": "Formaggio Raclette",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Raclette_1763740457.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Raclette_1763740457.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Raclette_1763740457.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-raclette",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO RACLETTE",
+  "operatore": "IPERAL SUPERMERCATI SPA",
+  "lotti": [
+   "vedasi motivo del richiamo *"
+  ],
+  "marchio_identificazione": "IT S3Y2S UE",
+  "produttore": "ENTREMONT ALLIANCE",
+  "sede_stabilimento": "Via Viganò, 140 20833 Giussano (MB)",
+  "scadenza": "**",
+  "peso_volume": "ca 250g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes *LOTTI PRODOTTO CONFEZIONATO: 516514 - 516615 - 516117 - 516218 - 516319 **SCADENZA: 26/11/2025 - 27/11/2025 - 29/11/2025 - 30/11/2025 - 01/12/2025 Riportare eventuali preincarti acquistati nei PV di PIANTEDO E BARLASSINA tra i giorni 13/11 e 16/11",
+  "avvertenze": "Non consumare il prodotto. Riconsegnarlo al Punto Vendita dove è stato acquistato.",
+  "campi_extra": {
+   "Data": "21/11/2025 Marchio del prodotto: IPERAL SUPERMERCATI SPA"
+  },
+  "testo": "RICHIAMO\nData: 21/11/2025 Marchio del prodotto: IPERAL SUPERMERCATI SPA\nDenominazione di vendita:FORMAGGIO RACLETTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPERAL SUPERMERCATI SPA\ncommercializzato:\nLotto di produzione: vedasi motivo del richiamo *\nMarchio di identificazione dello stabilimento/del produttore: IT S3Y2S UE\nNome del produttore: ENTREMONT ALLIANCE\nSede dello stabilimento: Via Viganò, 140 20833 Giussano (MB)\nData di scadenza o termine minimo di conservazione: **\nDescrizione peso/volume unità di vendita: ca 250g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\n*LOTTI PRODOTTO CONFEZIONATO: 516514 - 516615 - 516117 - 516218 - 516319\n**SCADENZA: 26/11/2025 - 27/11/2025 - 29/11/2025 - 30/11/2025 - 01/12/2025\nRiportare eventuali preincarti acquistati nei PV di PIANTEDO E BARLASSINA tra i giorni 13/11 e 16/11\nAvvertenze:\nNon consumare il prodotto. Riconsegnarlo al Punto Vendita dove è stato acquistato."
+ },
+ "prima_rilevazione": "2026-10-24T22:30:13+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:30:13+00:00"
+}

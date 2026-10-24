@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gamberi-sguscvaskin-10x200-coal/",
+ "titolo": "GAMBERI SGUSC.VA.SKIN 10X200 COAL",
+ "data_pubblicazione": "2025-10-14",
+ "marca": "COAL",
+ "denominazione": "GAMBERI SGUSC.VA.SKIN 10X200 COAL",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revocaConservieraAdriaticaspa_1761209246.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_o_revocaConservieraAdriaticaspa_1761209246.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revocaConservieraAdriaticaspa_1761209246.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gamberi-sguscvaskin-10x200-coal",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GAMBERI SGUSC.VA.SKIN 10X200 COAL",
+  "operatore": "CONSERVIERA ADRIATICA SPA",
+  "lotti": [
+   "5212"
+  ],
+  "marchio_identificazione": "IT 102 UE",
+  "produttore": "CONSERVIERA ADRIATICA SPA",
+  "sede_stabilimento": "Via Palmiro Togliatti 50 - 63073",
+  "scadenza": "31-01-2027",
+  "peso_volume": "vassoi da 200g",
+  "motivo_esteso": "Esito analitico non conforme a causa della presenza di \"anidride solforosa\" in quantità superiore ai limiti di legge. limite 10mg/kg --> riscontrati 14 mg/kg",
+  "avvertenze": "I clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al punto vendita per la sostituzione. Siamo spiacenti per il disagio arrecato.",
+  "campi_extra": {
+   "Data": "14/10/2025 Marchio del prodotto: COAL"
+  },
+  "testo": "RICHIAMO\nData: 14/10/2025 Marchio del prodotto: COAL\nDenominazione di vendita: GAMBERI SGUSC.VA.SKIN 10X200 COAL\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONSERVIERA ADRIATICA SPA\ncommercializzato:\nLotto di produzione: 5212\nMarchio di identificazione dello stabilimento/del produttore: IT 102 UE\nNome del produttore: CONSERVIERA ADRIATICA SPA\nSede dello stabilimento: Via Palmiro Togliatti 50 - 63073\nData di scadenza o termine minimo di conservazione: 31-01-2027\nDescrizione peso/volume unità di vendita: vassoi da 200g\nMotivo del richiamo:\nEsito analitico non conforme a causa della presenza di \"anidride solforosa\" in quantità superiore ai limiti di\nlegge.\nlimite 10mg/kg --> riscontrati 14 mg/kg\nAvvertenze:\nI clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al punto\nvendita per la sostituzione.\nSiamo spiacenti per il disagio arrecato."
+ },
+ "prima_rilevazione": "2026-10-24T22:34:04+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:04+00:00"
+}

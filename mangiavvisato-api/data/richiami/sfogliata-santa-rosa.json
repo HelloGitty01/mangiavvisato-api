@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfogliata-santa-rosa/",
+ "titolo": "SFOGLIATA SANTA ROSA",
+ "data_pubblicazione": "2025-03-20",
+ "marca": "SWEET CREAM SRLS",
+ "denominazione": "SFOGLIATA SANTA ROSA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20SFOGLIATA%20S.%20ROSA%20PZ.%2060_1761206663.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo prodotto SFOGLIATA S. ROSA PZ. 60_1761206663.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20SFOGLIATA%20S.%20ROSA%20PZ.%2060_1761206663.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sfogliata-santa-rosa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato TUTTI I LOTTI A PARTIRE DALLA PRODUZIONE Marchio di identificazione",
+  "lotti": [
+   "DI LUGLIO 2024 A GENNAIO 2025 dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nTUTTI I LOTTI A PARTIRE DALLA PRODUZIONE Marchio di identificazione\nLotto di produzione\nDI LUGLIO 2024 A GENNAIO 2025 dello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-24T22:47:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:47:01+00:00"
+}

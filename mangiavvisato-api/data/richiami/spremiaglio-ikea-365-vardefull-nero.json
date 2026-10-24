@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spremiaglio-ikea-365-vardefull-nero/",
+ "titolo": "Spremiaglio Ikea 365 + Vardefull nero",
+ "data_pubblicazione": "2025-06-12",
+ "marca": "Ikea",
+ "denominazione": "Spremiaglio Ikea 365 + Vardefull nero",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spremiaglio_1761207592.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo spremiaglio_1761207592.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spremiaglio_1761207592.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spremiaglio-ikea-365-vardefull-nero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "spremiaglio IKEA 365+ VÄRDEFULL nero",
+  "operatore": "IKEA",
+  "lotti": [
+   "data prod. tra la 2411",
+   "la 2522"
+  ],
+  "marchio_identificazione": "IKEA",
+  "produttore": "IKEA",
+  "sede_stabilimento": "SVEZIA",
+  "scadenza": "/",
+  "peso_volume": "/",
+  "motivo_esteso": "A causa di un errore di produzione, durante l’uso alcuni frammenti metallici rischiano di staccarsi ed essere successivamente ingeriti insieme al cibo.",
+  "avvertenze": "I clienti in possesso del prodotto con date di produzione comprese tra la 2411 e la 2522 devono interromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto. I prodotti interessati possono essere identificati grazie a una marcatura del logo IKEA sul manico superiore",
+  "campi_extra": {
+   "Data": "11.06.2025 Marchio del prodotto: IKEA"
+  },
+  "testo": "RICHIAMO\nData: 11.06.2025 Marchio del prodotto: IKEA\nDenominazione di vendita:spremiaglio IKEA 365+ VÄRDEFULL nero\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IKEA\ncommercializzato:\nLotto di produzione: data prod. tra la 2411 e la 2522\nMarchio di identificazione dello stabilimento/del produttore: IKEA\nNome del produttore: IKEA\nSede dello stabilimento: SVEZIA\nData di scadenza o termine minimo di conservazione: /\nDescrizione peso/volume unità di vendita: /\nMotivo del richiamo:\nA causa di un errore di produzione, durante l’uso alcuni frammenti metallici rischiano di staccarsi ed essere\nsuccessivamente ingeriti insieme al cibo.\nAvvertenze:\nI clienti in possesso del prodotto con date di produzione comprese tra la 2411 e la 2522 devono\ninterromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I\nprodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto.\nI prodotti interessati possono essere identificati grazie a una marcatura del logo IKEA sul manico superiore"
+ },
+ "prima_rilevazione": "2026-10-24T22:41:37+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:37+00:00"
+}

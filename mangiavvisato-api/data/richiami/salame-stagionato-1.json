@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato-1/",
+ "titolo": "SALAME STAGIONATO",
+ "data_pubblicazione": "2025-04-28",
+ "marca": "SALAME RAVANETTI",
+ "denominazione": "SALAME STAGIONATO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761207374.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1761207374.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761207374.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-stagionato-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME STAGIONATO Nome o ragione sociale SALUMIFICIO RAVANETTI & C. SRL dell'OSA a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "15-01-2025"
+  ],
+  "marchio_identificazione": "IT 951 L CE",
+  "produttore": "SALUMIFICIO RAVANETTI & C. SRL",
+  "sede_stabilimento": "VIA I°MAGGIO, 2 – 43035 S.MICHELE DI TIORRE FELINO (PARMA)",
+  "scadenza": "//",
+  "peso_volume": "SINGOL O SALAME ETICHETTATO A PESO VARIABILE",
+  "motivo_esteso": "possibile presenza di corpi estranei in specifico frammenti di spugna",
+  "avvertenze": "restituire il prodotto nel punto d’acquisto",
+  "campi_extra": {
+   "Data 23.04.2025 Marchio del prodotto": "SALAME RAVANETTI"
+  },
+  "testo": "RICHIAMO\nData 23.04.2025 Marchio del prodotto: SALAME RAVANETTI\nDenominazione di vendita: SALAME STAGIONATO\nNome o ragione sociale\nSALUMIFICIO RAVANETTI & C. SRL\ndell'OSA a nome del quale il\nprodotto è commercializzato:\nLotto di produzione: 15-01-2025\nMarchio di identificazione dello stabilimento/del produttore: IT 951 L CE\nNome del produttore: SALUMIFICIO RAVANETTI & C. SRL\nSede dello stabilimento: VIA I°MAGGIO, 2 – 43035 S.MICHELE DI TIORRE FELINO (PARMA)\nData di scadenza o termine minimo di conservazione: //\nDescrizione peso/volume unità di vendita: SINGOL O SALAME ETICHETTATO A PESO VARIABILE\nMotivo del richiamo: possibile presenza di corpi estranei in specifico frammenti di spugna\nAvvertenze: restituire il prodotto nel punto d’acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:45:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:45:24+00:00"
+}

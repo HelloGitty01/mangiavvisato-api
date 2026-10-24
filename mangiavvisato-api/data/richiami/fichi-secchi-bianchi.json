@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-bianchi/",
+ "titolo": "Fichi secchi bianchi",
+ "data_pubblicazione": "2026-08-12",
+ "marca": "Manuzzi",
+ "denominazione": "Fichi secchi bianchi",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1786545615.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di richiamo_1786545615.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1786545615.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-secchi-bianchi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Fichi secchi bianchi Grecia",
+  "operatore": "Manuzzi srl a socio unico",
+  "lotti": [
+   "254101PB"
+  ],
+  "marchio_identificazione": "MANUZZI",
+  "produttore": "AGROFRUT HELLAS VASSILIS PANTAZIS S.A.",
+  "sede_stabilimento": "AGIA TRIADA 27063 LECHENA ILIAS GRECIA",
+  "scadenza": "31-12-2026",
+  "peso_volume": "200g",
+  "motivo_esteso": "Esito analitico ASL Foggia non conforme Ocratossina A",
+  "avvertenze": "Il prodotto non è idoneo al consumo. Si prega di provvedere al richiamo e al ritiro.",
+  "campi_extra": {
+   "Data": "11/08/2026 Marchio del prodotto: Manuzzi"
+  },
+  "testo": "RICHIAMO\nData: 11/08/2026 Marchio del prodotto: Manuzzi\nDenominazione di vendita:Fichi secchi bianchi Grecia\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Manuzzi srl a socio unico\ncommercializzato:\nLotto di produzione: 254101PB\nMarchio di identificazione dello stabilimento/del produttore: MANUZZI\nNome del produttore: AGROFRUT HELLAS VASSILIS PANTAZIS S.A.\nSede dello stabilimento: AGIA TRIADA 27063 LECHENA ILIAS GRECIA\nData di scadenza o termine minimo di conservazione: 31-12-2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nEsito analitico ASL Foggia non conforme Ocratossina A\nAvvertenze:\nIl prodotto non è idoneo al consumo.\nSi prega di provvedere al richiamo e al ritiro."
+ },
+ "prima_rilevazione": "2026-10-24T22:03:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:17+00:00"
+}

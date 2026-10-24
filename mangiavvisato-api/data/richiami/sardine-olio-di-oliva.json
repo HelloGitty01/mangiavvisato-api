@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardine-olio-di-oliva/",
+ "titolo": "Sardine in olio di oliva",
+ "data_pubblicazione": "2025-04-04",
+ "marca": "Delicius",
+ "denominazione": "Sardine in olio di oliva",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SARDINE%20DELICIUS%20_1__1761207355.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO SARDINE DELICIUS _1__1761207355.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SARDINE%20DELICIUS%20_1__1761207355.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sardine-olio-di-oliva",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Sardine in olio di oliva",
+  "operatore": "Delicius Rizzoli Spa Società Benefit Via Micheli, 2 43056 San Polo di Torrile",
+  "lotti": [
+   "L036RD 05/02/2030 D L041RD 10/02/2030 D L042RD 11/02/2030 D"
+  ],
+  "marchio_identificazione": "HR 1718 CE",
+  "produttore": "ParmaFish DOO",
+  "sede_stabilimento": "Ulica hrvatske Vlade1 23422 STANKOVCI CROATIA HR1718 CE",
+  "scadenza": "05/02/2030 D - 10/02/2030 D - 11/02/2030 D",
+  "peso_volume": "120g Peso Netto ; 85g Peso sgocciolato",
+  "motivo_esteso": "POSSIBILE DIFETTO DI AGGRAFFATURA/CHIUSURA",
+  "avvertenze": "NON CONSUMARE",
+  "campi_extra": {
+   "Data": "01/04/2025 Marchio del prodotto: Delicius"
+  },
+  "testo": "RICHIAMO\nData: 01/04/2025 Marchio del prodotto: Delicius\nDenominazione di vendita: Sardine in olio di oliva\nNome o ragione sociale dell'OSA Delicius Rizzoli Spa Società Benefit Via Micheli, 2 43056 San Polo\na nome del quale il prodotto è\ndi Torrile\ncommercializzato:\nLotto di produzione: L036RD 05/02/2030 D\nL041RD 10/02/2030 D\nL042RD 11/02/2030 D\nMarchio di identificazione dello stabilimento/del produttore: HR 1718 CE\nNome del produttore: ParmaFish DOO\nSede dello stabilimento: Ulica hrvatske Vlade1 23422 STANKOVCI CROATIA HR1718 CE\nData di scadenza o termine minimo di conservazione: 05/02/2030 D - 10/02/2030 D - 11/02/2030 D\nDescrizione peso/volume unità di vendita: 120g Peso Netto ; 85g Peso sgocciolato\nMotivo del richiamo: POSSIBILE DIFETTO DI AGGRAFFATURA/CHIUSURA\nAvvertenze: NON CONSUMARE"
+ },
+ "prima_rilevazione": "2026-10-24T22:46:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:01+00:00"
+}

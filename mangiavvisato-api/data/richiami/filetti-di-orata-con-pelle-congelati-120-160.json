@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-orata-con-pelle-congelati-120-160/",
+ "titolo": "FILETTI DI ORATA CON PELLE CONGELATI 120-160",
+ "data_pubblicazione": "2025-10-10",
+ "marca": "AZUR SEAFOOD",
+ "denominazione": "FILETTI DI ORATA CON PELLE CONGELATI 120-160",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allerta%20filetti%20orata%20GM16000001615_1761209223.pdf",
+ "allegati": [
+  {
+   "titolo": "allerta filetti orata GM16000001615_1761209223.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/allerta%20filetti%20orata%20GM16000001615_1761209223.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-orata-con-pelle-congelati-120-160",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI ORATA CON PELLE CONGELATI 120-160",
+  "operatore": "GOLFOMAR SRL",
+  "lotti": [
+   "F.35.43"
+  ],
+  "marchio_identificazione": "AZUR SEAFOOD B.V.",
+  "produttore": "AZUR SEAFOOD B.V.",
+  "sede_stabilimento": "MARSDIEP,10 8321 MC URK OLANDA",
+  "scadenza": "29-08-2027",
+  "peso_volume": "CARTONE KG 4,4",
+  "motivo_esteso": "RESIDUI INIBENTI",
+  "avvertenze": "RITIRARE PRODOTTO DAL CONSUMO",
+  "campi_extra": {
+   "Data": "09/10/2025 Marchio del prodotto: AZUR SEAFOOD"
+  },
+  "testo": "RICHIAMO\nData: 09/10/2025 Marchio del prodotto: AZUR SEAFOOD\nDenominazione di vendita:FILETTI DI ORATA CON PELLE CONGELATI 120-160\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GOLFOMAR SRL\ncommercializzato:\nLotto di produzione: F.35.43\nMarchio di identificazione dello stabilimento/del produttore: AZUR SEAFOOD B.V.\nNome del produttore: AZUR SEAFOOD B.V.\nSede dello stabilimento: MARSDIEP,10 8321 MC URK OLANDA\nData di scadenza o termine minimo di conservazione: 29-08-2027\nDescrizione peso/volume unità di vendita: CARTONE KG 4,4\nMotivo del richiamo:\nRESIDUI INIBENTI\nAvvertenze:\nRITIRARE PRODOTTO DAL CONSUMO"
+ },
+ "prima_rilevazione": "2026-10-24T22:34:23+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:23+00:00"
+}

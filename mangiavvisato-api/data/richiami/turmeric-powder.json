@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/turmeric-powder/",
+ "titolo": "Turmeric Powder",
+ "data_pubblicazione": "2025-01-31",
+ "marca": "AFT",
+ "denominazione": "Turmeric Powder",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206479.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1761206479.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206479.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "turmeric-powder",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Turmeric Powder 1kgx6 Turmeric Powder 400gx10 Turmeric Powder 100gx20",
+  "operatore": "AFT SRL",
+  "lotti": [
+   "18JUN23Xl/7"
+  ],
+  "marchio_identificazione": "AFT",
+  "produttore": "AFT SRL",
+  "sede_stabilimento": "INDIA",
+  "scadenza": "MAGGIO-2026",
+  "peso_volume": "CONFEZIONE / DA / 1KG / 400g / 100g",
+  "motivo_esteso": "RISCHIO CHIMICO PRESENZA DI COLORANTE NON AMMESSO IN UE CHEMICAL RISK PRESENCE OF DYE NOT ALLOWED IN THE EU",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RIPORTARLO AL NEGOZIO DO NOT CONSUME THE PRODUCT RETURN IT TO THE RETAILER Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/01/2025 Marchio del prodotto: AFT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 31/01/2025 Marchio del prodotto: AFT\nDenominazione di vendita:Turmeric Powder 1kgx6 Turmeric Powder 400gx10 Turmeric Powder 100gx20\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AFT SRL\ncommercializzato:\nLotto di produzione: 18JUN23Xl/7\nMarchio di identificazione dello stabilimento/del produttore: AFT\nNome del produttore: AFT SRL\nSede dello stabilimento: INDIA\nData di scadenza o termine minimo di conservazione: MAGGIO-2026\nDescrizione peso/volume unità di vendita: CONFEZIONE / DA / 1KG / 400g / 100g\nMotivo del richiamo:\nRISCHIO CHIMICO PRESENZA DI COLORANTE NON AMMESSO IN UE\nCHEMICAL RISK PRESENCE OF DYE NOT ALLOWED IN THE EU\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RIPORTARLO AL NEGOZIO\nDO NOT CONSUME THE PRODUCT RETURN IT TO THE RETAILER\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:49:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:49:39+00:00"
+}

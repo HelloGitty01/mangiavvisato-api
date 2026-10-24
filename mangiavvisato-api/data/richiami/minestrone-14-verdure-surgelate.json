@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-14-verdure-surgelate/",
+ "titolo": "Minestrone 14 Verdure Surgelate",
+ "data_pubblicazione": "2026-01-15",
+ "marca": "Selex Gruppo Commerciale S.p.A.",
+ "denominazione": "Minestrone 14 Verdure Surgelate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_1__1768482323.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo _1__1768482323.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_1__1768482323.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "minestrone-14-verdure-surgelate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Minestrone 14 Verdure Surgelate",
+  "operatore": "Selex Gruppo Commerciale S.p.A.",
+  "lotti": [
+   "L25265"
+  ],
+  "produttore": "Agrifood Abruzzo S.r.l.",
+  "sede_stabilimento": "Borgo Strada 14,87 - 67043 Celano (AQ)",
+  "scadenza": "12/2027",
+  "peso_volume": "450g",
+  "motivo_esteso": "Possibile presenza di alcaloidi del tropano.",
+  "avvertenze": "Qualora aveste acquistato il prodotto, Vi preghiamo di non consumarlo e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "15/01/2026 Marchio del prodotto: Selex"
+  },
+  "testo": "RICHIAMO\nData: 15/01/2026 Marchio del prodotto: Selex\nDenominazione di vendita:Minestrone 14 Verdure Surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex Gruppo Commerciale S.p.A.\ncommercializzato:\nLotto di produzione: L25265\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Agrifood Abruzzo S.r.l.\nSede dello stabilimento: Borgo Strada 14,87 - 67043 Celano (AQ)\nData di scadenza o termine minimo di conservazione: 12/2027\nDescrizione peso/volume unità di vendita: 450g\nMotivo del richiamo:\nPossibile presenza di alcaloidi del tropano.\nAvvertenze:\nQualora aveste acquistato il prodotto, Vi preghiamo di non consumarlo e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:24:38+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:24:38+00:00"
+}

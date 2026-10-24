@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-pepperino/",
+ "titolo": "SALAME PEPPERINO",
+ "data_pubblicazione": "2026-07-06",
+ "marca": "SALUMI BENVENUTI",
+ "denominazione": "SALAME PEPPERINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellodiRICHIAMO%20_3__1783357791.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellodiRICHIAMO _3__1783357791.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellodiRICHIAMO%20_3__1783357791.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-pepperino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME PEPPERINO",
+  "operatore": "SALUMI BENVENUTI SRL",
+  "lotti": [
+   "2602233"
+  ],
+  "marchio_identificazione": "IT 1184 LP",
+  "produttore": "SALUMI BENVENUTI SRL",
+  "sede_stabilimento": "SALUMI BENVENUTI SRL",
+  "scadenza": "VEDERE AVVERTENZE",
+  "peso_volume": "PESO VARIABILE (PESO COMPRESSIVO 152,47 KG)",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO-RILEVATA SALMONELLA",
+  "avvertenze": "DA NON CONSUMARE. RIPORTARE AL PUNTO VENDITA. DATE SCADENZA PRODOTTI:29/08/26; 08/09/26; 09/09/26; 10/09/26; 13/09/26; 14/09/26; 15/09/26; 16/09/26; 17/09/26; 20/09/26",
+  "campi_extra": {
+   "Data": "06/07/2026 Marchio del prodotto: SALUMI BENVENUTI"
+  },
+  "testo": "RICHIAMO\nData: 06/07/2026 Marchio del prodotto: SALUMI BENVENUTI\nDenominazione di vendita:SALAME PEPPERINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMI BENVENUTI SRL\ncommercializzato:\nLotto di produzione: 2602233\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 LP\nNome del produttore: SALUMI BENVENUTI SRL\nSede dello stabilimento: SALUMI BENVENUTI SRL\nData di scadenza o termine minimo di conservazione: VEDERE AVVERTENZE\nDescrizione peso/volume unità di vendita: PESO VARIABILE (PESO COMPRESSIVO 152,47 KG)\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO-RILEVATA SALMONELLA\nAvvertenze:\nDA NON CONSUMARE. RIPORTARE AL PUNTO VENDITA. DATE SCADENZA PRODOTTI:29/08/26; 08/09/26;\n09/09/26; 10/09/26; 13/09/26; 14/09/26; 15/09/26; 16/09/26; 17/09/26; 20/09/26"
+ },
+ "prima_rilevazione": "2026-10-24T22:07:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:07:09+00:00"
+}

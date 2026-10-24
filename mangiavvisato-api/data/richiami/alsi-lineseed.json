@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alsi-lineseed/",
+ "titolo": "ALSI (LINESEED)",
+ "data_pubblicazione": "2026-06-11",
+ "marca": "APNABABA",
+ "denominazione": "ALSI (LINESEED)",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1781203550.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1781203550.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1781203550.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "alsi-lineseed",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ALSI (LINESEED)",
+  "operatore": "FRESH TROPICAL SRL BY JAWAD",
+  "lotti": [
+   "20.06.2027"
+  ],
+  "marchio_identificazione": "APNABABA",
+  "produttore": "FRESH TROPICAL SRL BY JAWAD",
+  "sede_stabilimento": "SP 170 n. 231 - Marcallo con Casone (MI)",
+  "scadenza": "20.06.2027",
+  "peso_volume": "sacchetto di plastica / plastic bag - 400g",
+  "motivo_esteso": "presenza di acido cianidrico oltre i limiti di legge presence of hydrocyanic acid above legal limits",
+  "avvertenze": "non consumare e riportare la confezione al negoziante do not consume and return the package to the retailer",
+  "campi_extra": {
+   "Data": "09/06/2026 Marchio del prodotto: APNABABA"
+  },
+  "testo": "RICHIAMO\nData: 09/06/2026 Marchio del prodotto: APNABABA\nDenominazione di vendita:ALSI (LINESEED)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD\ncommercializzato:\nLotto di produzione: 20.06.2027\nMarchio di identificazione dello stabilimento/del produttore: APNABABA\nNome del produttore: FRESH TROPICAL SRL BY JAWAD\nSede dello stabilimento: SP 170 n. 231 - Marcallo con Casone (MI)\nData di scadenza o termine minimo di conservazione: 20.06.2027\nDescrizione peso/volume unità di vendita: sacchetto di plastica / plastic bag - 400g\nMotivo del richiamo:\npresenza di acido cianidrico oltre i limiti di legge\npresence of hydrocyanic acid above legal limits\nAvvertenze:\nnon consumare e riportare la confezione al negoziante\ndo not consume and return the package to the retailer"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:18+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-tonkotsu-ramen/",
+ "titolo": "Shinzui Ramen - Tonkotsu Ramen",
+ "data_pubblicazione": "2026-08-04",
+ "marca": "Shinzui Ramen",
+ "denominazione": "Shinzui Ramen - Tonkotsu Ramen",
+ "motivo": "Altro motivo di richiamo",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tonkotsu%20Ramen_1785845311.pdf",
+ "allegati": [
+  {
+   "titolo": "Shinzui Ramen _ Tonkotsu Ramen_1785845311.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tonkotsu%20Ramen_1785845311.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "shinzui-ramen-tonkotsu-ramen",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tonkotsu Ramen",
+  "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+  "lotti": [
+   "260211TONS - 260217MIPS"
+  ],
+  "marchio_identificazione": "//",
+  "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+  "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+  "scadenza": "10-02-2027",
+  "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027). Immagini ai fini identificativi.",
+  "avvertenze": "Non consumare e riportare al punto di vendita.",
+  "campi_extra": {
+   "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+  },
+  "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita:Tonkotsu Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 260211TONS - 260217MIPS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 10-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027).\nImmagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:04:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:07+00:00"
+}

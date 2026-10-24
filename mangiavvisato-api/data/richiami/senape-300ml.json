@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/senape-300ml/",
+ "titolo": "SENAPE 300ml",
+ "data_pubblicazione": "2026-05-19",
+ "marca": "GLI ALLEGRI SAPORI",
+ "denominazione": "SENAPE 300ml",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/126436_cartello_modello_richiamo_1779210689.pdf",
+ "allegati": [
+  {
+   "titolo": "126436_cartello_modello_richiamo_1779210689.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/126436_cartello_modello_richiamo_1779210689.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "senape-300ml",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SENAPE 300ml",
+  "operatore": "PENNY MARKET S.R.L.",
+  "lotti": [
+   "LOTTO 44.1"
+  ],
+  "produttore": "RIGHETTI ALIMENTARE S.r.l.",
+  "sede_stabilimento": "VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)",
+  "scadenza": "30-08-2026",
+  "peso_volume": "300 ml",
+  "motivo_esteso": "Presenza di solfiti non dichiarati in etichetta",
+  "avvertenze": "Si raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato questo lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto. Per qualsiasi informazione contattare il produttore al seguente numero di tel 045 6050284 o inviare una e- mail a cq@maionese.it Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/05/2026 Marchio del prodotto: GLI ALLEGRI SAPORI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/05/2026 Marchio del prodotto: GLI ALLEGRI SAPORI\nDenominazione di vendita:SENAPE 300ml\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PENNY MARKET S.R.L.\ncommercializzato:\nLotto di produzione: LOTTO 44.1\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: RIGHETTI ALIMENTARE S.r.l.\nSede dello stabilimento: VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)\nData di scadenza o termine minimo di conservazione: 30-08-2026\nDescrizione peso/volume unità di vendita: 300 ml\nMotivo del richiamo:\nPresenza di solfiti non dichiarati in etichetta\nAvvertenze:\nSi raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato\nquesto lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.\nPer qualsiasi informazione contattare il produttore al seguente numero di tel 045 6050284 o inviare una e-\nmail a cq@maionese.it\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:35+00:00"
+}

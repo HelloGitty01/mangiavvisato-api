@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-biologico/",
+ "titolo": "Basilico biologico",
+ "data_pubblicazione": "2025-04-18",
+ "marca": "Herbalia",
+ "denominazione": "Basilico biologico",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20BASILICO%20HERBALIA_1761207362.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO DI RICHIAMO BASILICO HERBALIA_1761207362.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20BASILICO%20HERBALIA_1761207362.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "basilico-biologico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Basilico biologico",
+  "operatore": "Il Ponte Società Cooperativa Sociale a r.l.",
+  "lotti": [
+   "3B02A",
+   "4B02A"
+  ],
+  "produttore": "Il Ponte Società Cooperativa Sociale a r.l.",
+  "sede_stabilimento": "Via Lago di Tovel, 14/D - 36015 Schio (Vi)",
+  "scadenza": "28.12.2025 - 28.06.2026",
+  "peso_volume": "12 g",
+  "motivo_esteso": "Presenza di alti livelli di perclorato.",
+  "avvertenze": "Si raccomanda ai consumatori che hanno acquistato il prodotto di non consumarlo e di riportarlo nel punto vendita di acquisto. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "18/04/2025 Marchio del prodotto: Herbalia",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 18/04/2025 Marchio del prodotto: Herbalia\nDenominazione di vendita: Basilico biologico\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Il Ponte Società Cooperativa Sociale a r.l.\ncommercializzato:\nLotto di produzione: 3B02A; 4B02A\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Il Ponte Società Cooperativa Sociale a r.l.\nSede dello stabilimento: Via Lago di Tovel, 14/D - 36015 Schio (Vi)\nTermine minimo di conservazione: 28.12.2025 - 28.06.2026\nDescrizione peso/volume unità di vendita: 12 g\nMotivo del richiamo:\nPresenza di alti livelli di perclorato.\nAvvertenze:\nSi raccomanda ai consumatori che hanno acquistato il prodotto di non consumarlo e di riportarlo nel punto\nvendita di acquisto.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:45:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:45:49+00:00"
+}

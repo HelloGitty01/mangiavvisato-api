@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-sapori-idee-0/",
+ "titolo": "Cremini Sapori & Idee",
+ "data_pubblicazione": "2025-01-21",
+ "marca": "Conad",
+ "denominazione": "Cremini Sapori & Idee",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cremini%20nocciola%20e%20mandorle%20Conad%20ulteriori%20lotti_1761206235.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo cremini nocciola e mandorle Conad ulteriori lotti_1761206235.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cremini%20nocciola%20e%20mandorle%20Conad%20ulteriori%20lotti_1761206235.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cremini-sapori-idee-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CREMINI ALLE NOCCIOLE E MANDORLE",
+  "operatore": "CONAD S.C.",
+  "lotti": [
+   "P1S4P",
+   "P1SJY"
+  ],
+  "produttore": "Majani 1796 SpA",
+  "sede_stabilimento": "Via Brodolini 16, 40053 Loc. Crespellano - Valsamoggia (BO)",
+  "scadenza": "vedi avvertenze",
+  "peso_volume": "150g - 15 cremini",
+  "motivo_esteso": "Precauzionale per presenza di glutine oltre i 20 ppm Prodotto etichettato \"senza glutine\". Il lotto indicato contiene tracce di glutine",
+  "campi_extra": {
+   "Data": "21/01/2025 Marchio del prodotto: CONAD SAPORI & IDEE"
+  },
+  "testo": "RICHIAMO\nData: 21/01/2025 Marchio del prodotto: CONAD SAPORI & IDEE\nDenominazione di vendita:CREMINI ALLE NOCCIOLE E MANDORLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD S.C.\ncommercializzato:\nLotto di produzione: P1S4P, P1SJY\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Majani 1796 SpA\nSede dello stabilimento: Via Brodolini 16, 40053 Loc. Crespellano - Valsamoggia (BO)\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: 150g - 15 cremini\nMotivo del richiamo:\nPrecauzionale per presenza di glutine oltre i 20 ppm\nProdotto etichettato \"senza glutine\". Il lotto indicato contiene tracce di glutine\nAvvertenze:\nLotto: P1S4P - Scadenza: 30/01/2026\nLotto: P1SJY - Scadenza: 30/12/2025"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:19+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:19+00:00"
+}

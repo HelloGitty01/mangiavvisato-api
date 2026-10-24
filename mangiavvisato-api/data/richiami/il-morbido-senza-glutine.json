@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/il-morbido-senza-glutine/",
+ "titolo": "il morbido senza glutine",
+ "data_pubblicazione": "2025-09-12",
+ "marca": "Salumificio di Genga",
+ "denominazione": "il morbido senza glutine",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOPRODOTTODALMERCATO._1761209147.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMOPRODOTTODALMERCATO._1761209147.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOPRODOTTODALMERCATO._1761209147.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "il-morbido-senza-glutine",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "SEGNATURA": "0159526|12/09/2025|AST-AN|AFFGEN|A"
+  },
+  "testo": "SEGNATURA: 0159526|12/09/2025|AST-AN|AFFGEN|A"
+ },
+ "prima_rilevazione": "2026-10-24T22:35:59+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:35:59+00:00"
+}

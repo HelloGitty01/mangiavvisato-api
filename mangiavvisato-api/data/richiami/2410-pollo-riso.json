@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2410-pollo-riso/",
+ "titolo": "24/10 POLLO-RISO",
+ "data_pubblicazione": "2026-01-28",
+ "marca": "Colella",
+ "denominazione": "24/10 POLLO-RISO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/pollo%20e%20riso_1769668440.pdf",
+ "allegati": [
+  {
+   "titolo": "pollo e riso_1769668440.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/pollo%20e%20riso_1769668440.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "2410-pollo-riso",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "24/10 POLLO-RISO",
+  "operatore": "COLELLA TRADE SRL, C/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)",
+  "lotti": [
+   "25C10A10310 scadenza 03/10/2026 25C10A10409 scadenza 04/09/2026 25C10A11609 scadenza 16/09/2026 25C10A12005 scadenza 20/05/2026"
+  ],
+  "marchio_identificazione": "ABP5452PETP",
+  "produttore": "COLELLA TRADE SRL",
+  "sede_stabilimento": "C/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)",
+  "scadenza": "1 anno da data di produzione (vedi sopra - lotto di produzione)",
+  "peso_volume": "Sacchi da 15 kg",
+  "motivo_esteso": "sospetta contaminazione da SOA non conformi.",
+  "avvertenze": "Da non utilizzare per l’alimentazione animale Rif. Lotto e scadenza vedi sezione dedicata (lotto di produzione) Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: Marchio del prodotto:\n28/01/2026 Colella\nDenominazione di vendita: 24/10 POLLO-RISO\nNome o ragione sociale dell'OSA\nCOLELLA TRADE SRL, C/DA CAMPOREALE S.S. 90 BIS –\na nome del quale il prodotto è\n83031 – ARIANO IRPINO (AV)\ncommercializzato:\nLotto di produzione:\n25C10A10310 scadenza 03/10/2026\n25C10A10409 scadenza 04/09/2026\n25C10A11609 scadenza 16/09/2026\n25C10A12005 scadenza 20/05/2026\nMarchio di identificazione dello stabilimento/del produttore:\nABP5452PETP\nNome del produttore: COLELLA TRADE SRL\nSede dello stabilimento:\nC/DA CAMPOREALE S.S. 90 BIS – 83031 – ARIANO IRPINO (AV)\nData di scadenza o termine minimo di conservazione:\n1 anno da data di produzione (vedi\nsopra - lotto di produzione)\nDescrizione peso/volume unità di vendita:\nSacchi da 15 kg\nMotivo del richiamo: sospetta contaminazione da SOA non conformi.\nAvvertenze: Da non utilizzare per l’alimentazione animale\nRif. Lotto e scadenza vedi sezione dedicata (lotto di produzione)\nInserire immagine uno:\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:23:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:23:46+00:00"
+}

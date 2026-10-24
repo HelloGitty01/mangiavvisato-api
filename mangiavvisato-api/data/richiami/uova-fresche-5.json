@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-5/",
+ "titolo": "UOVA FRESCHE",
+ "data_pubblicazione": "2026-02-19",
+ "marca": "LA CASETTA DELLE UOVA",
+ "denominazione": "UOVA FRESCHE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1771497791.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_1771497791.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1771497791.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-5",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:21:06+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:21:06+00:00"
+}

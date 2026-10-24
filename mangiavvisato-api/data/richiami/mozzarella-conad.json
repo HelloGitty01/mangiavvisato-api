@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-conad/",
+ "titolo": "MOZZARELLA CONAD",
+ "data_pubblicazione": "2025-08-15",
+ "marca": "CONAD",
+ "denominazione": "MOZZARELLA CONAD",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CONAD%20111953%20LN5205D_1761208445.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CONAD 111953 LN5205D_1761208445.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CONAD%20111953%20LN5205D_1761208445.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-conad",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA CONAD",
+  "operatore": "CONAD SC",
+  "lotti": [
+   "N5205D"
+  ],
+  "marchio_identificazione": "IT 03 144 CE",
+  "produttore": "GRANAROLO S.P.A.",
+  "sede_stabilimento": "VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)",
+  "scadenza": "15-08-2025",
+  "peso_volume": "125g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI",
+  "avvertenze": "Si raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "14/08/2025 Marchio del prodotto: CONAD"
+  },
+  "testo": "RICHIAMO\nData: 14/08/2025 Marchio del prodotto: CONAD\nDenominazione di vendita:MOZZARELLA CONAD\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD SC\ncommercializzato:\nLotto di produzione: N5205D\nMarchio di identificazione dello stabilimento/del produttore: IT 03 144 CE\nNome del produttore: GRANAROLO S.P.A.\nSede dello stabilimento: VIA SAN GIOVANNI BOSCO 37/39, USMATE VELATE (MB)\nData di scadenza o termine minimo di conservazione: 15-08-2025\nDescrizione peso/volume unità di vendita: 125g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI METALLICI\nAvvertenze:\nSi raccomanda ai clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e di\nriportarlo nel punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:37:42+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:42+00:00"
+}

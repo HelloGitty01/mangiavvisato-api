@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-coccoline/",
+ "titolo": "Le Coccoline",
+ "data_pubblicazione": "2025-09-30",
+ "marca": "Uova la Montanari",
+ "denominazione": "Le Coccoline",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiroerichiamo_uova%20salmonella_1761209180.pdf",
+ "allegati": [
+  {
+   "titolo": "ritiroerichiamo_uova salmonella_1761209180.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiroerichiamo_uova%20salmonella_1761209180.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "le-coccoline",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:35:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:35:16+00:00"
+}

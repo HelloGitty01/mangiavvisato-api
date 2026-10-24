@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-categoria/",
+ "titolo": "UOVA CATEGORIA A",
+ "data_pubblicazione": "2026-02-08",
+ "marca": "UOVA FRESCHE DELL'AVICOLA SERRONI",
+ "denominazione": "UOVA CATEGORIA A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Uova%20in%20conf.%20di%20plastica%20da%206%20_%20Avicola%20Serroni_1770564803.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo Uova in conf. di plastica da 6 _ Avicola Serroni_1770564803.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Uova%20in%20conf.%20di%20plastica%20da%206%20_%20Avicola%20Serroni_1770564803.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-categoria",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA CATEGORIA A",
+  "operatore": "AZIENDA AGRICOLA E AVICOLA \"SERRONI\" DI CAVALLARO ANGELO & C. s.n.c.",
+  "lotti": [
+   "DAL 18/2/26 AL 25/2/26 (M",
+   "L",
+   "XL)"
+  ],
+  "marchio_identificazione": "UE IT K1557",
+  "produttore": "AZIENDA AGRICOLA E AVICOLA \"SERRONI\" DI CAVALLARO ANGELO & C. s.n.c",
+  "sede_stabilimento": "LOC. SERRONI ALTO MONT. ROVELLA (SA)",
+  "scadenza": "DA18/2 A25/2/26",
+  "peso_volume": "CONFEZIONE IN PLASTICA DA 6",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DI SALMONELLA ENTERICA SUBSP. ENTERITIDIS",
+  "avvertenze": "I clienti che avessero acquistato il prodotto UOVA DEI LOTTI DAL 18/02/26 AL 25/2/26 CATEGORIA A (M,L,XL)CODICE 3IT073SA007 STAMPIGLIATO sono invitati a non consumarlo e a restituirlo al punto vendita.",
+  "campi_extra": {
+   "Data": "06/2/2026 Marchio del prodotto: UOVA FRESCHE DELL'AVICOLA SERRONI"
+  },
+  "testo": "RICHIAMO\nData: 06/2/2026 Marchio del prodotto: UOVA FRESCHE DELL'AVICOLA SERRONI\nDenominazione di vendita:UOVA CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA E AVICOLA \"SERRONI\" DI CAVALLARO ANGELO & C. s.n.c.\ncommercializzato:\nLotto di produzione: DAL 18/2/26 AL 25/2/26 (M,L,XL)\nMarchio di identificazione dello stabilimento/del produttore: UE IT K1557\nNome del produttore: AZIENDA AGRICOLA E AVICOLA \"SERRONI\" DI CAVALLARO ANGELO & C. s.n.c\nSede dello stabilimento: LOC. SERRONI ALTO MONT. ROVELLA (SA)\nData di scadenza o termine minimo di conservazione: DA18/2 A25/2/26\nDescrizione peso/volume unità di vendita: CONFEZIONE IN PLASTICA DA 6\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DI SALMONELLA ENTERICA SUBSP.\nENTERITIDIS\nAvvertenze:\nI clienti che avessero acquistato il prodotto UOVA DEI LOTTI DAL 18/02/26 AL 25/2/26 CATEGORIA A\n(M,L,XL)CODICE 3IT073SA007 STAMPIGLIATO sono invitati a non consumarlo e a restituirlo al punto\nvendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:23:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:23:17+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-macinato-classico/",
+ "titolo": "Caffè macinato classico",
+ "data_pubblicazione": "2025-06-26",
+ "marca": "Happy Dì",
+ "denominazione": "Caffè macinato classico",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_3__1761207646.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo _3__1761207646.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_3__1761207646.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caffe-macinato-classico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Caffè macinato classico",
+  "operatore": "Selex Gruppo Commerciale S.p.A.",
+  "lotti": [
+   "B26A"
+  ],
+  "produttore": "Gruppo Gimoka S.p.A.",
+  "sede_stabilimento": "Via delle Industrie 4/A - 10, 23009 - Andalo Valtellino (SO)",
+  "scadenza": "26/02/2027",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Possibile presenza di ocratossina A oltre i limiti di legge.",
+  "avvertenze": "I consumatori che avessero acquistato confezioni appartenenti al lotto indicato sono pregati di riportarlo presso il punto vendita di acquisto. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/06/2025 Marchio del prodotto: Happy Dì",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/06/2025 Marchio del prodotto: Happy Dì\nDenominazione di vendita: Caffè macinato classico\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex Gruppo Commerciale S.p.A.\ncommercializzato:\nLotto di produzione: B26A\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Gruppo Gimoka S.p.A.\nSede dello stabilimento: Via delle Industrie 4/A - 10, 23009 - Andalo Valtellino (SO)\nData di scadenza o termine minimo di conservazione: 26/02/2027\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPossibile presenza di ocratossina A oltre i limiti di legge.\nAvvertenze:\nI consumatori che avessero acquistato confezioni appartenenti al lotto indicato sono pregati di riportarlo\npresso il punto vendita di acquisto.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:41:10+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:10+00:00"
+}

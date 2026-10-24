@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-200g-ciuffo/",
+ "titolo": "Mozzarella 200g in ciuffo",
+ "data_pubblicazione": "2025-10-10",
+ "marca": "Deliziosa",
+ "denominazione": "Mozzarella 200g in ciuffo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RETTIFICARICHIAMODELIZIOSADEL09_10_2025_1761209226.pdf",
+ "allegati": [
+  {
+   "titolo": "RETTIFICARICHIAMODELIZIOSADEL09_10_2025_1761209226.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RETTIFICARICHIAMODELIZIOSADEL09_10_2025_1761209226.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-200g-ciuffo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA 200g IN CIUFFO",
+  "operatore": "DELIZIA SPA",
+  "lotti": [
+   "L1266"
+  ],
+  "marchio_identificazione": "UE IT L547C",
+  "produttore": "DELIZIA SPA",
+  "sede_stabilimento": "VIALE DEI SAPERI N. 10/12 - 70015 - NOCI (BA)",
+  "scadenza": "10/10/2025",
+  "peso_volume": "200g",
+  "motivo_esteso": "RISCHIO LISTERIA MONOCITOGENES",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO. RESTITUIRE IL PRODOTTO AL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "09/10/2025 Marchio del prodotto: DELIZIOSA"
+  },
+  "testo": "Allegato 2\nRICHIAMO\nData: 09/10/2025 Marchio del prodotto: DELIZIOSA\nDenominazione di vendita: MOZZARELLA 200g IN CIUFFO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DELIZIA SPA\ncommercializzato:\nLotto di produzione: L1266\nMarchio di identificazione dello stabilimento/del produttore: UE IT L547C\nNome del produttore: DELIZIA SPA\nSede dello stabilimento: VIALE DEI SAPERI N. 10/12 - 70015 - NOCI (BA)\nData di scadenza o termine minimo di conservazione:\n10/10/2025\nDescrizione peso/volume unità di vendita:\n200g\nMotivo del richiamo:\nRISCHIO LISTERIA MONOCITOGENES\nAvvertenze:\nNON CONSUMARE IL PRODOTTO. RESTITUIRE IL PRODOTTO AL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-24T22:34:27+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:27+00:00"
+}

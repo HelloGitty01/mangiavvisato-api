@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gram-flour-farina-di-ceci/",
+ "titolo": "Gram Flour - farina di ceci",
+ "data_pubblicazione": "2026-05-12",
+ "marca": "SCHANI",
+ "denominazione": "Gram Flour - farina di ceci",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Schani%20Gram%20Flour_1778578799.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo Schani Gram Flour_1778578799.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Schani%20Gram%20Flour_1778578799.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gram-flour-farina-di-ceci",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "SAVI ASIAN FOOD WHOLESALE SRL",
+  "lotti": [
+   "KIE028"
+  ],
+  "marchio_identificazione": "Global Foods Trading GmbH",
+  "produttore": "Global Foods Trading GmbH",
+  "sede_stabilimento": "Am Winkelgraben 1a, Biebesheim, D-64584",
+  "scadenza": "04/2027 1 kg e 2 kg",
+  "motivo_esteso": "Presenza di insetticita Clorpirifos L'uso insetticita Clorpirifos è vietato in UE perché la sostanza può avere un effetto mutageno e cancerogeno",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO - RIPORTARLO AL PUNTO VENDITA immagine uno immagine due",
+  "campi_extra": {
+   "Data": "28/04/2026 Marchio del prodotto: SCHANI Gram Flour"
+  },
+  "testo": "RICHIAMO\nData: 28/04/2026 Marchio del prodotto: SCHANI Gram Flour\nSCHANI Gram Flour - farina di ceci\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SAVI ASIAN FOOD WHOLESALE SRL\ncommercializzato:\nLotto di produzione: KIE028\nMarchio di identificazione dello stabilimento/del produttore: Global Foods Trading GmbH\nNome del produttore: Global Foods Trading GmbH\nSede dello stabilimento: Am Winkelgraben 1a, Biebesheim, D-64584\nData di scadenza o termine minimo di conservazione: 04/2027\n1 kg e 2 kg\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nPresenza di insetticita Clorpirifos\nL'uso insetticita Clorpirifos è vietato in UE perché la sostanza può avere un effetto mutageno e cancerogeno\nAvvertenze:\nNON CONSUMARE IL PRODOTTO - RIPORTARLO AL PUNTO VENDITA\nimmagine uno immagine due"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:11+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:11+00:00"
+}

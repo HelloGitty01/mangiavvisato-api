@@ -1,0 +1,47 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cheesecake-al-lampone/",
+ "titolo": "Mousse cheesecake al lampone",
+ "data_pubblicazione": "2025-01-21",
+ "marca": "Iginio Massari Alta Pasticceria",
+ "denominazione": "Mousse cheesecake al lampone",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20cheesecake%20lampone_1761206255.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello cheesecake lampone_1761206255.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20cheesecake%20lampone_1761206255.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mousse-cheesecake-al-lampone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mousse cheesecake al lampone",
+  "operatore": "Iginio Massari Alta Pasticceria",
+  "lotti": [
+   "240515",
+   "240529",
+   "240605",
+   "240618",
+   "240924",
+   "241002",
+   "241102",
+   "250102"
+  ],
+  "produttore": "Iginio Massari Srl",
+  "sede_stabilimento": "Via Orzinuovi 117, 25125 Brescia (BS)",
+  "scadenza": "15/01/2025 (Lot 240515); 29/01/2025 (Lot. 240529); 05/02/2025 (Lot.240605); 18/02/2025 (Lot.240618); 24/05/2025 (Lot.240924); 02/06/2025 (Lot.241002); 02/07/2025 (Lot.241102); 02/09/2025 (Lot.250102).",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Etichettatura non conforme Immagine del prodotto",
+  "campi_extra": {
+   "Data": "16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria"
+  },
+  "testo": "RICHIAMO\nData: 16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria\nDenominazione di vendita: Mousse cheesecake al lampone\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Iginio Massari Alta Pasticceria\ncommercializzato:\nLotto di produzione: 240515; 240529; 240605; 240618; 240924; 241002; 241102; 250102\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Iginio Massari Srl\nSede dello stabilimento: Via Orzinuovi 117, 25125 Brescia (BS)\nData di scadenza o termine minimo di conservazione: 15/01/2025 (Lot 240515); 29/01/2025 (Lot.\n240529); 05/02/2025 (Lot.240605); 18/02/2025 (Lot.240618); 24/05/2025 (Lot.240924); 02/06/2025\n(Lot.241002); 02/07/2025 (Lot.241102); 02/09/2025 (Lot.250102).\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo: Etichettatura non conforme\nImmagine del prodotto:"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:31+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:31+00:00"
+}

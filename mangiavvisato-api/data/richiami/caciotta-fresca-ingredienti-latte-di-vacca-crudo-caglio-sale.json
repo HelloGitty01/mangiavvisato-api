@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-fresca-ingredienti-latte-di-vacca-crudo-caglio-sale/",
+ "titolo": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale",
+ "data_pubblicazione": "2026-07-30",
+ "marca": "Azienda Agricola Renzini Sila",
+ "denominazione": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20caciotta_1785404429.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo caciotta_1785404429.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20caciotta_1785404429.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caciotta-fresca-ingredienti-latte-di-vacca-crudo-caglio-sale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale Nome o ragione sociale Salvatore Renzo / Azienda Agricola Renzini sila di Renzo dell'OSA a nome del quale il Salvatore prodotto è commercializzato",
+  "lotti": [
+   "07.05.2026/ 10.05.2026"
+  ],
+  "marchio_identificazione": "018CS0981C",
+  "produttore": "Azienda Agricola Renzini",
+  "sede_stabilimento": "Loc. Canalicchi Bocchigliero (CS)",
+  "scadenza": "3 mesi",
+  "peso_volume": "900g",
+  "motivo_esteso": "Rilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026",
+  "avvertenze": "Si invitano tali consumatori a non consumare i lotti con scadenza compresa tra il 23.04.2026 e il 23.07.2026 tali prodotti non vanno consumati e vanno riportati nel punto vendita",
+  "campi_extra": {
+   "Data": "28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila"
+  },
+  "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila\nDenominazione di vendita: Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale\nNome o ragione sociale\nSalvatore Renzo / Azienda Agricola Renzini sila di Renzo\ndell'OSA a nome del quale il\nSalvatore\nprodotto è commercializzato:\nLotto di produzione: 07.05.2026/ 10.05.2026\nMarchio di identificazione dello stabilimento/del produttore: 018CS0981C\nNome del produttore: Azienda Agricola Renzini\nSede dello stabilimento: Loc. Canalicchi Bocchigliero (CS)\nData di scadenza o termine minimo di conservazione: 3 mesi\nDescrizione peso/volume unità di vendita: 900g\nMotivo del richiamo:\nRilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026\nAvvertenze:\nSi invitano tali consumatori a non consumare i lotti con scadenza compresa tra il 23.04.2026 e il\n23.07.2026 tali prodotti non vanno consumati e vanno riportati nel punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:04:38+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:38+00:00"
+}

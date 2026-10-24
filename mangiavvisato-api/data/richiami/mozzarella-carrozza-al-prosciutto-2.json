@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto-2/",
+ "titolo": "Mozzarella in carrozza al prosciutto",
+ "data_pubblicazione": "2025-12-10",
+ "marca": "I Freschissimi",
+ "denominazione": "Mozzarella in carrozza al prosciutto",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20ALI%20_%20entrambi%20i%20lotti%20pdf%20_2__1765372600.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca ALI _ entrambi i lotti pdf _2__1765372600.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20ALI%20_%20entrambi%20i%20lotti%20pdf%20_2__1765372600.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-carrozza-al-prosciutto-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mozzarelle in carrozza al prosciutto",
+  "operatore": "Ali Spa",
+  "lotti": [
+   "252022 - 25204"
+  ],
+  "marchio_identificazione": "2340 CE IT",
+  "produttore": "Cucina Nostrana Srl Unipersonale",
+  "sede_stabilimento": "Via Sergio Toniolo n.3",
+  "scadenza": "07-09 / 06/2025",
+  "peso_volume": "190g",
+  "motivo_esteso": "Etichetta Non conforme. L'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in carrozza all'acciuga.",
+  "avvertenze": "Presenza allergene PESCE come ingrediente.",
+  "campi_extra": {
+   "Data": "09/12/2025 Marchio del prodotto: I Freschissimi"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 09/12/2025 Marchio del prodotto: I Freschissimi\nDenominazione di vendita:Mozzarelle in carrozza al prosciutto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ali Spa\ncommercializzato:\nLotto di produzione: 252022 - 25204\nMarchio di identificazione dello stabilimento/del produttore: 2340 CE IT\nNome del produttore: Cucina Nostrana Srl Unipersonale\nSede dello stabilimento: Via Sergio Toniolo n.3\nData di scadenza o termine minimo di conservazione: 07-09 / 06/2025\nDescrizione peso/volume unità di vendita: 190g\nMotivo del richiamo:\nEtichetta Non conforme.\nL'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in\ncarrozza all'acciuga.\nAvvertenze:\nPresenza allergene PESCE come ingrediente."
+ },
+ "prima_rilevazione": "2026-10-24T22:29:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:29:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-3/",
+ "titolo": "Dublè",
+ "data_pubblicazione": "2026-07-31",
+ "marca": "CAPRISS",
+ "denominazione": "Dublè",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20duble%20scad%2024.07.26_1785517995.pdf",
+ "allegati": [
+  {
+   "titolo": "revoca richiamo duble scad 24.07.26_1785517995.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20duble%20scad%2024.07.26_1785517995.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "duble-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:04:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:32+00:00"
+}

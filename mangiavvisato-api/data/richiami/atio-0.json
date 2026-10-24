@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atio-0/",
+ "titolo": "Atio",
+ "data_pubblicazione": "2026-07-16",
+ "marca": "CAPRISS",
+ "denominazione": "Atio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%202%20_%20cartello%20OSA_1788887400.pdf",
+ "allegati": [
+  {
+   "titolo": "_Atio 2 _ cartello OSA_1788887400.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%202%20_%20cartello%20OSA_1788887400.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "atio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:06:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:01+00:00"
+}

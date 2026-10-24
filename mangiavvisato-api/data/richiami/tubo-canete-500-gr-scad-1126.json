@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tubo-canete-500-gr-scad-1126/",
+ "titolo": "TUBO CANETE' 500 gr scad. 11_26",
+ "data_pubblicazione": "2025-02-17",
+ "marca": "CIOCCOLAMI",
+ "denominazione": "TUBO CANETE' 500 gr scad. 11_26",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DA%20CIOCCOLAMI%20500g%20TUBO%20CANETE%20scad.%2011_26_1761206503.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO DA CIOCCOLAMI 500g TUBO CANETE scad. 11_26_1761206503.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DA%20CIOCCOLAMI%20500g%20TUBO%20CANETE%20scad.%2011_26_1761206503.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tubo-canete-500-gr-scad-1126",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Dolce salame al cioccolato DESSERT senza glutine",
+  "operatore": "Cioccolami srl",
+  "lotti": [
+   "L4324-SGSL"
+  ],
+  "marchio_identificazione": "Cioccolami srl",
+  "produttore": "Cioccolami srl",
+  "sede_stabilimento": "via Belfiore 25/c San Pietro in Elda (MO) 11/2026",
+  "peso_volume": "500g TUBO CANETE’",
+  "motivo_esteso": "PROBABILE PRESENZA GLUTINE",
+  "avvertenze": "In caso di acquisto riconsegnare il prodotto integro al punto vendita",
+  "campi_extra": {
+   "Data": "23.12.2024 Marchio del prodotto: CIOCCOLAMI"
+  },
+  "testo": "RICHIAMO\nData: 23.12.2024 Marchio del prodotto: CIOCCOLAMI\nDenominazione di vendita: Dolce salame al cioccolato DESSERT senza glutine\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cioccolami srl\ncommercializzato:\nLotto di produzione: L4324-SGSL\nMarchio di identificazione dello stabilimento/del produttore: Cioccolami srl\nNome del produttore: Cioccolami srl\nSede dello stabilimento: via Belfiore 25/c San Pietro in Elda (MO)\n11/2026\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 500g TUBO CANETE’\nMotivo del richiamo: PROBABILE PRESENZA GLUTINE\nAvvertenze: In caso di acquisto riconsegnare il prodotto integro al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:48:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:48:49+00:00"
+}

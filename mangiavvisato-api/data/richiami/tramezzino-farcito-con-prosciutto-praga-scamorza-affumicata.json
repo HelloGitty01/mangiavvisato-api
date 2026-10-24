@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-farcito-con-prosciutto-praga-scamorza-affumicata/",
+ "titolo": "Tramezzino farcito con prosciutto praga, scamorza affumicata, pomodorini e maionese",
+ "data_pubblicazione": "2025-07-08",
+ "marca": "IBIS",
+ "denominazione": "Tramezzino farcito con prosciutto praga, scamorza affumicata, pomodorini e maionese",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20ITALIA%20ALIMENTARI_%20modulo%20richiamo%200340104_SAND.PR.PRAG_SCAM._POM.170GR.%20L.163_1761208276.pdf",
+ "allegati": [
+  {
+   "titolo": "DITTA ITALIA ALIMENTARI_ modulo richiamo 0340104_SAND.PR.PRAG_SCAM._POM.170GR. L.163_1761208276.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20ITALIA%20ALIMENTARI_%20modulo%20richiamo%200340104_SAND.PR.PRAG_SCAM._POM.170GR.%20L.163_1761208276.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tramezzino-farcito-con-prosciutto-praga-scamorza-affumicata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "pomodorini e maionese",
+  "operatore": "ITALIA ALIMENTARI S.p.A.",
+  "lotti": [
+   "L.163"
+  ],
+  "marchio_identificazione": "CE IT 157 L",
+  "produttore": "ITALIA ALIMENTARI",
+  "sede_stabilimento": "VIA MARCONI 3 - 46040 - GAZOLDO DEGLI IPPOLITI (MN)",
+  "scadenza": "17/07/2025",
+  "peso_volume": "di 170g vendita",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita di acquisto Immagine uno Immagine due",
+  "campi_extra": {
+   "Data": "04/07/2025 Marchio del prodotto: IBIS"
+  },
+  "testo": "RICHIAMO\nData: 04/07/2025 Marchio del prodotto: IBIS\nTramezzino farcito con prosciutto praga, scamorza affumicata,\nDenominazione di vendita:\npomodorini e maionese\nNome o ragione sociale dell’OSA a ITALIA ALIMENTARI S.p.A.\nnome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L.163\nMarchio di identificazione dello stabilimento/del produttore: CE IT 157 L\nNome del produttore: ITALIA ALIMENTARI\nSede dello stabilimento: VIA MARCONI 3 - 46040 - GAZOLDO DEGLI IPPOLITI (MN)\nData di scadenza o termine minimo di conservazione: 17/07/2025\nDescrizione peso/volume di\n170g\nvendita:\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita di acquisto\nImmagine uno Immagine due"
+ },
+ "prima_rilevazione": "2026-10-24T22:40:21+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:40:21+00:00"
+}

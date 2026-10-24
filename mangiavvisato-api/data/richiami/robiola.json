@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/robiola/",
+ "titolo": "Robiola",
+ "data_pubblicazione": "2026-07-16",
+ "marca": "CAPRISS",
+ "denominazione": "Robiola",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Robiola%20_%20cartello%20OSA_1788887583.pdf",
+ "allegati": [
+  {
+   "titolo": "_Robiola _ cartello OSA_1788887583.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Robiola%20_%20cartello%20OSA_1788887583.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "robiola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:06:21+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:21+00:00"
+}

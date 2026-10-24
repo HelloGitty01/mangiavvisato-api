@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-3/",
+ "titolo": "Insalata di riso",
+ "data_pubblicazione": "2026-08-18",
+ "marca": "Insalate già pronte",
+ "denominazione": "Insalata di riso",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1787073042.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo_1787073042.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1787073042.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-di-riso-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Insalata di riso",
+  "operatore": "La sorgente srl",
+  "lotti": [
+   "26016"
+  ],
+  "marchio_identificazione": "IT358LCE",
+  "produttore": "La Sorgente SRL",
+  "sede_stabilimento": "Via Aldo Moro 6 - 20042 Pessano c/B (MI)",
+  "scadenza": "22-08-2026",
+  "peso_volume": "200 GRAMMI",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita",
+  "campi_extra": {
+   "Data": "17/08/2026 Marchio del prodotto: Insalate già pronte"
+  },
+  "testo": "RICHIAMO\nData: 17/08/2026 Marchio del prodotto: Insalate già pronte\nDenominazione di vendita:Insalata di riso\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è La sorgente srl\ncommercializzato:\nLotto di produzione: 26016\nMarchio di identificazione dello stabilimento/del produttore: IT358LCE\nNome del produttore: La Sorgente SRL\nSede dello stabilimento: Via Aldo Moro 6 - 20042 Pessano c/B (MI)\nData di scadenza o termine minimo di conservazione: 22-08-2026\nDescrizione peso/volume unità di vendita: 200 GRAMMI\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:03+00:00"
+}

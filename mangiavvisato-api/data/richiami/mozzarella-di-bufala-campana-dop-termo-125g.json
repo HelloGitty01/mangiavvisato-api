@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-di-bufala-campana-dop-termo-125g/",
+ "titolo": "MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+ "data_pubblicazione": "2026-01-12",
+ "marca": "CONTADINA",
+ "denominazione": "MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Abbasciano%20mozzarella%20di%20bufala%20campana%20DOP%20termo%20g%20125%20La%20Contadina%20lotto%2025349%20_1768222991.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Abbasciano mozzarella di bufala campana DOP termo g 125 La Contadina lotto 25349 _1768222991.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Abbasciano%20mozzarella%20di%20bufala%20campana%20DOP%20termo%20g%20125%20La%20Contadina%20lotto%2025349%20_1768222991.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-di-bufala-campana-dop-termo-125g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G",
+  "operatore": "LA CONTADINA SOC. COOP A R.L.",
+  "lotti": [
+   "25349"
+  ],
+  "marchio_identificazione": "IT 15630 CE",
+  "produttore": "LA CONTADINA SOC. COOP A R.L.",
+  "sede_stabilimento": "VIA ANDREOZZI 18 - 81046 - GRAZZANISE (CE) - ITALIA",
+  "scadenza": "19-01-2026",
+  "peso_volume": "BUSTA TERMO 125G",
+  "motivo_esteso": "RITIRO PRECAUZIONALE PER SOSPETTO SUPERAMENTO LIMITI DI LEGGE AFLATOSSINA M1",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO RESTITUIRE LE CONFEZIONI ACQUISTATE PRESSO IL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "02/01/2026 Marchio del prodotto: CONTADINA"
+  },
+  "testo": "RICHIAMO\nData: 02/01/2026 Marchio del prodotto: CONTADINA\nDenominazione di vendita:MOZZARELLA DI BUFALA CAMPANA DOP - TERMO 125G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA CONTADINA SOC. COOP A R.L.\ncommercializzato:\nLotto di produzione: 25349\nMarchio di identificazione dello stabilimento/del produttore: IT 15630 CE\nNome del produttore: LA CONTADINA SOC. COOP A R.L.\nSede dello stabilimento: VIA ANDREOZZI 18 - 81046 - GRAZZANISE (CE) - ITALIA\nData di scadenza o termine minimo di conservazione: 19-01-2026\nDescrizione peso/volume unità di vendita: BUSTA TERMO 125G\nMotivo del richiamo:\nRITIRO PRECAUZIONALE PER SOSPETTO SUPERAMENTO LIMITI DI LEGGE AFLATOSSINA M1\nAvvertenze:\nNON CONSUMARE IL PRODOTTO\nRESTITUIRE LE CONFEZIONI ACQUISTATE PRESSO IL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:24:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:24:49+00:00"
+}

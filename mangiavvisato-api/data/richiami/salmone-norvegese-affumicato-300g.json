@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-300g/",
+ "titolo": "Salmone Norvegese Affumicato 300g",
+ "data_pubblicazione": "2025-07-05",
+ "marca": "DESPAR",
+ "denominazione": "Salmone Norvegese Affumicato 300g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN300DES05%20%20modulo%20di%20richiamo%20Ministero_1761208265.pdf",
+ "allegati": [
+  {
+   "titolo": "05_SAN300DES05  modulo di richiamo Ministero_1761208265.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/05_SAN300DES05%20%20modulo%20di%20richiamo%20Ministero_1761208265.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salmone-norvegese-affumicato-300g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALMONE NORVEGESE AFFUMICATO",
+  "operatore": "Despar Italia S.c. a r.l. – via Cristoni, 82 – 40033 Casalecchio di Reno (BO)",
+  "lotti": [
+   "QUALSIASI NUMERO DI LOTTO Marchio di identificazion",
+   "dello stabilimento/del produttore: RS 06026"
+  ],
+  "produttore": "Kristal So d.o.o Natural Fish Nova industrijska zona bb, Krnjesevci, SERBIA",
+  "sede_stabilimento": "Nova industrijska zona bb",
+  "scadenza": "term ine minimo di conservazione: QUALSIASI SCADENZA Krnjesevci - Serbia",
+  "peso_volume": "300g",
+  "motivo_esteso": "Richiamo precauzionale per sospetta presenza di Listeria Monocytogenes",
+  "avvertenze": "Per i consumatori: restituire la confezione al punto di vendita da cui è stato acquistato. Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/07/2025 Marchio del prodotto: DESPAR",
+   "Marchio di identificazion e dello stabilimento/del produttore": "RS 06026",
+   "Per i consumatori": "restituire la confezione al punto di vendita da cui è stato acquistato."
+  },
+  "testo": "RICHIAMO\nData: 04/07/2025 Marchio del prodotto: DESPAR\nDenominazione di vendita SALMONE NORVEGESE AFFUMICATO\nNome o ragione sociale dell'OSA Despar Italia S.c. a r.l. – via Cristoni, 82 – 40033 Casalecchio di Reno\na nome del quale il prodotto è (BO)\ncommercializzato:\nLotto di produzione: QUALSIASI NUMERO DI LOTTO\nMarchio di identificazion e dello stabilimento/del produttore: RS 06026\nNome del produttore: Kristal So d.o.o Natural Fish\nNova industrijska zona bb, Krnjesevci, SERBIA\nSede dello stabilimento:\nNova industrijska zona bb\nData di scadenza o term ine minimo di conservazione: QUALSIASI SCADENZA\nKrnjesevci\n-\nSerbia\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nRichiamo precauzionale per sospetta presenza di Listeria Monocytogenes\nAvvertenze:\nPer i consumatori: restituire la confezione al punto di vendita da cui è stato acquistato.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:40:28+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:40:28+00:00"
+}

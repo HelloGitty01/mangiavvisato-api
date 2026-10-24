@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tofu-vegano-biologico-al-naturale/",
+ "titolo": "TOFU VEGANO BIOLOGICO AL NATURALE",
+ "data_pubblicazione": "2025-05-26",
+ "marca": "BIOLAB SRL",
+ "denominazione": "TOFU VEGANO BIOLOGICO AL NATURALE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloministerialerichiamoTofu22_05_2025_1761207489.pdf",
+ "allegati": [
+  {
+   "titolo": "ModelloministerialerichiamoTofu22_05_2025_1761207489.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloministerialerichiamoTofu22_05_2025_1761207489.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tofu-vegano-biologico-al-naturale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TOFU VEGANO BIOLOGICO AL NATURALE",
+  "operatore": "Despar Italia S.c. a r.l. Via Cristoni, 82 40033 Casalecchio di Reno (BO)",
+  "lotti": [
+   "238"
+  ],
+  "marchio_identificazione": "/",
+  "produttore": "BIOLAB SRL",
+  "sede_stabilimento": "VIA G. RESSEL 12",
+  "scadenza": "06-08-2025",
+  "peso_volume": "250 g",
+  "motivo_esteso": "RISCHIO ALLERGENE, Il prodotto contenuto non corrisponde all' etichetta. L'etichetta fa riferimento al \"tofu\" ma il prodotto contenuto è \"seitan\". In etichetta manca l' indicazione dell' ingrediente allergenizzante grano/frumento (indicato comunque come cross contaminazione) e la possibile cross contaminazione da senape.",
+  "campi_extra": {
+   "Data": "22/05/2025 Marchio del prodotto: VEGGIE - DESPAR"
+  },
+  "testo": "RICHIAMO\nData: 22/05/2025 Marchio del prodotto: VEGGIE - DESPAR\nDenominazione di vendita:TOFU VEGANO BIOLOGICO AL NATURALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Despar Italia S.c. a r.l. Via Cristoni, 82 40033 Casalecchio di Reno (BO)\ncommercializzato:\nLotto di produzione: 238\nMarchio di identificazione dello stabilimento/del produttore: /\nNome del produttore: BIOLAB SRL\nSede dello stabilimento: VIA G. RESSEL 12\nData di scadenza o termine minimo di conservazione: 06-08-2025\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nRISCHIO ALLERGENE, Il prodotto contenuto non corrisponde all' etichetta. L'etichetta fa riferimento al\n\"tofu\" ma il prodotto contenuto è \"seitan\". In etichetta manca l' indicazione dell' ingrediente\nallergenizzante grano/frumento (indicato comunque come cross contaminazione) e la possibile cross\ncontaminazione da senape.\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:42:41+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:41+00:00"
+}

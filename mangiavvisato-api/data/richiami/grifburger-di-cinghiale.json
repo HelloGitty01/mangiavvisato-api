@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grifburger-di-cinghiale/",
+ "titolo": "GRIFBURGER DI CINGHIALE",
+ "data_pubblicazione": "2025-10-04",
+ "marca": "IL GRIFONE SRL",
+ "denominazione": "GRIFBURGER DI CINGHIALE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo%20hamburger_1761209185.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_richiamo hamburger_1761209185.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo%20hamburger_1761209185.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grifburger-di-cinghiale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:35:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:35:07+00:00"
+}

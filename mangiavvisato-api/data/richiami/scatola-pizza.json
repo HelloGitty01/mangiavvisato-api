@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/scatola-pizza/",
+ "titolo": "Scatola per pizza",
+ "data_pubblicazione": "2025-07-29",
+ "marca": "Liner Italia",
+ "denominazione": "Scatola per pizza",
+ "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LINER_Modulo%20Ritiro_1761208318.pdf",
+ "allegati": [
+  {
+   "titolo": "LINER_Modulo Ritiro_1761208318.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LINER_Modulo%20Ritiro_1761208318.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "scatola-pizza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:39:36+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:39:36+00:00"
+}

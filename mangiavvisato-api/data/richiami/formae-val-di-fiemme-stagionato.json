@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formae-val-di-fiemme-stagionato/",
+ "titolo": "FORMAE VAL DI FIEMME STAGIONATO",
+ "data_pubblicazione": "2026-07-01",
+ "marca": "CASEIFICIO SOCIALE VAL DI FIEMME - CAVALESE S.C.A.",
+ "denominazione": "FORMAE VAL DI FIEMME STAGIONATO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_1782916448.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_Richiamo_1782916448.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_1782916448.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formae-val-di-fiemme-stagionato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:07:22+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:07:22+00:00"
+}

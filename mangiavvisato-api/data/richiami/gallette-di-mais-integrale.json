@@ -1,0 +1,47 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale/",
+ "titolo": "Gallette di mais integrale",
+ "data_pubblicazione": "2025-12-03",
+ "marca": "Terra Verde",
+ "denominazione": "Gallette di mais integrale",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Terra_Verde_1764777105.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_di_richiamo_Terra_Verde_1764777105.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Terra_Verde_1764777105.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gallette-di-mais-integrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gallette di mais integrale",
+  "operatore": "TERRA VERDE BIO",
+  "lotti": [
+   "B2509",
+   "D2557",
+   "F2526",
+   "G2528",
+   "I2531",
+   "L2524"
+  ],
+  "marchio_identificazione": "Langalletta srl",
+  "produttore": "Langalletta srl",
+  "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+  "scadenza": "B2509 04/02/26, D2557 14/04/26, F2526 19/06/26, G2528 14/07/26, I2531 30/09/26, L2524 30/10/26",
+  "peso_volume": "150g",
+  "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+  "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/11/2025 Marchio del prodotto: TERRA VERDE"
+  },
+  "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: TERRA VERDE\nDenominazione di vendita: Gallette di mais integrale\nNome o ragione sociale dell'OSA TERRA VERDE BIO\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: B2509, D2557, F2526, G2528, I2531, L2524\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: B2509 04/02/26, D2557 14/04/26, F2526\n19/06/26, G2528 14/07/26, I2531 30/09/26,\nL2524 30/10/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:29:38+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:29:38+00:00"
+}

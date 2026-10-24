@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-gusto/",
+ "titolo": "Le Gusto",
+ "data_pubblicazione": "2026-05-20",
+ "marca": "Senape medio forte 250 ml",
+ "denominazione": "Le Gusto",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20849747%20_%20Senape%20medio%20forte%20250ml_1779288441.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello _ 849747 _ Senape medio forte 250ml_1779288441.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20849747%20_%20Senape%20medio%20forte%20250ml_1779288441.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "le-gusto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Senape medio forte 250ml",
+  "operatore": "ALDI SRL",
+  "produttore": "Haberland Marketing GmbH D-93197 Zeitlarn, Germania",
+  "sede_stabilimento": "Date di scadenza o termine minimo di conservazione: 20.01.2027",
+  "peso_volume": "250ml",
+  "motivo_esteso": "Possibile presenza di solfiti non dichiarati in etichetta.",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "13/05/2 026 Marchio del prodotto: LE GUSTO",
+   "Date di scadenza o termine minimo di conservazione": "20.01.2027"
+  },
+  "testo": "RICHIAMO\nData: 13/05/2 026 Marchio del prodotto: LE GUSTO\nDenominazione di vendita: Senape medio forte 250ml\nNome o ragione sociale dell’OSA ALDI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: -\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Haberland Marketing GmbH\nD-93197 Zeitlarn, Germania\nSede dello stabilimento:\nDate di scadenza o termine minimo di conservazione: 20.01.2027\nDescrizione peso/volume unità di vendita: 250ml\nMotivo del richiamo:\nPossibile presenza di solfiti non dichiarati in etichetta.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà\nrimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:30+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:30+00:00"
+}

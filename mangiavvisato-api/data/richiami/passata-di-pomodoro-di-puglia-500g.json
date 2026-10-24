@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passata-di-pomodoro-di-puglia-500g/",
+ "titolo": "Passata di Pomodoro di Puglia 500g",
+ "data_pubblicazione": "2026-01-08",
+ "marca": "Pastificio Attilio Mastromauro - Granoro srl",
+ "denominazione": "Passata di Pomodoro di Puglia 500g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale%20Recall%20_%20Passata%20Dedicato%20500g%20_%20HP1LM283_1786017780.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo ministeriale Recall _ Passata Dedicato 500g _ HP1LM283_1786017780.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ministeriale%20Recall%20_%20Passata%20Dedicato%20500g%20_%20HP1LM283_1786017780.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "passata-di-pomodoro-di-puglia-500g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Passata di Pomodoro di Puglia 500g",
+  "operatore": "Pastificio Attilio Mastromauro - Granoro srl",
+  "lotti": [
+   "HP1LM283"
+  ],
+  "marchio_identificazione": "Gruppo Alimentare Castellano",
+  "produttore": "Gruppo Alimentare Castellano S.p.A.",
+  "sede_stabilimento": "S.S. 16, Km. 703 + 900 - 71042 Cerignola (FG) - sigla HP1",
+  "scadenza": "31-12-2026",
+  "peso_volume": "500 g",
+  "motivo_esteso": "presenza di corpo estraneo (vetro)",
+  "avvertenze": "restituire il prodotto presso il luogo di acquisto.",
+  "campi_extra": {
+   "Data": "29/12/2025 Marchio del prodotto: Granoro Dedicato"
+  },
+  "testo": "RICHIAMO\nData: 29/12/2025 Marchio del prodotto: Granoro Dedicato\nDenominazione di vendita:Passata di Pomodoro di Puglia 500g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Pastificio Attilio Mastromauro - Granoro srl\ncommercializzato:\nLotto di produzione: HP1LM283\nMarchio di identificazione dello stabilimento/del produttore: Gruppo Alimentare Castellano\nNome del produttore: Gruppo Alimentare Castellano S.p.A.\nSede dello stabilimento: S.S. 16, Km. 703 + 900 - 71042 Cerignola (FG) - sigla HP1\nData di scadenza o termine minimo di conservazione: 31-12-2026\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\npresenza di corpo estraneo (vetro)\nAvvertenze:\nrestituire il prodotto presso il luogo di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:25:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:25:39+00:00"
+}

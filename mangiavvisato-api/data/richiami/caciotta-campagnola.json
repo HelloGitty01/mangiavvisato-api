@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-campagnola/",
+ "titolo": "CACIOTTA CAMPAGNOLA",
+ "data_pubblicazione": "2025-12-15",
+ "marca": "CACIOTTA CAMPAGNOLA",
+ "denominazione": "CACIOTTA CAMPAGNOLA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20campagnola_1765822199.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo caciotta campagnola_1765822199.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20campagnola_1765822199.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caciotta-campagnola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:28:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:49+00:00"
+}

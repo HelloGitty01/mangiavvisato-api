@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-magliano/",
+ "titolo": "SALAME DI MAGLIANO",
+ "data_pubblicazione": "2025-06-10",
+ "marca": "MONTE ARGEGNA SALUMI",
+ "denominazione": "SALAME DI MAGLIANO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ritiro_richiamo%20Ditta%20Monte%20Argegna%20Salumi_1761207561.pdf",
+ "allegati": [
+  {
+   "titolo": "modello ritiro_richiamo Ditta Monte Argegna Salumi_1761207561.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ritiro_richiamo%20Ditta%20Monte%20Argegna%20Salumi_1761207561.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-di-magliano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:41:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:39+00:00"
+}

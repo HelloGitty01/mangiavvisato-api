@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-mon-sir-60-1kg/",
+ "titolo": "BRIE MON SIR 60% 1KG",
+ "data_pubblicazione": "2026-08-17",
+ "marca": "MON SIR",
+ "denominazione": "BRIE MON SIR 60% 1KG",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Brie%20Mon%20Sir%20_%20lotto%20ZUAD2_1786968497.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo Brie Mon Sir _ lotto ZUAD2_1786968497.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Brie%20Mon%20Sir%20_%20lotto%20ZUAD2_1786968497.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "brie-mon-sir-60-1kg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BRIE MON SIR 60% 1 KG",
+  "operatore": "PATURAGES COMTOIS",
+  "lotti": [
+   "ZUAD2"
+  ],
+  "marchio_identificazione": "FR 70002001CE",
+  "produttore": "PATURAGES COMTOIS",
+  "sede_stabilimento": "70500 ABONCOURT - FRANCIA",
+  "scadenza": "18/08/26",
+  "peso_volume": "1 KG",
+  "motivo_esteso": "PRESENZA Listeria monocytogenes",
+  "avvertenze": "alle persone in possesso del prodotto oggetto di richiamo si chiede di NON CONSUMARE il prodotto e restituirlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "11/08/2026 Marchio del prodotto: MON SIR",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 11/08/2026 Marchio del prodotto: MON SIR\nDenominazione di vendita:BRIE MON SIR 60% 1 KG\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PATURAGES COMTOIS\ncommercializzato:\nLotto di produzione: ZUAD2\nMarchio di identificazione dello stabilimento/del produttore: FR 70002001CE\nNome del produttore: PATURAGES COMTOIS\nSede dello stabilimento: 70500 ABONCOURT - FRANCIA\nData di scadenza o termine minimo di conservazione: 18/08/26\nDescrizione peso/volume unità di vendita: 1 KG\nMotivo del richiamo:\nPRESENZA Listeria monocytogenes\nAvvertenze:\nalle persone in possesso del prodotto oggetto di richiamo si chiede di NON CONSUMARE il prodotto e\nrestituirlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:06+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:06+00:00"
+}

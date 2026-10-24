@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallina-quarti/",
+ "titolo": "GALLINA IN QUARTI",
+ "data_pubblicazione": "2025-05-22",
+ "marca": "SOC. AGR. GUIDI DI RONCOFREDDO S.S",
+ "denominazione": "GALLINA IN QUARTI",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Gallina%20quarti_Guidi_1761207478.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo Gallina quarti_Guidi_1761207478.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Gallina%20quarti_Guidi_1761207478.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "gallina-quarti",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:42:48+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:48+00:00"
+}

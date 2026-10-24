@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/idrae-gatto-acqua-gatto/",
+ "titolo": "IDRAE GATTO-ACQUA PER GATTO",
+ "data_pubblicazione": "2026-03-24",
+ "marca": "APALSOL",
+ "denominazione": "IDRAE GATTO-ACQUA PER GATTO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20IDRA%20GATTO%20_1__1785172204.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO IDRA GATTO _1__1785172204.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20IDRA%20GATTO%20_1__1785172204.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "idrae-gatto-acqua-gatto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ACQUA IDRAE GATTO – VIE URINARIE",
+  "operatore": "APALASOL SRL",
+  "lotti": [
+   "L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH"
+  ],
+  "marchio_identificazione": "ALFAIT000079PC",
+  "produttore": "APALASOL SRL",
+  "sede_stabilimento": "LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)",
+  "scadenza": "31-01-2028",
+  "peso_volume": "500 ml",
+  "motivo_esteso": "Additivo non consentito",
+  "avvertenze": "CHIUNQUE LO AVESSE ACQUISTATO È INVITATO A NON CONSUMARE IL PRODOTTO E A RENDERLO PRESSO IL PUNTO VENDITA PER IL RIMBORSO O LA SOSTITUZIONE",
+  "campi_extra": {
+   "Data": "23/03/2026 Marchio del prodotto: APALASOL SRL"
+  },
+  "testo": "RICHIAMO\nData: 23/03/2026 Marchio del prodotto: APALASOL SRL\nDenominazione di vendita:ACQUA IDRAE GATTO – VIE URINARIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è APALASOL SRL\ncommercializzato:\nLotto di produzione: L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH\nMarchio di identificazione dello stabilimento/del produttore: ALFAIT000079PC\nNome del produttore: APALASOL SRL\nSede dello stabilimento: LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)\nData di scadenza o termine minimo di conservazione: 31-01-2028\nDescrizione peso/volume unità di vendita: 500 ml\nMotivo del richiamo:\nAdditivo non consentito\nlotti: L25002IPH (scad. 07/26) - L25003IPH (scad. 08/26)- L25004IPH (scad. 10/26)\nL25005IPH (scad. 11/26) - L25007IPH (scad. 12/27) - L25008IPH (scad. 01/28)\nAvvertenze:\nCHIUNQUE LO AVESSE ACQUISTATO È INVITATO A NON CONSUMARE IL PRODOTTO E A RENDERLO\nPRESSO IL PUNTO VENDITA PER IL RIMBORSO O LA SOSTITUZIONE"
+ },
+ "prima_rilevazione": "2026-10-24T22:19:10+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:10+00:00"
+}

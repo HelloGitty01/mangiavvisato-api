@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetto-di-branzino-surgelato/",
+ "titolo": "filetto di branzino surgelato",
+ "data_pubblicazione": "2026-03-25",
+ "marca": "Primia",
+ "denominazione": "filetto di branzino surgelato",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_1774453216.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_1774453216.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_1774453216.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetto-di-branzino-surgelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI BRAZINO SURGELATI",
+  "operatore": "NETTUNO ALIMENTARI SPA",
+  "lotti": [
+   "GN2612251301-FD"
+  ],
+  "marchio_identificazione": "TR 35 - 0979",
+  "produttore": "OYKUM SU URUNLERI PAZ. GIDA TARIM HAVY.SA.VE TIC. A.S.",
+  "sede_stabilimento": "TURCHIA",
+  "scadenza": "26/12/27",
+  "peso_volume": "CARTONE DA 4,8 (12 CONF DA 400 G )",
+  "motivo_esteso": "PRESENZA CORPI ESTRANEI",
+  "campi_extra": {
+   "Data": "25/03/26 Marchio del prodotto: PRIMIA"
+  },
+  "testo": "RICHIAMO\nData: 25/03/26 Marchio del prodotto: PRIMIA\nDenominazione di vendita:FILETTI DI BRAZINO SURGELATI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NETTUNO ALIMENTARI SPA\ncommercializzato:\nLotto di produzione: GN2612251301-FD\nMarchio di identificazione dello stabilimento/del produttore: TR 35 - 0979\nNome del produttore: OYKUM SU URUNLERI PAZ. GIDA TARIM HAVY.SA.VE TIC. A.S.\nSede dello stabilimento: TURCHIA\nData di scadenza o termine minimo di conservazione: 26/12/27\nDescrizione peso/volume unità di vendita: CARTONE DA 4,8 (12 CONF DA 400 G )\nMotivo del richiamo:\nPRESENZA CORPI ESTRANEI\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:19:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:01+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/laddu/",
+ "titolo": "LADDU",
+ "data_pubblicazione": "2026-04-08",
+ "marca": "PUNJABI & RESTAURANT SWEET HOUSE – BITTA HALWAYI",
+ "denominazione": "LADDU",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%206_1775641624.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 6_1775641624.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%206_1775641624.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "laddu",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LADDU",
+  "operatore": "PUNJABI SWEET SHOP AND CATTERING DI BITTA NARINDER KUMAR",
+  "lotti": [
+   "Non presente"
+  ],
+  "marchio_identificazione": "BITTA HALWAYI",
+  "produttore": "PUNJABI SWEET SHOP",
+  "sede_stabilimento": "Strada Vicinale dei Pizzali, 12 – Martignana di Po ( CR)",
+  "scadenza": "08­04­2026",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Etichettatura non corretta. Possibile presenza di allergeni non indicati e non individuabili in etichetta. Possibili coloranti non identificati.",
+  "avvertenze": "In caso di allergie non consumare il prodotto ×²­»®·®» ·³ ³ ¹·²» «²±æ ×²­»®·®» ·³ ³ ¹·²» ¼«»æ",
+  "campi_extra": {
+   "Data": "08/04/2026 Marchio del prodotto: PUNJABI & RESTAURANT SWEET HOUSE"
+  },
+  "testo": "RICHIAMO\nData: 08/04/2026 Marchio del prodotto: PUNJABI & RESTAURANT SWEET HOUSE\nDenominazione di vendita: LADDU\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PUNJABI SWEET SHOP AND CATTERING DI BITTA NARINDER KUMAR\ncommercializzato:\nLotto di produzione: Non presente\nMarchio di identificazione dello stabilimento/del produttore: BITTA HALWAYI\nNome del produttore: PUNJABI SWEET SHOP\nSede dello stabilimento: Strada Vicinale dei Pizzali, 12 – Martignana di Po ( CR)\nData di scadenza o termine minimo di conservazione: 08­04­2026\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nEtichettatura non corretta.\nPossibile presenza di allergeni non indicati e non individuabili in etichetta.\nPossibili coloranti non identificati.\nAvvertenze:\nIn caso di allergie non consumare il prodotto\n×²­»®·®» ·³ ³ ¿¹·²» «²±æ ×²­»®·®» ·³ ³ ¿¹·²» ¼«»æ"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:03+00:00"
+}

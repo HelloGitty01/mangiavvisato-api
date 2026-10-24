@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/senape-300-ml/",
+ "titolo": "Senape 300 ml",
+ "data_pubblicazione": "2026-05-14",
+ "marca": "Tuscè",
+ "denominazione": "Senape 300 ml",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20senape%20squeezer%20300ml%20L44.1%20Tusc%C3%A8_1778760490.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello senape squeezer 300ml L44.1 Tuscè_1778760490.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20senape%20squeezer%20300ml%20L44.1%20Tusc%C3%A8_1778760490.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "senape-300-ml",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SENAPE 300 ml",
+  "operatore": "RIGHETTI ALIMENTARE S.r.l",
+  "lotti": [
+   "44.1"
+  ],
+  "produttore": "RIGHETTI ALIMENTARE S.r.l",
+  "sede_stabilimento": "VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)",
+  "scadenza": "30-08-2026",
+  "peso_volume": "300 ml",
+  "motivo_esteso": "Presenza di solfiti non dichiarati in etichetta",
+  "avvertenze": "Si raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato questo lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "13/05/2026 Marchio del prodotto: TUSCE'"
+  },
+  "testo": "RICHIAMO\nData: 13/05/2026 Marchio del prodotto: TUSCE'\nDenominazione di vendita:SENAPE 300 ml\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RIGHETTI ALIMENTARE S.r.l\ncommercializzato:\nLotto di produzione: 44.1\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: RIGHETTI ALIMENTARE S.r.l\nSede dello stabilimento: VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)\nData di scadenza o termine minimo di conservazione: 30-08-2026\nDescrizione peso/volume unità di vendita: 300 ml\nMotivo del richiamo:\nPresenza di solfiti non dichiarati in etichetta\nAvvertenze:\nSi raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato\nquesto lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:16:08+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:08+00:00"
+}

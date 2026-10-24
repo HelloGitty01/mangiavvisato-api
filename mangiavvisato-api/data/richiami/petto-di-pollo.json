@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petto-di-pollo/",
+ "titolo": "PETTO DI POLLO",
+ "data_pubblicazione": "2025-03-27",
+ "marca": "ROSSETTO SELEZIONE",
+ "denominazione": "PETTO DI POLLO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ROSSETTO_1761206725.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO MINISTERIALE COMPILATO ROSSETTO_1761206725.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20COMPILATO%20ROSSETTO_1761206725.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "petto-di-pollo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PETTO DI POLLO",
+  "operatore": "ROSSETTO TRADE S.P.A. VEDI AVVERTENZE",
+  "lotti": [
+   "IT F1M1S UE"
+  ],
+  "marchio_identificazione": "FORNO D'ORO SRL",
+  "sede_stabilimento": "VIA SILA 1/A, ISOLA VICENTINA 36033",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "140 g",
+  "motivo_esteso": "Possibile presenza di allergene uova non dichiarato in etichetta.",
+  "avvertenze": "Non consumare se allergici. Rendere il prodotto al punto vendita di acquisto. Lotto: 5293125700-02/04/25; 5946185700-15/04/25 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/03/2025 Marchio del prodotto: ROSSETTO SELEZIONE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/03/2025 Marchio del prodotto: ROSSETTO SELEZIONE\nDenominazione di vendita:PETTO DI POLLO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ROSSETTO TRADE S.P.A.\ncommercializzato:\nVEDI AVVERTENZE\nLotto di produzione:\nIT F1M1S UE\nMarchio di identificazione dello stabilimento/del produttore:\nFORNO D'ORO SRL\nNome del produttore:\nSede dello stabilimento: VIA SILA 1/A, ISOLA VICENTINA 36033\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nPossibile presenza di allergene uova non dichiarato in etichetta.\nAvvertenze:\nNon consumare se allergici. Rendere il prodotto al punto vendita di acquisto. Lotto: 5293125700-02/04/25;\n5946185700-15/04/25\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:46:28+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:28+00:00"
+}

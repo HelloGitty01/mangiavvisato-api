@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cenestro/",
+ "titolo": "CENESTRO",
+ "data_pubblicazione": "2026-09-11",
+ "marca": "IL FIENILE - DI CECCA LUIGI SRL",
+ "denominazione": "CENESTRO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20di%20richiamo_1789128144.pdf",
+ "allegati": [
+  {
+   "titolo": "avviso di richiamo_1789128144.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20di%20richiamo_1789128144.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cenestro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:01:25+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:01:25+00:00"
+}

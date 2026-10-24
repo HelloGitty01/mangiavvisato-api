@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-frutta-mela-e-banana-vaschetta-da-100-g/",
+ "titolo": "Polpa di frutta Mela e Banana in vaschetta da 100 g.",
+ "data_pubblicazione": "2025-05-23",
+ "marca": "Bianchi",
+ "denominazione": "Polpa di frutta Mela e Banana in vaschetta da 100 g.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_1761207485.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_di_richiamo_1761207485.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_1761207485.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpa-di-frutta-mela-e-banana-vaschetta-da-100-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLPA DI FRUTTA MELA E BANANA",
+  "operatore": "BIANCHI SRL",
+  "lotti": [
+   "098"
+  ],
+  "produttore": "PRODOTTO DA FUTURA SPA PER BIANCHI SRL",
+  "sede_stabilimento": "VIA BORA, 12 – BAGNACAVALLO (RA)",
+  "scadenza": "07/04/2026",
+  "peso_volume": "100 GRAMMI – 1386 PEZZI (77 COLLI X 18)",
+  "motivo_esteso": "SI RITIRA IL PRODOTTO PER PRESENZA DI PATULINA SUPERIORE AI LIMITI DI LEGGE",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO; RESTITUIRE IL PRODOTTO AL PUNTO VENDITA Per ulteriori informazioni 0131 279180 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "20/05/2025 Marchio del prodotto: BIANCHI srl",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 20/05/2025 Marchio del prodotto: BIANCHI srl\nDenominazione di vendita: POLPA DI FRUTTA MELA E BANANA\nNome o ragione sociale dell'OSA BIANCHI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 098\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PRODOTTO DA FUTURA SPA PER BIANCHI SRL\nSede dello stabilimento: VIA BORA, 12 – BAGNACAVALLO (RA)\nData di scadenza o termine minimo di conservazione: 07/04/2026\nDescrizione peso/volume unità di vendita: 100 GRAMMI – 1386 PEZZI (77 COLLI X 18)\nMotivo del richiamo: SI RITIRA IL PRODOTTO PER PRESENZA DI PATULINA SUPERIORE AI LIMITI\nDI LEGGE\nAvvertenze: NON CONSUMARE IL PRODOTTO; RESTITUIRE IL PRODOTTO AL PUNTO VENDITA\nPer ulteriori informazioni 0131 279180\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:42:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:46+00:00"
+}

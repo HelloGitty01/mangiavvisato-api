@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tagliata-di-scottona-2/",
+ "titolo": "Tagliata di scottona",
+ "data_pubblicazione": "2026-04-17",
+ "marca": "dedicarne",
+ "denominazione": "Tagliata di scottona",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20REVOCA%20RICHIAMO%20102444_1776436447.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO REVOCA RICHIAMO 102444_1776436447.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20REVOCA%20RICHIAMO%20102444_1776436447.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tagliata-di-scottona-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:17:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:17:09+00:00"
+}

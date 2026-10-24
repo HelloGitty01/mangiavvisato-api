@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-classico-0/",
+ "titolo": "PANDORO CLASSICO",
+ "data_pubblicazione": "2026-01-02",
+ "marca": "VERGANI SRL - MILANO",
+ "denominazione": "PANDORO CLASSICO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/11%20richiamo%20CLASSICO%20PER%20ESSELUNGA%20VERGANI_1767729499.pdf",
+ "allegati": [
+  {
+   "titolo": "11 richiamo CLASSICO PER ESSELUNGA VERGANI_1767729499.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/11%20richiamo%20CLASSICO%20PER%20ESSELUNGA%20VERGANI_1767729499.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pandoro-classico-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANDORO CLASSICO",
+  "operatore": "VERGANI SRL - MILANO",
+  "lotti": [
+   "vari"
+  ],
+  "produttore": "ZERO+4 SRL",
+  "sede_stabilimento": "via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)",
+  "scadenza": "8/05/2026",
+  "peso_volume": "600 g",
+  "motivo_esteso": "presenza corpi estranei (residui di rivestimento PTFE stampo di cottura)",
+  "campi_extra": {
+   "Data": "31/12/2025 Marchio del prodotto: VERGANI"
+  },
+  "testo": "RICHIAMO\nData: 31/12/2025 Marchio del prodotto: VERGANI\nDenominazione di vendita:PANDORO CLASSICO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VERGANI SRL - MILANO\ncommercializzato:\nLotto di produzione: vari\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ZERO+4 SRL\nSede dello stabilimento: via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)\nData di scadenza o termine minimo di conservazione: 8/05/2026\nDescrizione peso/volume unità di vendita: 600 g\nMotivo del richiamo:\npresenza corpi estranei (residui di rivestimento PTFE stampo di cottura)\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:26:52+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:26:52+00:00"
+}

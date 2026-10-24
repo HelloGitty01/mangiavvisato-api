@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bbcolic/",
+ "titolo": "BBCOLIC",
+ "data_pubblicazione": "2025-03-26",
+ "marca": "BUONA",
+ "denominazione": "BBCOLIC",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Standard%20per%20Richiami%20_%20BBCOLIC%20_%20Lotto%200412_1761206695.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello Standard per Richiami _ BBCOLIC _ Lotto 0412_1761206695.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Standard%20per%20Richiami%20_%20BBCOLIC%20_%20Lotto%200412_1761206695.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bbcolic",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:31+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:31+00:00"
+}

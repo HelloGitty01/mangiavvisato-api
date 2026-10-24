@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tris-di-verdure-350g/",
+ "titolo": "TRIS DI VERDURE 350g",
+ "data_pubblicazione": "2025-02-14",
+ "marca": "A.M.M.53 PASTICCCERIA -GASTRONOMIA",
+ "denominazione": "TRIS DI VERDURE 350g",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Tris%20di%20verdure%20Lotto%20L358_24_1761206495.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca richiamo Tris di verdure Lotto L358_24_1761206495.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Tris%20di%20verdure%20Lotto%20L358_24_1761206495.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tris-di-verdure-350g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRIS DI VERDURE 350g",
+  "operatore": "A.M.M.53 SRL",
+  "lotti": [
+   "L358/24"
+  ],
+  "marchio_identificazione": "UE IT M2V1X",
+  "produttore": "A.M.M.53 SRL",
+  "sede_stabilimento": "Spresiano (TV)",
+  "scadenza": "22-01-2025",
+  "peso_volume": "350g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Si raccomanda di non consumare il prodotto, che deve essere eliminato o restituito al punto vendita.",
+  "campi_extra": {
+   "Data": "07/02/2025 Marchio del prodotto: A.M.M.53 PASTICCERIA-GASTRONOMIA"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 07/02/2025 Marchio del prodotto: A.M.M.53 PASTICCERIA-GASTRONOMIA\nDenominazione di vendita:TRIS DI VERDURE 350g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.M.M.53 SRL\ncommercializzato:\nLotto di produzione: L358/24\nMarchio di identificazione dello stabilimento/del produttore: UE IT M2V1X\nNome del produttore: A.M.M.53 SRL\nSede dello stabilimento: Spresiano (TV)\nData di scadenza o termine minimo di conservazione: 22-01-2025\nDescrizione peso/volume unità di vendita: 350g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nSi raccomanda di non consumare il prodotto, che deve essere eliminato o restituito al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:49:13+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:49:13+00:00"
+}

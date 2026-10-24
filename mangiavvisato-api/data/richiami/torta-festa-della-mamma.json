@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-festa-della-mamma/",
+ "titolo": "TORTA FESTA DELLA MAMMA",
+ "data_pubblicazione": "2025-05-14",
+ "marca": "Senza Peccato",
+ "denominazione": "TORTA FESTA DELLA MAMMA",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Zero_4%20srl_1761207416.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo_Zero_4 srl_1761207416.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Zero_4%20srl_1761207416.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "torta-festa-della-mamma",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TORTA FESTA DELLA MAMMA",
+  "operatore": "ZERO+4 SRL",
+  "lotti": [
+   "L 207381"
+  ],
+  "marchio_identificazione": "Senza Peccato",
+  "produttore": "ZERO+4 SRL",
+  "sede_stabilimento": "Via Lavoratori Autobianchi n. 1/Ed. 15 20832 Desio (Mb)",
+  "scadenza": "06-06-2025",
+  "peso_volume": "400g",
+  "avvertenze": "Si raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel punto vendita di acquisto. Ulteriori riferimenti: ZERO+4 SRL Tel. 0362 628854",
+  "campi_extra": {
+   "Data": "13/05/2025 Marchio del prodotto: Senza Peccato",
+   "Ulteriori riferimenti": "ZERO+4 SRL Tel. 0362 628854"
+  },
+  "testo": "RICHIAMO\nData: 13/05/2025 Marchio del prodotto: Senza Peccato\nDenominazione di vendita:TORTA FESTA DELLA MAMMA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ZERO+4 SRL\ncommercializzato:\nLotto di produzione: L 207381\nMarchio di identificazione dello stabilimento/del produttore: Senza Peccato\nNome del produttore: ZERO+4 SRL\nSede dello stabilimento: Via Lavoratori Autobianchi n. 1/Ed. 15 20832 Desio (Mb)\nData di scadenza o termine minimo di conservazione: 06-06-2025\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nLotto con rilevamento di un corpo estraneo in un singolo pezzo del lotto\nAvvertenze:\nSi raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel\npunto vendita di acquisto.\nUlteriori riferimenti: ZERO+4 SRL Tel. 0362 628854"
+ },
+ "prima_rilevazione": "2026-10-24T22:44:23+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:44:23+00:00"
+}

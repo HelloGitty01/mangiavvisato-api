@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gastrogel/",
+ "titolo": "Gastrogel",
+ "data_pubblicazione": "2025-07-24",
+ "marca": "Solimé",
+ "denominazione": "Gastrogel",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_%20Gastrogel_1761208303.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_ Gastrogel_1761208303.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_%20Gastrogel_1761208303.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gastrogel",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GASTROGEL",
+  "operatore": "Solimè s.r.l.",
+  "lotti": [
+   "G305 - H192 - H248 - J169"
+  ],
+  "marchio_identificazione": "IT AIP 42",
+  "produttore": "Solimè s.r.l.",
+  "sede_stabilimento": "via C. A. Dalla Chiesa, 10 - 42025 Cavriago (RE)",
+  "peso_volume": "20 stickpack da 6 grammi cad.",
+  "motivo_esteso": "SOSPETTO POSSIBILI TRACCE DI PROTEINE DELL’UOVO AL FINE DI GARANTIRE LA MASSIMA TUTELA PER IL CONSUMATORE LA DITTA HA AVVIATO IN VIA DEL TUTTO CAUTELATIVA LE PROCEDURE DI RICHIAMO DAL MERCATO DEL PRODOTTO PER SOSPETTO DI POSSIBILI TRACCE DI PROTEINE DELL’UOVO",
+  "avvertenze": "In caso di allergia alle proteine dell’uovo, a scopo precauzionale, non assumere il prodotto e riconsegnarlo al punto vendita. G305 scad. 11/25 - H192 scad. 07/26 - H248 scad. 09/26 - J169 scad. 06/28",
+  "campi_extra": {
+   "Data": "24/07/2025 Marchio del prodotto: Solimè"
+  },
+  "testo": "RICHIAMO\nData: 24/07/2025 Marchio del prodotto: Solimè\nDenominazione di vendita:GASTROGEL\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Solimè s.r.l.\ncommercializzato:\nLotto di produzione: G305 - H192 - H248 - J169\nMarchio di identificazione dello stabilimento/del produttore: IT AIP 42\nNome del produttore: Solimè s.r.l.\nSede dello stabilimento: via C. A. Dalla Chiesa, 10 - 42025 Cavriago (RE)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 20 stickpack da 6 grammi cad.\nMotivo del richiamo:\nSOSPETTO POSSIBILI TRACCE DI PROTEINE DELL’UOVO\nAL FINE DI GARANTIRE LA MASSIMA TUTELA PER IL CONSUMATORE LA DITTA HA AVVIATO IN VIA DEL\nTUTTO CAUTELATIVA LE PROCEDURE DI RICHIAMO DAL MERCATO DEL PRODOTTO PER SOSPETTO DI\nPOSSIBILI TRACCE DI PROTEINE DELL’UOVO\nAvvertenze:\nIn caso di allergia alle proteine dell’uovo, a scopo precauzionale, non assumere il prodotto e riconsegnarlo\nal punto vendita.\nG305 scad. 11/25 - H192 scad. 07/26 - H248 scad. 09/26 - J169 scad. 06/28"
+ },
+ "prima_rilevazione": "2026-10-24T22:39:48+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:39:48+00:00"
+}

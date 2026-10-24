@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-di-cat/",
+ "titolo": "Uova fresche di Cat. A",
+ "data_pubblicazione": "2025-01-24",
+ "marca": "FORMENTI",
+ "denominazione": "Uova fresche di Cat. A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761206445.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1761206445.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761206445.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-di-cat",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE CAT. A",
+  "operatore": "AZ. AGRICOLA FORMENTI PIERLUIGI - Beverate di Brivio (LC)",
+  "lotti": [
+   "lotti dal 08/01/2025 al 21/01/2025"
+  ],
+  "marchio_identificazione": "Centro imballaggio IT097001",
+  "produttore": "AZ. AGRICOLA FORMENTI PIERLUIGI",
+  "sede_stabilimento": "Beverate di Brivio (LC)",
+  "scadenza": "diverse",
+  "peso_volume": "confezione da 6 uova",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO - riscontro di salmonella nell'allevamento",
+  "avvertenze": "Non consumare e restituire al negoziante",
+  "campi_extra": {
+   "Data": "23/01/2025 Marchio del prodotto: FORMENTI"
+  },
+  "testo": "RICHIAMO\nData: 23/01/2025 Marchio del prodotto: FORMENTI\nDenominazione di vendita:UOVA FRESCHE CAT. A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZ. AGRICOLA FORMENTI PIERLUIGI - Beverate di Brivio (LC)\ncommercializzato:\nLotto di produzione: lotti dal 08/01/2025 al 21/01/2025\nMarchio di identificazione dello stabilimento/del produttore: Centro imballaggio IT097001\nNome del produttore: AZ. AGRICOLA FORMENTI PIERLUIGI\nSede dello stabilimento: Beverate di Brivio (LC)\nData di scadenza o termine minimo di conservazione: diverse\nDescrizione peso/volume unità di vendita: confezione da 6 uova\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO - riscontro di salmonella nell'allevamento\nAvvertenze:\nNon consumare e restituire al negoziante"
+ },
+ "prima_rilevazione": "2026-10-24T22:50:44+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:50:44+00:00"
+}

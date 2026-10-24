@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-sapori-idee/",
+ "titolo": "Cremini Sapori & Idee",
+ "data_pubblicazione": "2025-01-17",
+ "marca": "Conad",
+ "denominazione": "Cremini Sapori & Idee",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CREMINI%20Cartello%20Richiamo_1761206202.pdf",
+ "allegati": [
+  {
+   "titolo": "CREMINI Cartello Richiamo_1761206202.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CREMINI%20Cartello%20Richiamo_1761206202.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cremini-sapori-idee",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CREMINI ALLE NOCCIOLE E MANDORLE",
+  "operatore": "CONAD S.C.",
+  "lotti": [
+   "P1TBH"
+  ],
+  "produttore": "Majani 1796 SpA",
+  "sede_stabilimento": "Via Brodolini 16, 40053 Loc. Crespellano - Valsamoggia (BO)",
+  "scadenza": "30-01-2026",
+  "peso_volume": "150g - 15 cremini",
+  "motivo_esteso": "Precauzionale per presenza di glutine oltre i 20 ppm",
+  "avvertenze": "Prodotto etichettato \"senza glutine\". Il lotto indicato contiene tracce di glutine. I consumatori che presentano allergia al GLUTINE, che fossero in possesso di una confezione appartenente al suddetto lotto sono invitati a riportarla in qualsiasi punto di vendita Conad",
+  "campi_extra": {
+   "Data": "16/01/2025 Marchio del prodotto: CONAD SAPORI & IDEE"
+  },
+  "testo": "RICHIAMO\nData: 16/01/2025 Marchio del prodotto: CONAD SAPORI & IDEE\nDenominazione di vendita:CREMINI ALLE NOCCIOLE E MANDORLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD S.C.\ncommercializzato:\nLotto di produzione: P1TBH\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Majani 1796 SpA\nSede dello stabilimento: Via Brodolini 16, 40053 Loc. Crespellano - Valsamoggia (BO)\nData di scadenza o termine minimo di conservazione: 30-01-2026\nDescrizione peso/volume unità di vendita: 150g - 15 cremini\nMotivo del richiamo:\nPrecauzionale per presenza di glutine oltre i 20 ppm\nAvvertenze:\nProdotto etichettato \"senza glutine\". Il lotto indicato contiene tracce di glutine. I consumatori che\npresentano allergia al GLUTINE, che fossero in possesso di una confezione appartenente al suddetto lotto\nsono invitati a riportarla in qualsiasi punto di vendita Conad"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:49+00:00"
+}

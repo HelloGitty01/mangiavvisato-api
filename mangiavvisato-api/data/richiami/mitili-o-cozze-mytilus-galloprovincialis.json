@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-o-cozze-mytilus-galloprovincialis/",
+ "titolo": "MITILI O COZZE (Mytilus galloprovincialis)",
+ "data_pubblicazione": "2024-12-16",
+ "marca": "MITILI OLBIA SOC. COOP.",
+ "denominazione": "MITILI O COZZE (Mytilus galloprovincialis)",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERO_1761206118.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO MINISTERO_1761206118.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERO_1761206118.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mitili-o-cozze-mytilus-galloprovincialis",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MITILI O COZZE (Mytilus galloprovincialis)",
+  "operatore": "MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)",
+  "lotti": [
+   "B5/10/12/24"
+  ],
+  "marchio_identificazione": "UE IT E5N7U",
+  "produttore": "ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &",
+  "sede_stabilimento": "LOC. SA MARINEDDA - 07026 - OLBIA (SS)",
+  "peso_volume": "RETINA DA 2,00 kg",
+  "motivo_esteso": "Conta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi",
+  "avvertenze": "PRODOTTO NON IDONEO AL CONSUMO. SI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "14/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP."
+  },
+  "testo": "RICHIAMO\nData: 14/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP.\nDenominazione di vendita:MITILI O COZZE (Mytilus galloprovincialis)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)\ncommercializzato:\nLotto di produzione: B5/10/12/24\nMarchio di identificazione dello stabilimento/del produttore: UE IT E5N7U\nNome del produttore: ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &\nSede dello stabilimento: LOC. SA MARINEDDA - 07026 - OLBIA (SS)\nData di scadenza o termine minimo di conservazione: ---\nDescrizione peso/volume unità di vendita: RETINA DA 2,00 kg\nMotivo del richiamo:\nConta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi\nAvvertenze:\nPRODOTTO NON IDONEO AL CONSUMO.\nSI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-24T22:52:52+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:52:52+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquirizia-polvere-bio-100g/",
+ "titolo": "LIQUIRIZIA IN POLVERE BIO 100G",
+ "data_pubblicazione": "2025-06-03",
+ "marca": "IOBOSCOVIVO",
+ "denominazione": "LIQUIRIZIA IN POLVERE BIO 100G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Liquirizia%20in%20polvere%20BIO%20100g_1761207522.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo Liquirizia in polvere BIO 100g_1761207522.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Liquirizia%20in%20polvere%20BIO%20100g_1761207522.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "liquirizia-polvere-bio-100g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LIQUIRIZIA IN POLVERE BIO 100G",
+  "operatore": "IOBOSCOVIVO SRL",
+  "lotti": [
+   "021026 - 050526"
+  ],
+  "produttore": "IOBOSCOVIVO SRL",
+  "sede_stabilimento": "VIA SEMPIONE 26H, 21029 VERGIATE (VA)",
+  "scadenza": "02/10 - 05/05/26",
+  "peso_volume": "100 grammi",
+  "motivo_esteso": "Il richiamo si rende necessario a seguito di controlli di qualità che hanno evidenziato la presenza di Ocratossina A in quantità superiori ai limiti consentiti",
+  "avvertenze": "Si raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "22/05/2025 Marchio del prodotto: IOBOSCOVIVO"
+  },
+  "testo": "RICHIAMO\nData: 22/05/2025 Marchio del prodotto: IOBOSCOVIVO\nDenominazione di vendita:LIQUIRIZIA IN POLVERE BIO 100G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IOBOSCOVIVO SRL\ncommercializzato:\nLotto di produzione: 021026 - 050526\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: IOBOSCOVIVO SRL\nSede dello stabilimento: VIA SEMPIONE 26H, 21029 VERGIATE (VA)\nData di scadenza o termine minimo di conservazione: 02/10 - 05/05/26\nDescrizione peso/volume unità di vendita: 100 grammi\nMotivo del richiamo:\nIl richiamo si rende necessario a seguito di controlli di qualità che hanno evidenziato la presenza di\nOcratossina A in quantità superiori ai limiti consentiti\nAvvertenze:\nSi raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel\npunto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:42:25+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:25+00:00"
+}

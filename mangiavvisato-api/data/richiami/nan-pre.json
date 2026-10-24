@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nan-pre/",
+ "titolo": "NAN PRE",
+ "data_pubblicazione": "2026-01-07",
+ "marca": "Neslè Italia SpA",
+ "denominazione": "NAN PRE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/10%20Modulo%20Richiamo%20NAN%20PRE%20DEDWHLP026%2032x70ml%20IT_1767982007.pdf",
+ "allegati": [
+  {
+   "titolo": "10 Modulo Richiamo NAN PRE DEDWHLP026 32x70ml IT_1767982007.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/10%20Modulo%20Richiamo%20NAN%20PRE%20DEDWHLP026%2032x70ml%20IT_1767982007.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "nan-pre",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NAN PRE DEDWHLP026 32x70ml IT",
+  "operatore": "Nestlé Italiana SpA",
+  "lotti": [
+   "52840742D1 51440742D1"
+  ],
+  "marchio_identificazione": "N/A",
+  "produttore": "Nestlé Deutschland",
+  "sede_stabilimento": "Füssener str. 1, 87640 Biessenhofen, Germania",
+  "scadenza": "31/10/2026 31/05/2026",
+  "peso_volume": "70ml",
+  "motivo_esteso": "Potenziale contaminazione microbiologica dei lotti 52840742D1 – scadenza 31/10/2026 51440742D1 – scadenza 31/06/2026",
+  "avvertenze": "Avvertiamo i consumatori in possesso dei lotti 52840742D1 e 51440742D1 di non consumarli Immagine 1",
+  "testo": "RICHIAMO\nData 05/01/2026 Marchio del Prodotto NAN\nDenominazione di Vendita NAN PRE DEDWHLP026 32x70ml IT\nNome o ragione sociale dell’OSA a\nnome del quale il prodotto è Nestlé Italiana SpA\ncommercializzato\nLotto di Produzione: 52840742D1\n51440742D1\nMarchio di identificazione dello stabilimento/del N/A\nproduttore:\nNome del produttore: Nestlé Deutschland\nSede dello stabilimento: Füssener str. 1, 87640 Biessenhofen, Germania\nData di scadenza o termine minimo di conservazione: 31/10/2026\n31/05/2026\nDescrizione peso/volume unità di vendita 70ml\nMotivo del richiamo:\nPotenziale contaminazione microbiologica dei lotti\n52840742D1 – scadenza 31/10/2026\n51440742D1 – scadenza 31/06/2026\nAvvertenze:\nAvvertiamo i consumatori in possesso dei lotti 52840742D1 e 51440742D1 di non\nconsumarli\nImmagine 1"
+ },
+ "prima_rilevazione": "2026-10-24T22:26:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:26:16+00:00"
+}

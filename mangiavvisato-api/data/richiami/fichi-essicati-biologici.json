@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-essicati-biologici/",
+ "titolo": "Fichi essicati biologici",
+ "data_pubblicazione": "2026-07-29",
+ "marca": "NOBERASCO SPA",
+ "denominazione": "Fichi essicati biologici",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamo_1785345008.pdf",
+ "allegati": [
+  {
+   "titolo": "ModuloRichiamo_1785345008.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamo_1785345008.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-essicati-biologici",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FICHI ESSICCATI BIOLOGICI",
+  "operatore": "NOBERASCO SPA",
+  "lotti": [
+   "L6075A"
+  ],
+  "marchio_identificazione": "NOBERASCO SPA",
+  "produttore": "NOBERASCO SPA",
+  "sede_stabilimento": "Loc. Paletta, 1 - 17043 Carcare (SV)",
+  "scadenza": "31-03-2027",
+  "peso_volume": "200g",
+  "motivo_esteso": "Valori di Ocratossina A oltre i limiti di legge",
+  "avvertenze": "Non consumare e restituire al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "28/07/2026 Marchio del prodotto: NOBERASCO SPA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: NOBERASCO SPA\nDenominazione di vendita:FICHI ESSICCATI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NOBERASCO SPA\ncommercializzato:\nLotto di produzione: L6075A\nMarchio di identificazione dello stabilimento/del produttore: NOBERASCO SPA\nNome del produttore: NOBERASCO SPA\nSede dello stabilimento: Loc. Paletta, 1 - 17043 Carcare (SV)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nValori di Ocratossina A oltre i limiti di legge\nAvvertenze:\nNon consumare e restituire al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:04:47+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:04:47+00:00"
+}

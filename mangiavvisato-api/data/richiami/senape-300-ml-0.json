@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/senape-300-ml-0/",
+ "titolo": "SENAPE 300 ml",
+ "data_pubblicazione": "2026-05-21",
+ "marca": "TOME'",
+ "denominazione": "SENAPE 300 ml",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2026_n3553_Cartello_senape_squeezer_300ml_L44.1_Tome_1779374508.pdf",
+ "allegati": [
+  {
+   "titolo": "_.._area_comune_allegati_allerta_2026_n3553_Cartello_senape_squeezer_300ml_L44.1_Tome_1779374508.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2026_n3553_Cartello_senape_squeezer_300ml_L44.1_Tome_1779374508.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "senape-300-ml-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SENAPE 300 ml",
+  "operatore": "MAXI DI S.R.L",
+  "lotti": [
+   "44.1"
+  ],
+  "produttore": "RIGHETTI ALIMENTARE S.r.l",
+  "sede_stabilimento": "VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)",
+  "scadenza": "30-08-2026",
+  "peso_volume": "300 ml",
+  "motivo_esteso": "Presenza di solfiti non dichiarati in etichetta",
+  "avvertenze": "Si raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato questo lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "13/05/2026 Marchio del prodotto: TOME'"
+  },
+  "testo": "RICHIAMO\nData: 13/05/2026 Marchio del prodotto: TOME'\nDenominazione di vendita:SENAPE 300 ml\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAXI DI S.R.L\ncommercializzato:\nLotto di produzione: 44.1\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: RIGHETTI ALIMENTARE S.r.l\nSede dello stabilimento: VIA MAESTRI DEL LAVORO, 21 - 37059 ZEVIO (VR)\nData di scadenza o termine minimo di conservazione: 30-08-2026\nDescrizione peso/volume unità di vendita: 300 ml\nMotivo del richiamo:\nPresenza di solfiti non dichiarati in etichetta\nAvvertenze:\nSi raccomanda ai clienti, con particolare riguardo ai soggetti allergici o sensibili, che avessero acquistato\nquesto lotto, di NON CONSUMARE IL PRODOTTO e di riportarlo nel punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:15:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:24+00:00"
+}

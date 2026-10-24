@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wilky-dog-con-maiale/",
+ "titolo": "WILKY DOG CON MAIALE",
+ "data_pubblicazione": "2026-01-16",
+ "marca": "WILKY DOG",
+ "denominazione": "WILKY DOG CON MAIALE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20COLELLA%20TRADE_1768592920.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO COLELLA TRADE_1768592920.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20COLELLA%20TRADE_1768592920.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wilky-dog-con-maiale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "WILKY DOG CON MAIALE",
+  "operatore": "COLELLA TRADE SRL C/DA CAMPOREALE S.S. 90 BIS– 8 3031 A RIANO IRPINO ( A V )",
+  "lotti": [
+   "25C05A1P2411"
+  ],
+  "marchio_identificazione": "ABP5452PETP",
+  "produttore": "COLELLA TRADE SRL",
+  "sede_stabilimento": "C/DA CAMPOREALE S.S. 90 BIS – 83031 ARIANO IRPINO (AV)",
+  "scadenza": "24/11/2026",
+  "peso_volume": "SACCHI DA 20 KG",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO",
+  "avvertenze": "DA NON UTILIZZARE PER L’ALIMENTAZIONE ANIMALE. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "24/12/2025 Marchio del prodotto: WILKY DOG",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 24/12/2025 Marchio del prodotto: WILKY DOG\nDenominazione di vendita: WILKY DOG CON MAIALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nCOLELLA TRADE SRL C/DA CAMPOREALE S.S. 90 BIS– 8 3031 A RIANO IRPINO ( A V )\nLotto di produzione: 25C05A1P2411\nMarchio di identificazione dello stabilimento/del produttore: ABP5452PETP\nNome del produttore: COLELLA TRADE SRL\nSede dello stabilimento: C/DA CAMPOREALE S.S. 90 BIS – 83031 ARIANO IRPINO (AV)\nData di scadenza o termine minimo di conservazione: 24/11/2026\nDescrizione peso/volume unità di vendita: SACCHI DA 20 KG\nMotivo del richiamo: RISCHIO MICROBIOLOGICO\nAvvertenze: DA NON UTILIZZARE PER L’ALIMENTAZIONE ANIMALE.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:24:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:24:35+00:00"
+}

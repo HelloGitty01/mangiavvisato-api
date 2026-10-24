@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/flying-power-250ml-sugarfree/",
+ "titolo": "Flying Power 250ml Sugarfree",
+ "data_pubblicazione": "2026-08-14",
+ "marca": "Flying Power",
+ "denominazione": "Flying Power 250ml Sugarfree",
+ "motivo": "Altro motivo di richiamo",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20847770%20_%20Flying%20Power%20250ml%20Sugarfree_1786709301.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello _ 847770 _ Flying Power 250ml Sugarfree_1786709301.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20847770%20_%20Flying%20Power%20250ml%20Sugarfree_1786709301.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "flying-power-250ml-sugarfree",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Flying Power 250ml Sugarfree",
+  "operatore": "ALDI SRL",
+  "lotti": [
+   "323913"
+  ],
+  "produttore": "S. Spitz GmbH Gmundner Straße 27, 4800 Attnang-Puchheim, Austria",
+  "sede_stabilimento": "Date di scadenza o termine minimo di conservazione: 22/06/2027",
+  "peso_volume": "250ml",
+  "motivo_esteso": "Mancanza delle indicazioni in etichetta: «contiene aspartame (una fonte di fenilalanina)», indicazione richiesta per le persone affette da fenilchetonuria (PKU). Le persone con PKU non devono consumare il prodotto.",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "12/08/2 026 Marchio del prodotto: Flying Power",
+   "Date di scadenza o termine minimo di conservazione": "22/06/2027",
+   "Mancanza delle indicazioni in etichetta": "«contiene aspartame (una fonte di fenilalanina)», indicazione richiesta"
+  },
+  "testo": "RICHIAMO\nData: 12/08/2 026 Marchio del prodotto: Flying Power\nDenominazione di vendita: Flying Power 250ml Sugarfree\nNome o ragione sociale dell’OSA ALDI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: 323913\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: S. Spitz GmbH\nGmundner Straße 27, 4800 Attnang-Puchheim, Austria\nSede dello stabilimento:\nDate di scadenza o termine minimo di conservazione: 22/06/2027\nDescrizione peso/volume unità di vendita: 250ml\nMotivo del richiamo:\nMancanza delle indicazioni in etichetta: «contiene aspartame (una fonte di fenilalanina)», indicazione richiesta\nper le persone affette da fenilchetonuria (PKU). Le persone con PKU non devono consumare il prodotto.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà\nrimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:11+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:11+00:00"
+}

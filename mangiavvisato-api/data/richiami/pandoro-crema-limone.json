@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-crema-limone/",
+ "titolo": "PANDORO CREMA LIMONE",
+ "data_pubblicazione": "2026-01-02",
+ "marca": "PIACERI MEDITERRANEI",
+ "denominazione": "PANDORO CREMA LIMONE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7%20richiamo%20LIMONE%20PIACERI%20MEDITERRANEI_1767383935.pdf",
+ "allegati": [
+  {
+   "titolo": "7 richiamo LIMONE PIACERI MEDITERRANEI_1767383935.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/7%20richiamo%20LIMONE%20PIACERI%20MEDITERRANEI_1767383935.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pandoro-crema-limone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANDORO CREMA LIMONE",
+  "operatore": "EUROSPITAL SPA - TRIESTE",
+  "lotti": [
+   "vari"
+  ],
+  "produttore": "ZERO+4 SRL",
+  "sede_stabilimento": "via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)",
+  "scadenza": "dal 18/02/2026",
+  "peso_volume": "700 g",
+  "motivo_esteso": "presenza corpi estranei (residui di rivestimento PTFE stampo di cottura)",
+  "avvertenze": "varie date di TMC a partire dal 18/02/2026 al 13/04/2026",
+  "campi_extra": {
+   "Data": "31/12/2025 Marchio del prodotto: PIACERI MEDITERRANEI"
+  },
+  "testo": "RICHIAMO\nData: 31/12/2025 Marchio del prodotto: PIACERI MEDITERRANEI\nDenominazione di vendita:PANDORO CREMA LIMONE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPITAL SPA - TRIESTE\ncommercializzato:\nLotto di produzione: vari\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ZERO+4 SRL\nSede dello stabilimento: via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)\nData di scadenza o termine minimo di conservazione: dal 18/02/2026\nDescrizione peso/volume unità di vendita: 700 g\nMotivo del richiamo:\npresenza corpi estranei (residui di rivestimento PTFE stampo di cottura)\nAvvertenze:\nvarie date di TMC a partire dal 18/02/2026 al 13/04/2026"
+ },
+ "prima_rilevazione": "2026-10-24T22:27:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:27:18+00:00"
+}

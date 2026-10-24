@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn/",
+ "titolo": "Pop corn",
+ "data_pubblicazione": "2026-08-07",
+ "marca": "Snack Day",
+ "denominazione": "Pop corn",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20LIDL_1786128315.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo LIDL_1786128315.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20LIDL_1786128315.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pop-corn",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "EAN": "4335619450998"
+  },
+  "testo": "06/08/2026 Snack Day\nPop corn\nLidl Italia\n26269\n-\nPreziosi Food\nNuova ZI ASI, San Nicola di Melfi (PZ)\n16/12/26\n120 g\nLivello di alcaloidi tropanici (somma di atropina e scopolamina) oltre i limiti di legge\nEAN: 4335619450998\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:03:31+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:31+00:00"
+}

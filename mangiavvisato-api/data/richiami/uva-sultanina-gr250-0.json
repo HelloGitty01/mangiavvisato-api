@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-sultanina-gr250-0/",
+ "titolo": "UVA SULTANINA GR.250",
+ "data_pubblicazione": "2026-05-15",
+ "marca": "SOLO SANO",
+ "denominazione": "UVA SULTANINA GR.250",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_IGES_1779278975.pdf",
+ "allegati": [
+  {
+   "titolo": "120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_IGES_1779278975.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_IGES_1779278975.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uva-sultanina-gr250-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UVA SULTANINA GR.250",
+  "operatore": "TODIS - IGES SRL UNIPERSONALE VIA TIBERINA KM. 19.300 - 00065 FIANO ROMAN O (RM)",
+  "lotti": [
+   "25365-26012"
+  ],
+  "marchio_identificazione": "SOLO SANO",
+  "produttore": "MOCERINO FRUTTA SECCA SRL",
+  "sede_stabilimento": "VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "scadenza": "31/12/2025 – 12/01/2027",
+  "peso_volume": "250 G",
+  "motivo_esteso": "Presenza di OCRATOSSINA A oltre i limiti di legge consentiti.",
+  "avvertenze": "Possibili disturbi gastrointestinali dovuto all'ingestione dell'alimento. Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/05/2026 Marchio del prodotto: SOLO SANO"
+  },
+  "testo": "RICHIAMO\nData: 14/05/2026 Marchio del prodotto: SOLO SANO\nDenominazione di vendita: UVA SULTANINA GR.250\nNome o ragione sociale dell'OSA TODIS - IGES SRL UNIPERSONALE VIA TIBERINA KM. 19.300 -\na nome del quale il prodotto è\n00065 FIANO ROMAN O (RM)\ncommercializzato:\nLotto di produzione: 25365-26012\nMarchio di identificazione dello stabilimento/del produttore: SOLO SANO\nNome del produttore: MOCERINO FRUTTA SECCA SRL\nSede dello stabilimento: VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)\nData di scadenza o termine minimo di conservazione: 31/12/2025 – 12/01/2027\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nPresenza di OCRATOSSINA A oltre i limiti di legge consentiti.\nAvvertenze:\nPossibili disturbi gastrointestinali dovuto all'ingestione dell'alimento.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:47+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:47+00:00"
+}

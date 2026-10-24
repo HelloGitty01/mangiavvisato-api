@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-bf-2-uht-500mlx2-stelo-latte-di-proseguimento-2-granarolo/",
+ "titolo": "LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+ "data_pubblicazione": "2026-01-15",
+ "marca": "Granarolo",
+ "denominazione": "LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20Latte%20BF%202%20UHT%20500MLx2_1768491967.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo Latte BF 2 UHT 500MLx2_1768491967.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20Latte%20BF%202%20UHT%20500MLx2_1768491967.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "latte-bf-2-uht-500mlx2-stelo-latte-di-proseguimento-2-granarolo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi",
+  "operatore": "Granarolo SpA",
+  "lotti": [
+   "Q5185B--",
+   "Q5312B--",
+   "Q5351B"
+  ],
+  "marchio_identificazione": "IT 08 4 CE",
+  "produttore": "Granarolo SpA",
+  "sede_stabilimento": "Via G. Verdi, 74 Soliera (MO)",
+  "scadenza": "30/03/2026; 04/08/2026; 12/09/2026",
+  "peso_volume": "500ml",
+  "motivo_esteso": "possibile presenza di contaminante microbiologico",
+  "avvertenze": "il prodotto non deve essere consumato ma restituito al punto di acquisto Immagine 1 Immagine 2",
+  "campi_extra": {
+   "Data": "09/01/2026 Marchio del prodotto: Granarolo"
+  },
+  "testo": "RICHIAMO\nData: 09/01/2026 Marchio del prodotto: Granarolo\nDenominazione di vendita: LATTE BF 2 UHT 500MLX2 STELO - latte di proseguimento 2 Granarolo Bimbi\nNome o ragione sociale dell'OSA\nGranarolo SpA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: Q5185B--; Q5312B--; Q5351B--\nMarchio di identificazione dello stabilimento/del produttore: IT 08 4 CE\nNome del produttore: Granarolo SpA\nSede dello stabilimento: Via G. Verdi, 74 Soliera (MO)\nData di scadenza o termine minimo di conservazione: 30/03/2026; 04/08/2026; 12/09/2026\nDescrizione peso/volume unità di vendita: 500ml\nMotivo del richiamo: possibile presenza di contaminante microbiologico\nAvvertenze: il prodotto non deve essere consumato ma restituito al punto di acquisto\nImmagine 1\nImmagine 2"
+ },
+ "prima_rilevazione": "2026-10-24T22:24:42+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:24:42+00:00"
+}

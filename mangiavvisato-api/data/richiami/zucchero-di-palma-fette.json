@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchero-di-palma-fette/",
+ "titolo": "ZUCCHERO DI PALMA A FETTE",
+ "data_pubblicazione": "2025-04-11",
+ "marca": "THAI DANCER",
+ "denominazione": "ZUCCHERO DI PALMA A FETTE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Zucchero%20di%20Palma_1761207359.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_Zucchero di Palma_1761207359.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Zucchero%20di%20Palma_1761207359.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zucchero-di-palma-fette",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ZUCCHERO DI PALMA A FETTE",
+  "operatore": "CASTRONI MARCELLO SRL",
+  "lotti": [
+   "260724"
+  ],
+  "marchio_identificazione": "THAI DANCER",
+  "produttore": "FOOD SPECIALIZE CO. LTD",
+  "sede_stabilimento": "790 Moo 2 Bang Pu Mai - Samut Prakan - Thailand",
+  "scadenza": "26-07-2026",
+  "peso_volume": "FETTE DI ZUCCHERO DI PALMA 200g",
+  "motivo_esteso": "Presenza di Anidride Solforosa non dichiarata in etichetta.",
+  "avvertenze": "Le persone allergiche all'anidride solforosa non devono consumare questo prodotto. Il prodotto deve essere riconsegnato in negozio, anche senza scontrino e vi sarà rimborsato.",
+  "campi_extra": {
+   "Data": "11/04/2025 Marchio del prodotto: THAI DANCER"
+  },
+  "testo": "RICHIAMO\nData: 11/04/2025 Marchio del prodotto: THAI DANCER\nDenominazione di vendita:ZUCCHERO DI PALMA A FETTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASTRONI MARCELLO SRL\ncommercializzato:\nLotto di produzione: 260724\nMarchio di identificazione dello stabilimento/del produttore: THAI DANCER\nNome del produttore: FOOD SPECIALIZE CO. LTD\nSede dello stabilimento: 790 Moo 2 Bang Pu Mai - Samut Prakan - Thailand\nData di scadenza o termine minimo di conservazione: 26-07-2026\nDescrizione peso/volume unità di vendita: FETTE DI ZUCCHERO DI PALMA 200g\nMotivo del richiamo:\nPresenza di Anidride Solforosa non dichiarata in etichetta.\nAvvertenze:\nLe persone allergiche all'anidride solforosa non devono consumare questo prodotto. Il prodotto deve essere\nriconsegnato in negozio, anche senza scontrino e vi sarà rimborsato."
+ },
+ "prima_rilevazione": "2026-10-24T22:45:54+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:45:54+00:00"
+}

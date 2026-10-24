@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tahini/",
+ "titolo": "SALSA TAHINI",
+ "data_pubblicazione": "2025-10-13",
+ "marca": "EUROFOOD spa",
+ "denominazione": "SALSA TAHINI",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ALLERTA_N_342_2025_1761209239.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_ALLERTA_N_342_2025_1761209239.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ALLERTA_N_342_2025_1761209239.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsa-tahini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:34:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:07+00:00"
+}

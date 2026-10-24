@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/contorno-delicato/",
+ "titolo": "CONTORNO DELICATO",
+ "data_pubblicazione": "2025-07-07",
+ "marca": "DELIZIE DAL SOLE",
+ "denominazione": "CONTORNO DELICATO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20ministeriale_1761208272.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello ministeriale_1761208272.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20ministeriale_1761208272.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "contorno-delicato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CONTORNO DELICATO",
+  "operatore": "EUROSPIN ITALIA S.P.A.",
+  "lotti": [
+   "LR127A"
+  ],
+  "produttore": "INDUSTRIE ROLLI ALIMENTARI S.P.A.",
+  "sede_stabilimento": "VIA CORRADINO D'ASCANIO 2 - 65020 ALANNO (PE)",
+  "scadenza": "07/05/2027",
+  "peso_volume": "450G",
+  "motivo_esteso": "Possibile presenza di corpi estranei vegetali (capsule di Exantium Orientalis)",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "03/07/2025 Marchio del prodotto: DELIZIE DAL SOLE"
+  },
+  "testo": "RICHIAMO\nData: 03/07/2025 Marchio del prodotto: DELIZIE DAL SOLE\nDenominazione di vendita:CONTORNO DELICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: LR127A\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: INDUSTRIE ROLLI ALIMENTARI S.P.A.\nSede dello stabilimento: VIA CORRADINO D'ASCANIO 2 - 65020 ALANNO (PE)\nData di scadenza o termine minimo di conservazione: 07/05/2027\nDescrizione peso/volume unità di vendita: 450G\nMotivo del richiamo:\nPossibile presenza di corpi estranei vegetali (capsule di Exantium Orientalis)\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:40:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:40:24+00:00"
+}

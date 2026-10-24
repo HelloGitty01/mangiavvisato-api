@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-guscio-gr-500/",
+ "titolo": "COZZE GUSCIO GR. 500",
+ "data_pubblicazione": "2026-08-28",
+ "marca": "ARBI",
+ "denominazione": "COZZE GUSCIO GR. 500",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf",
+ "allegati": [
+  {
+   "titolo": "AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "cozze-guscio-gr-500",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:02:40+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:40+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno/",
+ "titolo": "ARISTA AL FORNO",
+ "data_pubblicazione": "2025-12-20",
+ "marca": "FIOR FIORE - COOP",
+ "denominazione": "ARISTA AL FORNO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf",
+ "allegati": [
+  {
+   "titolo": "_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "arista-al-forno",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ARISTA AL FORNO",
+  "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)",
+  "lotti": [
+   "2541329"
+  ],
+  "marchio_identificazione": "IT 1048L CE",
+  "produttore": "RUGGER S.R.L.",
+  "sede_stabilimento": "VIA TETTI GIRO N. 7 - SANTENA (TO)",
+  "scadenza": "3/01/2026",
+  "peso_volume": "0.120 Kg",
+  "motivo_esteso": "Possibile contaminazione microbiologica",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/12/2025 Marchio del prodotto: FIOR FIORE - COOP",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19/12/2025 Marchio del prodotto: FIOR FIORE - COOP\nDenominazione di vendita:ARISTA AL FORNO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 2541329\nMarchio di identificazione dello stabilimento/del produttore: IT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TETTI GIRO N. 7 - SANTENA (TO)\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0.120 Kg\nMotivo del richiamo:\nPossibile contaminazione microbiologica\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:37+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:37+00:00"
+}

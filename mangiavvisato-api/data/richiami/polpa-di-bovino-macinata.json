@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-bovino-macinata/",
+ "titolo": "Polpa di bovino macinata",
+ "data_pubblicazione": "2026-05-19",
+ "marca": "DOTTOR FOX",
+ "denominazione": "Polpa di bovino macinata",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fox%20Service%20SRL%20%20modello%20Richiamo_1779201829.pdf",
+ "allegati": [
+  {
+   "titolo": "Fox Service SRL  modello Richiamo_1779201829.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fox%20Service%20SRL%20%20modello%20Richiamo_1779201829.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpa-di-bovino-macinata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:15:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:32+00:00"
+}

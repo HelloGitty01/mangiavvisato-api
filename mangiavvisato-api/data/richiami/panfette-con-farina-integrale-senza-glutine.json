@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panfette-con-farina-integrale-senza-glutine/",
+ "titolo": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+ "data_pubblicazione": "2025-12-24",
+ "marca": "NUTRIFREE",
+ "denominazione": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PAN164_03_04_26_DEF_def_1766591087.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO PAN164_03_04_26_DEF_def_1766591087.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PAN164_03_04_26_DEF_def_1766591087.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "panfette-con-farina-integrale-senza-glutine",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+  "operatore": "NT Food S.r.l UNIPERSONALE",
+  "lotti": [
+   "03/04/2026"
+  ],
+  "produttore": "NT Food S.r.l UNIPERSONALE",
+  "sede_stabilimento": "NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)",
+  "scadenza": "03-04-2026",
+  "peso_volume": "340g",
+  "motivo_esteso": "Criticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.",
+  "campi_extra": {
+   "Data": "19/12/2025 Marchio del prodotto: NUTRIFREE"
+  },
+  "testo": "RICHIAMO\nData: 19/12/2025 Marchio del prodotto: NUTRIFREE\nDenominazione di vendita:PANFETTE CON FARINA INTEGRALE SENZA GLUTINE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NT Food S.r.l UNIPERSONALE\ncommercializzato:\nLotto di produzione: 03/04/2026\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: NT Food S.r.l UNIPERSONALE\nSede dello stabilimento: NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)\nData di scadenza o termine minimo di conservazione: 03-04-2026\nDescrizione peso/volume unità di vendita: 340g\nMotivo del richiamo:\nCriticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:16+00:00"
+}

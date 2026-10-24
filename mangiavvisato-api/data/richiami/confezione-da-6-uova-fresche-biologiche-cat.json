@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-da-6-uova-fresche-biologiche-cat/",
+ "titolo": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+ "data_pubblicazione": "2025-11-01",
+ "marca": "L'UOVO D'ORO",
+ "denominazione": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20_%20CONF%20%206%20UOVA%20FRESCHE%20BIO%20_%20L_UOVO%20D_ORO_1762028618.pdf",
+ "allegati": [
+  {
+   "titolo": "COMUNICAZIONE RICHIAMO _ CONF  6 UOVA FRESCHE BIO _ L_UOVO D_ORO_1762028618.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE%20RICHIAMO%20_%20CONF%20%206%20UOVA%20FRESCHE%20BIO%20_%20L_UOVO%20D_ORO_1762028618.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "confezione-da-6-uova-fresche-biologiche-cat",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+  "operatore": "L'UOVO D'ORO S.R.L. SOC. AGRICOLA UNIPERSONALE",
+  "lotti": [
+   "dal 12.11 al 26.11"
+  ],
+  "marchio_identificazione": "IT D6T6L CE",
+  "produttore": "L'UOVO D'ORO S.R.L. SOC. AGRICOLA UNIPERSONALE",
+  "sede_stabilimento": "VIA PROVINCIALE PER PUGLIETTA SN - 84022 CAMPAGNA (SA)",
+  "scadenza": "dal 12.11 al 26.11",
+  "peso_volume": "CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA SUB ENTERICA SIER ENTERITIDIS",
+  "avvertenze": "NON CONSUMARE LE UOVA DEI LOTTI DAL 12.11 AL 26.11 - CODICE STALLA STAMPIGLIATO SULL'UOVO \"0IT022SA378\" RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE",
+  "campi_extra": {
+   "Data": "31/10/2025 Marchio del prodotto: L'UOVO D'ORO"
+  },
+  "testo": "RICHIAMO\nData: 31/10/2025 Marchio del prodotto: L'UOVO D'ORO\nDenominazione di vendita:CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è L'UOVO D'ORO S.R.L. SOC. AGRICOLA UNIPERSONALE\ncommercializzato:\nLotto di produzione: dal 12.11 al 26.11\nMarchio di identificazione dello stabilimento/del produttore: IT D6T6L CE\nNome del produttore: L'UOVO D'ORO S.R.L. SOC. AGRICOLA UNIPERSONALE\nSede dello stabilimento: VIA PROVINCIALE PER PUGLIETTA SN - 84022 CAMPAGNA (SA)\nData di scadenza o termine minimo di conservazione: dal 12.11 al 26.11\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 6 UOVA FRESCHE BIOLOGICHE - CAT. A\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA SUB ENTERICA\nSIER ENTERITIDIS\nAvvertenze:\nNON CONSUMARE LE UOVA DEI LOTTI DAL 12.11 AL 26.11 - CODICE STALLA STAMPIGLIATO SULL'UOVO\n\"0IT022SA378\"\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE"
+ },
+ "prima_rilevazione": "2026-10-24T22:31:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:31:46+00:00"
+}

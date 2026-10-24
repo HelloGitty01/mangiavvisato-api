@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pate-di-olive-nere/",
+ "titolo": "patè di olive nere",
+ "data_pubblicazione": "2026-06-09",
+ "marca": "ARISI",
+ "denominazione": "patè di olive nere",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_pat%C3%A9%20olive_arisi_1780998058.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_paté olive_arisi_1780998058.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_pat%C3%A9%20olive_arisi_1780998058.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pate-di-olive-nere",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Patè di olive nere 190G",
+  "operatore": "Arisi Giacomo & Figli S.r.l.",
+  "lotti": [
+   "24-04-28"
+  ],
+  "marchio_identificazione": "ARISI",
+  "produttore": "ARISI GIACOMO & FIGLI S.R.L",
+  "sede_stabilimento": "ISOLABONA (IM)",
+  "scadenza": "24-04-28 vasetti da 190g",
+  "motivo_esteso": "Presenza di frammenti di noccioli nel prodotto",
+  "avvertenze": "Si prega di non consumare il prodotto, renderlo al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "03-06-26 Marchio del prodotto: ARISI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 03-06-26 Marchio del prodotto: ARISI\nDenominazione di vendita:Patè di olive nere 190G\nNome o ragione sociale dell'OSA\nArisi Giacomo & Figli S.r.l.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 24-04-28\nMarchio di identificazione dello stabilimento/del produttore: ARISI\nNome del produttore: ARISI GIACOMO & FIGLI S.R.L\nSede dello stabilimento: ISOLABONA (IM)\nData di scadenza o termine minimo di conservazione: 24-04-28\nvasetti da 190g\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo: Presenza di frammenti di noccioli nel prodotto\nAvvertenze:\nSi prega di non consumare il prodotto, renderlo al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:21+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:21+00:00"
+}

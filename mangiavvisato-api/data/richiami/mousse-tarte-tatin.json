@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-tarte-tatin/",
+ "titolo": "Mousse tarte tatin",
+ "data_pubblicazione": "2025-01-21",
+ "marca": "Iginio Massari Alta Pasticceria",
+ "denominazione": "Mousse tarte tatin",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20tarte%20tatin_1761206251.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello tarte tatin_1761206251.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20tarte%20tatin_1761206251.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mousse-tarte-tatin",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mousse tarte tatin",
+  "operatore": "Iginio Massari Alta Pasticceria",
+  "lotti": [
+   "240913"
+  ],
+  "produttore": "Iginio Massari Srl",
+  "sede_stabilimento": "Via Orzinuovi 117, 25125 Brescia (BS)",
+  "scadenza": "13/05/2025",
+  "peso_volume": "180 g",
+  "motivo_esteso": "Etichettatura non conforme Immagine del prodotto",
+  "campi_extra": {
+   "Data": "16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria"
+  },
+  "testo": "RICHIAMO\nData: 16/01/2025 Marchio del prodotto: Iginio Massari Alta Pasticceria\nDenominazione di vendita: Mousse tarte tatin\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Iginio Massari Alta Pasticceria\ncommercializzato:\nLotto di produzione: 240913\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Iginio Massari Srl\nSede dello stabilimento: Via Orzinuovi 117, 25125 Brescia (BS)\nData di scadenza o termine minimo di conservazione: 13/05/2025\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo: Etichettatura non conforme\nImmagine del prodotto:"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:28+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:28+00:00"
+}

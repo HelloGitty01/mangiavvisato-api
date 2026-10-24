@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-3/",
+ "titolo": "SEMI DI CHIA",
+ "data_pubblicazione": "2026-03-16",
+ "marca": "CALLERIS - LINEA PIU'",
+ "denominazione": "SEMI DI CHIA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_semi_chia_Calleris_1773657609.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_semi_chia_Calleris_1773657609.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_semi_chia_Calleris_1773657609.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-chia-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI CHIA",
+  "operatore": "CALLERIS SNC",
+  "lotti": [
+   "226008CHI+226034+226041+226049+226057"
+  ],
+  "produttore": "COD. 4925",
+  "sede_stabilimento": "AGGLOMERATO ASI NOLA-MARIGLIANO,80035 NOLA (NA)",
+  "scadenza": "VEDI MOTIVO DEL RICHIAMO",
+  "peso_volume": "GR. 350",
+  "motivo_esteso": "SUPERAMENTO LIMITE AFLATOSSINE-LOTTI 226008CHI TMC 08/07/27 + 226034CHI TMC 03/08/27 +226041CHI TMC 10/08/27 + 226049CHI TMC 18/08/27 + 226057CHI TMC 26/08/27",
+  "avvertenze": "Attivare la procedura di richiamo dal mercato. -La merce non deve essere venduto né consumata, bensì' resa al fornitore Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/03/2026 Marchio del prodotto: CALLERIS - LINEA PIU'",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/03/2026 Marchio del prodotto: CALLERIS - LINEA PIU'\nDenominazione di vendita:SEMI DI CHIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CALLERIS SNC\ncommercializzato:\nLotto di produzione: 226008CHI+226034+226041+226049+226057\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: COD. 4925\nSede dello stabilimento: AGGLOMERATO ASI NOLA-MARIGLIANO,80035 NOLA (NA)\nData di scadenza o termine minimo di conservazione: VEDI MOTIVO DEL RICHIAMO\nDescrizione peso/volume unità di vendita: GR. 350\nMotivo del richiamo:\nSUPERAMENTO LIMITE AFLATOSSINE-LOTTI 226008CHI TMC 08/07/27 + 226034CHI TMC 03/08/27\n+226041CHI TMC 10/08/27 + 226049CHI TMC 18/08/27 + 226057CHI TMC 26/08/27\nAvvertenze:\n-Attivare la procedura di richiamo dal mercato.\n-La merce non deve essere venduto né consumata, bensì' resa al fornitore\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:20:22+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:20:22+00:00"
+}

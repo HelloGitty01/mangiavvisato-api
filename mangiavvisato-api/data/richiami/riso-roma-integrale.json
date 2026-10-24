@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-roma-integrale/",
+ "titolo": "Riso Roma Integrale",
+ "data_pubblicazione": "2026-07-22",
+ "marca": "Riso Vignola 1880",
+ "denominazione": "Riso Roma Integrale",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-roma-integrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:05:23+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:05:23+00:00"
+}

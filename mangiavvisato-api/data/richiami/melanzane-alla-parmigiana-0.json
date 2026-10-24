@@ -1,0 +1,37 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melanzane-alla-parmigiana-0/",
+ "titolo": "MELANZANE ALLA PARMIGIANA",
+ "data_pubblicazione": "2025-09-02",
+ "marca": "BLUMEN",
+ "denominazione": "MELANZANE ALLA PARMIGIANA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BLUMEN%20MELANZANE%20ALLA%20PARMIGIANA%20250g_1761208521.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO BLUMEN MELANZANE ALLA PARMIGIANA 250g_1761208521.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BLUMEN%20MELANZANE%20ALLA%20PARMIGIANA%20250g_1761208521.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "melanzane-alla-parmigiana-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MELANZANE ALLA PARMIGIANA",
+  "operatore": "BLUMEN",
+  "sede_stabilimento": "VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)",
+  "scadenza": "13/09/2025 ; 14/09/2025",
+  "peso_volume": "250g",
+  "motivo_esteso": "Presenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.",
+  "avvertenze": "Il prodotto non va consumato, e va riportato al punto vendita.",
+  "campi_extra": {
+   "Data": "30/08/2025 Marchio del prodotto: BLUMEN"
+  },
+  "testo": "RICHIAMO\nData: 30/08/2025 Marchio del prodotto: BLUMEN\nDenominazione di vendita:MELANZANE ALLA PARMIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BLUMEN\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:VIA STRADE NOVE, 13B, 31034, CAVASO DEL TOMBA (TV)\nData di scadenza o termine minimo di conservazione: 13/09/2025 ; 14/09/2025\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nPresenza di mozzarella non conforme. Richiamo avviato a scopo precauzionale.\nAvvertenze:\nIl prodotto non va consumato, e va riportato al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:36:40+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:36:40+00:00"
+}

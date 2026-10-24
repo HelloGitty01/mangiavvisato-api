@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini-secchi-conf1-kg/",
+ "titolo": "LUPINI SECCHI conf.1 kg",
+ "data_pubblicazione": "2026-03-23",
+ "marca": "CIBON",
+ "denominazione": "LUPINI SECCHI conf.1 kg",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LUPINI_009_26_1774289428.pdf",
+ "allegati": [
+  {
+   "titolo": "LUPINI_009_26_1774289428.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LUPINI_009_26_1774289428.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lupini-secchi-conf1-kg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LUPINI SECCHI",
+  "operatore": "MELANDRI GAUDENZIO SRL",
+  "lotti": [
+   "009/26"
+  ],
+  "marchio_identificazione": "MELANDRI GAUDENZIO SRL",
+  "produttore": "MELANDRI GAUDENZIO SRL",
+  "sede_stabilimento": "Via Boncellino, 120 48012 Bagnacavallo (RA)",
+  "scadenza": "07/2027",
+  "peso_volume": "1 kg",
+  "motivo_esteso": "RICHIESTA DA PARTE DEL FORNITORE DELLA MATERIA PRIMA PER PRESENZA DI ALCALOIDI CHINOLIZIDINICI",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "12/03/2026 Marchio del prodotto: CIBON"
+  },
+  "testo": "RICHIAMO\nData: 12/03/2026 Marchio del prodotto: CIBON\nDenominazione di vendita:LUPINI SECCHI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MELANDRI GAUDENZIO SRL\ncommercializzato:\nLotto di produzione: 009/26\nMarchio di identificazione dello stabilimento/del produttore: MELANDRI GAUDENZIO SRL\nNome del produttore: MELANDRI GAUDENZIO SRL\nSede dello stabilimento: Via Boncellino, 120 48012 Bagnacavallo (RA)\nData di scadenza o termine minimo di conservazione: 07/2027\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nRICHIESTA DA PARTE DEL FORNITORE DELLA MATERIA PRIMA PER PRESENZA DI ALCALOIDI\nCHINOLIZIDINICI\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:19:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:18+00:00"
+}

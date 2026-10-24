@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-250g/",
+ "titolo": "Fichi secchi 250g",
+ "data_pubblicazione": "2025-02-25",
+ "marca": "Fatina",
+ "denominazione": "Fichi secchi 250g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO_RICHIAMO%20MURANO_FICHI_1761206540.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RITIRO_RICHIAMO MURANO_FICHI_1761206540.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO_RICHIAMO%20MURANO_FICHI_1761206540.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-secchi-250g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Fichi secchi 250g",
+  "operatore": "Murano SpA",
+  "lotti": [
+   "350021021/1-11-231"
+  ],
+  "marchio_identificazione": "PAGYSA A.S.",
+  "produttore": "PAGYSA A.S.",
+  "sede_stabilimento": "Tuna, Sanat Cd. No:45, 35090 Bornova/zmir, Turchia",
+  "scadenza": "06/2025",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Presenza di Ocratossina A oltre il limite di legge previsto dal Reg. UE 2023/915.",
+  "avvertenze": "I fichi non devono essere consumati, le confezioni vanno riconsegnate al punto vendita ove è avvenuto l'acquisto. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "12/02/2025 Marchio del prodotto: Fatina",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/02/2025 Marchio del prodotto: Fatina\nDenominazione di vendita:Fichi secchi 250g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Murano SpA\ncommercializzato:\nLotto di produzione: 350021021/1-11-231\nMarchio di identificazione dello stabilimento/del produttore: PAGYSA A.S.\nNome del produttore: PAGYSA A.S.\nSede dello stabilimento: Tuna, Sanat Cd. No:45, 35090 Bornova/zmir, Turchia\nData di scadenza o termine minimo di conservazione: 06/2025\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPresenza di Ocratossina A oltre il limite di legge previsto dal Reg. UE 2023/915.\nAvvertenze:\nI fichi non devono essere consumati, le confezioni vanno riconsegnate al punto vendita ove è avvenuto\nl'acquisto.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:48:27+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:48:27+00:00"
+}

@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aji-limo/",
+ "titolo": "AJI LIMO",
+ "data_pubblicazione": "2026-06-08",
+ "marca": "PEPERONCINO AJI LIMO",
+ "denominazione": "AJI LIMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file_1780911578.pdf",
+ "allegati": [
+  {
+   "titolo": "C_17_pagineAree_4633_listaFile_itemName_0_file_1780911578.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file_1780911578.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "aji-limo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:14:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:14:35+00:00"
+}

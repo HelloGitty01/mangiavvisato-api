@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimento-fini-medici-speciali/",
+ "titolo": "Alimento a Fini Medici Speciali",
+ "data_pubblicazione": "2026-02-10",
+ "marca": "APTAMIL AR 2 - 6X400g IT",
+ "denominazione": "Alimento a Fini Medici Speciali",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20APTAMIL%202%20AR%206x400g_1770747430.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO APTAMIL 2 AR 6x400g_1770747430.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20APTAMIL%202%20AR%206x400g_1770747430.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "alimento-fini-medici-speciali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Alimento a Fini Medici Speciali",
+  "operatore": "Danone Nutricia Spa Società benefit",
+  "lotti": [
+   "111501520"
+  ],
+  "produttore": "NUTRICIA INFANT NUTRITION LTD",
+  "sede_stabilimento": "Rocklands, Wexford, Co Wexford, Y35 V1HD, Ireland",
+  "scadenza": "10/10/2026",
+  "peso_volume": "400g",
+  "motivo_esteso": "Adeguamento alle nuove linee guida EFSA sui limiti di cereulide.",
+  "avvertenze": "Si avvisano i consumatori di non consumare il prodotto con il lotto sopra indicato Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/02/2026 Marchio del prodotto: APTAMIL AR 2 - 6X400G IT"
+  },
+  "testo": "RICHIAMO\nData: 06/02/2026 Marchio del prodotto: APTAMIL AR 2 - 6X400G IT\nDenominazione di vendita: Alimento a Fini Medici Speciali\nNome o ragione sociale dell'OSA Danone Nutricia Spa Società benefit\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 111501520\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: NUTRICIA INFANT NUTRITION LTD\nSede dello stabilimento: Rocklands, Wexford, Co Wexford, Y35 V1HD, Ireland\nData di scadenza o termine minimo di conservazione: 10/10/2026\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nAdeguamento alle nuove linee guida EFSA sui limiti di cereulide.\nAvvertenze:\nSi avvisano i consumatori di non consumare il prodotto con il lotto sopra indicato\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:23:07+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:23:07+00:00"
+}

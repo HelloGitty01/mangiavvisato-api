@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-rosso/",
+ "titolo": "Pesto Rosso",
+ "data_pubblicazione": "2026-07-01",
+ "marca": "F.lli De Cecco di Filippo Fara San Martino SpA",
+ "denominazione": "Pesto Rosso",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_PESTO%20ROSSO_07225288_1782907340.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo_PESTO ROSSO_07225288_1782907340.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_PESTO%20ROSSO_07225288_1782907340.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-rosso",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pesto Rosso",
+  "operatore": "F.lli De Cecco di Filippo Fara San Martino SpA",
+  "lotti": [
+   "07225288 - prod. 15.10.2025"
+  ],
+  "produttore": "Delizie di riviera - per conto di De Cecco",
+  "sede_stabilimento": "Ceparana (SP)",
+  "scadenza": "05/27",
+  "peso_volume": "barattolo da 200 gr",
+  "motivo_esteso": "Presenza dell'allergene noci non dichiarato sull'etichetta adesiva in lingua olandese e portoghese (Brasile) applicata ai barattoli destinati alla commercializzazione nei rispettivi mercati.",
+  "avvertenze": "Si raccomanda ai consumatori allergici alle noci di non consumare il prodotto e di restituirlo al punto vendita presso cui è stato acquistato per il rimborso o la sostituzione.",
+  "campi_extra": {
+   "Data": "28/06/2026 Marchio del prodotto: De Cecco"
+  },
+  "testo": "RICHIAMO\nData: 28/06/2026 Marchio del prodotto: De Cecco\nDenominazione di vendita:Pesto Rosso\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli De Cecco di Filippo Fara San Martino SpA\ncommercializzato:\nLotto di produzione: 07225288 - prod. 15.10.2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Delizie di riviera - per conto di De Cecco\nSede dello stabilimento: Ceparana (SP)\nData di scadenza o termine minimo di conservazione: 05/27\nDescrizione peso/volume unità di vendita: barattolo da 200 gr\nMotivo del richiamo:\nPresenza dell'allergene noci non dichiarato sull'etichetta adesiva in lingua olandese e portoghese (Brasile)\napplicata ai barattoli destinati alla commercializzazione nei rispettivi mercati.\nAvvertenze:\nSi raccomanda ai consumatori allergici alle noci di non consumare il prodotto e di restituirlo al punto\nvendita presso cui è stato acquistato per il rimborso o la sostituzione."
+ },
+ "prima_rilevazione": "2026-10-24T22:07:20+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:07:20+00:00"
+}

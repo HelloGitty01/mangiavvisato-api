@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamari-indopacifici-puliti-if/",
+ "titolo": "Calamari indopacifici puliti IF",
+ "data_pubblicazione": "2025-06-05",
+ "marca": "La Ciurma",
+ "denominazione": "Calamari indopacifici puliti IF",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761207533.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo_1761207533.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761207533.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "calamari-indopacifici-puliti-if",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:42:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:42:03+00:00"
+}

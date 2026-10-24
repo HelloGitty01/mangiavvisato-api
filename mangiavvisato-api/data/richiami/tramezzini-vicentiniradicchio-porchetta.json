@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzini-vicentiniradicchio-porchetta/",
+ "titolo": "TRAMEZZINI vicentiniradicchio porchetta",
+ "data_pubblicazione": "2026-05-05",
+ "marca": "Intrapan S.r.l",
+ "denominazione": "TRAMEZZINI vicentiniradicchio porchetta",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoVicentiniradicchioporchetta%20_1__1777974015.pdf",
+ "allegati": [
+  {
+   "titolo": "CartellodirichiamoVicentiniradicchioporchetta _1__1777974015.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoVicentiniradicchioporchetta%20_1__1777974015.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tramezzini-vicentiniradicchio-porchetta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRAMEZZINI VICENTINI RADICCHIO PORCHETTA",
+  "operatore": "Intrapan S.r.l",
+  "lotti": [
+   "260408"
+  ],
+  "marchio_identificazione": "Intrapan S.r.l",
+  "produttore": "Intrapan S.r.l",
+  "sede_stabilimento": "Via S. Massimiliano Kolbe 26/28 36016 Thiene (VI)",
+  "scadenza": "13-05-2026",
+  "peso_volume": "140 g",
+  "motivo_esteso": "Rilevata positività a Listeria monocytogenes (<10 UFC/g) in tramezzini VICENTINI RADICCHIO E PORCHETTA, derivante dalla materia prima porchetta.",
+  "avvertenze": "A scopo precauzionale si invita la clientela che ha acquistato il prodotto appartenente al lotto indicato a non consumarlo e restituirlo presso il punto vendita.",
+  "campi_extra": {
+   "Data": "04/05/2026 Marchio del prodotto: Intrapan"
+  },
+  "testo": "RICHIAMO\nData: 04/05/2026 Marchio del prodotto: Intrapan\nDenominazione di vendita:TRAMEZZINI VICENTINI RADICCHIO PORCHETTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Intrapan S.r.l\ncommercializzato:\nLotto di produzione: 260408\nMarchio di identificazione dello stabilimento/del produttore: Intrapan S.r.l\nNome del produttore: Intrapan S.r.l\nSede dello stabilimento: Via S. Massimiliano Kolbe 26/28 36016 Thiene (VI)\nData di scadenza o termine minimo di conservazione: 13-05-2026\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nRilevata positività a Listeria monocytogenes (<10 UFC/g) in tramezzini VICENTINI RADICCHIO E\nPORCHETTA, derivante dalla materia prima porchetta.\nAvvertenze:\nA scopo precauzionale si invita la clientela che ha acquistato il prodotto appartenente al lotto indicato a\nnon consumarlo e restituirlo presso il punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:16:25+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:25+00:00"
+}

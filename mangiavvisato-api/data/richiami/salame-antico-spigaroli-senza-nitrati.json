@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-antico-spigaroli-senza-nitrati/",
+ "titolo": "Salame Antico Spigaroli senza nitrati",
+ "data_pubblicazione": "2026-07-13",
+ "marca": "Terre Verdi srl",
+ "denominazione": "Salame Antico Spigaroli senza nitrati",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20%20richiamo%20Antico%20Spigaroli%20L.%20280426A%20_1783953766.pdf",
+ "allegati": [
+  {
+   "titolo": "Ritiro  richiamo Antico Spigaroli L. 280426A _1783953766.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20%20richiamo%20Antico%20Spigaroli%20L.%20280426A%20_1783953766.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-antico-spigaroli-senza-nitrati",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame Antico Spigaroli senza nitrati.",
+  "operatore": "Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+  "lotti": [
+   "280426A"
+  ],
+  "marchio_identificazione": "IT 1819 L CE",
+  "produttore": "Terre Verdi srl.",
+  "sede_stabilimento": "via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+  "scadenza": "NA",
+  "peso_volume": "Salame intero",
+  "motivo_esteso": "prodotto non conforme per rischio Microbiologico.",
+  "avvertenze": "Non consumare il prodotto e renderlo al punto vendita.",
+  "campi_extra": {
+   "Data": "10/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli"
+  },
+  "testo": "RICHIAMO\nData: 10/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli\nDenominazione di vendita:Salame Antico Spigaroli senza nitrati.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)\ncommercializzato:\nLotto di produzione: 280426A\nMarchio di identificazione dello stabilimento/del produttore: IT 1819 L CE\nNome del produttore: Terre Verdi srl.\nSede dello stabilimento: via Sbrisi, 3 -43016 Polesine Parmense (PR)\nData di scadenza o termine minimo di conservazione: NA\nDescrizione peso/volume unità di vendita: Salame intero\nMotivo del richiamo:\nprodotto non conforme per rischio Microbiologico.\nAvvertenze:\nNon consumare il prodotto e renderlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:06:48+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:48+00:00"
+}

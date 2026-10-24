@@ -1,0 +1,51 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-allaperto/",
+ "titolo": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+ "data_pubblicazione": "2025-07-07",
+ "marca": "AGRICOLA PANENI",
+ "denominazione": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Paneni_1761208274.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo Paneni_1761208274.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Paneni_1761208274.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-allevamento-allaperto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO",
+  "operatore": "AZIENDA AGRICOLA PANENI LUISA & C S.S.",
+  "lotti": [
+   "G1125",
+   "G1225",
+   "G1325",
+   "G1425",
+   "G1525",
+   "G1625",
+   "G1725",
+   "G1825",
+   "G1925"
+  ],
+  "marchio_identificazione": "IT Z1K3R CE",
+  "produttore": "AZIENDA AGRICOLA PANENI LUISA & C SOCIETA' SEMPLICE",
+  "sede_stabilimento": "VIA AUGUSTO PERSICHETTI N. 101 - 00166 ROMA (RM)",
+  "scadenza": "DAL 09/07/2025 AL 17/07/2025",
+  "peso_volume": "6 UOVA DI VARIO CALIBRO (MIN. 320G)",
+  "motivo_esteso": "SOSPETTA PRESENZA DI SALMONELLA ENTERIDITIS",
+  "avvertenze": "Per i consumatori: restituire il prodotto al punto di vendita in cui è stato acquistato.",
+  "campi_extra": {
+   "Data": "01/07/2025 Marchio del prodotto: AGRICOLA PANENI",
+   "Per i consumatori": "restituire il prodotto al punto di vendita in cui è stato acquistato."
+  },
+  "testo": "RICHIAMO\nData: 01/07/2025 Marchio del prodotto: AGRICOLA PANENI\nDenominazione di vendita:UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA PANENI LUISA & C S.S.\ncommercializzato:\nLotto di produzione: G1125, G1225, G1325, G1425, G1525, G1625, G1725, G1825, G1925\nMarchio di identificazione dello stabilimento/del produttore: IT Z1K3R CE\nNome del produttore: AZIENDA AGRICOLA PANENI LUISA & C SOCIETA' SEMPLICE\nSede dello stabilimento: VIA AUGUSTO PERSICHETTI N. 101 - 00166 ROMA (RM)\nData di scadenza o termine minimo di conservazione: DAL 09/07/2025 AL 17/07/2025\nDescrizione peso/volume unità di vendita: 6 UOVA DI VARIO CALIBRO (MIN. 320G)\nMotivo del richiamo:\nSOSPETTA PRESENZA DI SALMONELLA ENTERIDITIS\nAvvertenze:\nPer i consumatori: restituire il prodotto al punto di vendita in cui è stato acquistato."
+ },
+ "prima_rilevazione": "2026-10-24T22:40:26+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:40:26+00:00"
+}

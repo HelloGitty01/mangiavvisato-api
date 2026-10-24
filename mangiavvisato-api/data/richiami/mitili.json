@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili/",
+ "titolo": "Mitili",
+ "data_pubblicazione": "2025-07-25",
+ "marca": "Olbiesina - Spano Group srl\nIT 543/CSM CE",
+ "denominazione": "Mitili",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Spano%20Group_1761208310.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo Spano Group_1761208310.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Spano%20Group_1761208310.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mitili",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MITILI",
+  "operatore": "SPANO GROUP SRL",
+  "lotti": [
+   "LOTTO ITA/066"
+  ],
+  "marchio_identificazione": "IT 543 CSM CE",
+  "produttore": "SPANO GROUP SRL",
+  "sede_stabilimento": "VIA INDONESIA 52 OLBIA SS - Z.I. sett.2",
+  "peso_volume": "KG 680",
+  "motivo_esteso": "E.COLI OLTRE IL LIMITE DI SICUREZZA",
+  "avvertenze": "PRODOTTO NON IDONEO AL CONSUMO. SI PREGA DI NON CONSUMARLO E DI RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "25/07/2025 Marchio del prodotto: OLBIESINA"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 25/07/2025 Marchio del prodotto: OLBIESINA\nDenominazione di vendita:MITILI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SPANO GROUP SRL\ncommercializzato:\nLotto di produzione: LOTTO ITA/066\nMarchio di identificazione dello stabilimento/del produttore: IT 543 CSM CE\nNome del produttore: SPANO GROUP SRL\nSede dello stabilimento: VIA INDONESIA 52 OLBIA SS - Z.I. sett.2\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: KG 680\nMotivo del richiamo:\nE.COLI OLTRE IL LIMITE DI SICUREZZA\nAvvertenze:\nPRODOTTO NON IDONEO AL CONSUMO.\nSI PREGA DI NON CONSUMARLO E DI RESTITUIRLO AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:39:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:39:46+00:00"
+}

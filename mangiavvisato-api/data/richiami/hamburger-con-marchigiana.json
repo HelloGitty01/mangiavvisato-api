@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-con-marchigiana/",
+ "titolo": "Hamburger con Marchigiana",
+ "data_pubblicazione": "2026-08-06",
+ "marca": "Terre d'Italia",
+ "denominazione": "Hamburger con Marchigiana",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Terre%20d_Italia_1786017783.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Ministero _ Terre d_Italia_1786017783.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Terre%20d_Italia_1786017783.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hamburger-con-marchigiana",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "HAMBURGER CON MARCHIGIANA",
+  "operatore": "GS S.p.A. Via Bisceglie 66 20152 Milano",
+  "lotti": [
+   "506091"
+  ],
+  "marchio_identificazione": "IT 1392/L UE",
+  "produttore": "SOALCA S.r.l.",
+  "sede_stabilimento": "Località Cerrani 13/B 66010 Pretoro CH",
+  "scadenza": "07 08/08/26",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Possibile presenza di E.coli STEC",
+  "avvertenze": "Nonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta, si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/08/26 Marchio del prodotto: TERRE D'ITALIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 04/08/26 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:HAMBURGER CON MARCHIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GS S.p.A. Via Bisceglie 66 20152 Milano\ncommercializzato:\nLotto di produzione: 506091\nMarchio di identificazione dello stabilimento/del produttore: IT 1392/L UE\nNome del produttore: SOALCA S.r.l.\nSede dello stabilimento: Località Cerrani 13/B 66010 Pretoro CH\nData di scadenza o termine minimo di conservazione: 07 08/08/26\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPossibile presenza di E.coli STEC\nAvvertenze:\nNonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta,\nsi invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:03:33+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:33+00:00"
+}

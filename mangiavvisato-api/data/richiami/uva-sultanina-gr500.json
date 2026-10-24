@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uva-sultanina-gr500/",
+ "titolo": "UVA SULTANINA GR.500",
+ "data_pubblicazione": "2026-05-15",
+ "marca": "no marchio",
+ "denominazione": "UVA SULTANINA GR.500",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_G500_eurospin_1778870978.pdf",
+ "allegati": [
+  {
+   "titolo": "120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_G500_eurospin_1778870978.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/120631_MODELLO_RICHIAMO_MINISTERO_UVA_SULTANINA_G500_eurospin_1778870978.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uva-sultanina-gr500",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UVA SULTANINA GR.500",
+  "operatore": "MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "lotti": [
+   "25364-25365-26008-26009-26012-26013-26015"
+  ],
+  "marchio_identificazione": "NO MARCHIO",
+  "produttore": "MOCERINO FRUTTA SECCA SRL",
+  "sede_stabilimento": "VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "scadenza": "30-31/12/2026 - 08-09-12-13-15/01/2027",
+  "peso_volume": "500G",
+  "motivo_esteso": "Presenza di OCRATOSSINA A oltre i limiti di legge consentiti.",
+  "avvertenze": "Possibili disturbi gastrointestinali dovuto all'ingestione dell'alimento. Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/05/2026 Marchio del prodotto: NO MARCHIO"
+  },
+  "testo": "RICHIAMO\nData: 14/05/2026 Marchio del prodotto: NO MARCHIO\nDenominazione di vendita: UVA SULTANINA GR.500\nNome o ragione sociale dell'OSA MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA\na nome del quale il prodotto è\nVES.NA (NA)\ncommercializzato:\nLotto di produzione: 25364-25365-26008-26009-26012-26013-26015\nMarchio di identificazione dello stabilimento/del produttore: NO MARCHIO\nNome del produttore: MOCERINO FRUTTA SECCA SRL\nSede dello stabilimento: VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)\nData di scadenza o termine minimo di conservazione: 30-31/12/2026 - 08-09-12-13-15/01/2027\nDescrizione peso/volume unità di vendita: 500G\nMotivo del richiamo:\nPresenza di OCRATOSSINA A oltre i limiti di legge consentiti.\nAvvertenze:\nPossibili disturbi gastrointestinali dovuto all'ingestione dell'alimento.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:15:50+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:50+00:00"
+}

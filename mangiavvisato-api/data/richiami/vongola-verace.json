@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-verace/",
+ "titolo": "Vongola verace",
+ "data_pubblicazione": "2025-06-14",
+ "marca": "Mitilmare",
+ "denominazione": "Vongola verace",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20rititiro%20richiamo_1761207611.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello rititiro richiamo_1761207611.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20rititiro%20richiamo_1761207611.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vongola-verace",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "E-mail": "purificatosrl@pec.it"
+  },
+  "testo": "Purificato S.r.l.\nPiazza Risorgimento, 5\n04023 Formia (LT)\nTel. +39.0771.21482 Fax +39.0771.266737\nE-mail: purificatosrl@pec.it\nP.IVA e C.F. 01940030594"
+ },
+ "prima_rilevazione": "2026-10-24T22:41:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:24+00:00"
+}

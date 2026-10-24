@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-grana-fine-fioretto/",
+ "titolo": "POLENTA A GRANA FINE FIORETTO",
+ "data_pubblicazione": "2026-06-17",
+ "marca": "MULINO MARELLO",
+ "denominazione": "POLENTA A GRANA FINE FIORETTO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20polenta%20fioretto%20mulino%20marello%20pf02126_1781706911.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo polenta fioretto mulino marello pf02126_1781706911.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20polenta%20fioretto%20mulino%20marello%20pf02126_1781706911.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polenta-grana-fine-fioretto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLENTA A GRANA FINE FIORETTO",
+  "operatore": "AZIENDA AGRICOLA MARELLO DI MARELLO GUIDO",
+  "lotti": [
+   "PF02126"
+  ],
+  "produttore": "AZIENDA AGRICOLA MARELLO DI MARELLO GUIDO",
+  "sede_stabilimento": "VIA PONTESTURA 80 - 15020 CAMINO (AL)",
+  "scadenza": "30-04-2027",
+  "peso_volume": "CONFEZIONE DA g 750 netti",
+  "motivo_esteso": "NON CONFORMITA' ESAMI AFLATOSSINE DURATA RICHIAMO 30 GG",
+  "avvertenze": "IL LOTTO INDICATO DEVE ESSERE RITIRATO DALLA VENDITA",
+  "campi_extra": {
+   "Data": "16/06/2026 Marchio del prodotto: MULINO MARELLO"
+  },
+  "testo": "RICHIAMO\nData: 16/06/2026 Marchio del prodotto: MULINO MARELLO\nDenominazione di vendita:POLENTA A GRANA FINE FIORETTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA MARELLO DI MARELLO GUIDO\ncommercializzato:\nLotto di produzione: PF02126\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: AZIENDA AGRICOLA MARELLO DI MARELLO GUIDO\nSede dello stabilimento: VIA PONTESTURA 80 - 15020 CAMINO (AL)\nData di scadenza o termine minimo di conservazione: 30-04-2027\nDescrizione peso/volume unità di vendita: CONFEZIONE DA g 750 netti\nMotivo del richiamo:\nNON CONFORMITA' ESAMI AFLATOSSINE\nDURATA RICHIAMO 30 GG\nAvvertenze:\nIL LOTTO INDICATO DEVE ESSERE RITIRATO DALLA VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:13:31+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:13:31+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-gorgonzola-dolce-200g/",
+ "titolo": "Formaggio Gorgonzola Dolce 200g",
+ "data_pubblicazione": "2026-08-29",
+ "marca": "IDAL",
+ "denominazione": "Formaggio Gorgonzola Dolce 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20Richiamo%20_%20Gorgonzola%20200g%20IDAL_1788013614.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 2 Richiamo _ Gorgonzola 200g IDAL_1788013614.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20Richiamo%20_%20Gorgonzola%20200g%20IDAL_1788013614.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-gorgonzola-dolce-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio Gorgonzola Dolce 200g",
+  "operatore": "IDAL srl",
+  "lotti": [
+   "126G22"
+  ],
+  "marchio_identificazione": "IT T616G UE",
+  "produttore": "Granarolo SpA",
+  "sede_stabilimento": "Via dell’Industria n.26 – 28060 Casalino (NO)",
+  "scadenza": "05/09/26",
+  "peso_volume": "200g",
+  "motivo_esteso": "Potenziale rischio di presenza di Listeria monocytogenes.",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto. Immagine 1 Immagine 2",
+  "campi_extra": {
+   "Data": "Marchio del prodotto: IDAL"
+  },
+  "testo": "RICHIAMO\nData: Marchio del prodotto: IDAL\n28/08/2026\nDenominazione di vendita:\nFormaggio Gorgonzola Dolce 200g\nNome o ragione sociale dell’OSA\na nome del quale il prodotto è IDAL srl\ncommercializzato:\nLotto di produzione: 126G22\nMarchio di identificazione dello stabilimento / del produttore: IT T616G UE\nNome del produttore: Granarolo SpA\nSede dello stabilimento: Via dell’Industria n.26 – 28060 Casalino (NO)\nData di scadenza o termine minimo di conservazione: 05/09/26\nDescrizione peso / volume unità di vendita: 200g\nMotivo del richiamo:\nPotenziale rischio di presenza di Listeria monocytogenes.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto.\nImmagine 1 Immagine 2"
+ },
+ "prima_rilevazione": "2026-10-24T22:02:33+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:33+00:00"
+}

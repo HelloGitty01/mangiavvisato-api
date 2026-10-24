@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-macinata/",
+ "titolo": "CURCUMA MACINATA",
+ "data_pubblicazione": "2025-11-11",
+ "marca": "MAR EMILIA COMPANY S.R.L.",
+ "denominazione": "CURCUMA MACINATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_%20Curcuma%20macinata%20Mar%20Emilia%20Company%20SRL_1762857636.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo _ Curcuma macinata Mar Emilia Company SRL_1762857636.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_%20Curcuma%20macinata%20Mar%20Emilia%20Company%20SRL_1762857636.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "curcuma-macinata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CURCUMA MACINATA",
+  "operatore": "MAR EMILIA COMPANY S.R.L. - VIA BERNINI 3/B 42123 – REGGIO EMILIA",
+  "lotti": [
+   "88137E110924"
+  ],
+  "marchio_identificazione": "MAR EMILIA COMPANY S.R.L.",
+  "produttore": "DOSCADESA 200, S.L.",
+  "sede_stabilimento": "C. Ricote, 39, 30500 Molina de Segura, Murcia, Spagna",
+  "scadenza": "07/2027",
+  "peso_volume": "BUSTINE DA 100 GRAMMI",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO – POSSIBILE PRESENZA DI BACILLUS CEREUS",
+  "avvertenze": "Si invita chiunque fosse in possesso del prodotto indicato a non consumarlo e a restituirlo al punto vendita dove è stato acquistato",
+  "campi_extra": {
+   "Data": "11/11/2025 Marchio del prodotto: CURCUMA MACINATA"
+  },
+  "testo": "RICHIAMO\nData: 11/11/2025 Marchio del prodotto: CURCUMA MACINATA\nDenominazione di vendita: CURCUMA MACINATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAR EMILIA COMPANY S.R.L. - VIA BERNINI 3/B 42123 – REGGIO EMILIA\ncommercializzato:\nLotto di produzione: 88137E110924\nMarchio di identificazione dello stabilimento/del produttore: MAR EMILIA COMPANY S.R.L.\nNome del produttore: DOSCADESA 200, S.L.\nSede dello stabilimento: C. Ricote, 39, 30500 Molina de Segura, Murcia, Spagna\nData di scadenza o termine minimo di conservazione: 07/2027\nDescrizione peso/volume unità di vendita: BUSTINE DA 100 GRAMMI\nMotivo del richiamo: RISCHIO MICROBIOLOGICO – POSSIBILE PRESENZA DI BACILLUS CEREUS\nAvvertenze:\nSi invita chiunque fosse in possesso del prodotto indicato a non consumarlo e a restituirlo al punto vendita\ndove è stato acquistato"
+ },
+ "prima_rilevazione": "2026-10-24T22:30:44+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:30:44+00:00"
+}

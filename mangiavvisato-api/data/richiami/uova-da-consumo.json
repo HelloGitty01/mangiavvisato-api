@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-da-consumo/",
+ "titolo": "UOVA DA CONSUMO",
+ "data_pubblicazione": "2026-04-17",
+ "marca": "GRUPPO SOLDANO SRL",
+ "denominazione": "UOVA DA CONSUMO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1776427701.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_1776427701.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1776427701.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-da-consumo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA DA CONSUMO",
+  "operatore": "GRUPPO SOLDANO SRL",
+  "lotti": [
+   "L.090426T3 L. 130426T3 L. 200426T3"
+  ],
+  "marchio_identificazione": "IT T1D73 CE",
+  "produttore": "GRUPPO SOLDANO SRL",
+  "sede_stabilimento": "CONTRADA LA STORT SNC",
+  "scadenza": "20-04-2026",
+  "peso_volume": "CONFEZIONI DA 6 UOVA",
+  "motivo_esteso": "CASO SALMONELLA SU ANIMALI DEL GRUPPO 3",
+  "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RESTITUIRE LE CONFEZIONI IN OGGETTO NEL PUNTO VENDITA DI ACQUISTO. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/04/2026 Marchio del prodotto: UOVOSOL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/04/2026 Marchio del prodotto: UOVOSOL\nDenominazione di vendita:UOVA DA CONSUMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GRUPPO SOLDANO SRL\ncommercializzato:\nLotto di produzione: L.090426T3 L. 130426T3 L. 200426T3\nMarchio di identificazione dello stabilimento/del produttore: IT T1D73 CE\nNome del produttore: GRUPPO SOLDANO SRL\nSede dello stabilimento: CONTRADA LA STORT SNC\nData di scadenza o termine minimo di conservazione: 20-04-2026\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 6 UOVA\nMotivo del richiamo:\nCASO SALMONELLA SU ANIMALI DEL GRUPPO 3\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E DI RESTITUIRE LE CONFEZIONI IN OGGETTO NEL\nPUNTO VENDITA DI ACQUISTO.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:17:04+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:17:04+00:00"
+}

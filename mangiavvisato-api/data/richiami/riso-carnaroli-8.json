@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-8/",
+ "titolo": "Riso Carnaroli",
+ "data_pubblicazione": "2026-07-21",
+ "marca": "Tenca Colombo & C S.r.l.",
+ "denominazione": "Riso Carnaroli",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1784644979.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1784644979.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1784644979.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-carnaroli-8",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso Carnaroli",
+  "operatore": "Tenca Colombo & C srl",
+  "lotti": [
+   "13022036"
+  ],
+  "marchio_identificazione": "Riseria di Morano snc",
+  "produttore": "Riseria di Morano snc",
+  "sede_stabilimento": "Viale Stazione 3 - 15025 Morano sul Po (AL)",
+  "scadenza": "31-03-2027",
+  "peso_volume": "sacchetti da 1 kg",
+  "motivo_esteso": "Valore della Tetramethrin oltre la soglia",
+  "avvertenze": "Ritiro immediato del prodotto",
+  "campi_extra": {
+   "Data": "20/07/2026 Marchio del prodotto: Tenca Colombo & C srl"
+  },
+  "testo": "RICHIAMO\nData: 20/07/2026 Marchio del prodotto: Tenca Colombo & C srl\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Tenca Colombo & C srl\ncommercializzato:\nLotto di produzione: 13022036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano snc\nNome del produttore: Riseria di Morano snc\nSede dello stabilimento: Viale Stazione 3 - 15025 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: sacchetti da 1 kg\nMotivo del richiamo:\nValore della Tetramethrin oltre la soglia\nAvvertenze:\nRitiro immediato del prodotto"
+ },
+ "prima_rilevazione": "2026-10-24T22:05:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:05:32+00:00"
+}

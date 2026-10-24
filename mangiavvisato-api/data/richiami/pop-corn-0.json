@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-0/",
+ "titolo": "POP CORN",
+ "data_pubblicazione": "2026-08-08",
+ "marca": "SALATI PREZIOSI",
+ "denominazione": "POP CORN",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Pop%20Corn_1786215096.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo Pop Corn_1786215096.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Pop%20Corn_1786215096.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pop-corn-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:03:24+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:03:24+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-sgusciate-paphia-textile/",
+ "titolo": "VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+ "data_pubblicazione": "2025-01-11",
+ "marca": "NUOVA EUROGEL SUD SRL",
+ "denominazione": "VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Nuova%20Eurogel%20sud_1761206168.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Nuova Eurogel sud_1761206168.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Nuova%20Eurogel%20sud_1761206168.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vongole-sgusciate-paphia-textile",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VONGOLE SGUSCIATE (PAPHIA TEXTILE)",
+  "operatore": "NUOVA EUROGEL SUD SRL",
+  "lotti": [
+   "NV210524"
+  ],
+  "marchio_identificazione": "CE IT G1U41",
+  "produttore": "SCONGELANDO SRL",
+  "sede_stabilimento": "VIALE BRODOLINI - Z.I. - 84091 BATTIPAGLIA (SA)",
+  "scadenza": "30-06-2026",
+  "peso_volume": "200 GR",
+  "motivo_esteso": "PRESENZA DI ACIDO PERFLUOROOTTANOICO (PFOA) IN QUANTITA' SUPERIORE AI LIMITI CONSENTITI.",
+  "avvertenze": "IL PRODOTTO NON DEVE ESSERE CONSUMATO E RIPORTATO IN PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "07/01/2025 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 07/01/2025 Marchio del prodotto:\nDenominazione di vendita:VONGOLE SGUSCIATE (PAPHIA TEXTILE)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NUOVA EUROGEL SUD SRL\ncommercializzato:\nLotto di produzione: NV210524\nMarchio di identificazione dello stabilimento/del produttore: CE IT G1U41\nNome del produttore: SCONGELANDO SRL\nSede dello stabilimento: VIALE BRODOLINI - Z.I. - 84091 BATTIPAGLIA (SA)\nData di scadenza o termine minimo di conservazione: 30-06-2026\nDescrizione peso/volume unità di vendita: 200 GR\nMotivo del richiamo:\nPRESENZA DI ACIDO PERFLUOROOTTANOICO (PFOA) IN QUANTITA' SUPERIORE AI LIMITI CONSENTITI.\nAvvertenze:\nIL PRODOTTO NON DEVE ESSERE CONSUMATO E RIPORTATO IN PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:52:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:52:09+00:00"
+}

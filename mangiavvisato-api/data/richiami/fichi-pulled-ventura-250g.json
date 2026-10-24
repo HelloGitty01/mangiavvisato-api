@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-pulled-ventura-250g/",
+ "titolo": "FICHI PULLED VENTURA 250g",
+ "data_pubblicazione": "2025-02-11",
+ "marca": "MADI VENTURA",
+ "denominazione": "FICHI PULLED VENTURA 250g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_%20Fichi%20Pulled%20Ventura%20cod.%204385%20lotto%20350020356_2_11_486_24_1761206491.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_ Fichi Pulled Ventura cod. 4385 lotto 350020356_2_11_486_24_1761206491.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_%20Fichi%20Pulled%20Ventura%20cod.%204385%20lotto%20350020356_2_11_486_24_1761206491.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-pulled-ventura-250g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FICHI PULLED VENTURA 250g",
+  "operatore": "MADI VENTURA S.p.A.",
+  "lotti": [
+   "350020356/2-11-486-24"
+  ],
+  "marchio_identificazione": "N.A.",
+  "produttore": "OSMAN AKÇA A.Ş.",
+  "sede_stabilimento": "Çarş Mah. Osman Akça Sok. No:41Köşk, Aydn 09570 - TURCHIA",
+  "scadenza": "06/2025",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Presenza di Ocratossina A oltre il limite di legge previsto dal Reg. UE 2023/915.",
+  "avvertenze": "I fichi non devono essere consumati, le confezioni vanno riconsegnate al punto vendita ove è avvenuto l‘acquisto.",
+  "campi_extra": {
+   "Data": "07/02/2025 Marchio del prodotto: VENTURA"
+  },
+  "testo": "RICHIAMO\nData: 07/02/2025 Marchio del prodotto: VENTURA\nDenominazione di vendita: FICHI PULLED VENTURA 250g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MADI VENTURA S.p.A.\ncommercializzato:\nLotto di produzione: 350020356/2-11-486-24\nMarchio di identificazione dello stabilimento/del produttore: N.A.\nNome del produttore: OSMAN AKÇA A.Ş.\nSede dello stabilimento: Çarş Mah. Osman Akça Sok. No:41Köşk, Aydn 09570 - TURCHIA\nData di scadenza o termine minimo di conservazione: 06/2025\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPresenza di Ocratossina A oltre il limite di legge previsto dal Reg. UE 2023/915.\nAvvertenze:\nI fichi non devono essere consumati, le confezioni vanno riconsegnate al punto vendita ove è avvenuto\nl‘acquisto."
+ },
+ "prima_rilevazione": "2026-10-24T22:49:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:49:17+00:00"
+}

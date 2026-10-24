@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pfiffikas/",
+ "titolo": "Pfiffikas",
+ "data_pubblicazione": "2025-01-14",
+ "marca": "DEGUST",
+ "denominazione": "Pfiffikas",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Pfiffkas_1761206179.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Pfiffkas_1761206179.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Pfiffkas_1761206179.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pfiffikas",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:52:02+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:52:02+00:00"
+}

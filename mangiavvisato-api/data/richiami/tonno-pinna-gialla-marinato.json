@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-pinna-gialla-marinato/",
+ "titolo": "Tonno pinna gialla marinato",
+ "data_pubblicazione": "2026-03-26",
+ "marca": "SEA MASTER",
+ "denominazione": "Tonno pinna gialla marinato",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20TONNO%20SOTTOVUOTO_1774521624.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo TONNO SOTTOVUOTO_1774521624.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20TONNO%20SOTTOVUOTO_1774521624.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tonno-pinna-gialla-marinato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:18:50+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:50+00:00"
+}

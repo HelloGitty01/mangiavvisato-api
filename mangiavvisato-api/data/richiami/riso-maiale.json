@@ -1,0 +1,33 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-maiale/",
+ "titolo": "Riso-Maiale",
+ "data_pubblicazione": "2026-05-12",
+ "marca": "Colella",
+ "denominazione": "Riso-Maiale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_prodotto%20Colella%20TRADE%20SRL_1778605828.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_prodotto Colella TRADE SRL_1778605828.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_prodotto%20Colella%20TRADE%20SRL_1778605828.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-maiale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "I mpronta del documento digitale originale": "744821526798e4e259e35e2d7b094c4e",
+   "I dentificativo del documento digitale originale": "1700117",
+   "P rotocollo": "ASLAV-0054553-2026 11-05-2026 12:45:11",
+   "Documento generato dal sistema DgsWebOS in data": "11-05-2026 16:52:49"
+  },
+  "testo": "ASL Avellino\nL' art. 23 del Codice dell'Amministrazione Digitale (Decreto Legislativo 7 marzo 2005, n. 82 e s.m.i.), riconosce alle copie\nanalogiche di documenti informatici (es. la stampa di un certificato, un contratto, ecc.) la stessa efficacia probatoria dell'originale\ninformatico da cui sono tratti se la loro conformit non viene espressamente disconosciuta (in giudizio). Diverso il caso in cui la\nconformit all'originare informatico, in tutte le sue componenti, sia attestata da un pubblico ufficiale autorizzato. In questo caso,\ninfatti, per negare alla copia analogica di documento informatico la stessa efficacia probatoria del documento sorgente si rende\nnecessaria la querela di falso.\nQuesto regime, di carattere generale, incontra alcune deroghe rispetto alle copie analogiche di documenti amministrativi\ninformatici.\nL'art. 23-ter del CAD prevede che sulle copie analogiche di documenti amministrativi informatici possa essere apposto un\ncontrassegno a stampa (detto anche timbro digitale o glifo) che consente di accertare la corrispondenza tra le copie analogiche\nstesse e l'originale informatico (in esso deve essere codificato, infatti, il documento informatico o le informazioni necessarie a\nverificarne la corrispondenza all'originale in formato digitale). La verifica avviene grazie ad appositi software che leggono le\ninformazioni contenute nel timbro digitale. I software necessari per l'attivit di verifica devono essere gratuiti e messi liberamente a\ndisposizione da parte delle amministrazioni.\nCopia conforme di un documento amministrativo informatico formata ai sensi dell'articolo 23-ter, comma 5\ndel CAD.\nIl presente contrassegno digitale Datamatrix contiene informazioni utili alla verifica della corrispondenza\ndel documento all'originale digitale conservato dall'amministrazione proprietaria dello stesso.\nIl contrassegno pu essere letto con qualsiasi applicazione in grado di decodificare il formato Datamatrix e\ncon gli smartphone dei principali costruttori.\nIn alternativa possibile collegarsi al sistema DgsWebOS dell'amministrazione e ricercare dopo\nl'autenticazione il documento\nI mpronta del documento digitale originale: 744821526798e4e259e35e2d7b094c4e\nI dentificativo del documento digitale originale: 1700117\nP rotocollo: ASLAV-0054553-2026 11-05-2026 12:45:11\nDocumento generato dal sistema DgsWebOS in data: 11-05-2026 16:52:49"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:13+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-foglia-biologico-0/",
+ "titolo": "Basilico foglia biologico",
+ "data_pubblicazione": "2025-04-03",
+ "marca": "ARTIGIANO BIO",
+ "denominazione": "Basilico foglia biologico",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%201kg%20ARTIGIANO%20DEL%20BIO%20tmc%2029%2007%202028%20_1__1761206740.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo 1kg ARTIGIANO DEL BIO tmc 29 07 2028 _1__1761206740.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%201kg%20ARTIGIANO%20DEL%20BIO%20tmc%2029%2007%202028%20_1__1761206740.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "basilico-foglia-biologico-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:05+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:05+00:00"
+}

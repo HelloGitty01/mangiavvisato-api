@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/basilico-foglia-biologico/",
+ "titolo": "Basilico foglia biologico",
+ "data_pubblicazione": "2025-04-03",
+ "marca": "PENSA BIO",
+ "denominazione": "Basilico foglia biologico",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20basilico%2020g%20PENSA%20BIO%20tmc%2031%2007%202026_11%2008%202026%20_1__1761206735.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo basilico 20g PENSA BIO tmc 31 07 2026_11 08 2026 _1__1761206735.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20basilico%2020g%20PENSA%20BIO%20tmc%2031%2007%202026_11%2008%202026%20_1__1761206735.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "basilico-foglia-biologico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:03+00:00"
+}

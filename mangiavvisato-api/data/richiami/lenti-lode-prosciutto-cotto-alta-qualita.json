@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lenti-lode-prosciutto-cotto-alta-qualita/",
+ "titolo": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+ "data_pubblicazione": "2025-12-24",
+ "marca": "LENTI",
+ "denominazione": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lenti-lode-prosciutto-cotto-alta-qualita",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+  "operatore": "RUGGER S.R.L.",
+  "lotti": [
+   "2541327",
+   "2541328"
+  ],
+  "marchio_identificazione": "IT 1048L CE",
+  "produttore": "RUGGER S.R.L.",
+  "sede_stabilimento": "VIA TETTI GIRO N. 7 - 10026 - SANTENA (TO)",
+  "scadenza": "3/01/2026",
+  "peso_volume": "0,120 Kg",
+  "motivo_esteso": "Possibile presenza di Listeria Monocytogenes",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/12/2025 Marchio del prodotto: LENTI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/12/2025 Marchio del prodotto: LENTI\nDenominazione di vendita:LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RUGGER S.R.L.\ncommercializzato:\nLotto di produzione: 2541327; 2541328\nMarchio di identificazione dello stabilimento/del produttore: IT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TETTI GIRO N. 7 - 10026 - SANTENA (TO)\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0,120 Kg\nMotivo del richiamo:\nPossibile presenza di Listeria Monocytogenes\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:28:19+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:28:19+00:00"
+}

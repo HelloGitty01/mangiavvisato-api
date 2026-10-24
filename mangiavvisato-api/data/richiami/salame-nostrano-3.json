@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-3/",
+ "titolo": "SALAME NOSTRANO",
+ "data_pubblicazione": "2026-07-10",
+ "marca": "I VENETI",
+ "denominazione": "SALAME NOSTRANO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20260710_Cartello%20di_richiamo_SALAME_1783694569.pdf",
+ "allegati": [
+  {
+   "titolo": "20260710_Cartello di_richiamo_SALAME_1783694569.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20260710_Cartello%20di_richiamo_SALAME_1783694569.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-nostrano-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:06:50+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:50+00:00"
+}

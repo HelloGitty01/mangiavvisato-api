@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lupini/",
+ "titolo": "LUPINI",
+ "data_pubblicazione": "2026-03-23",
+ "marca": "CALLERIS SNC",
+ "denominazione": "LUPINI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Lupini%20Secchi%20500%20gr_%20ZORZOLI_1774271357.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO Lupini Secchi 500 gr_ ZORZOLI_1774271357.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Lupini%20Secchi%20500%20gr_%20ZORZOLI_1774271357.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lupini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:19:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:32+00:00"
+}

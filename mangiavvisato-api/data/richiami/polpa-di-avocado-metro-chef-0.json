@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-avocado-metro-chef-0/",
+ "titolo": "Polpa di Avocado METRO Chef",
+ "data_pubblicazione": "2025-08-02",
+ "marca": "METRO Chef",
+ "denominazione": "Polpa di Avocado METRO Chef",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Polpa%20Avocado%20MC%20LI4213%20%20_1__1761208334.pdf",
+ "allegati": [
+  {
+   "titolo": "Polpa Avocado MC LI4213  _1__1761208334.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Polpa%20Avocado%20MC%20LI4213%20%20_1__1761208334.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpa-di-avocado-metro-chef-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Polpa di Avocado METRO Chef",
+  "operatore": "MCC Trading International GmbH; Schlüterstraße 5; 40235 Düsseldorf; Germany",
+  "lotti": [
+   "LI4213"
+  ],
+  "produttore": "SALUD FOOD GROUP EUROPE",
+  "sede_stabilimento": "Agroempaques S.A.;Calle Cappa 268 Urb. Parque de la Industria y Comercio;Bellavista;Callao;Lima;Peru",
+  "scadenza": "31-07-2026",
+  "peso_volume": "1 Kg",
+  "motivo_esteso": "Possibile presenza di tossina botulinica.",
+  "campi_extra": {
+   "Data": "01/08/2025 Marchio del prodotto: METRO Chef"
+  },
+  "testo": "RICHIAMO\nData: 01/08/2025 Marchio del prodotto: METRO Chef\nDenominazione di vendita:Polpa di Avocado METRO Chef\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MCC Trading International GmbH; Schlüterstraße 5; 40235 Düsseldorf; Germany\ncommercializzato:\nLotto di produzione: LI4213;\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: SALUD FOOD GROUP EUROPE\nSede dello stabilimento: Agroempaques S.A.;Calle Cappa 268 Urb. Parque de la Industria y Comercio;Bellavista;Callao;Lima;Peru\nData di scadenza o termine minimo di conservazione: 31-07-2026\nDescrizione peso/volume unità di vendita: 1 Kg\nMotivo del richiamo:\nPossibile presenza di tossina botulinica.\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:39:22+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:39:22+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dessert-senza-glutine-e-lattosio-piramide-270-gr/",
+ "titolo": ": DESSERT senza glutine e lattosio PIRAMIDE 270 gr",
+ "data_pubblicazione": "2025-02-17",
+ "marca": "SAPORI ARTIGIANALI",
+ "denominazione": ": DESSERT senza glutine e lattosio PIRAMIDE 270 gr",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DA%20SAPORI%20ARTIGIANALI%20270g%20PIRAMIDE_1761206511.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO DA SAPORI ARTIGIANALI 270g PIRAMIDE_1761206511.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20DA%20SAPORI%20ARTIGIANALI%20270g%20PIRAMIDE_1761206511.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "dessert-senza-glutine-e-lattosio-piramide-270-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "DESSERT senza glutine e lattosio",
+  "operatore": "SAPORI ARTIGIANALI",
+  "lotti": [
+   "L4324-SGSL"
+  ],
+  "marchio_identificazione": "Cioccolami srl",
+  "produttore": "Cioccolami srl",
+  "sede_stabilimento": "via Belfiore 25/c San Pietro in Elda (MO) 28/02/2025",
+  "peso_volume": "270g Piramide",
+  "motivo_esteso": "PROBABILE PRESENZA GLUTINE",
+  "avvertenze": "In caso di acquisto riconsegnare il prodotto integro al punto vendita",
+  "campi_extra": {
+   "Data": "23.12.2024 Marchio del prodotto: SAPORI ARTIGIANALI"
+  },
+  "testo": "RICHIAMO\nData: 23.12.2024 Marchio del prodotto: SAPORI ARTIGIANALI\nDenominazione di vendita: DESSERT senza glutine e lattosio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SAPORI ARTIGIANALI\ncommercializzato:\nLotto di produzione: L4324-SGSL\nMarchio di identificazione dello stabilimento/del produttore: Cioccolami srl\nNome del produttore: Cioccolami srl\nSede dello stabilimento: via Belfiore 25/c San Pietro in Elda (MO)\n28/02/2025\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 270g Piramide\nMotivo del richiamo: PROBABILE PRESENZA GLUTINE\nAvvertenze: In caso di acquisto riconsegnare il prodotto integro al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T22:48:57+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:48:57+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-nero-tostato/",
+ "titolo": "SESAMO NERO TOSTATO",
+ "data_pubblicazione": "2026-05-11",
+ "marca": "NTC Wismettac Europe B.V.",
+ "denominazione": "SESAMO NERO TOSTATO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1778492376.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo_1778492376.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1778492376.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sesamo-nero-tostato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SESAMO NERO TOSTATO",
+  "operatore": "NTC Wismettac Europe B.V.",
+  "lotti": [
+   "DAE/RBSSR120825"
+  ],
+  "marchio_identificazione": "Dhaval Agri Exports LLP.",
+  "produttore": "Dhaval Agri Exports LLP.",
+  "sede_stabilimento": "A - 75, new Market Yard, Bedi Village, Rajkot-360003, Gujarat, India",
+  "scadenza": "17-08-2026",
+  "peso_volume": "1 kg",
+  "motivo_esteso": "Rilevato tenore di aflatossina B1 superiore al limite massimo consentito dall'UE.",
+  "avvertenze": "Bloccare il prodotto identificandolo come non vendibile e sospenderne immediatamente la vendita. Attivare la procedura di richiamo. Non consumare il prodotto. Riportarlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08/05/2026 Marchio del prodotto: Shirakiku",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 08/05/2026 Marchio del prodotto: Shirakiku\nDenominazione di vendita:SESAMO NERO TOSTATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NTC Wismettac Europe B.V.\ncommercializzato:\nLotto di produzione: DAE/RBSSR120825\nMarchio di identificazione dello stabilimento/del produttore: Dhaval Agri Exports LLP.\nNome del produttore: Dhaval Agri Exports LLP.\nSede dello stabilimento: A - 75, new Market Yard, Bedi Village, Rajkot-360003, Gujarat, India\nData di scadenza o termine minimo di conservazione: 17-08-2026\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nRilevato tenore di aflatossina B1 superiore al limite massimo consentito dall'UE.\nAvvertenze:\nBloccare il prodotto identificandolo come non vendibile e sospenderne immediatamente la vendita.\nAttivare la procedura di richiamo.\nNon consumare il prodotto. Riportarlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:16+00:00"
+}

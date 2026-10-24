@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-cernia-indopacifica-surgelati/",
+ "titolo": "Filetti di cernia indopacifica surgelati",
+ "data_pubblicazione": "2026-03-27",
+ "marca": "Blu Mares",
+ "denominazione": "Filetti di cernia indopacifica surgelati",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cernia_cartello_1774608031.pdf",
+ "allegati": [
+  {
+   "titolo": "cernia_cartello_1774608031.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cernia_cartello_1774608031.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-cernia-indopacifica-surgelati",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI CERNIA INDOPACIFICA SUGELATI",
+  "operatore": "NETTUNO ALIMENTARI SPA",
+  "lotti": [
+   "19A25"
+  ],
+  "marchio_identificazione": "TEC-01/87",
+  "produttore": "SEAGREEN ENTERPRISES LTD",
+  "sede_stabilimento": "PAKISTAN",
+  "scadenza": "18/01/28",
+  "peso_volume": "400 G",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI, (FRAMMENTI DI PLASTICA ROSSA)",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RIPORTARE PRESSO IL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "26/03/2026 Marchio del prodotto: BLU MARES"
+  },
+  "testo": "RICHIAMO\nData: 26/03/2026 Marchio del prodotto: BLU MARES\nDenominazione di vendita:FILETTI DI CERNIA INDOPACIFICA SUGELATI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NETTUNO ALIMENTARI SPA\ncommercializzato:\nLotto di produzione: 19A25\nMarchio di identificazione dello stabilimento/del produttore: TEC-01/87\nNome del produttore: SEAGREEN ENTERPRISES LTD\nSede dello stabilimento: PAKISTAN\nData di scadenza o termine minimo di conservazione: 18/01/28\nDescrizione peso/volume unità di vendita: 400 G\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI, (FRAMMENTI DI PLASTICA ROSSA)\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RIPORTARE PRESSO IL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:35+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:35+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/code-di-gamberi-iqf-bu10x500-veliero-1/",
+ "titolo": "CODE DI GAMBERI IQF BU.10X500 VELIERO",
+ "data_pubblicazione": "2026-01-05",
+ "marca": "I SURGELATI DEL VELIERO",
+ "denominazione": "CODE DI GAMBERI IQF BU.10X500 VELIERO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%205304AB_1767609593.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo 5304AB_1767609593.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%205304AB_1767609593.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "code-di-gamberi-iqf-bu10x500-veliero-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CODE DI GAMBERI IQF BU.10X500 VELIERO",
+  "operatore": "CONSERVIERA ADRIATICA SPA",
+  "lotti": [
+   "5304AB"
+  ],
+  "marchio_identificazione": "IT 102 UE",
+  "produttore": "CONSERVIERA ADRIATICA SPA",
+  "sede_stabilimento": "Via Palmiro Togliatti 50 - 63073",
+  "scadenza": "31-01-2027",
+  "peso_volume": "buste da 500g",
+  "motivo_esteso": "Presenza di pezzi di vetro all'interno delle confezioni",
+  "avvertenze": "I clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al punto vendita per la sostituzione. Siamo spiacenti per il disagio arrecato.",
+  "campi_extra": {
+   "Data": "03/01/2026 Marchio del prodotto: I SURGELATI DEL VELIERO"
+  },
+  "testo": "RICHIAMO\nData: 03/01/2026 Marchio del prodotto: I SURGELATI DEL VELIERO\nDenominazione di vendita: CODE DI GAMBERI IQF BU.10X500 VELIERO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONSERVIERA ADRIATICA SPA\ncommercializzato:\nLotto di produzione: 5304AB\nMarchio di identificazione dello stabilimento/del produttore: IT 102 UE\nNome del produttore: CONSERVIERA ADRIATICA SPA\nSede dello stabilimento: Via Palmiro Togliatti 50 - 63073\nData di scadenza o termine minimo di conservazione: 31-01-2027\nDescrizione peso/volume unità di vendita: buste da 500g\nMotivo del richiamo:\nPresenza di pezzi di vetro all'interno delle confezioni\nAvvertenze:\nI clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al punto\nvendita per la sostituzione.\nSiamo spiacenti per il disagio arrecato."
+ },
+ "prima_rilevazione": "2026-10-24T22:26:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:26:46+00:00"
+}

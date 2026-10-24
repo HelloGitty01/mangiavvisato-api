@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-il-gallico/",
+ "titolo": "Salame il Gallico",
+ "data_pubblicazione": "2025-10-07",
+ "marca": "Corte Marchigiana",
+ "denominazione": "Salame il Gallico",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_il%20gallico%20_1__1761209190.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_il gallico _1__1761209190.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_il%20gallico%20_1__1761209190.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-il-gallico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:35:04+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:35:04+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-di-puglia-200g/",
+ "titolo": "Mozzarella di Puglia 200g",
+ "data_pubblicazione": "2025-10-10",
+ "marca": "REWE FEINE WELT",
+ "denominazione": "Mozzarella di Puglia 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RETTIFICARICHIAMOREWEDEL09_10_2025_1761209229.pdf",
+ "allegati": [
+  {
+   "titolo": "RETTIFICARICHIAMOREWEDEL09_10_2025_1761209229.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RETTIFICARICHIAMOREWEDEL09_10_2025_1761209229.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-di-puglia-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MOZZARELLA DI PUGLIA 200g",
+  "operatore": "DELIZIA SPA",
+  "lotti": [
+   "L1270"
+  ],
+  "marchio_identificazione": "UE IT L547C",
+  "produttore": "DELIZIA SPA",
+  "sede_stabilimento": "VIALE DEI SAPERI N. 10/12 - 70015 - NOCI (BA)",
+  "scadenza": "20/10/2025",
+  "peso_volume": "200g",
+  "motivo_esteso": "Reason for recall: RISCHIO LISTERIA MONOCITOGENES",
+  "avvertenze": "Warnings: NON CONSUMARE IL PRODOTTO. RESTITUIRE IL PRODOTTO AL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "09/10/2025 Marchio del prodotto: REWE FEINE WELT"
+  },
+  "testo": "Allegato 2\nRICHIAMO\nData: 09/10/2025 Marchio del prodotto: REWE FEINE WELT\nDenominazione di vendita: MOZZARELLA DI PUGLIA 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DELIZIA SPA\ncommercializzato:\nLotto di produzione: L1270\nMarchio di identificazione dello stabilimento/del produttore: UE IT L547C\nNome del produttore: DELIZIA SPA\nSede dello stabilimento: VIALE DEI SAPERI N. 10/12 - 70015 - NOCI (BA)\nData di scadenza o termine minimo di conservazione: 20/10/2025\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo: Reason for recall:\nRISCHIO LISTERIA MONOCITOGENES\nAvvertenze: Warnings:\nNON CONSUMARE IL PRODOTTO. RESTITUIRE IL PRODOTTO AL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-24T22:34:30+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:34:30+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-25-kg/",
+ "titolo": "Riso Carnaroli 25 kg",
+ "data_pubblicazione": "2026-07-23",
+ "marca": "Riseria di Morano",
+ "denominazione": "Riso Carnaroli 25 kg",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_25_kg_1784817891.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_L13022036_25_kg_1784817891.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_25_kg_1784817891.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-carnaroli-25-kg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso Carnaroli",
+  "operatore": "Riseria di Morano snc di Rossino M. e C.",
+  "lotti": [
+   "13022036"
+  ],
+  "marchio_identificazione": "Riseria di Morano",
+  "produttore": "Riseria di Morano snc di Rossino M. e C.",
+  "sede_stabilimento": "Viale Stazione 3 Morano sul Po (AL)",
+  "scadenza": "31-03-2027",
+  "peso_volume": "25 kg",
+  "motivo_esteso": "Presenza di tetrametrina oltre i limiti di legge",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21-07-2026 Marchio del prodotto: Riseria di Morano",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 21-07-2026 Marchio del prodotto: Riseria di Morano\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riseria di Morano snc di Rossino M. e C.\ncommercializzato:\nLotto di produzione: 13022036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano\nNome del produttore: Riseria di Morano snc di Rossino M. e C.\nSede dello stabilimento: Viale Stazione 3 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 25 kg\nMotivo del richiamo:\nPresenza di tetrametrina oltre i limiti di legge\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:05:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:05:09+00:00"
+}

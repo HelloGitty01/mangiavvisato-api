@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fegatello/",
+ "titolo": "FEGATELLO",
+ "data_pubblicazione": "2026-05-11",
+ "marca": "fegatello Nostrano",
+ "denominazione": "FEGATELLO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1778519418.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo_1778519418.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1778519418.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fegatello",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FEGATELLO",
+  "operatore": "Venditti's Idea srl",
+  "lotti": [
+   "PSSAF20092025"
+  ],
+  "marchio_identificazione": "Venditti",
+  "produttore": "Venditti's Idea srl",
+  "sede_stabilimento": "via Antonio Pacinotti 9, Avezzano (AQ)",
+  "scadenza": "16-08-2026",
+  "peso_volume": "salame 200g",
+  "motivo_esteso": "presenza di virus epatite E",
+  "avvertenze": "Allerta numero 842632 del 08/05/2026 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "11/05/2026 Marchio del prodotto: Fegatello Nostrano",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 11/05/2026 Marchio del prodotto: Fegatello Nostrano\nDenominazione di vendita:FEGATELLO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Venditti's Idea srl\ncommercializzato:\nLotto di produzione: PSSAF20092025\nMarchio di identificazione dello stabilimento/del produttore: Venditti\nNome del produttore: Venditti's Idea srl\nSede dello stabilimento: via Antonio Pacinotti 9, Avezzano (AQ)\nData di scadenza o termine minimo di conservazione: 16-08-2026\nDescrizione peso/volume unità di vendita: salame 200g\nMotivo del richiamo:\npresenza di virus epatite E\nAvvertenze:\nAllerta numero 842632 del 08/05/2026\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:22+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:22+00:00"
+}

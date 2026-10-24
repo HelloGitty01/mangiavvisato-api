@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-di-proseguimento-polvere/",
+ "titolo": "LATTE DI PROSEGUIMENTO IN POLVERE",
+ "data_pubblicazione": "2026-02-10",
+ "marca": "APTAMIL 2 (2x600g)x3",
+ "denominazione": "LATTE DI PROSEGUIMENTO IN POLVERE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20APTAMIL%202%20_2x600_x3_1770747193.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO APTAMIL 2 _2x600_x3_1770747193.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20APTAMIL%202%20_2x600_x3_1770747193.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "latte-di-proseguimento-polvere",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LATTE DI PROSEGUIMENTO IN POLVERE",
+  "operatore": "Danone Nutricia Spa Società benefit",
+  "lotti": [
+   "101480173 - 101486762"
+  ],
+  "marchio_identificazione": "NA",
+  "produttore": "NUTRICIA Zakłady Produkcyjne Sp. z o. o",
+  "sede_stabilimento": "Marka z Jemielnicy 1, 45-952 Opole, Polska",
+  "scadenza": "19.11.2026 - 03.01.2027",
+  "peso_volume": "1200g (2x600g)",
+  "motivo_esteso": "Adeguamento alle nuove linee guida EFSA sui limiti di cereulide.",
+  "avvertenze": "Si avvisano i consumatori di non consumare il prodotto con i lotti sopra indicati Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/02/2026 Marchio del prodotto: APTAMIL 2 (2x600g)x3"
+  },
+  "testo": "RICHIAMO\nData: 06/02/2026 Marchio del prodotto: APTAMIL 2 (2x600g)x3\nDenominazione di vendita: LATTE DI PROSEGUIMENTO IN POLVERE\nNome o ragione sociale dell'OSA Danone Nutricia Spa Società benefit\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 101480173 - 101486762\nMarchio di identificazione dello stabilimento/del produttore: NA\nNome del produttore: NUTRICIA Zakłady Produkcyjne Sp. z o. o\nSede dello stabilimento: Marka z Jemielnicy 1, 45-952 Opole, Polska\nData di scadenza o termine minimo di conservazione: 19.11.2026 - 03.01.2027\nDescrizione peso/volume unità di vendita: 1200g (2x600g)\nMotivo del richiamo:\nAdeguamento alle nuove linee guida EFSA sui limiti di cereulide.\nAvvertenze:\nSi avvisano i consumatori di non consumare il prodotto con i lotti sopra indicati\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:22:58+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:22:58+00:00"
+}

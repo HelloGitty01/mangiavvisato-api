@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-pizza-julienne-1500g/",
+ "titolo": "Mozzarella per pizza Julienne 1500g",
+ "data_pubblicazione": "2025-08-28",
+ "marca": "Latteria Soligo sac",
+ "denominazione": "Mozzarella per pizza Julienne 1500g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Mozzarella%20Soligo%20Julienne_1761208502.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Mozzarella Soligo Julienne_1761208502.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Mozzarella%20Soligo%20Julienne_1761208502.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-pizza-julienne-1500g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:37:04+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:37:04+00:00"
+}

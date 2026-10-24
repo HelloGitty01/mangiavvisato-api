@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-500x10/",
+ "titolo": "SEMI DI CHIA 500x10",
+ "data_pubblicazione": "2026-03-20",
+ "marca": "LA CONSERVIERA SRL",
+ "denominazione": "SEMI DI CHIA 500x10",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20chia%20da%20spedire_1774021366.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo chia da spedire_1774021366.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20chia%20da%20spedire_1774021366.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-chia-500x10",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI CHIA GR 500X10",
+  "operatore": "LA CONSERVIERA SRL",
+  "lotti": [
+   "25C0955ARV33"
+  ],
+  "produttore": "BERNARDI CORRADO SRL",
+  "sede_stabilimento": "CENTALLO (CN)",
+  "scadenza": "07/08/2027",
+  "peso_volume": "GR. 500",
+  "motivo_esteso": "SUPERAMENTO LIMITE AFLATOSSINE - LOTTO 25C0955ARV33",
+  "avvertenze": "ATTIVARE LA PROCEDUTA DI RICHIAMO DAL MERCATO LA MERCE NON DEVE ESSERE VENDUTA NE' CONSUMATA BENSI' RESA AL FORNITORE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "18/03/2026 Marchio del prodotto: LA CONSERVIERA SRL",
+   "commercializzato": "LA CONSERVIERA SRL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 18/03/2026 Marchio del prodotto: LA CONSERVIERA SRL\nDenominazione di vendita:SEMI DI CHIA GR 500X10\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: LA CONSERVIERA SRL\nLotto di produzione: 25C0955ARV33\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BERNARDI CORRADO SRL\nSede dello stabilimento: CENTALLO (CN)\nData di scadenza o termine minimo di conservazione: 07/08/2027\nDescrizione peso/volume unità di vendita: GR. 500\nMotivo del richiamo:\nSUPERAMENTO LIMITE AFLATOSSINE - LOTTO 25C0955ARV33\nAvvertenze:\nATTIVARE LA PROCEDUTA DI RICHIAMO DAL MERCATO\nLA MERCE NON DEVE ESSERE VENDUTA NE' CONSUMATA\nBENSI' RESA AL FORNITORE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:19:51+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:19:51+00:00"
+}

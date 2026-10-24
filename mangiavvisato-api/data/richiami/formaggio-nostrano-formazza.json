@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-nostrano-formazza/",
+ "titolo": "FORMAGGIO NOSTRANO FORMAZZA",
+ "data_pubblicazione": "2026-08-31",
+ "marca": "Formazza",
+ "denominazione": "FORMAGGIO NOSTRANO FORMAZZA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-nostrano-formazza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO NOSTRANO FORMAZZA Nome o ragione sociale BERTOLINO S.R.L. dell'OSA a nome del quale il VIA DELLA TECNICA, 4 – 28844 VILLADOSSOLA (VB) prodotto è commercializzato",
+  "lotti": [
+   "12/04/26 – 14/04/26 – 15/04/26 – 18/04/26 LOTTO 2428"
+  ],
+  "marchio_identificazione": "IT 01 844",
+  "produttore": "FORMAZZA AGRICOLA - SOCIETA AGRICOLA COOPERATIVA",
+  "sede_stabilimento": "FRAZ. VALDO, 36 – FORMAZZA (VB)",
+  "scadenza": "VEDI ETICHETTA",
+  "peso_volume": "7,5/8 KG CIRCA",
+  "motivo_esteso": "PRESENZA DI ESCHERICHIA COLI STEC",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO. RICONSEGNARLO AL PUNTO VENDITA DOVE È STATO ACQUISTATO. Inserire immagine due",
+  "campi_extra": {
+   "Data": "27/08/2026 Marchio del prodotto: FORMAZZA"
+  },
+  "testo": "RICHIAMO\nData: 27/08/2026 Marchio del prodotto: FORMAZZA\nDenominazione di vendita: FORMAGGIO NOSTRANO FORMAZZA\nNome o ragione sociale BERTOLINO S.R.L.\ndell'OSA a nome del quale il VIA DELLA TECNICA, 4 – 28844 VILLADOSSOLA (VB)\nprodotto è\ncommercializzato:\nLotto di produzione: 12/04/26 – 14/04/26 – 15/04/26 – 18/04/26 LOTTO 2428\nMarchio di identificazione dello stabilimento/del produttore: IT 01 844\nNome del produttore: FORMAZZA AGRICOLA - SOCIETA AGRICOLA COOPERATIVA\nSede dello stabilimento: FRAZ. VALDO, 36 – FORMAZZA (VB)\nData di scadenza o termine minimo di conservazione VEDI ETICHETTA\nDescrizione peso/volume unità di vendita: 7,5/8 KG CIRCA\nMotivo del richiamo:\nPRESENZA DI ESCHERICHIA COLI STEC\nAvvertenze:\nNON CONSUMARE IL PRODOTTO.\nRICONSEGNARLO AL PUNTO VENDITA DOVE È STATO ACQUISTATO.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:02:27+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:02:27+00:00"
+}

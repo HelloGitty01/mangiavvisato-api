@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-pistacchio/",
+ "titolo": "Farina di Pistacchio",
+ "data_pubblicazione": "2026-02-13",
+ "marca": "Belbake",
+ "denominazione": "Farina di Pistacchio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2%20_3_%20_2__1770996859.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 4 _ MODELLO_DI_RICHIAMO mod v2 _3_ _2__1770996859.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2%20_3_%20_2__1770996859.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-pistacchio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "EAN": "4056489795193"
+  },
+  "testo": "Allegato 4\n09/02/2026 Belbake\nFarina di Pistacchio\nLidl Italia s.r.l. a socio unico\nL1025287\n-\nGustibus Alimentari\nContrada Milocca. Z.I Dittaino, 94010 Assoro (EN)\n31/10/2026\n100 g\nA seguito di un’analisi svolta in autocontrollo è stata riscontrata la presenza di Salmonella\nProdotto non idoneo al consumo. Si invitano tali consumatori a non consumarlo e a riportarlo al punto vendita per\nil rimborso.\nEAN: 4056489795193"
+ },
+ "prima_rilevazione": "2026-10-24T22:22:17+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:22:17+00:00"
+}

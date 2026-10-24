@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-olive-e-mandorle/",
+ "titolo": "Crema di olive e mandorle",
+ "data_pubblicazione": "2026-05-15",
+ "marca": "Italiamo",
+ "denominazione": "Crema di olive e mandorle",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Allegato%203%20_%20Modello%20di%20Richiamo%20mod.%20_v4_%20_1__1778855680.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_Allegato 3 _ Modello di Richiamo mod. _v4_ _1__1778855680.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Allegato%203%20_%20Modello%20di%20Richiamo%20mod.%20_v4_%20_1__1778855680.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crema-di-olive-e-mandorle",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "EAN": "20530235"
+  },
+  "testo": "14.05.26 Italiamo\nCrema di olive e mandorle\nLidl Italia\nL244R\nSimens Alimentare Srl\nvia F. Baracca 1 , S. Martino di Lupari (PD).\n01.09.28\n190g\nPossibile non conformità microbiologica per presenza di Clostridium botulinum - analisi\nepidemiologiche in corso.\nEAN: 20530235\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:15:41+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:15:41+00:00"
+}

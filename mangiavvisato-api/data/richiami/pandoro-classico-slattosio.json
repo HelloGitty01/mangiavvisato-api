@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pandoro-classico-slattosio/",
+ "titolo": "PANDORO CLASSICO S/LATTOSIO",
+ "data_pubblicazione": "2026-01-02",
+ "marca": "NOVALDO",
+ "denominazione": "PANDORO CLASSICO S/LATTOSIO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20richiamo%20classico%20Novaldo_1767383691.pdf",
+ "allegati": [
+  {
+   "titolo": "1 richiamo classico Novaldo_1767383691.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20richiamo%20classico%20Novaldo_1767383691.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pandoro-classico-slattosio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANDORO CLASSICO S/LATTOSIO",
+  "operatore": "ZERO+4 SRL - DESIO (MB)",
+  "lotti": [
+   "vari"
+  ],
+  "produttore": "ZERO+4 SRL",
+  "sede_stabilimento": "via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)",
+  "scadenza": "05-03-2026",
+  "peso_volume": "500 g",
+  "motivo_esteso": "presenza corpi estranei (residui di rivestimento PTFE stampo di cottura)",
+  "campi_extra": {
+   "Data": "31/12/2025 Marchio del prodotto: NOVALDO"
+  },
+  "testo": "RICHIAMO\nData: 31/12/2025 Marchio del prodotto: NOVALDO\nDenominazione di vendita:PANDORO CLASSICO S/LATTOSIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ZERO+4 SRL - DESIO (MB)\ncommercializzato:\nLotto di produzione: vari\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ZERO+4 SRL\nSede dello stabilimento: via Lavoratori Autobianchi 1/15 - 20823 Desio (MB)\nData di scadenza o termine minimo di conservazione: 05-03-2026\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\npresenza corpi estranei (residui di rivestimento PTFE stampo di cottura)\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-24T22:27:01+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:27:01+00:00"
+}

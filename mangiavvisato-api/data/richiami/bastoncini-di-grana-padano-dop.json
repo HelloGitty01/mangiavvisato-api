@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-di-grana-padano-dop/",
+ "titolo": "Bastoncini di Grana Padano DOP",
+ "data_pubblicazione": "2026-02-28",
+ "marca": "Maestri Formaggiai",
+ "denominazione": "Bastoncini di Grana Padano DOP",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7.%20Modulo%20di%20Richiamo_27.02.2026_1772301903.pdf",
+ "allegati": [
+  {
+   "titolo": "7. Modulo di Richiamo_27.02.2026_1772301903.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/7.%20Modulo%20di%20Richiamo_27.02.2026_1772301903.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bastoncini-di-grana-padano-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio Grana Padano DOP",
+  "operatore": "Colla S.p.A.",
+  "lotti": [
+   "0302 - 0501"
+  ],
+  "marchio_identificazione": "IT 08 29 CE",
+  "produttore": "Colla S.p.A.",
+  "sede_stabilimento": "Via S. Anna, 10 - 29010 Cadeo (PC)",
+  "scadenza": "13/04/26 26/04/26",
+  "peso_volume": "Vaschetta 200g",
+  "motivo_esteso": "A titolo precauzionale, si procede a richiamo del prodotto per potenziale presenza di corpi estranei.",
+  "avvertenze": "Si pregano i consumatori che avessero acquistato il prodotto con i lotti segnalati (lotto 0302 TMC 13/04/2026 e lotto 0501 TMC 26/04/2026), di restituirlo presso il punto vendita. In caso di necessità, è possibile contattare l'azienda al seguente numero: +39 334 3358376 oppure tramite e-mail al seguente indirizzo: uff.qualita@collaspa.it",
+  "campi_extra": {
+   "Data": "27/02/2026 Marchio del prodotto: Maestri Formaggiai",
+   "tramite e-mail al seguente indirizzo": "uff.qualita@collaspa.it"
+  },
+  "testo": "RICHIAMO\nData: 27/02/2026 Marchio del prodotto: Maestri Formaggiai\nDenominazione di vendita:Formaggio Grana Padano DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Colla S.p.A.\ncommercializzato:\nLotto di produzione: 0302 - 0501\nMarchio di identificazione dello stabilimento/del produttore: IT 08 29 CE\nNome del produttore: Colla S.p.A.\nSede dello stabilimento: Via S. Anna, 10 - 29010 Cadeo (PC)\nData di scadenza o termine minimo di conservazione: 13/04/26 26/04/26\nDescrizione peso/volume unità di vendita: Vaschetta 200g\nMotivo del richiamo:\nA titolo precauzionale, si procede a richiamo del prodotto per potenziale presenza di corpi estranei.\nAvvertenze:\nSi pregano i consumatori che avessero acquistato il prodotto con i lotti segnalati (lotto 0302 TMC\n13/04/2026 e lotto 0501 TMC 26/04/2026), di restituirlo presso il punto vendita.\nIn caso di necessità, è possibile contattare l'azienda al seguente numero: +39 334 3358376 oppure\ntramite e-mail al seguente indirizzo: uff.qualita@collaspa.it"
+ },
+ "prima_rilevazione": "2026-10-24T22:20:45+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:20:45+00:00"
+}

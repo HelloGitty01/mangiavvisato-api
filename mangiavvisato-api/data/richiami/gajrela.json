@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gajrela/",
+ "titolo": "GAJRELA",
+ "data_pubblicazione": "2026-04-02",
+ "marca": "PUNJABI SWEET SHOP",
+ "denominazione": "GAJRELA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%201_1775122801.pdf",
+ "allegati": [
+  {
+   "titolo": "CDR 1_1775122801.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CDR%201_1775122801.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gajrela",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "o se del caso tutti i lotti eventualmente riportati\nassente\n500 GR"
+ },
+ "prima_rilevazione": "2026-10-24T22:18:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:18:18+00:00"
+}

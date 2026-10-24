@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-al-latte-di-riso-kosher/",
+ "titolo": "Cioccolato al latte di riso Kosher",
+ "data_pubblicazione": "2026-04-28",
+ "marca": "\"Dolci per intolleranti\"",
+ "denominazione": "Cioccolato al latte di riso Kosher",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_compressed_1777387321.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello_compressed_1777387321.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_compressed_1777387321.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cioccolato-al-latte-di-riso-kosher",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CIOCCOLATO AL LATTE DI RISO KOSHER",
+  "operatore": "NICOLA FRAGASSO",
+  "lotti": [
+   "00025"
+  ],
+  "marchio_identificazione": "DOLCIPERINTOLLERANTI",
+  "produttore": "NICOLA FRAGASSO",
+  "sede_stabilimento": "PIAZZA MAZZINI, 37/40 - TRANI (BT) dal 02/09/2026 al 21/09/2026",
+  "peso_volume": "500 - 300 - 220 g in formati vari",
+  "motivo_esteso": "Presenza di lattosio e proteine del latte in alimento commercializzato come \"senza glutine senza lattosio e senza proteine del latte\"",
+  "avvertenze": "Allergici ed intolleranti non devono consumare l'alimento. Riconsegnare o rendere il prodotto con lotto 00025 dove è stato effettuato l'acquisto",
+  "campi_extra": {
+   "Data": "22/04/2026 Marchio del prodotto: DOLCIPERINTOLLERANTI"
+  },
+  "testo": "RICHIAMO\nData: 22/04/2026 Marchio del prodotto: DOLCIPERINTOLLERANTI\nDenominazione di vendita:CIOCCOLATO AL LATTE DI RISO KOSHER\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NICOLA FRAGASSO\ncommercializzato:\nLotto di produzione: 00025\nMarchio di identificazione dello stabilimento/del produttore: DOLCIPERINTOLLERANTI\nNome del produttore: NICOLA FRAGASSO\nSede dello stabilimento: PIAZZA MAZZINI, 37/40 - TRANI (BT)\ndal 02/09/2026 al 21/09/2026\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 500 - 300 - 220 g in formati vari\nMotivo del richiamo:\nPresenza di lattosio e proteine del latte in alimento commercializzato come \"senza glutine senza lattosio e\nsenza proteine del latte\"\nAvvertenze:\nAllergici ed intolleranti non devono consumare l'alimento. Riconsegnare o rendere il prodotto con lotto\n00025 dove è stato effettuato l'acquisto"
+ },
+ "prima_rilevazione": "2026-10-24T22:16:40+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:40+00:00"
+}

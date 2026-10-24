@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/assortimento-3-raclette-540-gr-x-4/",
+ "titolo": "ASSORTIMENTO 3 RACLETTE 540 GR X 4",
+ "data_pubblicazione": "2025-02-27",
+ "marca": "JEAN PERRIN",
+ "denominazione": "ASSORTIMENTO 3 RACLETTE 540 GR X 4",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_RACLETTE_27_2_25_1761206550.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_RACLETTE_27_2_25_1761206550.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_RACLETTE_27_2_25_1761206550.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "assortimento-3-raclette-540-gr-x-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ASSORTIMENTO 3 RACLETTE 540 GR",
+  "operatore": "JEAN PERRIN",
+  "lotti": [
+   "007"
+  ],
+  "marchio_identificazione": "FR25-155-001 CE",
+  "produttore": "JEAN PERRIN",
+  "sede_stabilimento": "18 ZONE ARTISANALE 25330 CLERON FRANCIA",
+  "scadenza": "17-03-2025",
+  "peso_volume": "540 GR",
+  "motivo_esteso": "RITIRO RICHIAMO PREVENTIVO A SEGUITO DI INDAGINE SU UN CASO DI SINDROME EMOLITICO EUREMICA (SHU) - FRANCIA",
+  "avvertenze": "DISTRUZIONE DEL PRODOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/02/2025 Marchio del prodotto: JEAN PERRIN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 21/02/2025 Marchio del prodotto: JEAN PERRIN\nDenominazione di vendita:ASSORTIMENTO 3 RACLETTE 540 GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è JEAN PERRIN\ncommercializzato:\nLotto di produzione: 007\nMarchio di identificazione dello stabilimento/del produttore: FR25-155-001 CE\nNome del produttore: JEAN PERRIN\nSede dello stabilimento: 18 ZONE ARTISANALE 25330 CLERON FRANCIA\nData di scadenza o termine minimo di conservazione: 17-03-2025\nDescrizione peso/volume unità di vendita: 540 GR\nMotivo del richiamo:\nRITIRO RICHIAMO PREVENTIVO A SEGUITO DI INDAGINE SU UN CASO DI SINDROME EMOLITICO\nEUREMICA (SHU) - FRANCIA\nAvvertenze:\nDISTRUZIONE DEL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T22:48:20+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:48:20+00:00"
+}

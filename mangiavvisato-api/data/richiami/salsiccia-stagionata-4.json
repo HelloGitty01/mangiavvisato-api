@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-4/",
+ "titolo": "SALSICCIA STAGIONATA",
+ "data_pubblicazione": "2025-06-13",
+ "marca": "DAVID SALUMI SRL",
+ "denominazione": "SALSICCIA STAGIONATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20David%20Salumi%202_1761207606.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO David Salumi 2_1761207606.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20David%20Salumi%202_1761207606.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-stagionata-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSICCIA STAGIONATA",
+  "operatore": "DAVID SALUMI S.R.L.",
+  "lotti": [
+   "02.04.25B"
+  ],
+  "marchio_identificazione": "B1R3X",
+  "produttore": "DAVID SALUMI S.R.L.",
+  "sede_stabilimento": "VIA IV NOVEMBRE, 147 05010 SAN VENANZO (TR)",
+  "scadenza": "11-10-2025",
+  "peso_volume": "CONFEZIONE ATP KG 2,50 DA VENDERE SFUSE E S.V. KG 0,30",
+  "motivo_esteso": "PRESENZA SALMONELLA INFANTIS",
+  "avvertenze": "SI CHIEDE DI NON CONSUMARE IL PRODOTTO E RESTITUIRE LE CONFEZIONI NON ANCORA CONSUMATE PRESSO IL PUNTO VENDITA DOVE SONO STATE ACQUISTATE.",
+  "campi_extra": {
+   "Data": "13/06/2025 Marchio del prodotto: DAVID SALUMI S.R.L."
+  },
+  "testo": "RICHIAMO\nData: 13/06/2025 Marchio del prodotto: DAVID SALUMI S.R.L.\nDenominazione di vendita: SALSICCIA STAGIONATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DAVID SALUMI S.R.L.\ncommercializzato:\nLotto di produzione: 02.04.25B\nMarchio di identificazione dello stabilimento/del produttore: B1R3X\nNome del produttore: DAVID SALUMI S.R.L.\nSede dello stabilimento: VIA IV NOVEMBRE, 147 05010 SAN VENANZO (TR)\nData di scadenza o termine minimo di conservazione: 11-10-2025\nDescrizione peso/volume unità di vendita: CONFEZIONE ATP KG 2,50 DA VENDERE SFUSE E S.V. KG 0,30\nMotivo del richiamo:\nPRESENZA SALMONELLA INFANTIS\nAvvertenze:\nSI CHIEDE DI NON CONSUMARE IL PRODOTTO E RESTITUIRE LE CONFEZIONI NON ANCORA CONSUMATE\nPRESSO IL PUNTO VENDITA DOVE SONO STATE ACQUISTATE."
+ },
+ "prima_rilevazione": "2026-10-24T22:41:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:41:32+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capreggio-0/",
+ "titolo": "Capreggio",
+ "data_pubblicazione": "2026-09-08",
+ "marca": "CAPRISS",
+ "denominazione": "Capreggio",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20capreggio%20scad%2001.08.26_1788887728.pdf",
+ "allegati": [
+  {
+   "titolo": "revoca richiamo capreggio scad 01.08.26_1788887728.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20capreggio%20scad%2001.08.26_1788887728.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "capreggio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAPREGGIO",
+  "operatore": "CAPRISS società s.a.s.",
+  "lotti": [
+   "15/06/2026"
+  ],
+  "marchio_identificazione": "IT N 275 U CE",
+  "produttore": "CAPRISS",
+  "sede_stabilimento": "strada bianca 381, Alseno (PC)",
+  "scadenza": "01-08-2026",
+  "peso_volume": "300 g",
+  "motivo_esteso": "Rilevata presenza di STEC (shiga tossina escherichia coli)",
+  "avvertenze": "Non consumare. Restituire il prodotto al punto vendita.",
+  "campi_extra": {
+   "Data": "08/09/2026 Marchio del prodotto: CAPRISS"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 08/09/2026 Marchio del prodotto: CAPRISS\nDenominazione di vendita:CAPREGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAPRISS società s.a.s.\ncommercializzato:\nLotto di produzione: 15/06/2026\nMarchio di identificazione dello stabilimento/del produttore: IT N 275 U CE\nNome del produttore: CAPRISS\nSede dello stabilimento: strada bianca 381, Alseno (PC)\nData di scadenza o termine minimo di conservazione: 01-08-2026\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nRilevata presenza di STEC (shiga tossina escherichia coli)\nAvvertenze:\nNon consumare. Restituire il prodotto al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:01:46+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:01:46+00:00"
+}

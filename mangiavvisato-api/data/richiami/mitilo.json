@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitilo/",
+ "titolo": "Mitilo",
+ "data_pubblicazione": "2025-10-27",
+ "marca": "Prodotto l' Acquachiara srl",
+ "denominazione": "Mitilo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20mitili%20lotto%20n.%20B4122_1761571518.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo mitili lotto n. B4122_1761571518.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20mitili%20lotto%20n.%20B4122_1761571518.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mitilo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:32:16+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:32:16+00:00"
+}

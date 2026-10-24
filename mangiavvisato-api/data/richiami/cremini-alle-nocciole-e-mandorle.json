@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremini-alle-nocciole-e-mandorle/",
+ "titolo": "Cremini alle nocciole e mandorle",
+ "data_pubblicazione": "2025-01-23",
+ "marca": "Majani - sfuso con incarto anonimo",
+ "denominazione": "Cremini alle nocciole e mandorle",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino%20Majani%20Sfuso%20_A_1761206263.pdf",
+ "allegati": [
+  {
+   "titolo": "Cremino Majani Sfuso _A_1761206263.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cremino%20Majani%20Sfuso%20_A_1761206263.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cremini-alle-nocciole-e-mandorle",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cremini alle nocciole e mandorle",
+  "operatore": "MAJANI 1796 S.p.A.",
+  "lotti": [
+   "P1S6W",
+   "P1TNX"
+  ],
+  "produttore": "MAJANI 1796 S.p.A.",
+  "sede_stabilimento": "Via G. Brodolini, 16 - Loc. Crespellano - 40053 VALSAMOGGIA (BO)",
+  "scadenza": "vedi avvertenze",
+  "peso_volume": "Sfuso (a pezzo singolo), cremino da 10g cca",
+  "motivo_esteso": "Precauzionale per presenza di glutine oltre i 20 ppm Prodotto dichiarato \"senza glutine\". I lotti indicati contengono tracce di glutine",
+  "campi_extra": {
+   "Data": "21/01/2025 Marchio del prodotto: Majani - sfuso con incarto anonimo"
+  },
+  "testo": "RICHIAMO\nData: 21/01/2025 Marchio del prodotto: Majani - sfuso con incarto anonimo\nDenominazione di vendita:Cremini alle nocciole e mandorle\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAJANI 1796 S.p.A.\ncommercializzato:\nLotto di produzione: P1S6W, P1TNX\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MAJANI 1796 S.p.A.\nSede dello stabilimento: Via G. Brodolini, 16 - Loc. Crespellano - 40053 VALSAMOGGIA (BO)\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: Sfuso (a pezzo singolo), cremino da 10g cca\nMotivo del richiamo:\nPrecauzionale per presenza di glutine oltre i 20 ppm\nProdotto dichiarato \"senza glutine\". I lotti indicati contengono tracce di glutine\nAvvertenze:\nLOTTO P1S6W – TMC 30/09/2026\nLOTTO P1TNX – TMC 30/09/2026"
+ },
+ "prima_rilevazione": "2026-10-24T22:51:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:51:03+00:00"
+}

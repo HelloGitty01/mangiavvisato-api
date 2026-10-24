@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snep-crockis/",
+ "titolo": "SNEP CROCKIS",
+ "data_pubblicazione": "2025-03-22",
+ "marca": "SNEP SPA",
+ "denominazione": "SNEP CROCKIS",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20regione1_1_1761206676.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_20171116 regione1_1_1761206676.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20regione1_1_1761206676.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "snep-crockis",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:46:42+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:46:42+00:00"
+}

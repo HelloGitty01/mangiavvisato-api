@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-di-cat-0/",
+ "titolo": "Uova fresche di Cat. A",
+ "data_pubblicazione": "2026-07-15",
+ "marca": "Avicola Emiliana",
+ "denominazione": "Uova fresche di Cat. A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Avicola%20Emiliana_1784126393.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo Avicola Emiliana_1784126393.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Avicola%20Emiliana_1784126393.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-di-cat-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:06:27+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:06:27+00:00"
+}

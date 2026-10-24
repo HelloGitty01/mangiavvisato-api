@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-da-latte-del-mugello-bio/",
+ "titolo": "Mozzarella da latte del Mugello BIO",
+ "data_pubblicazione": "2026-04-23",
+ "marca": "Amù - amore bio",
+ "denominazione": "Mozzarella da latte del Mugello BIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Ministero_Mozz.Am_1776954908.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_Ministero_Mozz.Am_1776954908.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Ministero_Mozz.Am_1776954908.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-da-latte-del-mugello-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T22:16:53+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:16:53+00:00"
+}

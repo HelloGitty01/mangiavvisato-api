@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-scottona-200gr/",
+ "titolo": "Tartare scottona 200gr",
+ "data_pubblicazione": "2026-02-20",
+ "marca": "INDAL Srl - Montichiari",
+ "denominazione": "Tartare scottona 200gr",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_%20tartare%20scottona_1771602079.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo _ tartare scottona_1771602079.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_%20tartare%20scottona_1771602079.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tartare-scottona-200gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tartare scottona (200gr a confezione)",
+  "operatore": "Indal srl",
+  "lotti": [
+   "Z0350102"
+  ],
+  "marchio_identificazione": "Indal srl",
+  "produttore": "Indal srl",
+  "sede_stabilimento": "Via Felice Cavallotti, 282 - 25018 Montichiari (BS)",
+  "scadenza": "23-02-2026",
+  "peso_volume": "200gr a confezione",
+  "motivo_esteso": "presenza di Listeria Monocytogenes <10ufc/gr",
+  "avvertenze": "non consumare il prodotto e riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "18/02/2026 Marchio del prodotto: Indal srl"
+  },
+  "testo": "RICHIAMO\nData: 18/02/2026 Marchio del prodotto: Indal srl\nDenominazione di vendita:Tartare scottona (200gr a confezione)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Indal srl\ncommercializzato:\nLotto di produzione: Z0350102\nMarchio di identificazione dello stabilimento/del produttore: Indal srl\nNome del produttore: Indal srl\nSede dello stabilimento: Via Felice Cavallotti, 282 - 25018 Montichiari (BS)\nData di scadenza o termine minimo di conservazione: 23-02-2026\nDescrizione peso/volume unità di vendita: 200gr a confezione\nMotivo del richiamo:\npresenza di Listeria Monocytogenes <10ufc/gr\nAvvertenze:\nnon consumare il prodotto e riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-24T22:21:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:21:03+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coltello-tavola-exagona-ma-maison-6-pz/",
+ "titolo": "COLTELLO TAVOLA EXAGONA MA MAISON 6 PZ",
+ "data_pubblicazione": "2026-04-09",
+ "marca": "ABERT SPA",
+ "denominazione": "COLTELLO TAVOLA EXAGONA MA MAISON 6 PZ",
+ "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_Coltelli%20tavola%20EXAGONA%20MA%20MAISON_LP%20OMPA006972_1775754618.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_Coltelli tavola EXAGONA MA MAISON_LP OMPA006972_1775754618.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_Coltelli%20tavola%20EXAGONA%20MA%20MAISON_LP%20OMPA006972_1775754618.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "coltello-tavola-exagona-ma-maison-6-pz",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "COLTELLO TAVOLA EXAGONA MA MAISON 6 PZ",
+  "operatore": "ABERT SPA",
+  "lotti": [
+   "LP: OMPA006972"
+  ],
+  "marchio_identificazione": "ABERT SPA",
+  "produttore": "ABERT SPA",
+  "sede_stabilimento": "Via Don Primo Mazzolari, 17 - 25050 Passirano (BS) - Italy",
+  "scadenza": "N/A",
+  "peso_volume": "N/A",
+  "motivo_esteso": "Le analisi di laboratorio hanno evidenziato una migrazione di cromo superiore ai limiti previsti per i materiali a contatto con alimenti (MOCA) comportando un rischio per la salute del consumatore.",
+  "avvertenze": "Non utilizzare il prodotto e restituire al punto vendita dove verrà effettuato il rimborso o la sostituzione. Si raccomanda di non smaltire il prodotto autonomamente, per consentire una corretta gestione del richiamo secondo le norme vigenti.",
+  "campi_extra": {
+   "Data": "08/04/2026 Marchio del prodotto: MA MAISON"
+  },
+  "testo": "RICHIAMO\nData: 08/04/2026 Marchio del prodotto: MA MAISON\nDenominazione di vendita:COLTELLO TAVOLA EXAGONA MA MAISON 6 PZ\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ABERT SPA\ncommercializzato:\nLotto di produzione: LP: OMPA006972\nMarchio di identificazione dello stabilimento/del produttore: ABERT SPA\nNome del produttore: ABERT SPA\nSede dello stabilimento: Via Don Primo Mazzolari, 17 - 25050 Passirano (BS) - Italy\nData di scadenza o termine minimo di conservazione: N/A\nDescrizione peso/volume unità di vendita: N/A\nMotivo del richiamo:\nLe analisi di laboratorio hanno evidenziato una migrazione di cromo superiore ai limiti previsti per i\nmateriali a contatto con alimenti (MOCA) comportando un rischio per la salute del consumatore.\nAvvertenze:\nNon utilizzare il prodotto e restituire al punto vendita dove verrà effettuato il rimborso o la sostituzione.\nSi raccomanda di non smaltire il prodotto autonomamente, per consentire una corretta gestione del\nrichiamo secondo le norme vigenti."
+ },
+ "prima_rilevazione": "2026-10-24T22:17:32+00:00",
+ "ultimo_aggiornamento": "2026-10-24T22:17:32+00:00"
+}
