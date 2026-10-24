@@ -1,0 +1,124 @@
+{
+ "componentChunkName": "x",
+ "path": "/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/",
+ "result": {
+  "data": {
+   "extSicurezzaAlimentare": {
+    "nodes": [
+     {
+      "path": {
+       "alias": "/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5",
+       "langcode": "it"
+      },
+      "id": "af115149-6685-55c9-9284-0a6da8fbfaf0",
+      "field_anno": "2026",
+      "dataPubblicazione": "23/10/2026",
+      "field_data_pubblicazione": "23 ottobre 2026",
+      "field_depubblicato": false,
+      "field_marca": "SALUMI EMMEDUE SRL",
+      "field_pericolo": null,
+      "title": "Salsicciotta con finocchio ¿ COD 5",
+      "relationships": {
+       "field_file_allegato": [
+        {
+         "filemime": "application/pdf",
+         "filename": "5_ Modello_richiamo_1792776110.pdf",
+         "filesize": 399077,
+         "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_%20Modello_richiamo_1792776110.pdf"
+        }
+       ],
+       "field_motivo_segnalazione": {
+        "name": "Richiamo per rischio microbiologico"
+       }
+      }
+     },
+     {
+      "path": {
+       "alias": "/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g-0",
+       "langcode": "it"
+      },
+      "id": "bb719098-8c45-5b77-b727-db74d899e9ec",
+      "field_anno": "2026",
+      "dataPubblicazione": "12/08/2026",
+      "field_data_pubblicazione": "12 agosto 2026",
+      "field_depubblicato": false,
+      "field_marca": "Sebastiano Drago",
+      "field_pericolo": null,
+      "title": "FILETTI DI PESCE SPADA ALL¿OLIO D¿OLIVA 200g",
+      "relationships": {
+       "field_file_allegato": [
+        {
+         "filemime": "application/pdf",
+         "filename": "Modello Richiamo_Drago__1786554624.pdf",
+         "filesize": 723408,
+         "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Drago__1786554624.pdf"
+        }
+       ],
+       "field_motivo_segnalazione": {
+        "name": "Richiamo per rischio chimico"
+       }
+      }
+     },
+     {
+      "path": {
+       "alias": "/ext-avviso-sicurezza-alimentare/veggarella-preparazione-gastronomica-vegetale-base-di-soia-e",
+       "langcode": "it"
+      },
+      "id": "9a773581-e1a2-5dd9-9fad-1d576ff521bd",
+      "field_anno": "2026",
+      "dataPubblicazione": "14/10/2026",
+      "field_data_pubblicazione": "14 ottobre 2026",
+      "field_depubblicato": true,
+      "field_marca": "IO VEG",
+      "field_pericolo": null,
+      "title": "VEGGARELLA - Preparazione gastronomica vegetale a base di soia e mandorle",
+      "relationships": {
+       "field_file_allegato": [
+        {
+         "filemime": "application/pdf",
+         "filename": "07102026 Modello_richiamo_Veggarella_compilato_1792411697.pdf",
+         "filesize": 188274,
+         "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/07102026%20Modello_richiamo_Veggarella_compilato_1792411697.pdf"
+        }
+       ],
+       "field_motivo_segnalazione": {
+        "name": "Revoca per scadenza prodotto"
+       }
+      }
+     },
+     {
+      "path": {
+       "alias": "/ext-avviso-sicurezza-alimentare/vitello-tonnato-300-g",
+       "langcode": "it"
+      },
+      "id": "95673e53-a9c4-5b26-ba98-ddbdc8b499d0",
+      "field_anno": "2026",
+      "dataPubblicazione": "19/10/2026",
+      "field_data_pubblicazione": "19 ottobre 2026",
+      "field_depubblicato": true,
+      "field_marca": "A.M.M.53 PASTICCERIA-GASTRONOMIA",
+      "field_pericolo": null,
+      "title": "VITELLO TONNATO 300 G",
+      "relationships": {
+       "field_file_allegato": [
+        {
+         "filemime": "application/pdf",
+         "filename": "Modulo richiamo _ 207203 vitello tonnato 300g _ lotti multipli_1792602567.pdf",
+         "filesize": 1186747,
+         "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20_%20207203%20vitello%20tonnato%20300g%20_%20lotti%20multipli_1792602567.pdf"
+        }
+       ],
+       "field_motivo_segnalazione": {
+        "name": "Richiamo per rischio microbiologico"
+       }
+      }
+     }
+    ]
+   },
+   "avvisiSostanzePericolose": {
+    "nodes": []
+   }
+  }
+ },
+ "staticQueryHashes": []
+}
