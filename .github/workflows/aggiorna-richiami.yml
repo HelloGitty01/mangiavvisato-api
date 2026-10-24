@@ -1,0 +1,60 @@
+name: Aggiorna richiami
+
+on:
+  schedule:
+    # Ogni 3 ore, al minuto 17 (evita l'ora piena, quando GitHub è più carico).
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # per salvare data/richiami.json nel repository
+  pages: write      # per pubblicare su GitHub Pages
+  id-token: write
+
+concurrency:
+  group: aggiorna-richiami
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa dipendenze
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Test
+        run: python -m pytest -q
+
+      - name: Scarica i richiami
+        id: scraper
+        run: python -m scraper.main --new-ids-file new_ids.txt
+
+      - name: Salva i dati nel repository
+        run: |
+          git config user.name "mangiavvisato-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Richiami aggiornati $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4
