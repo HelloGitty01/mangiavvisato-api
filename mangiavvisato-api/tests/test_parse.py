@@ -194,3 +194,67 @@ def test_gatsby_page_data_url_and_slugs():
            '{"alias":"/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-6"},' \
            '{"path":"/it/ext-avviso-sicurezza-alimentare/pop-corn-0/"},{"path":"/it/avviso-sicurezza/altro/"}]}}'
     assert slugs_from_text(text) == ["pop-corn-0", "uova-biologiche-6"]
+
+
+# --- Dati dell'elenco del portale (page-data.json) ---------------------------
+
+def _page_data():
+    return (FIX / "page-data.json").read_text(encoding="utf-8")
+
+
+def test_records_from_page_data():
+    from scraper.discovery import records_from_page_data
+    recs = records_from_page_data(_page_data())
+    assert len(recs) == 4
+    assert "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5/" in recs
+
+
+def test_parse_record_fields_and_repairs():
+    from scraper.discovery import records_from_page_data
+    from scraper.parse import parse_record
+    items = [parse_record(n, u) for u, n in records_from_page_data(_page_data()).items()]
+    a, b, revoca, dep = items
+    assert a["titolo"] == "Salsicciotta con finocchio – COD 5"
+    assert a["data_pubblicazione"] == "2026-10-23"
+    assert a["marca"] == "SALUMI EMMEDUE SRL"
+    assert a["categoria_rischio"] == "microbiologico" and a["tipo"] == "richiamo"
+    assert a["pdf_path"].startswith("/sites/default/files/") and a["pdf_path"].endswith(".pdf")
+    assert b["titolo"] == "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g"
+    assert revoca["tipo"] == "revoca"
+    assert dep["depubblicato"] is True
+
+
+def test_download_pdf_finds_public_prefix():
+    import scraper.main as m
+
+    class R:
+        def __init__(self, content): self.content = content
+
+    class F:
+        calls = []
+        def get(self, url):
+            self.calls.append(url)
+            return R(b"%PDF-1.4 ..." if "/new/sites/" not in url else b"<html>404</html>")
+
+    m._pdf_prefix = None
+    f = F()
+    url, content = m.download_pdf(f, "/sites/default/files/x.pdf")
+    assert url.endswith("www.salute.gov.it/sites/default/files/x.pdf") and content.startswith(b"%PDF")
+    f.calls.clear()
+    m.download_pdf(f, "/sites/default/files/y.pdf")
+    assert len(f.calls) == 1  # il prefisso trovato viene riusato
+    m._pdf_prefix = None
+
+
+def test_store_one_file_per_recall_and_migration(tmp_path):
+    data = tmp_path / "data"
+    data.mkdir()
+    (data / "richiami.json").write_text(json.dumps({"a": {"id": "a", "url": "u/a/", "data_pubblicazione": "2026-01-01"}}), encoding="utf-8")
+    store = Store(data)
+    assert store.has("a")
+    store.upsert({"id": "b", "url": "u/b/", "data_pubblicazione": "2026-02-01"})
+    store.save()
+    assert not (data / "richiami.json").exists()
+    assert sorted(p.name for p in (data / "richiami").iterdir()) == ["a.json", "b.json"]
+    again = Store(data)
+    assert [i["id"] for i in again.sorted_items()] == ["b", "a"]
