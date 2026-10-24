@@ -184,3 +184,13 @@ produttore
     assert d["peso_volume"] == "900 G"
     assert d["marchio_identificazione"] == "AA000657041PEIT"
     assert d["produttore"] == "FERRI S.A.S. DI FERRI PIERO"
+
+
+def test_gatsby_page_data_url_and_slugs():
+    from scraper.discovery import page_data_url, slugs_from_text
+    assert page_data_url("https://www.salute.gov.it/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/") == \
+        "https://www.salute.gov.it/new/page-data/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/page-data.json"
+    text = '{"data":{"nodes":[{"path":"/it/ext-avviso-sicurezza-alimentare/pop-corn-0/"},' \
+           '{"alias":"/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-6"},' \
+           '{"path":"/it/ext-avviso-sicurezza-alimentare/pop-corn-0/"},{"path":"/it/avviso-sicurezza/altro/"}]}}'
+    assert slugs_from_text(text) == ["pop-corn-0", "uova-biologiche-6"]
