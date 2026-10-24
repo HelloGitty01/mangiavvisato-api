@@ -35,6 +35,11 @@ CHALLENGE_MARKERS = (
     "browser validation page",
     "please enable cookies",
     "is using security service for protection",
+    "checking your browser",
+    "just a moment",
+    "verify you are human",
+    "gcore",
+    "ddos protection",
 )
 
 # Tempo massimo di attesa perché la verifica si completi, in secondi.
@@ -52,6 +57,27 @@ def looks_like_challenge(body: bytes | str, content_type: str = "text/html") -> 
         body = body[:8000].decode("utf-8", errors="ignore")
     head = body[:8000].lower()
     return any(marker in head for marker in CHALLENGE_MARKERS)
+
+
+def looks_valid(url: str, body: bytes) -> bool:
+    """Il contenuto è del tipo atteso? Una verifica anti-bot non riconosciuta
+    arriva spesso con stato 200: controllare la forma del contenuto è più
+    affidabile che cercare i testi della pagina di verifica."""
+    path = url.lower().split("?")[0]
+    head = body[:3000].lstrip()
+    if path.endswith(".json"):
+        return head[:1] in (b"{", b"[")
+    if path.endswith((".xml", ".rss")):
+        return b"<rss" in head or b"<feed" in head or b"<rdf" in head
+    if path.endswith(".pdf"):
+        return head.startswith(b"%PDF")
+    return True
+
+
+def describe(body: bytes) -> str:
+    """Inizio del contenuto, leggibile, per il log."""
+    text = body[:200].decode("utf-8", errors="replace")
+    return " ".join(text.split())[:160]
 
 
 def is_challenge(response) -> bool:
@@ -116,10 +142,10 @@ class Fetcher:
         if self._page is None:
             response = self.session.get(url, timeout=config.REQUEST_TIMEOUT)
             time.sleep(self.delay)
-            if not is_challenge(response):
+            if not is_challenge(response) and looks_valid(url, response.content):
                 response.raise_for_status()
                 return response
-            log.info("Pagina di validazione anti-bot su %s", url)
+            log.info("Pagina di validazione anti-bot su %s (inizio della risposta: %s)", url, describe(response.content))
             if not self.use_browser_fallback:
                 raise BlockedError(f"Accesso bloccato dalla protezione anti-bot: {url}")
             self._start_browser()
@@ -215,12 +241,24 @@ class Fetcher:
                     status, headers, body = r.status, r.headers, r.body()
                     ctype = headers.get("content-type", "")
                     last_status = status
-                    if status not in (403, 429, 503) and not looks_like_challenge(body, ctype):
+                    if status == 404:
+                        return SimpleResponse(url, status, headers, body)
+                    if status not in (403, 429, 503) and not looks_like_challenge(body, ctype) and looks_valid(url, body):
                         return SimpleResponse(url, status, headers, body)
                     # Verifica da superare: si apre una pagina HTML del sito e si riprova.
-                    log.info("Verifica anti-bot in corso su %s (tentativo %d)", url, attempt)
+                    log.info(
+                        "Verifica anti-bot in corso su %s (tentativo %d, stato %s, inizio della risposta: %s)",
+                        url, attempt, status, describe(body),
+                    )
                     self._page.goto(config.BASE_URL + "/new/it/", wait_until="domcontentloaded", timeout=60_000)
                     self._wait_challenge_cleared()
+                    # Se la verifica ha testi nuovi non si riconosce la sua fine:
+                    # si aspetta comunque che la pagina abbia finito di caricare.
+                    try:
+                        self._page.wait_for_load_state("networkidle", timeout=15_000)
+                    except Exception:  # noqa: BLE001
+                        pass
+                    self._page.wait_for_timeout(2_000 * attempt)
                     continue
 
                 # Pagine HTML: si legge il DOM dopo che la verifica e il JavaScript
