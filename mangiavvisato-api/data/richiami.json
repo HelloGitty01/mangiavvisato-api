@@ -22,11 +22,11 @@
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "10-uova-fresche-italiane",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Uova Biologiche X10",
-   "operatore": "a nome del quale il prodotto è EcorNaturasì commercializzato",
+   "operatore": "EcorNaturasì",
    "lotti": [
     "1A081026"
    ],
@@ -43,7 +43,7 @@
    "testo": "RICHIAMO\nData: 20/10/2026 Marchio del prodotto: SìEssenziale\nDenominazione di vendita:Uova Biologiche X10\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EcorNaturasì\ncommercializzato:\nLotto di produzione: 1A081026\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: 05-11-2026\nDescrizione peso/volume unità di vendita: confezione da 10 uova\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nPer precauzione non consumare il prodotto e riportarlo presso il punto vendita"
   },
   "prima_rilevazione": "2026-10-24T19:58:03+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:03+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:11+00:00"
  },
  "antipasto-di-verdure-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-di-verdure-sottolio/",
@@ -68,11 +68,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "antipasto-di-verdure-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "ANTIPASTO DI VERDURE SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S DI FERRI PIERO",
    "lotti": [
     "11/09/26"
    ],
@@ -89,7 +89,7 @@
    "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:ANTIPASTO DI VERDURE SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 11/09/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/03/28\nDescrizione peso/volume unità di vendita: 600 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:57:07+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:07+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:26+00:00"
  },
  "asparagi-conditi-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/asparagi-conditi-sottolio/",
@@ -114,11 +114,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "asparagi-conditi-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "ASPARAGI CONDITI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S. DI FERRI PIERO",
    "lotti": [
     "20/05/26"
    ],
@@ -135,7 +135,7 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:ASPARAGI CONDITI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 20/05/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/11/27\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:22+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:22+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:52+00:00"
  },
  "carciofini-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio/",
@@ -160,11 +160,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "carciofini-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "CARCIOFINI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S DI FERRI PIERO",
    "lotti": [
     "08/07/26"
    ],
@@ -181,7 +181,7 @@
    "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:CARCIOFINI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 08/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:29+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:29+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:45+00:00"
  },
  "carciofini-sottolio-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio-0/",
@@ -206,11 +206,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "carciofini-sottolio-0",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "CARCIOFINI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S DI FERRI PIERO",
    "lotti": [
     "08/07/26"
    ],
@@ -227,7 +227,7 @@
    "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:CARCIOFINI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 08/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 900 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:42+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:42+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:32+00:00"
  },
  "cavolo-cappuccio-filetti-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cavolo-cappuccio-filetti-sottolio/",
@@ -252,11 +252,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "cavolo-cappuccio-filetti-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "CAVOLO CAPPUCCIO A FILETTI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S DI FERRI PIERO",
    "lotti": [
     "05/05/26"
    ],
@@ -273,7 +273,7 @@
    "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:CAVOLO CAPPUCCIO A FILETTI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 05/05/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/11/27\nDescrizione peso/volume unità di vendita: 300 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:57:29+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:29+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:06+00:00"
  },
  "fagiolini-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-sottolio/",
@@ -298,11 +298,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "fagiolini-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "FAGIOLINI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S. DI FERRI PIERO",
    "lotti": [
     "01/07/26"
    ],
@@ -319,14 +319,14 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:FAGIOLINI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 01/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:35+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:35+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:38+00:00"
  },
  "filetti-di-tonno-surgelat": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelat/",
-  "titolo": "FILETTI DI TONNO SURGELAT¿",
+  "titolo": "FILETTI DI TONNO SURGELAT",
   "data_pubblicazione": "2026-10-21",
   "marca": "SELEZIONE PIÙ",
-  "denominazione": "FILETTI DI TONNO SURGELAT¿",
+  "denominazione": "FILETTI DI TONNO SURGELAT",
   "motivo": "Richiamo per rischio chimico",
   "categoria_rischio": "chimico",
   "tipo": "richiamo",
@@ -340,17 +340,17 @@
   "campi_pagina": {
    "Data pubblicazione": "21 ottobre 2026",
    "Marca": "SELEZIONE PIÙ",
-   "Denominazione": "FILETTI DI TONNO SURGELAT¿",
+   "Denominazione": "FILETTI DI TONNO SURGELAT",
    "Motivo della segnalazione": "Richiamo per rischio chimico"
   },
   "id": "filetti-di-tonno-surgelat",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "testo": ""
   },
   "prima_rilevazione": "2026-10-24T19:57:36+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:36+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:38+00:00"
  },
  "funghi-misti-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-misti-sottolio/",
@@ -375,11 +375,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "funghi-misti-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "FUNGHI MISTI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S. DI FERRI PIERO",
    "lotti": [
     "17/07/26"
    ],
@@ -396,7 +396,7 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:FUNGHI MISTI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 17/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 300 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:09+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:09+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:05+00:00"
  },
  "funghi-misti-sottolio-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-misti-sottolio-0/",
@@ -421,11 +421,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "funghi-misti-sottolio-0",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "FUNGHI MISTI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S. DI FERRI PIERO",
    "lotti": [
     "17/07/26"
    ],
@@ -442,7 +442,7 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:FUNGHI MISTI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 17/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 300 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:58:16+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:58:16+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:58+00:00"
  },
  "inverno-cavolfiori-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/inverno-cavolfiori-sottolio/",
@@ -467,11 +467,11 @@
    "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
   },
   "id": "inverno-cavolfiori-sottolio",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "INVERNO - CAVOLFIORI SOTT'OLIO",
-   "operatore": "a nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO commercializzato",
+   "operatore": "FERRI S.A.S DI FERRI PIERO",
    "lotti": [
     "06/02/26"
    ],
@@ -488,14 +488,14 @@
    "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:INVERNO - CAVOLFIORI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 06/02/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/08/27\nDescrizione peso/volume unità di vendita: 600 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:57:14+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:14+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:20+00:00"
  },
  "pasta-di-salame-con-finocchio-cod-497": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-finocchio-cod-497/",
-  "titolo": "Pasta di Salame con finocchio ¿ COD 497",
+  "titolo": "Pasta di Salame con finocchio – COD 497",
   "data_pubblicazione": "2026-10-23",
   "marca": "SALUMI EMMEDUE SRL",
-  "denominazione": "Pasta di Salame con finocchio ¿ COD 497",
+  "denominazione": "Pasta di Salame con finocchio – COD 497",
   "motivo": "Richiamo per rischio microbiologico",
   "categoria_rischio": "microbiologico",
   "tipo": "richiamo",
@@ -509,15 +509,15 @@
   "campi_pagina": {
    "Data pubblicazione": "23 ottobre 2026",
    "Marca": "SALUMI EMMEDUE SRL",
-   "Denominazione": "Pasta di Salame con finocchio ¿ COD 497",
+   "Denominazione": "Pasta di Salame con finocchio – COD 497",
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "pasta-di-salame-con-finocchio-cod-497",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Pasta di Salame con finocchio – COD 497",
-   "operatore": "a nome del quale il prodotto è SALUMI EMMEDUE SRL commercializzato",
+   "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
    "lotti": [
     "49322"
    ],
@@ -535,14 +535,14 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Pasta di Salame con finocchio – COD 497\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 0.500KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nSCADENZE: 20/10/26-23/10/26-24/10/26-25/10/26-27/10/26-29/10/26\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:56:53+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:56:53+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:35:38+00:00"
  },
  "pasta-di-salame-con-pepe-cod-771": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-pepe-cod-771/",
-  "titolo": "Pasta di Salame con pepe ¿ COD 771",
+  "titolo": "Pasta di Salame con pepe – COD 771",
   "data_pubblicazione": "2026-10-23",
   "marca": "SALUMI EMMEDUE SRL",
-  "denominazione": "Pasta di Salame con pepe ¿ COD 771",
+  "denominazione": "Pasta di Salame con pepe – COD 771",
   "motivo": "Richiamo per rischio microbiologico",
   "categoria_rischio": "microbiologico",
   "tipo": "richiamo",
@@ -556,15 +556,15 @@
   "campi_pagina": {
    "Data pubblicazione": "23 ottobre 2026",
    "Marca": "SALUMI EMMEDUE SRL",
-   "Denominazione": "Pasta di Salame con pepe ¿ COD 771",
+   "Denominazione": "Pasta di Salame con pepe – COD 771",
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "pasta-di-salame-con-pepe-cod-771",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Pasta di Salame con pepe – COD 771",
-   "operatore": "a nome del quale il prodotto è SALUMI EMMEDUE SRL commercializzato",
+   "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
    "lotti": [
     "49322"
    ],
@@ -581,7 +581,7 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Pasta di Salame con pepe – COD 771\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: 26/10/26\nDescrizione peso/volume unità di vendita: 0.500KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:57:01+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:01+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:35:32+00:00"
  },
  "salsa-tartufata": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata/",
@@ -606,11 +606,11 @@
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "salsa-tartufata",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "SALSA TARTUFATA",
-   "operatore": "a nome del quale il prodotto è DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO commercializzato",
+   "operatore": "DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO",
    "lotti": [
     "L 596"
    ],
@@ -627,7 +627,7 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: BREZZI OLIVIERO TARTUFI\nDenominazione di vendita:SALSA TARTUFATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO\ncommercializzato:\nLotto di produzione: L 596\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BREZZI GIAN PAOLO\nSede dello stabilimento: VIA AMBRA 19/A 58100 GROSSETO\nData di scadenza o termine minimo di conservazione: 31/12/2028\nDescrizione peso/volume unità di vendita: VASO VETRO GR. 500\nMotivo del richiamo:\nSOSPETTA PRESENZA DI TOSSINA BOTULINICA\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
   },
   "prima_rilevazione": "2026-10-24T19:57:49+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:49+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:25+00:00"
  },
  "salsa-tartufata-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata-0/",
@@ -652,11 +652,11 @@
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "salsa-tartufata-0",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "SALSA TARTUFATA",
-   "operatore": "a nome del quale il prodotto è DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO commercializzato",
+   "operatore": "DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO",
    "lotti": [
     "L 2586"
    ],
@@ -673,14 +673,14 @@
    "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: BREZZI OLIVIERO TARTUFI\nDenominazione di vendita:SALSA TARTUFATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO\ncommercializzato:\nLotto di produzione: L 2586\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BREZZI GIAN PAOLO\nSede dello stabilimento: VIA AMBRA 19/A 58100 GROSSETO\nData di scadenza o termine minimo di conservazione: 31/12/2028\nDescrizione peso/volume unità di vendita: VASO VETRO GR. 500\nMotivo del richiamo:\nSOSPETTA PRESENZA DI TOSSINA BOTULINICA\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
   },
   "prima_rilevazione": "2026-10-24T19:57:56+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:56+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:18+00:00"
  },
  "salsicciotta-con-finocchio-cod-442": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-442/",
-  "titolo": "Salsicciotta con finocchio ¿ COD 442",
+  "titolo": "Salsicciotta con finocchio – COD 442",
   "data_pubblicazione": "2026-10-23",
   "marca": "SALUMI EMMEDUE SRL",
-  "denominazione": "Salsicciotta con finocchio ¿ COD 442",
+  "denominazione": "Salsicciotta con finocchio – COD 442",
   "motivo": "Richiamo per rischio microbiologico",
   "categoria_rischio": "microbiologico",
   "tipo": "richiamo",
@@ -694,15 +694,15 @@
   "campi_pagina": {
    "Data pubblicazione": "23 ottobre 2026",
    "Marca": "SALUMI EMMEDUE SRL",
-   "Denominazione": "Salsicciotta con finocchio ¿ COD 442",
+   "Denominazione": "Salsicciotta con finocchio – COD 442",
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "salsicciotta-con-finocchio-cod-442",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Salsicciotta con finocchio – COD 442",
-   "operatore": "a nome del quale il prodotto è SALUMI EMMEDUE SRL commercializzato",
+   "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
    "lotti": [
     "49322"
    ],
@@ -720,14 +720,14 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Salsicciotta con finocchio – COD 442\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 0.350KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nSCADENZE: 30/10/26-01/11/26-04/11/26-06/11/26-08/11/26\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:56:47+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:56:47+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:35:46+00:00"
  },
  "salsicciotta-con-finocchio-cod-5": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-con-finocchio-cod-5/",
-  "titolo": "Salsicciotta con finocchio ¿ COD 5",
+  "titolo": "Salsicciotta con finocchio – COD 5",
   "data_pubblicazione": "2026-10-23",
   "marca": "SALUMI EMMEDUE SRL",
-  "denominazione": "Salsicciotta con finocchio ¿ COD 5",
+  "denominazione": "Salsicciotta con finocchio – COD 5",
   "motivo": "Richiamo per rischio microbiologico",
   "categoria_rischio": "microbiologico",
   "tipo": "richiamo",
@@ -741,15 +741,15 @@
   "campi_pagina": {
    "Data pubblicazione": "23 ottobre 2026",
    "Marca": "SALUMI EMMEDUE SRL",
-   "Denominazione": "Salsicciotta con finocchio ¿ COD 5",
+   "Denominazione": "Salsicciotta con finocchio – COD 5",
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "salsicciotta-con-finocchio-cod-5",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Salsicciotta con finocchio – COD 5",
-   "operatore": "a nome del quale il prodotto è SALUMI EMMEDUE SRL commercializzato",
+   "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
    "lotti": [
     "49322"
    ],
@@ -767,14 +767,14 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Salsicciotta con finocchio – COD 5\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 0.500KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nSCADENZE: 28/10/26-29/10/26-30/10/26-31/10/26-01/11/26-02/11/26-04/11/26-\n05/11/26-06/11/26\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:56:30+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:56:30+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:35:59+00:00"
  },
  "salsicciotta-piccante-cod-7": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsicciotta-piccante-cod-7/",
-  "titolo": "Salsicciotta piccante ¿ COD 7",
+  "titolo": "Salsicciotta piccante – COD 7",
   "data_pubblicazione": "2026-10-23",
   "marca": "SALUMI EMMEDUE SRL",
-  "denominazione": "Salsicciotta piccante ¿ COD 7",
+  "denominazione": "Salsicciotta piccante – COD 7",
   "motivo": "Richiamo per rischio microbiologico",
   "categoria_rischio": "microbiologico",
   "tipo": "richiamo",
@@ -788,15 +788,15 @@
   "campi_pagina": {
    "Data pubblicazione": "23 ottobre 2026",
    "Marca": "SALUMI EMMEDUE SRL",
-   "Denominazione": "Salsicciotta piccante ¿ COD 7",
+   "Denominazione": "Salsicciotta piccante – COD 7",
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "salsicciotta-piccante-cod-7",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "Salsicciotta piccante – COD 7",
-   "operatore": "a nome del quale il prodotto è SALUMI EMMEDUE SRL commercializzato",
+   "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
    "lotti": [
     "49322"
    ],
@@ -814,14 +814,14 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Salsicciotta piccante – COD 7\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 0.500KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nSCADENZE: 24/10/26-29/10/26-01/11/26-04/11/26-05/11/26\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
   },
   "prima_rilevazione": "2026-10-24T19:56:38+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:56:38+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:35:53+00:00"
  },
  "tiramisu-200g": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-200g/",
-  "titolo": "TIRAMISU¿ 200g",
+  "titolo": "TIRAMISÙ 200g",
   "data_pubblicazione": "2026-10-22",
   "marca": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
-  "denominazione": "TIRAMISU¿ 200g",
+  "denominazione": "TIRAMISÙ 200g",
   "motivo": "Richiamo per rischio fisico",
   "categoria_rischio": "fisico",
   "tipo": "richiamo",
@@ -835,20 +835,21 @@
   "campi_pagina": {
    "Data pubblicazione": "22 ottobre 2026",
    "Marca": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
-   "Denominazione": "TIRAMISU¿ 200g",
+   "Denominazione": "TIRAMISÙ 200g",
    "Motivo della segnalazione": "Richiamo per rischio fisico"
   },
   "id": "tiramisu-200g",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "TIRAMISU’ 200g",
-   "operatore": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI a nome del quale il prodotto è commercializzato",
+   "operatore": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
    "lotti": [
     "23OTT26 / 26OTT26"
    ],
    "produttore": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
    "sede_stabilimento": "43051 ALBARETO (PR) LOC. GOTRA CASE PALAZZINA",
+   "scadenza": "23/10/2026 / 26/10/2026",
    "peso_volume": "VASCHETTA 200g",
    "motivo_esteso": "Possibile presenza di corpo estraneo metallico (sferetta di acciaio) all’interno della vaschetta.",
    "avvertenze": "Non consumare il prodotto e riconsegnarlo al punto vendita. Inserire immagine uno: Inserire immagine due",
@@ -859,7 +860,7 @@
    "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\nDenominazione di vendita: TIRAMISU’ 200g\nNome o ragione sociale dell'OSA\nGASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 23OTT26 / 26OTT26\nMarchio di identificazione dello stabilimento/del produttore\nNome del produttore: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\nSede dello stabilimento: 43051 ALBARETO (PR) LOC. GOTRA CASE PALAZZINA\nData di scadenza o termine minimo di conservazione 23/10/2026 / 26/10/2026\nDescrizione peso/volume unità di vendita: VASCHETTA 200g\nMotivo del richiamo:\nPossibile presenza di corpo estraneo metallico (sferetta di acciaio) all’interno della vaschetta.\nAvvertenze:\nNon consumare il prodotto e riconsegnarlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
   },
   "prima_rilevazione": "2026-10-24T19:57:22+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:22+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:36:12+00:00"
  },
  "uova-biologiche-6": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-6/",
@@ -884,11 +885,11 @@
    "Motivo della segnalazione": "Richiamo per rischio microbiologico"
   },
   "id": "uova-biologiche-6",
-  "versione_parser": 2,
+  "versione_parser": 4,
   "fonte": "Ministero della Salute",
   "dettagli": {
    "denominazione_vendita": "uova Biologiche",
-   "operatore": "a nome del quale il prodotto è Olivero Organic Soc.Agr.Coop. commercializzato",
+   "operatore": "Olivero Organic Soc.Agr.Coop.",
    "lotti": [
     "vedi avvertenze"
    ],
@@ -906,6 +907,6 @@
    "testo": "RICHIAMO\nData: 19/10/2026 Marchio del prodotto: Olivero Claudio\nDenominazione di vendita:uova Biologiche\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Olivero Organic Soc.Agr.Coop.\ncommercializzato:\nLotto di produzione: vedi avvertenze\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: sfuso/confezionato\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nNon consumare e restituire al punto vendita. Lotti: 1A280926 - 1A290926 - 1A300926 - 1A011026 -\n1A021026 - 1A031026 - 1A041026 - 1A051026 - 1A061026 - 1A071026 - 1A081026 - 1A091026 -\n1A101026 - 1A111026 - 1A121026 - 1A131026 - 1A141026 con data di scadenza dal 26/10/26 al\n11/11/26"
   },
   "prima_rilevazione": "2026-10-24T19:57:43+00:00",
-  "ultimo_aggiornamento": "2026-10-24T19:57:43+00:00"
+  "ultimo_aggiornamento": "2026-10-24T20:37:31+00:00"
  }
 }
