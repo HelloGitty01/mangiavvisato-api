@@ -258,3 +258,15 @@ def test_store_one_file_per_recall_and_migration(tmp_path):
     assert sorted(p.name for p in (data / "richiami").iterdir()) == ["a.json", "b.json"]
     again = Store(data)
     assert [i["id"] for i in again.sorted_items()] == ["b", "a"]
+
+
+def test_looks_valid_rejects_unexpected_content():
+    from scraper.fetch import looks_valid
+    challenge = b"<!doctype html><html><head><title>Un momento</title></head><body>...</body></html>"
+    assert looks_valid("https://x/page-data.json", b'{"result":{}}')
+    assert not looks_valid("https://x/page-data.json", challenge)
+    assert looks_valid("https://x/RSS.xml", b'<?xml version="1.0"?><rss version="2.0">')
+    assert not looks_valid("https://x/RSS.xml", challenge)
+    assert looks_valid("https://x/m.pdf", b"%PDF-1.7")
+    assert not looks_valid("https://x/m.pdf", challenge)
+    assert looks_valid("https://x/pagina/", challenge)  # per le pagine HTML decide il browser
