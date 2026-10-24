@@ -29,6 +29,29 @@ DETAIL_LABELS = {
 }
 
 
+# Caratteri persi per strada: alcuni avvisi arrivano dal portale con "¿" (o
+# con il carattere di sostituzione "\ufffd") al posto di trattini e lettere
+# accentate. Si ricostruiscono i casi riconoscibili.
+_BROKEN = "[\u00bf\ufffd]"
+_ACCENTS = {"a": "à", "e": "è", "i": "ì", "o": "ò", "u": "ù", "A": "À", "E": "È", "I": "Ì", "O": "Ò", "U": "Ù"}
+
+
+def clean_text(text: str | None) -> str | None:
+    """Ripara i caratteri rovinati e normalizza gli spazi."""
+    if text is None:
+        return None
+    t = text
+    # " ¿ " tra due parole era un trattino: "Salsicciotta ¿ COD 5" -> "Salsicciotta – COD 5"
+    t = re.sub(r"\s" + _BROKEN + r"\s", " – ", t)
+    # vocale + "¿" a fine parola era una vocale accentata: "TIRAMISU¿" -> "TIRAMISÙ", "citta¿" -> "città"
+    t = re.sub(r"([aeiouAEIOU])" + _BROKEN + r"(?=[^\wÀ-ÿ]|$)", lambda m: _ACCENTS[m.group(1)], t)
+    # apostrofo tipografico perso tra due lettere: "dell¿olio" -> "dell'olio"
+    t = re.sub(r"(?<=[A-Za-zÀ-ÿ])" + _BROKEN + r"(?=[A-Za-zÀ-ÿ])", "'", t)
+    # qualunque altro residuo diventa uno spazio
+    t = re.sub(_BROKEN, " ", t)
+    return re.sub(r"[ \t]+", " ", t).strip()
+
+
 def parse_italian_date(text: str | None) -> str | None:
     """'8 agosto 2026' o '08/08/2026' -> '2026-08-08'."""
     if not text:
@@ -74,7 +97,7 @@ def _generic_fields(lines: list[str]) -> dict[str, str]:
         if not value and i + 1 < len(lines) and not GENERIC_LABEL_RE.match(lines[i + 1]):
             value = lines[i + 1]
         if value and label not in fields:
-            fields[label] = value
+            fields[clean_text(label)] = clean_text(value)
     return fields
 
 
@@ -111,8 +134,9 @@ def parse_detail(html: str, url: str) -> dict:
                     value = lines[i + 1]
                 fields[key] = value or None
 
+    fields = {k: clean_text(v) for k, v in fields.items()}
     h1 = main.find("h1")
-    titolo = h1.get_text(" ", strip=True) if h1 else fields["denominazione"]
+    titolo = clean_text(h1.get_text(" ", strip=True)) if h1 else fields["denominazione"]
 
     allegati = _attachments(main, url)
     pdfs = [a for a in allegati if a["url"].lower().split("?")[0].endswith(".pdf")]
@@ -143,25 +167,77 @@ def parse_detail(html: str, url: str) -> dict:
 PDF_FIELDS = {
     "denominazione_vendita": [r"denominazione di vendita"],
     "marchio": [r"marchio del prodotto"],
-    "operatore": [r"nome o ragione sociale dell[' ]?osa", r"ragione sociale"],
-    "marchio_identificazione": [r"marchio di identificazione dello stabilimento", r"marchio di identificazione"],
+    "operatore": [r"nome o ragione sociale dell[' ’]?osa", r"ragione sociale"],
+    "marchio_identificazione": [r"marchio di identificazione"],
     "produttore": [r"nome del produttore"],
     "sede_stabilimento": [r"sede dello stabilimento"],
-    "lotti": [r"lott[oi] di produzione", r"numero di lotto", r"\blott[oi]\b"],
-    "scadenza": [r"data di scadenza o termine minimo di conservazione", r"data di scadenza", r"termine minimo di conservazione"],
-    "peso_volume": [r"descrizione peso/volume unità di vendita", r"peso/volume", r"unità di vendita"],
+    "lotti": [r"lott[oi] di produzione", r"numero di lotto", r"lott[oi]\b"],
+    "scadenza": [r"data di scadenza", r"termine minimo di conservazione"],
+    "peso_volume": [r"descrizione peso", r"peso\s*/\s*volume", r"unità di vendita"],
     "motivo_esteso": [r"motivo del richiamo"],
     "avvertenze": [r"avvertenze"],
 }
 
-def _match_label(line: str) -> tuple[str, str] | None:
-    """Se la riga inizia con un'etichetta nota restituisce (campo, resto della riga)."""
-    low = line.lower()
+# Etichette complete del "Modello standard per RICHIAMO" del Ministero. Le più
+# lunghe vanno a capo nella loro cella e, estraendo il testo, le loro parole si
+# mescolano al valore ("…il prodotto / è FERRI S.A.S. / commercializzato"):
+# conoscendole per intero si riconoscono e si scartano ovunque compaiano.
+FULL_LABELS = {
+    "denominazione_vendita": "denominazione di vendita",
+    "marchio": "marchio del prodotto",
+    "operatore": "nome o ragione sociale dell'osa a nome del quale il prodotto è commercializzato",
+    "marchio_identificazione": "marchio di identificazione dello stabilimento/del produttore",
+    "produttore": "nome del produttore",
+    "sede_stabilimento": "sede dello stabilimento",
+    "lotti": "lotto di produzione",
+    "scadenza": "data di scadenza o termine minimo di conservazione",
+    "peso_volume": "descrizione peso/volume unità di vendita",
+    "motivo_esteso": "motivo del richiamo",
+    "avvertenze": "avvertenze",
+}
+
+
+def _norm(word: str) -> str:
+    return word.lower().replace("’", "'").strip(":;,.()")
+
+
+def _tokens(text: str) -> list[str]:
+    return [t for t in (_norm(w) for w in re.split(r"[\s/]+", text)) if t]
+
+
+_WORD_AT_START = re.compile(r"\s*/?\s*([^\s/]+)")
+
+
+def _consume_label_words(text: str, remaining: list[str]) -> tuple[str, list[str]]:
+    """Toglie dall'inizio del testo le parole che continuano l'etichetta."""
+    remaining = list(remaining)
+    while remaining:
+        m = _WORD_AT_START.match(text)
+        if not m or _norm(m.group(1)) != remaining[0]:
+            break
+        text = text[m.end():]
+        remaining.pop(0)
+    return text.strip().lstrip(":").strip(), remaining
+
+
+def _match_label(line: str) -> tuple[str, str, list[str]] | None:
+    """Se la riga inizia con un'etichetta nota restituisce il campo, il resto
+    della riga e le parole dell'etichetta completa che devono ancora comparire."""
+    low = line.lower().replace("’", "'")
     for key, patterns in PDF_FIELDS.items():
         for pattern in patterns:
-            m = re.match(r"\s*(?:\d+[.)]\s*)?" + pattern + r"[^:]*:?\s*", low)
-            if m:
-                return key, line[m.end():].strip()
+            m = re.match(r"\s*(?:\d+[.)]\s*)?" + pattern, low)
+            if not m:
+                continue
+            matched = _tokens(re.sub(r"^\s*\d+[.)]\s*", "", low[: m.end()]))
+            full = _tokens(FULL_LABELS[key])
+            start = next(
+                (i for i in range(len(full)) if full[i : i + len(matched)] == matched),
+                0,
+            )
+            remaining = full[start + len(matched):]
+            rest, remaining = _consume_label_words(line[m.end():], remaining)
+            return key, rest, remaining
     return None
 
 
@@ -169,27 +245,31 @@ def parse_pdf_text(text: str) -> dict:
     """Estrae i campi del modello di richiamo dal testo del PDF, riga per riga.
 
     Il valore di un campo è il testo dopo l'etichetta più le righe seguenti,
-    fino alla prossima etichetta riconosciuta.
+    fino alla prossima etichetta riconosciuta; le parole dell'etichetta andate
+    a capo vengono scartate.
     """
     result: dict[str, list[str]] = {}
     current: str | None = None
+    remaining: list[str] = []
     for raw in text.splitlines():
         line = re.sub(r"\s+", " ", raw).strip()
         if not line:
             continue
         hit = _match_label(line)
         if hit:
-            current, rest = hit
+            current, rest, remaining = hit
             if current in result:  # campo già visto: si ignorano i duplicati
                 current = None
                 continue
             result[current] = [rest] if rest else []
         elif current:
-            result[current].append(line)
+            line, remaining = _consume_label_words(line, remaining)
+            if line:
+                result[current].append(line)
 
     out: dict[str, object] = {}
     for key, chunks in result.items():
-        value = " ".join(chunks).strip(" :;-")
+        value = clean_text(" ".join(chunks)).strip(" :;-")
         if value:
             out[key] = value
     if "lotti" in out:
@@ -201,7 +281,7 @@ def parse_pdf_text(text: str) -> dict:
         line = re.sub(r"\s+", " ", raw).strip()
         m = GENERIC_LABEL_RE.match(line)
         if m and not _match_label(line) and m.group(2).strip():
-            extra.setdefault(m.group(1).strip(), m.group(2).strip())
+            extra.setdefault(clean_text(m.group(1)), clean_text(m.group(2)))
     if extra:
         out["campi_extra"] = extra
     out["testo"] = text.strip()
