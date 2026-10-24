@@ -196,7 +196,7 @@ class Fetcher:
 
     def _is_file(self, url: str) -> bool:
         path = url.lower().split("?")[0]
-        return path.endswith((".pdf", ".xml", ".rss", ".doc", ".docx", ".xls", ".xlsx", ".zip", ".jpg", ".jpeg", ".png"))
+        return path.endswith((".pdf", ".xml", ".rss", ".json", ".doc", ".docx", ".xls", ".xlsx", ".zip", ".jpg", ".jpeg", ".png"))
 
     def reset_browser(self) -> None:
         """Chiude il browser: la richiesta successiva lo riavvia da capo."""
@@ -253,14 +253,33 @@ class Fetcher:
         self._save_debug(url)
         raise BlockedError(f"Accesso bloccato dalla protezione anti-bot: {url} (ultimo stato HTTP {last_status})")
 
-    def save_snapshot(self, name: str, html: str) -> None:
-        """Salva HTML e screenshot della pagina corrente nella cartella di debug."""
+    def click_text(self, text: str) -> tuple[str, list[str]]:
+        """Clicca l'elemento con quel testo nella pagina corrente e restituisce
+        il nuovo HTML e le richieste dati che il clic ha provocato."""
+        if self._page is None:
+            return "", []
+        before = len(self.data_requests)
+        try:
+            self._page.get_by_text(text, exact=True).first.click(timeout=15_000)
+            try:
+                self._page.wait_for_load_state("networkidle", timeout=10_000)
+            except Exception:  # noqa: BLE001
+                pass
+            self._page.wait_for_timeout(1500)
+            return self._page.content(), self.data_requests[before:]
+        except Exception as exc:  # noqa: BLE001
+            log.info("Clic su %r non riuscito: %s", text, str(exc).splitlines()[0])
+            return "", []
+
+    def save_snapshot(self, name: str, html: str, screenshot: bool = True) -> None:
+        """Salva il contenuto (e lo screenshot della pagina corrente) nella cartella di debug."""
         if not self.debug_dir:
             return
         try:
             self.debug_dir.mkdir(parents=True, exist_ok=True)
-            (self.debug_dir / f"{name}.html").write_text(html, encoding="utf-8")
-            if self._page is not None:
+            ext = "" if "." in name else ".html"
+            (self.debug_dir / f"{name}{ext}").write_text(html, encoding="utf-8")
+            if screenshot and self._page is not None:
                 self._page.screenshot(path=str(self.debug_dir / f"{name}.png"), full_page=True)
         except Exception as exc:  # noqa: BLE001
             log.info("Copia di debug non salvata: %s", exc)

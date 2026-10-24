@@ -3,7 +3,9 @@ tutte le pagine dell'elenco."""
 
 from __future__ import annotations
 
+import json
 import logging
+from collections import Counter
 import re
 from urllib.parse import parse_qsl, urlencode, urldefrag, urljoin, urlsplit, urlunsplit
 
@@ -120,8 +122,82 @@ def _log_diagnostics(fetcher, html: str, url: str, requests_before: int) -> None
         log.info("    %s", r)
 
 
+# --- Dati Gatsby -------------------------------------------------------------
+# Il portale è costruito con Gatsby: ogni pagina scarica i suoi dati da
+# /new/page-data/<percorso>/page-data.json e da /new/page-data/sq/d/<hash>.json
+# e il browser li impagina da solo. L'elenco completo dei richiami è lì dentro:
+# si cercano tutti i riferimenti alle pagine di dettaglio, qualunque sia la
+# struttura del JSON.
+
+SLUG_RE = re.compile(r"ext-avviso-sicurezza-alimentare/([a-z0-9][a-z0-9\-]*)")
+PATH_RE = re.compile(r"(/(?:new/)?it/[a-z0-9\-]+)/[a-z0-9][a-z0-9\-]*/?[\"']")
+
+
+def page_data_url(listing_url: str) -> str:
+    path = urlsplit(listing_url).path
+    path = path[len("/new"):] if path.startswith("/new/") else path
+    return urljoin(config.BASE_URL, "/new/page-data" + path.rstrip("/") + "/page-data.json")
+
+
+def slugs_from_text(text: str) -> list[str]:
+    return list(dict.fromkeys(SLUG_RE.findall(text)))
+
+
+def urls_from_gatsby(fetcher: Fetcher, listing_url: str, diagnostics: bool = False) -> list[str]:
+    url = page_data_url(listing_url)
+    texts: list[tuple[str, str]] = []
+    first = fetcher.get(url).text
+    texts.append((url, first))
+    try:
+        hashes = json.loads(first).get("staticQueryHashes", [])
+    except ValueError:
+        hashes = []
+    for h in hashes:
+        sq = urljoin(config.BASE_URL, f"/new/page-data/sq/d/{h}.json")
+        try:
+            texts.append((sq, fetcher.get(sq).text))
+        except Exception as exc:  # noqa: BLE001
+            log.info("Dati %s non disponibili: %s", sq, exc)
+
+    slugs: list[str] = []
+    for src, text in texts:
+        found = slugs_from_text(text)
+        slugs += found
+        log.info("Dati Gatsby %s: %d KB, %d richiami", src.rsplit("/", 1)[-1], len(text) // 1024, len(found))
+        if diagnostics or not found:
+            prefixes = Counter(PATH_RE.findall(text)).most_common(8)
+            if prefixes:
+                log.info("  percorsi più frequenti: %s", prefixes)
+        if diagnostics and hasattr(fetcher, "save_snapshot"):
+            name = "gatsby-" + src.rstrip("/").rsplit("/", 1)[-1]
+            fetcher.save_snapshot(name, text, screenshot=False)
+    slugs = list(dict.fromkeys(slugs))
+    return [normalize_url(f"/new/it/ext-avviso-sicurezza-alimentare/{s}/") for s in slugs]
+
+
+def diagnose_operators_tab(fetcher: Fetcher, listing_url: str) -> None:
+    """Apre la scheda "Richiami degli operatori" e registra cosa succede."""
+    if not hasattr(fetcher, "click_text"):
+        return
+    try:
+        fetcher.get(listing_url)
+    except Exception as exc:  # noqa: BLE001
+        log.info("Elenco non disponibile per la diagnostica: %s", exc)
+        return
+    html, reqs = fetcher.click_text("Richiami degli operatori")
+    if not html:
+        return
+    m = re.search(r"(\d[\d.]*)\s+risultati\s+trovati", html)
+    log.info("Scheda 'Richiami degli operatori': %s; richieste dopo il clic: %d", m.group(0) if m else "conteggio non trovato", len(reqs))
+    for r in reqs[:20]:
+        log.info("    %s", r)
+    if hasattr(fetcher, "save_snapshot"):
+        fetcher.save_snapshot("elenco-scheda-operatori", html)
+
+
 def discover(fetcher: Fetcher, backfill: bool = False) -> list[str]:
-    """URL dei richiami trovati, senza duplicati, dal più recente."""
+    """URL dei richiami trovati, senza duplicati: prima il feed (i più recenti),
+    poi l'elenco completo letto dai dati Gatsby del portale."""
     found: list[str] = []
     for url in config.FEED_URLS:
         try:
@@ -132,12 +208,11 @@ def discover(fetcher: Fetcher, backfill: bool = False) -> list[str]:
             log.warning("Feed non disponibile (%s): %s", url, exc)
     for url in config.LISTING_URLS:
         try:
-            if backfill:
-                listed = crawl_listing(fetcher, url, config.BACKFILL_MAX_PAGES)
-            else:
-                listed = urls_from_listing(fetcher.get(url).text)
-            log.info("Elenco %s: %d richiami", url, len(listed))
+            listed = urls_from_gatsby(fetcher, url, diagnostics=backfill)
+            log.info("Elenco completo dai dati del portale: %d richiami", len(listed))
             found += listed
+            if backfill and not listed:
+                diagnose_operators_tab(fetcher, url)
         except Exception as exc:  # noqa: BLE001
-            log.warning("Elenco non disponibile (%s): %s", url, exc)
+            log.warning("Dati dell'elenco non disponibili (%s): %s", url, exc)
     return list(dict.fromkeys(found))
