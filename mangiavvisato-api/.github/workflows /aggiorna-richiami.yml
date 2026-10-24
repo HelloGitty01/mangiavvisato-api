@@ -22,9 +22,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
-    defaults:
-      run:
-        working-directory: mangiavvisato-api
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +29,6 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-          cache-dependency-path: mangiavvisato-api/requirements.txt
 
       - name: Installa dipendenze
         run: |
@@ -43,6 +39,7 @@ jobs:
         run: python -m pytest -q
 
       - name: Scarica i richiami
+        id: scraper
         run: python -m scraper.main --new-ids-file new_ids.txt
 
       - name: Salva i dati nel repository
@@ -58,6 +55,6 @@ jobs:
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: mangiavvisato-api/public
+          path: public
       - id: deploy
         uses: actions/deploy-pages@v4
