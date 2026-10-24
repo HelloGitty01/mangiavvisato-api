@@ -21,7 +21,7 @@
   "Motivo della segnalazione": "Richiamo per rischio microbiologico"
  },
  "id": "10-uova-fresche-italiane",
- "versione_parser": 4,
+ "versione_parser": 5,
  "fonte": "Ministero della Salute",
  "dettagli": {
   "denominazione_vendita": "Uova Biologiche X10",
@@ -42,5 +42,5 @@
   "testo": "RICHIAMO\nData: 20/10/2026 Marchio del prodotto: SìEssenziale\nDenominazione di vendita:Uova Biologiche X10\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EcorNaturasì\ncommercializzato:\nLotto di produzione: 1A081026\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: 05-11-2026\nDescrizione peso/volume unità di vendita: confezione da 10 uova\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nPer precauzione non consumare il prodotto e riportarlo presso il punto vendita"
  },
  "prima_rilevazione": "2026-10-24T19:58:03+00:00",
- "ultimo_aggiornamento": "2026-10-24T20:37:11+00:00"
+ "ultimo_aggiornamento": "2026-10-24T21:48:37+00:00"
 }

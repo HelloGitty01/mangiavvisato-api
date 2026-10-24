@@ -21,7 +21,7 @@
   "Motivo della segnalazione": "Richiamo per rischio microbiologico"
  },
  "id": "arrosto-di-tacchino-ai-funghi-0",
- "versione_parser": 4,
+ "versione_parser": 5,
  "fonte": "Ministero della Salute",
  "dettagli": {
   "denominazione_vendita": "ARROSTO DI TACCHINO AI FUNGHI",
@@ -43,5 +43,5 @@
   "testo": "RICHIAMO\nData: 16/10/2026 Marchio del prodotto: A.M.M.53 PASTICCERIA-GASTRONOMIA\nDenominazione di vendita:ARROSTO DI TACCHINO AI FUNGHI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.M.M.53 SRL\ncommercializzato:\nLotto di produzione: tutti i lotti in distribuzione\nMarchio di identificazione dello stabilimento/del produttore: IT M2V1X UE\nNome del produttore: A.M.M.53 SRL\nSede dello stabilimento: Spresiano (TV), via Gioberti, 36\nData di scadenza o termine minimo di conservazione: tutte\nDescrizione peso/volume unità di vendita: 2kg\nMotivo del richiamo:\npossibile presenza di Listeria monocytogenes\nLotti: L260/26, 261/26, 264/26, 266/26, 267/26, 271/26, 272/26, 274/26, 278/26, 282/26\nScadenze dal: 17/10/2026 al 08/11/2026\nAvvertenze:\nSi raccomanda di non consumare il prodotto, che deve essere eliminato o restituito al punto vendita"
  },
  "prima_rilevazione": "2026-10-24T21:19:39+00:00",
- "ultimo_aggiornamento": "2026-10-24T21:19:39+00:00"
+ "ultimo_aggiornamento": "2026-10-24T21:47:45+00:00"
 }

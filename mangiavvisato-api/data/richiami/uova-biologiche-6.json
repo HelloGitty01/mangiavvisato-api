@@ -21,7 +21,7 @@
   "Motivo della segnalazione": "Richiamo per rischio microbiologico"
  },
  "id": "uova-biologiche-6",
- "versione_parser": 4,
+ "versione_parser": 5,
  "fonte": "Ministero della Salute",
  "dettagli": {
   "denominazione_vendita": "uova Biologiche",
@@ -43,5 +43,5 @@
   "testo": "RICHIAMO\nData: 19/10/2026 Marchio del prodotto: Olivero Claudio\nDenominazione di vendita:uova Biologiche\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Olivero Organic Soc.Agr.Coop.\ncommercializzato:\nLotto di produzione: vedi avvertenze\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: sfuso/confezionato\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nNon consumare e restituire al punto vendita. Lotti: 1A280926 - 1A290926 - 1A300926 - 1A011026 -\n1A021026 - 1A031026 - 1A041026 - 1A051026 - 1A061026 - 1A071026 - 1A081026 - 1A091026 -\n1A101026 - 1A111026 - 1A121026 - 1A131026 - 1A141026 con data di scadenza dal 26/10/26 al\n11/11/26"
  },
  "prima_rilevazione": "2026-10-24T19:57:43+00:00",
- "ultimo_aggiornamento": "2026-10-24T20:37:31+00:00"
+ "ultimo_aggiornamento": "2026-10-24T21:48:59+00:00"
 }
