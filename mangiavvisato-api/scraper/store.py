@@ -11,7 +11,7 @@ from . import config
 
 SUMMARY_FIELDS = (
     "id", "tipo", "data_pubblicazione", "marca", "denominazione",
-    "motivo", "categoria_rischio", "lotti", "scadenza", "url", "pdf_url",
+    "motivo", "categoria_rischio", "lotti", "scadenza", "url", "pdf_url", "depubblicato",
 )
 
 
@@ -25,11 +25,25 @@ def recall_id(url: str) -> str:
 
 
 class Store:
+    """Archivio dei richiami: un file JSON per richiamo in data/richiami/.
+
+    Un file per richiamo fa sì che ogni esecuzione salvi nel repository solo
+    ciò che è cambiato, invece di riscrivere ogni volta un unico file enorme.
+    Il vecchio data/richiami.json, se presente, viene letto e convertito.
+    """
+
     def __init__(self, data_dir: Path):
-        self.path = data_dir / "richiami.json"
+        self.dir = data_dir / "richiami"
+        self.legacy = data_dir / "richiami.json"
         self.items: dict[str, dict] = {}
-        if self.path.exists():
-            self.items = json.loads(self.path.read_text(encoding="utf-8"))
+        self._dirty: set[str] = set()
+        if self.legacy.exists():
+            self.items.update(json.loads(self.legacy.read_text(encoding="utf-8")) or {})
+            self._dirty.update(self.items)  # da convertire al primo salvataggio
+        if self.dir.exists():
+            for f in sorted(self.dir.glob("*.json")):
+                item = json.loads(f.read_text(encoding="utf-8"))
+                self.items[item.get("id") or f.stem] = item
 
     def has(self, rid: str) -> bool:
         return rid in self.items
@@ -43,11 +57,20 @@ class Store:
         item["prima_rilevazione"] = old.get("prima_rilevazione", now_iso())
         item["ultimo_aggiornamento"] = now_iso()
         self.items[item["id"]] = item
+        self._dirty.add(item["id"])
 
     def save(self) -> None:
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        ordered = dict(sorted(self.items.items()))
-        self.path.write_text(json.dumps(ordered, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        self.dir.mkdir(parents=True, exist_ok=True)
+        for rid in sorted(self._dirty):
+            item = self.items.get(rid)
+            if item is None:
+                continue
+            tmp = self.dir / f"{rid}.json.tmp"
+            tmp.write_text(json.dumps(item, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+            tmp.replace(self.dir / f"{rid}.json")
+        self._dirty.clear()
+        if self.legacy.exists():
+            self.legacy.unlink()
 
     def sorted_items(self) -> list[dict]:
         return sorted(

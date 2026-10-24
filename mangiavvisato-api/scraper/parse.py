@@ -159,6 +159,33 @@ def parse_detail(html: str, url: str) -> dict:
     }
 
 
+def parse_record(node: dict, url: str) -> dict:
+    """Richiamo costruito dai dati dell'elenco del portale (page-data.json),
+    senza aprire la pagina di dettaglio. Il PDF si scarica a parte."""
+    rel = node.get("relationships") or {}
+    motivo = clean_text((rel.get("field_motivo_segnalazione") or {}).get("name"))
+    titolo = clean_text(node.get("title"))
+    files = rel.get("field_file_allegato") or []
+    allegati = [{"titolo": f.get("filename"), "url": f.get("url")} for f in files if f.get("url")]
+    text_for_type = f"{titolo or ''} {motivo or ''}".lower()
+    return {
+        "url": url,
+        "titolo": titolo,
+        "data_pubblicazione": parse_italian_date(node.get("dataPubblicazione") or node.get("field_data_pubblicazione")),
+        "marca": clean_text(node.get("field_marca")),
+        "denominazione": titolo,
+        "motivo": motivo,
+        "categoria_rischio": classify_risk(motivo),
+        "tipo": "revoca" if "revoca" in text_for_type else "richiamo",
+        # percorso relativo: l'indirizzo pubblico si ricava al momento del download
+        "pdf_path": next((f.get("url") for f in files if (f.get("filemime") or "").endswith("pdf")), None),
+        "pdf_url": None,
+        "allegati": allegati,
+        "campi_pagina": {},
+        "depubblicato": bool(node.get("field_depubblicato")),
+    }
+
+
 # --- Modello PDF di richiamo ------------------------------------------------
 # Le etichette seguono il "Modello standard per RICHIAMO-REVOCA" concordato tra
 # Ministero e Regioni. I PDF compilati dagli operatori variano parecchio, quindi

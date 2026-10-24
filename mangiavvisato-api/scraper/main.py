@@ -17,7 +17,7 @@ from pathlib import Path
 from . import config
 from .discovery import discover, normalize_url
 from .fetch import BlockedError, Fetcher
-from .parse import extract_pdf_text, parse_detail, parse_pdf_text
+from .parse import extract_pdf_text, parse_detail, parse_pdf_text, parse_record
 from .store import Store, build_public, recall_id
 
 log = logging.getLogger("mangiavvisato")
@@ -25,18 +25,57 @@ log = logging.getLogger("mangiavvisato")
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def process(fetcher: Fetcher, url: str) -> dict:
-    item = parse_detail(fetcher.get(url).text, url)
+# Il page-data.json indica i PDF con un percorso relativo al server interno del
+# Ministero: l'indirizzo pubblico si ricava provando i prefissi possibili e si
+# memorizza il primo che restituisce davvero un PDF.
+PDF_PREFIXES = ["/new", ""]
+_pdf_prefix: str | None = None
+
+
+def download_pdf(fetcher: Fetcher, path: str) -> tuple[str, bytes]:
+    global _pdf_prefix
+    prefixes = [_pdf_prefix] if _pdf_prefix is not None else PDF_PREFIXES
+    last_exc: Exception | None = None
+    for prefix in prefixes:
+        url = config.BASE_URL + prefix + path
+        try:
+            content = fetcher.get(url).content
+        except Exception as exc:  # noqa: BLE001
+            last_exc = exc
+            continue
+        if content.startswith(b"%PDF"):
+            if _pdf_prefix is None:
+                log.info("Indirizzo pubblico dei PDF: %s<percorso>", config.BASE_URL + prefix)
+            _pdf_prefix = prefix
+            return url, content
+        last_exc = RuntimeError(f"{url} non è un PDF")
+    raise last_exc or RuntimeError("PDF non disponibile")
+
+
+def process(fetcher: Fetcher, url: str, record: dict | None = None) -> dict:
+    """Elabora un richiamo: dai dati dell'elenco se disponibili (basta il PDF),
+    altrimenti dalla pagina di dettaglio."""
+    if record is not None:
+        item = parse_record(record, url)
+    else:
+        item = parse_detail(fetcher.get(url).text, url)
+        item["pdf_path"] = None
     item["id"] = recall_id(url)
     item["versione_parser"] = config.PARSER_VERSION
     item["fonte"] = "Ministero della Salute"
     item["dettagli"] = {}
-    if item["pdf_url"]:
-        try:
+    try:
+        if item.get("pdf_path"):
+            item["pdf_url"], pdf = download_pdf(fetcher, item["pdf_path"])
+        elif item.get("pdf_url"):
             pdf = fetcher.get(item["pdf_url"]).content
+        else:
+            pdf = None
+        if pdf:
             item["dettagli"] = parse_pdf_text(extract_pdf_text(pdf, config.PDF_TIMEOUT))
-        except Exception as exc:  # noqa: BLE001 - il PDF è un di più, non deve bloccare
-            log.warning("PDF non elaborato per %s: %s", url, exc)
+    except Exception as exc:  # noqa: BLE001 - il PDF è un di più, non deve bloccare
+        log.warning("PDF non elaborato per %s: %s", url, exc)
+    item.pop("pdf_path", None)
     return item
 
 
@@ -81,10 +120,10 @@ def main(argv: list[str] | None = None) -> int:
 def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
     exit_code = 0
     try:
-        urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher, backfill=args.backfill)
+        urls, records = ([normalize_url(u) for u in args.url], {}) if args.url else discover(fetcher, backfill=args.backfill)
     except BlockedError as exc:
         log.error("%s", exc)
-        urls = []
+        urls, records = [], {}
         exit_code = 2
 
     todo = [u for u in urls if args.url or not store.has(recall_id(u))]
@@ -101,7 +140,7 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
     consecutive_failures = 0
     for n, url in enumerate(todo[: args.max_new], start=1):
         try:
-            item = process(fetcher, url)
+            item = process(fetcher, url, records.get(url))
             consecutive_failures = 0
         except BlockedError as exc:
             # Un richiamo irraggiungibile si salta; tre di fila indicano un blocco vero.

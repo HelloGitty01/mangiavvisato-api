@@ -52,7 +52,7 @@ PAGE_PARAM = "page"
 # Versione dei parser. Quando si migliora l'estrazione dei dati si incrementa:
 # i richiami elaborati con una versione precedente vengono rielaborati
 # automaticamente nelle esecuzioni successive (sempre entro MAX_NEW_PER_RUN).
-PARSER_VERSION = 4
+PARSER_VERSION = 5
 
 # Quanti richiami recenti finiscono in ultimi.json.
 LATEST_COUNT = 50

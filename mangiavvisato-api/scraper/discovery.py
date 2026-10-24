@@ -143,11 +143,35 @@ def slugs_from_text(text: str) -> list[str]:
     return list(dict.fromkeys(SLUG_RE.findall(text)))
 
 
-def urls_from_gatsby(fetcher: Fetcher, listing_url: str, diagnostics: bool = False) -> list[str]:
+def records_from_page_data(text: str) -> dict[str, dict]:
+    """URL di dettaglio -> dati del richiamo, dal page-data.json dell'elenco."""
+    try:
+        data = json.loads(text)
+        nodes = data["result"]["data"]["extSicurezzaAlimentare"]["nodes"]
+    except (ValueError, KeyError, TypeError):
+        return {}
+    records = {}
+    for node in nodes:
+        alias = ((node.get("path") or {}).get("alias") or "").strip()
+        m = SLUG_RE.search(alias)
+        if m:
+            records[normalize_url(f"/new/it/ext-avviso-sicurezza-alimentare/{m.group(1)}/")] = node
+    return records
+
+
+def urls_from_gatsby(fetcher: Fetcher, listing_url: str, diagnostics: bool = False) -> tuple[list[str], dict[str, dict]]:
+    """Restituisce gli URL dei richiami e, quando la struttura è quella attesa,
+    i loro dati completi (titolo, marca, data, motivo, PDF)."""
     url = page_data_url(listing_url)
     texts: list[tuple[str, str]] = []
     first = fetcher.get(url).text
     texts.append((url, first))
+    records = records_from_page_data(first)
+    if records:
+        log.info("Dati Gatsby page-data.json: %d KB, %d richiami con i dati completi", len(first) // 1024, len(records))
+        return list(records), records
+
+    # Struttura cambiata: si cercano i riferimenti ovunque, anche negli altri file.
     try:
         hashes = json.loads(first).get("staticQueryHashes", [])
     except ValueError:
@@ -169,10 +193,9 @@ def urls_from_gatsby(fetcher: Fetcher, listing_url: str, diagnostics: bool = Fal
             if prefixes:
                 log.info("  percorsi più frequenti: %s", prefixes)
         if diagnostics and hasattr(fetcher, "save_snapshot"):
-            name = "gatsby-" + src.rstrip("/").rsplit("/", 1)[-1]
-            fetcher.save_snapshot(name, text, screenshot=False)
+            fetcher.save_snapshot("gatsby-" + src.rstrip("/").rsplit("/", 1)[-1], text, screenshot=False)
     slugs = list(dict.fromkeys(slugs))
-    return [normalize_url(f"/new/it/ext-avviso-sicurezza-alimentare/{s}/") for s in slugs]
+    return [normalize_url(f"/new/it/ext-avviso-sicurezza-alimentare/{s}/") for s in slugs], {}
 
 
 def diagnose_operators_tab(fetcher: Fetcher, listing_url: str) -> None:
@@ -195,10 +218,11 @@ def diagnose_operators_tab(fetcher: Fetcher, listing_url: str) -> None:
         fetcher.save_snapshot("elenco-scheda-operatori", html)
 
 
-def discover(fetcher: Fetcher, backfill: bool = False) -> list[str]:
+def discover(fetcher: Fetcher, backfill: bool = False) -> tuple[list[str], dict[str, dict]]:
     """URL dei richiami trovati, senza duplicati: prima il feed (i più recenti),
     poi l'elenco completo letto dai dati Gatsby del portale."""
     found: list[str] = []
+    records: dict[str, dict] = {}
     for url in config.FEED_URLS:
         try:
             feed_urls = urls_from_feed(fetcher.get(url).text)
@@ -208,11 +232,12 @@ def discover(fetcher: Fetcher, backfill: bool = False) -> list[str]:
             log.warning("Feed non disponibile (%s): %s", url, exc)
     for url in config.LISTING_URLS:
         try:
-            listed = urls_from_gatsby(fetcher, url, diagnostics=backfill)
+            listed, recs = urls_from_gatsby(fetcher, url, diagnostics=backfill)
+            records.update(recs)
             log.info("Elenco completo dai dati del portale: %d richiami", len(listed))
             found += listed
             if backfill and not listed:
                 diagnose_operators_tab(fetcher, url)
         except Exception as exc:  # noqa: BLE001
             log.warning("Dati dell'elenco non disponibili (%s): %s", url, exc)
-    return list(dict.fromkeys(found))
+    return list(dict.fromkeys(found)), records
