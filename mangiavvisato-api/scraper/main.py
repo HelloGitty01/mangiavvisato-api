@@ -1,0 +1,102 @@
+"""MangiAvvisato - scraper dei richiami alimentari del Ministero della Salute.
+
+Uso:
+    python -m scraper.main                      # esecuzione normale
+    python -m scraper.main --url URL_DETTAGLIO  # elabora un solo richiamo (per prove)
+    python -m scraper.main --only-build         # rigenera public/ senza scaricare nulla
+"""
+
+from __future__ import annotations
+
+import argparse
+import logging
+import sys
+from pathlib import Path
+
+from . import config
+from .discovery import discover, normalize_url
+from .fetch import BlockedError, Fetcher
+from .parse import extract_pdf_text, parse_detail, parse_pdf_text
+from .store import Store, build_public, recall_id
+
+log = logging.getLogger("mangiavvisato")
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def process(fetcher: Fetcher, url: str) -> dict:
+    item = parse_detail(fetcher.get(url).text, url)
+    item["id"] = recall_id(url)
+    item["dettagli"] = {}
+    if item["pdf_url"]:
+        try:
+            pdf = fetcher.get(item["pdf_url"]).content
+            item["dettagli"] = parse_pdf_text(extract_pdf_text(pdf))
+        except Exception as exc:  # noqa: BLE001 - il PDF è un di più, non deve bloccare
+            log.warning("PDF non elaborato per %s: %s", url, exc)
+    return item
+
+
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--data-dir", type=Path, default=ROOT / "data")
+    ap.add_argument("--out-dir", type=Path, default=ROOT / "public")
+    ap.add_argument("--static-dir", type=Path, default=ROOT / "static")
+    ap.add_argument("--max-new", type=int, default=config.MAX_NEW_PER_RUN)
+    ap.add_argument("--url", action="append", help="elabora solo questo URL di dettaglio (ripetibile)")
+    ap.add_argument("--no-browser", action="store_true", help="non usare Playwright per la verifica anti-bot")
+    ap.add_argument("--only-build", action="store_true", help="rigenera solo public/ dai dati esistenti")
+    ap.add_argument("--new-ids-file", type=Path, default=None, help="scrive qui gli id dei nuovi richiami")
+    ap.add_argument("-v", "--verbose", action="store_true")
+    args = ap.parse_args(argv)
+
+    logging.basicConfig(
+        level=logging.DEBUG if args.verbose else logging.INFO,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
+
+    store = Store(args.data_dir)
+    new_ids: list[str] = []
+    exit_code = 0
+
+    if not args.only_build:
+        fetcher = Fetcher(use_browser_fallback=not args.no_browser)
+        try:
+            urls = [normalize_url(u) for u in args.url] if args.url else discover(fetcher)
+        except BlockedError as exc:
+            log.error("%s", exc)
+            urls = []
+            exit_code = 2
+
+        todo = [u for u in urls if args.url or not store.has(recall_id(u))]
+        log.info("Trovati %d richiami, %d da elaborare", len(urls), len(todo))
+        if not urls and exit_code == 0:
+            log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
+            exit_code = 3
+
+        for url in todo[: args.max_new]:
+            try:
+                item = process(fetcher, url)
+            except BlockedError as exc:
+                log.error("%s", exc)
+                exit_code = 2
+                break
+            except Exception as exc:  # noqa: BLE001
+                log.warning("Errore su %s: %s", url, exc)
+                continue
+            if not store.has(item["id"]):
+                new_ids.append(item["id"])
+            store.upsert(item)
+            log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
+
+        store.save()
+
+    build_public(store, args.out_dir, args.static_dir)
+    if args.new_ids_file:
+        args.new_ids_file.write_text("\n".join(new_ids) + ("\n" if new_ids else ""), encoding="utf-8")
+    log.info("Nuovi richiami: %d. Totale in archivio: %d", len(new_ids), len(store.items))
+    return exit_code
+
+
+if __name__ == "__main__":
+    sys.exit(main())

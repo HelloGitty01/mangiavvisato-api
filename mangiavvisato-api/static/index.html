@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MangiAvvisato API</title>
+<style>
+  :root { --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --accent:#c2410c; --card:#ffffff; --line:#e7e4dc; }
+  @media (prefers-color-scheme: dark) {
+    :root { color-scheme: dark; --bg:#161614; --fg:#ecebe6; --muted:#a3a29b; --accent:#fb923c; --card:#1f1f1c; --line:#2f2e2a; }
+  }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:3rem 1.25rem; }
+  h1 { margin:0; font-size:2rem; }
+  .payoff { color:var(--accent); font-weight:600; margin:.25rem 0 2rem; }
+  ul { padding:0; list-style:none; }
+  li { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:.75rem 1rem; margin:.5rem 0; }
+  code, a { color:var(--accent); }
+  .muted { color:var(--muted); font-size:.9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>MangiAvvisato</h1>
+  <p class="payoff">… MezzoSalvato!</p>
+  <p>API statica dei richiami di prodotti alimentari pubblicati dal Ministero della Salute.</p>
+  <ul>
+    <li><a href="v1/ultimi.json"><code>v1/ultimi.json</code></a> – gli ultimi richiami</li>
+    <li><a href="v1/richiami.json"><code>v1/richiami.json</code></a> – l’archivio completo (sintesi)</li>
+    <li><a href="v1/revoche.json"><code>v1/revoche.json</code></a> – le revoche</li>
+    <li><code>v1/richiami/{id}.json</code> – il dettaglio di un richiamo</li>
+    <li><a href="v1/meta.json"><code>v1/meta.json</code></a> – data di aggiornamento e totali</li>
+  </ul>
+  <p class="muted">Dati non ufficiali. Fa fede esclusivamente la pubblicazione sul portale del Ministero della Salute.</p>
+</main>
+</body>
+</html>
