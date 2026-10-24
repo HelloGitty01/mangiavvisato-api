@@ -102,6 +102,8 @@ class Fetcher:
         self.delay = delay
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": config.USER_AGENT, "Accept-Language": "it-IT,it;q=0.9"})
+        self.data_requests: list[str] = []
+        self.last_html_url: str | None = None
         self._pw = None
         self._browser = None
         self._context = None
@@ -165,6 +167,14 @@ class Fetcher:
         self._context.set_default_timeout(60_000)
         self._context.set_default_navigation_timeout(60_000)
         self._page = self._context.new_page()
+        # Richieste dati fatte dalla pagina (XHR/fetch): utili per capire da dove
+        # una pagina costruita con JavaScript prende i suoi contenuti.
+        self.data_requests: list[str] = []
+        self._page.on(
+            "request",
+            lambda req: self.data_requests.append(f"{req.method} {req.resource_type} {req.url}")
+            if req.resource_type in ("xhr", "fetch") else None,
+        )
 
     def _wait_challenge_cleared(self) -> bool:
         """Attende che la pagina di validazione sparisca. La pagina può essere
@@ -226,6 +236,7 @@ class Fetcher:
                 except Exception:  # noqa: BLE001 - pagine con richieste continue
                     pass
                 html = self._page.content()
+                self.last_html_url = url
                 if looks_like_challenge(html):
                     continue
                 # Lo stato della prima risposta può essere quello della verifica:
@@ -241,6 +252,18 @@ class Fetcher:
 
         self._save_debug(url)
         raise BlockedError(f"Accesso bloccato dalla protezione anti-bot: {url} (ultimo stato HTTP {last_status})")
+
+    def save_snapshot(self, name: str, html: str) -> None:
+        """Salva HTML e screenshot della pagina corrente nella cartella di debug."""
+        if not self.debug_dir:
+            return
+        try:
+            self.debug_dir.mkdir(parents=True, exist_ok=True)
+            (self.debug_dir / f"{name}.html").write_text(html, encoding="utf-8")
+            if self._page is not None:
+                self._page.screenshot(path=str(self.debug_dir / f"{name}.png"), full_page=True)
+        except Exception as exc:  # noqa: BLE001
+            log.info("Copia di debug non salvata: %s", exc)
 
     def _save_debug(self, url: str) -> None:
         if not (self.debug_dir and self._page):

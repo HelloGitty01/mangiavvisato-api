@@ -4,6 +4,7 @@ tutte le pagine dell'elenco."""
 from __future__ import annotations
 
 import logging
+import re
 from urllib.parse import parse_qsl, urlencode, urldefrag, urljoin, urlsplit, urlunsplit
 
 import feedparser
@@ -79,16 +80,44 @@ def crawl_listing(fetcher: Fetcher, start_url: str, max_pages: int) -> list[str]
     page = 0
     while url and page < max_pages and url not in visited:
         visited.add(url)
+        requests_before = len(getattr(fetcher, "data_requests", []))
         html = fetcher.get(url).text
-        new = [u for u in urls_from_listing(html) if u not in known]
-        log.info("Pagina elenco %d: %d richiami nuovi", page, len(new))
+        all_links = urls_from_listing(html)
+        new = [u for u in all_links if u not in known]
+        nxt = next_page_url(html, url)
+        log.info(
+            "Pagina elenco %d (%s): %d link a richiami, %d nuovi; pagina successiva: %s",
+            page, url, len(all_links), len(new), nxt or f"non trovata, provo {with_page_param(start_url, page + 1)}",
+        )
+        if page < 3:
+            _log_diagnostics(fetcher, html, url, requests_before)
+            if hasattr(fetcher, "save_snapshot"):
+                fetcher.save_snapshot(f"elenco-pagina-{page}", html)
         if not new:
             break
         found += new
         known.update(new)
         page += 1
-        url = next_page_url(html, url) or with_page_param(start_url, page)
+        url = nxt or with_page_param(start_url, page)
     return found
+
+
+def _log_diagnostics(fetcher, html: str, url: str, requests_before: int) -> None:
+    """Scrive nel log gli indizi utili per capire come è paginato l'elenco."""
+    soup = BeautifulSoup(html, "html.parser")
+    pager = []
+    for a in soup.find_all("a", href=True):
+        text = a.get_text(" ", strip=True)
+        href = a["href"]
+        if re.search(r"page|pagin|offset|start=", href, re.I) or re.fullmatch(r"\d{1,4}|›|»|successiv\w*|next", text, re.I):
+            pager.append(f"[{text}] {href}")
+    log.info("  link di paginazione trovati: %s", pager[:20] or "nessuno")
+    forms = [f"{f.get('method', 'get')} {f.get('action', '')}" for f in soup.find_all("form")]
+    log.info("  moduli nella pagina: %s", forms[:10] or "nessuno")
+    reqs = getattr(fetcher, "data_requests", [])[requests_before:]
+    log.info("  richieste dati fatte dalla pagina: %d", len(reqs))
+    for r in reqs[:30]:
+        log.info("    %s", r)
 
 
 def discover(fetcher: Fetcher, backfill: bool = False) -> list[str]:
