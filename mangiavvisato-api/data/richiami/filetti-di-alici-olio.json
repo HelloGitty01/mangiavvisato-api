@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio/",
+ "titolo": "FILETTI DI ALICI IN OLIO",
+ "data_pubblicazione": "2026-09-24",
+ "marca": "COOP",
+ "denominazione": "FILETTI DI ALICI IN OLIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%202_1790242398.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo 2_1790242398.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%202_1790242398.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-alici-olio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI ALICI IN OLIO 150G EAN 8001120664822",
+  "operatore": "COOP ITALIA S.C.",
+  "lotti": [
+   "L VS157"
+  ],
+  "marchio_identificazione": "AL 28 PP",
+  "produttore": "ZAROTTI SPA",
+  "sede_stabilimento": "ALBANIA",
+  "scadenza": "06/12/2027",
+  "peso_volume": "150G",
+  "motivo_esteso": "POSSIBILE PRESENZA ISTAMINA",
+  "avvertenze": "COOP PRECAUZIONALMENTE HA GIA' RITIRATO IL PRODOTTO DALLA VENDITA. INVITIAMO I CONSUMATORI CHE L'AVESSERO ACQUISTATO A NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA PER IL RIMBORSO. PER ULTERIORI INFORMAZIONI E' DISPONIBILE IL NUMERO VERDE GRATUITO 800-805580",
+  "campi_extra": {
+   "Data": "22/09/2026 Marchio del prodotto: COOP"
+  },
+  "testo": "RICHIAMO\nData: 22/09/2026 Marchio del prodotto: COOP\nDenominazione di vendita:FILETTI DI ALICI IN OLIO 150G EAN 8001120664822\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C.\ncommercializzato:\nLotto di produzione: L VS157\nMarchio di identificazione dello stabilimento/del produttore: AL 28 PP\nNome del produttore: ZAROTTI SPA\nSede dello stabilimento: ALBANIA\nData di scadenza o termine minimo di conservazione: 06/12/2027\nDescrizione peso/volume unità di vendita: 150G\nMotivo del richiamo:\nPOSSIBILE PRESENZA ISTAMINA\nAvvertenze:\nCOOP PRECAUZIONALMENTE HA GIA' RITIRATO IL PRODOTTO DALLA VENDITA.\nINVITIAMO I CONSUMATORI CHE L'AVESSERO ACQUISTATO A NON CONSUMARE IL PRODOTTO E\nRESTITUIRLO AL PUNTO VENDITA PER IL RIMBORSO. PER ULTERIORI INFORMAZIONI E' DISPONIBILE IL\nNUMERO VERDE GRATUITO 800-805580"
+ },
+ "prima_rilevazione": "2026-10-24T21:58:18+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:58:18+00:00"
+}
