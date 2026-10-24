@@ -1,0 +1,25 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/roccaverano-dop/",
+ "titolo": "ROCCAVERANO DOP",
+ "data_pubblicazione": "2026-09-28",
+ "marca": "AGRILANGA",
+ "denominazione": "ROCCAVERANO DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": null,
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_prodotto_1790587992.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_prodotto_1790587992.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "roccaverano-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {},
+ "prima_rilevazione": "2026-10-24T21:37:49+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:37:49+00:00"
+}

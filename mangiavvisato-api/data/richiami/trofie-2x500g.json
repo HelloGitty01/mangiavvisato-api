@@ -1,0 +1,25 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trofie-2x500g/",
+ "titolo": "Trofie 2x500g",
+ "data_pubblicazione": "2026-10-05",
+ "marca": "Tre Mulini",
+ "denominazione": "Trofie 2x500g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": null,
+ "allegati": [
+  {
+   "titolo": "cartelloministerialeeurospintrofie_1791202096.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelloministerialeeurospintrofie_1791202096.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trofie-2x500g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {},
+ "prima_rilevazione": "2026-10-24T21:37:39+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:37:39+00:00"
+}

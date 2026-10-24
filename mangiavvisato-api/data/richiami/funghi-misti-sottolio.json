@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-misti-sottolio/",
+ "titolo": "Funghi Misti sott'olio",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "Ferri S.a.S. - La Favola Antica",
+ "denominazione": "Funghi Misti sott'olio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/funghi%20misti%20300%20g_1792602702.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo Ferri S.a.S. - La Favola Antica - Funghi Misti sott'olio",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/funghi%20misti%20300%20g_1792602702.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "21 ottobre 2026",
+  "Marca": "Ferri S.a.S. - La Favola Antica",
+  "Denominazione": "Funghi Misti sott'olio",
+  "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+ },
+ "id": "funghi-misti-sottolio",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FUNGHI MISTI SOTT'OLIO",
+  "operatore": "FERRI S.A.S. DI FERRI PIERO",
+  "lotti": [
+   "17/07/26"
+  ],
+  "marchio_identificazione": "AA000657041PEIT",
+  "produttore": "FERRI S.A.S. DI FERRI PIERO",
+  "sede_stabilimento": "VIALE EUROPA, 126/F SPOLTORE (PE)",
+  "scadenza": "28/01/28",
+  "peso_volume": "300 G",
+  "motivo_esteso": "ASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI VINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011",
+  "avvertenze": "SI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA"
+  },
+  "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:FUNGHI MISTI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 17/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 300 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T19:58:09+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:37:05+00:00"
+}

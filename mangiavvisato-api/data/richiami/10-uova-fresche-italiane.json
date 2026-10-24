@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/10-uova-fresche-italiane/",
+ "titolo": "10 Uova fresche italiane",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "SìEssenziali (EcorNaturaSì)",
+ "denominazione": "10 Uova fresche italiane",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_S%C3%ACEssenziali_1792593356.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo SìEssenziali (EcorNaturaSì) - 10 Uova fresche italiane",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_S%C3%ACEssenziali_1792593356.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "21 ottobre 2026",
+  "Marca": "SìEssenziali (EcorNaturaSì)",
+  "Denominazione": "10 Uova fresche italiane",
+  "Motivo della segnalazione": "Richiamo per rischio microbiologico"
+ },
+ "id": "10-uova-fresche-italiane",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Uova Biologiche X10",
+  "operatore": "EcorNaturasì",
+  "lotti": [
+   "1A081026"
+  ],
+  "marchio_identificazione": "128CN019",
+  "produttore": "Olivero Claudio",
+  "sede_stabilimento": "Monasterolo di Savigliano",
+  "scadenza": "05-11-2026",
+  "peso_volume": "confezione da 10 uova",
+  "motivo_esteso": "possibile rischio biologico presenza salmonella typhimurium",
+  "avvertenze": "Per precauzione non consumare il prodotto e riportarlo presso il punto vendita",
+  "campi_extra": {
+   "Data": "20/10/2026 Marchio del prodotto: SìEssenziale"
+  },
+  "testo": "RICHIAMO\nData: 20/10/2026 Marchio del prodotto: SìEssenziale\nDenominazione di vendita:Uova Biologiche X10\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EcorNaturasì\ncommercializzato:\nLotto di produzione: 1A081026\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: 05-11-2026\nDescrizione peso/volume unità di vendita: confezione da 10 uova\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nPer precauzione non consumare il prodotto e riportarlo presso il punto vendita"
+ },
+ "prima_rilevazione": "2026-10-24T19:58:03+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:37:11+00:00"
+}

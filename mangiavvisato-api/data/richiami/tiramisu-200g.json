@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-200g/",
+ "titolo": "TIRAMISÙ 200g",
+ "data_pubblicazione": "2026-10-22",
+ "marca": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
+ "denominazione": "TIRAMISÙ 200g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1792687675.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI - TIRAMISU¿ 200g",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1792687675.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "22 ottobre 2026",
+  "Marca": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
+  "Denominazione": "TIRAMISÙ 200g",
+  "Motivo della segnalazione": "Richiamo per rischio fisico"
+ },
+ "id": "tiramisu-200g",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TIRAMISU’ 200g",
+  "operatore": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
+  "lotti": [
+   "23OTT26 / 26OTT26"
+  ],
+  "produttore": "GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
+  "sede_stabilimento": "43051 ALBARETO (PR) LOC. GOTRA CASE PALAZZINA",
+  "scadenza": "23/10/2026 / 26/10/2026",
+  "peso_volume": "VASCHETTA 200g",
+  "motivo_esteso": "Possibile presenza di corpo estraneo metallico (sferetta di acciaio) all’interno della vaschetta.",
+  "avvertenze": "Non consumare il prodotto e riconsegnarlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/10/2026 Marchio del prodotto: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\nDenominazione di vendita: TIRAMISU’ 200g\nNome o ragione sociale dell'OSA\nGASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 23OTT26 / 26OTT26\nMarchio di identificazione dello stabilimento/del produttore\nNome del produttore: GASTRONOMIA DA JACK DI ZAZZALI GIOVANNI\nSede dello stabilimento: 43051 ALBARETO (PR) LOC. GOTRA CASE PALAZZINA\nData di scadenza o termine minimo di conservazione 23/10/2026 / 26/10/2026\nDescrizione peso/volume unità di vendita: VASCHETTA 200g\nMotivo del richiamo:\nPossibile presenza di corpo estraneo metallico (sferetta di acciaio) all’interno della vaschetta.\nAvvertenze:\nNon consumare il prodotto e riconsegnarlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T19:57:22+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:36:12+00:00"
+}

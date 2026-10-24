@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tartufata-0/",
+ "titolo": "SALSA TARTUFATA",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "BREZZI OLIVIERO TARTUFI",
+ "denominazione": "SALSA TARTUFATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Rchiamo%20lotto%202586_1792593312.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo BREZZI OLIVIERO TARTUFI - SALSA TARTUFATA",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Rchiamo%20lotto%202586_1792593312.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "21 ottobre 2026",
+  "Marca": "BREZZI OLIVIERO TARTUFI",
+  "Denominazione": "SALSA TARTUFATA",
+  "Motivo della segnalazione": "Richiamo per rischio microbiologico"
+ },
+ "id": "salsa-tartufata-0",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSA TARTUFATA",
+  "operatore": "DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO",
+  "lotti": [
+   "L 2586"
+  ],
+  "produttore": "BREZZI GIAN PAOLO",
+  "sede_stabilimento": "VIA AMBRA 19/A 58100 GROSSETO",
+  "scadenza": "31/12/2028",
+  "peso_volume": "VASO VETRO GR. 500",
+  "motivo_esteso": "SOSPETTA PRESENZA DI TOSSINA BOTULINICA",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/10/2026 Marchio del prodotto: BREZZI OLIVIERO TARTUFI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: BREZZI OLIVIERO TARTUFI\nDenominazione di vendita:SALSA TARTUFATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DITTA BREZZI OLIVIERO TARTUFI DI BREZZI GIAN PAOLO\ncommercializzato:\nLotto di produzione: L 2586\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BREZZI GIAN PAOLO\nSede dello stabilimento: VIA AMBRA 19/A 58100 GROSSETO\nData di scadenza o termine minimo di conservazione: 31/12/2028\nDescrizione peso/volume unità di vendita: VASO VETRO GR. 500\nMotivo del richiamo:\nSOSPETTA PRESENZA DI TOSSINA BOTULINICA\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T19:57:56+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:37:18+00:00"
+}

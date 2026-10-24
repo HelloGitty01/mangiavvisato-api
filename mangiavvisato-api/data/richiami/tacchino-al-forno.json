@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tacchino-al-forno/",
+ "titolo": "TACCHINO AL FORNO",
+ "data_pubblicazione": "2026-10-19",
+ "marca": "A.M.M.53",
+ "denominazione": "TACCHINO AL FORNO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20_%206486%20tacchino%20al%20forno%20_%20lotti%20multipli_1792402922.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo _ 6486 tacchino al forno _ lotti multipli_1792402922.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20_%206486%20tacchino%20al%20forno%20_%20lotti%20multipli_1792402922.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tacchino-al-forno",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TACCHINO AL FORNO",
+  "operatore": "A.M.M.53 SRL",
+  "lotti": [
+   "tutti i lotti in distribuzione"
+  ],
+  "marchio_identificazione": "IT M2V1X UE",
+  "produttore": "A.M.M.53 SRL",
+  "sede_stabilimento": "Spresiano (TV), via Gioberti, 36",
+  "scadenza": "tutte",
+  "peso_volume": "2kg",
+  "motivo_esteso": "possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Si raccomanda di non consumare il prodotto, che deve essere eliminato o restituito al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "16/10/2026 Marchio del prodotto: A.M.M.53 PASTICCERIA-GASTRONOMIA",
+   "Scadenze dal": "17/10/2026 al 07/11/2026",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 16/10/2026 Marchio del prodotto: A.M.M.53 PASTICCERIA-GASTRONOMIA\nDenominazione di vendita:TACCHINO AL FORNO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.M.M.53 SRL\ncommercializzato:\nLotto di produzione: tutti i lotti in distribuzione\nMarchio di identificazione dello stabilimento/del produttore: IT M2V1X UE\nNome del produttore: A.M.M.53 SRL\nSede dello stabilimento: Spresiano (TV), via Gioberti, 36\nData di scadenza o termine minimo di conservazione: tutte\nDescrizione peso/volume unità di vendita: 2kg\nMotivo del richiamo:\npossibile presenza di Listeria monocytogenes\nLotti: L260/26, 264/26, 266/26, 267/26, 272/26, 274/26, 280/26, 281/26\nScadenze dal: 17/10/2026 al 07/11/2026\nAvvertenze:\nSi raccomanda di non consumare il prodotto, che deve essere eliminato o restituito al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-24T21:36:56+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:36:56+00:00"
+}

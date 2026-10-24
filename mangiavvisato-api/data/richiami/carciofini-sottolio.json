@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofini-sottolio/",
+ "titolo": "Carciofini sott'olio",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "Ferri S.a.s. di ferri Piero",
+ "denominazione": "Carciofini sott'olio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/carciofini%20250%20g_1792602832.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo Ferri S.a.s. di ferri Piero - Carciofini sott'olio",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/carciofini%20250%20g_1792602832.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "21 ottobre 2026",
+  "Marca": "Ferri S.a.s. di ferri Piero",
+  "Denominazione": "Carciofini sott'olio",
+  "Motivo della segnalazione": "Richiamo per rischio presenza di allergeni"
+ },
+ "id": "carciofini-sottolio",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CARCIOFINI SOTT'OLIO",
+  "operatore": "FERRI S.A.S DI FERRI PIERO",
+  "lotti": [
+   "08/07/26"
+  ],
+  "marchio_identificazione": "AA000657041PEIT",
+  "produttore": "FERRI S.A.S. DI FERRI PIERO",
+  "sede_stabilimento": "VIALE EUROPA, 126/F SPOLTORE (PE)",
+  "scadenza": "28/01/28",
+  "peso_volume": "250 G",
+  "motivo_esteso": "ASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI VINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011",
+  "avvertenze": "SI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA"
+  },
+  "testo": "RICHIAMO\nData: 21/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:CARCIOFINI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 08/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T19:58:29+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:36:45+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-sottolio-0/",
+ "titolo": "Fagiolini sott'olio",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "Ferri S.a.s. - La favola Antica",
+ "denominazione": "Fagiolini sott'olio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/fagiolini%20250_1792603215.pdf",
+ "allegati": [
+  {
+   "titolo": "fagiolini 250_1792603215.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/fagiolini%20250_1792603215.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fagiolini-sottolio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FAGIOLINI SOTT'OLIO",
+  "operatore": "FERRI S.A.S. DI FERRI PIERO",
+  "lotti": [
+   "01/07/26"
+  ],
+  "marchio_identificazione": "AA000657041PEIT",
+  "produttore": "FERRI S.A.S. DI FERRI PIERO",
+  "sede_stabilimento": "VIALE EUROPA, 126/F SPOLTORE (PE)",
+  "scadenza": "28/01/28",
+  "peso_volume": "250 G",
+  "motivo_esteso": "ASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI VINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011",
+  "avvertenze": "SI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA"
+  },
+  "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: FERRI S.A.S. - LA FAVOLA ANTICA\nDenominazione di vendita:FAGIOLINI SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 01/07/26\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/01/28\nDescrizione peso/volume unità di vendita: 250 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T21:36:36+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:36:36+00:00"
+}

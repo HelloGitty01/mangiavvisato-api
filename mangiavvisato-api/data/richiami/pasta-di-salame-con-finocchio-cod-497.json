@@ -1,0 +1,47 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-salame-con-finocchio-cod-497/",
+ "titolo": "Pasta di Salame con finocchio – COD 497",
+ "data_pubblicazione": "2026-10-23",
+ "marca": "SALUMI EMMEDUE SRL",
+ "denominazione": "Pasta di Salame con finocchio – COD 497",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/497_%20Modello_richiamo_1792776231.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo SALUMI EMMEDUE SRL - Pasta di Salame con finocchio ¿ COD 497",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/497_%20Modello_richiamo_1792776231.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "23 ottobre 2026",
+  "Marca": "SALUMI EMMEDUE SRL",
+  "Denominazione": "Pasta di Salame con finocchio – COD 497",
+  "Motivo della segnalazione": "Richiamo per rischio microbiologico"
+ },
+ "id": "pasta-di-salame-con-finocchio-cod-497",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pasta di Salame con finocchio – COD 497",
+  "operatore": "SALUMI EMMEDUE SRL SALUMI EMMEDUE SRL",
+  "lotti": [
+   "49322"
+  ],
+  "marchio_identificazione": "IT 2646S UE",
+  "produttore": "SALUMI EMMEDUE SRL",
+  "sede_stabilimento": "C.DA SERRALTA 19 PICERNO 85055 (PZ)",
+  "scadenza": "TUTTE",
+  "peso_volume": "0.500KG",
+  "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP SCADENZE: 20/10/26-23/10/26-24/10/26-25/10/26-27/10/26-29/10/26",
+  "avvertenze": "SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL",
+   "SCADENZE": "20/10/26-23/10/26-24/10/26-25/10/26-27/10/26-29/10/26"
+  },
+  "testo": "RICHIAMO\nData: 22/10/2026 Marchio del prodotto: SALUMI EMMEDUE SRL\nDenominazione di vendita: Pasta di Salame con finocchio – COD 497\nNome o ragione sociale dell'OSA SALUMI EMMEDUE SRL\na nome del quale il prodotto è\nSALUMI EMMEDUE SRL\ncommercializzato:\nLotto di produzione: 49322\nMarchio di identificazione dello stabilimento/del produttore: IT 2646S UE\nNome del produttore: SALUMI EMMEDUE SRL\nSede dello stabilimento: C.DA SERRALTA 19 PICERNO 85055 (PZ)\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 0.500KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nSCADENZE: 20/10/26-23/10/26-24/10/26-25/10/26-27/10/26-29/10/26\nAvvertenze: SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO , CHE DEVE ESSERE RESTITUITO AL\nPUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-24T19:56:53+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:35:38+00:00"
+}

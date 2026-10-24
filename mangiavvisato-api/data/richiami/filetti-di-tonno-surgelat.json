@@ -1,0 +1,31 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelat/",
+ "titolo": "FILETTI DI TONNO SURGELAT",
+ "data_pubblicazione": "2026-10-21",
+ "marca": "SELEZIONE PIÙ",
+ "denominazione": "FILETTI DI TONNO SURGELAT",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Filetti%20di%20Tonno%20Surgelato_1792575197.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo SELEZIONE PIÙ - FILETTI DI TONNO SURGELAT¿",
+   "url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Filetti%20di%20Tonno%20Surgelato_1792575197.pdf"
+  }
+ ],
+ "campi_pagina": {
+  "Data pubblicazione": "21 ottobre 2026",
+  "Marca": "SELEZIONE PIÙ",
+  "Denominazione": "FILETTI DI TONNO SURGELAT",
+  "Motivo della segnalazione": "Richiamo per rischio chimico"
+ },
+ "id": "filetti-di-tonno-surgelat",
+ "versione_parser": 4,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-24T19:57:36+00:00",
+ "ultimo_aggiornamento": "2026-10-24T20:37:38+00:00"
+}

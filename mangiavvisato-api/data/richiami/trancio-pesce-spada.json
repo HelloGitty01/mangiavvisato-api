@@ -1,0 +1,25 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancio-pesce-spada/",
+ "titolo": "Trancio pesce spada",
+ "data_pubblicazione": "2026-10-06",
+ "marca": "Cedimar S.r.l.",
+ "denominazione": "Trancio pesce spada",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": null,
+ "allegati": [
+  {
+   "titolo": "Richiamo trancio pesce spada 300926_1791288147.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20trancio%20pesce%20spada%20300926_1791288147.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trancio-pesce-spada",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {},
+ "prima_rilevazione": "2026-10-24T21:37:37+00:00",
+ "ultimo_aggiornamento": "2026-10-24T21:37:37+00:00"
+}
