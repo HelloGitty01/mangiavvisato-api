@@ -151,3 +151,36 @@ def test_crawl_listing_fallback_page_param():
     pages = {base: _page(["a"]), base + "?page=1": _page(["b"]), base + "?page=2": ""}
     urls = crawl_listing(FakeFetcher(pages), base, max_pages=10)
     assert len(urls) == 2
+
+
+def test_clean_text_repairs_broken_characters():
+    from scraper.parse import clean_text
+    assert clean_text("Pasta di Salame con finocchio ¿ COD 497") == "Pasta di Salame con finocchio – COD 497"
+    assert clean_text("TIRAMISU¿ 200g") == "TIRAMISÙ 200g"
+    assert clean_text("FILETTI DI TONNO SURGELATI¿") == "FILETTI DI TONNO SURGELATÌ" or clean_text("FILETTI DI TONNO SURGELATI¿").startswith("FILETTI DI TONNO SURGELAT")
+    assert clean_text("la citta\ufffd di Roma") == "la città di Roma"
+    assert clean_text("olio dell¿oliva") == "olio dell'oliva"
+    assert clean_text("Uova  biologiche ") == "Uova biologiche"
+    assert clean_text(None) is None
+
+
+def test_pdf_wrapped_labels_do_not_leak_into_values():
+    text = """Denominazione di vendita: Verdure sott'olio
+Marchio del prodotto: Ferri S.a.s. di Ferri Piero
+Nome o ragione sociale dell'OSA a nome del quale il prodotto
+è FERRI S.A.S DI FERRI PIERO
+commercializzato
+Nome del produttore: FERRI S.A.S. DI FERRI PIERO
+Data di scadenza o termine minimo di 28/01/28
+conservazione
+Descrizione peso/volume unità di 900 G
+vendita
+Marchio di identificazione dello stabilimento/del AA000657041PEIT
+produttore
+"""
+    d = parse_pdf_text(text)
+    assert d["operatore"] == "FERRI S.A.S DI FERRI PIERO"
+    assert d["scadenza"] == "28/01/28"
+    assert d["peso_volume"] == "900 G"
+    assert d["marchio_identificazione"] == "AA000657041PEIT"
+    assert d["produttore"] == "FERRI S.A.S. DI FERRI PIERO"
