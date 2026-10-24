@@ -67,8 +67,10 @@ jobs:
           if [ "$BACKFILL" = "true" ]; then ARGS="$ARGS --backfill"; fi
           xvfb-run -a python -m scraper.main $ARGS
 
+      # Screenshot e HTML delle pagine (elenco, verifica anti-bot): si
+      # scaricano dal riepilogo dell'esecuzione, sezione Artifacts.
       - name: Allega i file di debug
-        if: ${{ failure() }}
+        if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: debug-antibot
