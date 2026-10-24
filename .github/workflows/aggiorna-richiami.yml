@@ -4,7 +4,16 @@ on:
   schedule:
     # Ogni 3 ore, al minuto 17 (evita l'ora piena, quando GitHub è più carico).
     - cron: "17 */3 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Recupera lo storico sfogliando tutte le pagine dell'elenco"
+        type: boolean
+        default: false
+      max_new:
+        description: "Numero massimo di richiami da elaborare in questa esecuzione"
+        type: string
+        default: "40"
 
 permissions:
   contents: write   # per salvare data/richiami.json nel repository
@@ -18,7 +27,7 @@ concurrency:
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -43,9 +52,18 @@ jobs:
         run: python -m pytest -q
 
       - name: Scarica i richiami
-        run: python -m scraper.main --new-ids-file new_ids.txt
+        env:
+          BACKFILL: ${{ inputs.backfill }}
+          MAX_NEW: ${{ inputs.max_new || '40' }}
+        run: |
+          ARGS="--new-ids-file new_ids.txt --max-new $MAX_NEW"
+          if [ "$BACKFILL" = "true" ]; then ARGS="$ARGS --backfill"; fi
+          python -m scraper.main $ARGS
 
+      # I passi seguenti girano anche se lo scraper si è fermato a metà,
+      # così il lavoro già fatto viene salvato e pubblicato.
       - name: Salva i dati nel repository
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "mangiavvisato-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -56,8 +74,11 @@ jobs:
           fi
 
       - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() }}
       - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
         with:
           path: mangiavvisato-api/public
       - id: deploy
+        if: ${{ !cancelled() }}
         uses: actions/deploy-pages@v4
