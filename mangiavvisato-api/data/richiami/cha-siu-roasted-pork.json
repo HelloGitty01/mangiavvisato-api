@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cha-siu-roasted-pork/",
+ "titolo": "CHA SIU - ROASTED PORK",
+ "data_pubblicazione": "2019-02-04",
+ "marca": "LUCKY DUCK INTERNATIONAL FOOD BV",
+ "denominazione": "CHA SIU - ROASTED PORK",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_LUCKY%20DUCK.pdf_1761178582.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_LUCKY DUCK.pdf_1761178582.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_LUCKY%20DUCK.pdf_1761178582.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cha-siu-roasted-pork",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CHA SIU",
+  "operatore": "LUCKY DUCK INTERNATIONAL FOOD B.V.",
+  "lotti": [
+   "201846013"
+  ],
+  "produttore": "LUCKY DUCK INTERNATIONAL FOOD B.V.",
+  "sede_stabilimento": "Rietdekkerstraat 5 -5405 AX - UDEN - OLANDA",
+  "scadenza": "27/05/2020",
+  "peso_volume": "400 gr",
+  "motivo_esteso": "ALLERGENI NON DICHIARATI IN ETICHETTA (SESAMO)",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/02/2019 Marchio del prodotto: LUCKY DUCK",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 02/02/2019 Marchio del prodotto: LUCKY DUCK\nDenominazione di vendita: CHA SIU\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUCKY DUCK INTERNATIONAL FOOD B.V.\ncommercializzato:\nLotto di produzione: 201846013\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LUCKY DUCK INTERNATIONAL FOOD B.V.\nSede dello stabilimento: Rietdekkerstraat 5 -5405 AX - UDEN - OLANDA\nData di scadenza o termine minimo di conservazione: 27/05/2020\nDescrizione peso/volume unità di vendita: 400 gr\nMotivo del richiamo:\nALLERGENI NON DICHIARATI IN ETICHETTA (SESAMO)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:09+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/citterino-0/",
+ "titolo": "Citterino",
+ "data_pubblicazione": "2019-03-12",
+ "marca": "Giuseppe Citterio Salumificio spa",
+ "denominazione": "Citterino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Citterio_integrato_1761178659.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_Citterio_integrato_1761178659.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Citterio_integrato_1761178659.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "citterino-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:39:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:39:56+00:00"
+}

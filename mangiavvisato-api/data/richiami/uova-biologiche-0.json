@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-0/",
+ "titolo": "Uova biologiche",
+ "data_pubblicazione": "2020-01-22",
+ "marca": "Olivero Claudio",
+ "denominazione": "Uova biologiche",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20lotti%201A130120_2A130120_2C130120_1761180554.pdf",
+ "allegati": [
+  {
+   "titolo": "modello di richiamo lotti 1A130120_2A130120_2C130120_1761180554.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20lotti%201A130120_2A130120_2C130120_1761180554.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-biologiche-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:29:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:20+00:00"
+}

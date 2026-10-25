@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/saltamix-15-gr/",
+ "titolo": "SALTAMIX 15 gr",
+ "data_pubblicazione": "2019-02-01",
+ "marca": "Abbaciano",
+ "denominazione": "SALTAMIX 15 gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALTAMIX%20GOJI%20G.150_1761178580.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO SALTAMIX GOJI G.150_1761178580.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALTAMIX%20GOJI%20G.150_1761178580.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "saltamix-15-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALTAMIX CON GOJI Nome o ragione sociale dell'OSA a nome del quale il ABBASCIANO SNC prodotto è commercializzato",
+  "lotti": [
+   "28164-353"
+  ],
+  "produttore": "ABBASCIANO SNC",
+  "sede_stabilimento": "VIA 8 MARZO, 4 38121 TRENTO (TN)",
+  "scadenza": "04/2019",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Riscontrati residui di prodotti fitosanitari oltre la soglia consentita.",
+  "avvertenze": "Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega di non consumare il prodotto e riportarlo presso il punto vendita Inserire immagine uno Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/01/2019 Marchio del prodotto: ABBASCIANO"
+  },
+  "testo": "RICHIAMO\nData: 31/01/2019 Marchio del prodotto: ABBASCIANO\nDenominazione di vendita: SALTAMIX CON GOJI\nNome o ragione sociale\ndell'OSA a nome del quale il ABBASCIANO SNC\nprodotto è commercializzato:\nLotto di produzione: 28164-353\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ABBASCIANO SNC\nSede dello stabilimento: VIA 8 MARZO, 4 38121 TRENTO (TN)\nData di scadenza o termine minimo di conservazione: 04/2019\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nRiscontrati residui di prodotti fitosanitari oltre la soglia consentita.\nAvvertenze:\nIl richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega\ndi non consumare il prodotto e riportarlo presso il punto vendita\nInserire immagine uno Inserire immagine due"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:19+00:00"
+}

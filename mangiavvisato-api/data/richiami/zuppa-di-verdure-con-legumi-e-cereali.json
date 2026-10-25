@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-di-verdure-con-legumi-e-cereali/",
+ "titolo": "ZUPPA DI VERDURE CON LEGUMI E CEREALI",
+ "data_pubblicazione": "2020-05-19",
+ "marca": "ESSELUNGA SPA",
+ "denominazione": "ZUPPA DI VERDURE CON LEGUMI E CEREALI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/zuppa%20legumi%20Esselunga_1761181309.pdf",
+ "allegati": [
+  {
+   "titolo": "zuppa legumi Esselunga_1761181309.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/zuppa%20legumi%20Esselunga_1761181309.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zuppa-di-verdure-con-legumi-e-cereali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:26:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:26:34+00:00"
+}

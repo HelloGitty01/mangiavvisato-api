@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella/",
+ "titolo": "FORMAGGELLA",
+ "data_pubblicazione": "2018-10-03",
+ "marca": "SOCIETA AGRICOLA F.LLI PONTI",
+ "denominazione": "FORMAGGELLA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SOC%20AGR%20F.LLI%20PONTI%20NOVA%20MILANESE%20formaggella_1761177756.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo SOC AGR F.LLI PONTI NOVA MILANESE formaggella_1761177756.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SOC%20AGR%20F.LLI%20PONTI%20NOVA%20MILANESE%20formaggella_1761177756.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggella",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:46:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:10+00:00"
+}

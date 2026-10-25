@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacine-e-4-spinacine-0/",
+ "titolo": "SPINACINE E 4 SPINACINE",
+ "data_pubblicazione": "2019-06-11",
+ "marca": "AIA",
+ "denominazione": "SPINACINE E 4 SPINACINE",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_A2926_B4003_10_06_19_2%20_2__19_17_B_1761179400.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca_A2926_B4003_10_06_19_2 _2__19_17_B_1761179400.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_A2926_B4003_10_06_19_2%20_2__19_17_B_1761179400.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spinacine-e-4-spinacine-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Spinacine",
+  "operatore": "AIA Spa",
+  "lotti": [
+   "07258020"
+  ],
+  "marchio_identificazione": "IT 752L CE",
+  "produttore": "Agricola Tre Valli Soc. Coop",
+  "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+  "scadenza": "08/06/2019",
+  "peso_volume": "confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.",
+  "motivo_esteso": "Possibile presenza di frammenti di plastica bianca",
+  "avvertenze": "Richiamo revocato per prodotto giunto a scadenza Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "10/06/2019 Marchio del prodotto: AIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 10/06/2019 Marchio del prodotto: AIA\nDenominazione di vendita:Spinacine\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 07258020\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 08/06/2019\nDescrizione peso/volume unità di vendita: confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica bianca\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:37:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:37:58+00:00"
+}

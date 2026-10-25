@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-nocciola/",
+ "titolo": "Bevanda vegetale Orasì Nocciola",
+ "data_pubblicazione": "2018-07-26",
+ "marca": "Orasì",
+ "denominazione": "Bevanda vegetale Orasì Nocciola",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20nocciola%208142_1761177019.pdf",
+ "allegati": [
+  {
+   "titolo": "Orasi nocciola 8142_1761177019.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20nocciola%208142_1761177019.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bevanda-vegetale-orasi-nocciola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:47:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:47:57+00:00"
+}

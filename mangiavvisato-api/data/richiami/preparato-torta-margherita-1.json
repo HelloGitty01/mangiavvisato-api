@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torta-margherita-1/",
+ "titolo": "Preparato per Torta Margherita",
+ "data_pubblicazione": "2019-12-11",
+ "marca": "MOLINO ROSSETTO",
+ "denominazione": "Preparato per Torta Margherita",
+ "motivo": "Revoca per analisi di revisione favorevole",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Richiamo_Notifica_379482_Preparato%20torta%20margherita%20Molino%20Rossetto_1761180453.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca_Richiamo_Notifica_379482_Preparato torta margherita Molino Rossetto_1761180453.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Richiamo_Notifica_379482_Preparato%20torta%20margherita%20Molino%20Rossetto_1761180453.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-torta-margherita-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato per Torta Margherita",
+  "operatore": "Molino Rossetto Spa",
+  "lotti": [
+   "LZ108"
+  ],
+  "produttore": "Molino Rossetto SpA",
+  "sede_stabilimento": "Via San Fausto, 898 - 35029 Pontelongo (Padova)",
+  "scadenza": "18-04-2020",
+  "peso_volume": "400g",
+  "motivo_esteso": "Esito revisione analisi FAVOREVOLE (CONFORME)",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/12/2019 Marchio del prodotto: MOLINO ROSSETTO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 05/12/2019 Marchio del prodotto: MOLINO ROSSETTO\nDenominazione di vendita:Preparato per Torta Margherita\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino Rossetto Spa\ncommercializzato:\nLotto di produzione: LZ108\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Molino Rossetto SpA\nSede dello stabilimento: Via San Fausto, 898 - 35029 Pontelongo (Padova)\nData di scadenza o termine minimo di conservazione: 18-04-2020\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nEsito revisione analisi FAVOREVOLE (CONFORME)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:30:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:30:36+00:00"
+}

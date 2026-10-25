@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-batteria-0/",
+ "titolo": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA",
+ "data_pubblicazione": "2018-10-29",
+ "marca": "AVICOLA SAGITTARIO",
+ "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Sagittario%20Batteria%201_1761177832.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo Sagittario Batteria 1_1761177832.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Sagittario%20Batteria%201_1761177832.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-di-gallina-fresche-da-allevamento-batteria-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA",
+  "operatore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+  "lotti": [
+   "081118/3-111118/3-131118/3"
+  ],
+  "marchio_identificazione": "IT E508V CE",
+  "produttore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+  "sede_stabilimento": "C.DA STRANGOLATA - 67030 BUGNARA (AQ)",
+  "scadenza": "08/11/18-11/11/18-13/11/18",
+  "peso_volume": "UOVA SFUSE IN TRIS DA 30",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO DA SALMONELLA ENTERIDITIS",
+  "campi_extra": {
+   "Data": "29/10/2018 Marchio del prodotto: AVICOLA SAGITTARIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29/10/2018 Marchio del prodotto: AVICOLA SAGITTARIO\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA SAGITTARIO DI GALANTE & C.\ncommercializzato:\nLotto di produzione: 081118/3-111118/3-131118/3\nMarchio di identificazione dello stabilimento/del produttore: IT E508V CE\nNome del produttore: AVICOLA SAGITTARIO DI GALANTE & C.\nSede dello stabilimento: C.DA STRANGOLATA - 67030 BUGNARA (AQ)\nData di scadenza o termine minimo di conservazione: 08/11/18-11/11/18-13/11/18\nDescrizione peso/volume unità di vendita: UOVA SFUSE IN TRIS DA 30\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO DA SALMONELLA ENTERIDITIS\nAvvertenze:\nlotti con scadenza 08/11/2018-11/11/2018-13/11/2018\nRICONSEGNARE IL PRODOTTO DEL PUNTO VENDITA DI ACQUISTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:44:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:44:44+00:00"
+}

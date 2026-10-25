@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia/",
+ "titolo": "Salsiccia",
+ "data_pubblicazione": "2019-06-12",
+ "marca": "F.B.M. LAVORAZIONE CARNI",
+ "denominazione": "Salsiccia",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_2_1761179404.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO DI RICHIAMO_2_1761179404.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_2_1761179404.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salsiccia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:37:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:37:51+00:00"
+}

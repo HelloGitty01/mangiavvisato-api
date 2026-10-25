@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato/",
+ "titolo": "Vitello tonnato",
+ "data_pubblicazione": "2018-07-02",
+ "marca": "Il Ceppo",
+ "denominazione": "Vitello tonnato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl%20_1__1761176821.pdf",
+ "allegati": [
+  {
+   "titolo": "18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl _1__1761176821.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl%20_1__1761176821.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vitello-tonnato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Vitello tonnato",
+  "operatore": "Il Ceppo Srl",
+  "lotti": [
+   "181485005"
+  ],
+  "marchio_identificazione": "IT 9 114 L CE",
+  "produttore": "Il Ceppo",
+  "sede_stabilimento": "Via del Lavoro, 8/10, 36010 Monticello Conte Otto (VI)",
+  "scadenza": "08-07-2018",
+  "peso_volume": "confezione TA 200 g",
+  "motivo_esteso": "presenza di contaminazione microbica (Listeria Monocytogenes <10 u.f.c./g)",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29/06/2018 Marchio del prodotto: Il Ceppo",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29/06/2018 Marchio del prodotto: Il Ceppo\nDenominazione di vendita:Vitello tonnato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Il Ceppo Srl\ncommercializzato:\nLotto di produzione: 181485005\nMarchio di identificazione dello stabilimento/del produttore: IT 9 114 L CE\nNome del produttore: Il Ceppo\nSede dello stabilimento: Via del Lavoro, 8/10, 36010 Monticello Conte Otto (VI)\nData di scadenza o termine minimo di conservazione: 08-07-2018\nDescrizione peso/volume unità di vendita: confezione TA 200 g\nMotivo del richiamo:\npresenza di contaminazione microbica (Listeria Monocytogenes <10 u.f.c./g)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:50:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:07+00:00"
+}

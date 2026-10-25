@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-pizza-tipo-00-di-grano-tenero/",
+ "titolo": "Farina per pizza tipo \"00\" di grano tenero",
+ "data_pubblicazione": "2017-06-12",
+ "marca": "Gran Mugnaio - Molino Spadoni",
+ "denominazione": "Farina per pizza tipo \"00\" di grano tenero",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Spadoni_1761175179.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo Spadoni_1761175179.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Spadoni_1761175179.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-pizza-tipo-00-di-grano-tenero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA PER PIZZA TIPO \"00\" DI GRANO TENERO",
+  "operatore": "MOLINO SPADONI S.p.A. Via Ravegnana, 746 -48125- Coccolia (RA) Italia",
+  "lotti": [
+   "73103"
+  ],
+  "marchio_identificazione": "/",
+  "produttore": "MOLINO SPADONI S.p.A.",
+  "sede_stabilimento": "Via Ravegnana, 746 -48125- Coccolia (RA) Italia",
+  "scadenza": "03-05-2018",
+  "peso_volume": "confezione 1000 g",
+  "motivo_esteso": "tracce di SOIA riscontrate in un campione.",
+  "avvertenze": "I consumatori sono invitati a non consumare il prodotto e a riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "08/06/2017 Marchio del prodotto: GRAN MUGNAIO"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 08/06/2017 Marchio del prodotto: GRAN MUGNAIO\nDenominazione di vendita:FARINA PER PIZZA TIPO \"00\" DI GRANO TENERO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MOLINO SPADONI S.p.A. Via Ravegnana, 746 -48125- Coccolia (RA) Italia\ncommercializzato:\nLotto di produzione: 73103\nMarchio di identificazione dello stabilimento/del produttore: /\nNome del produttore: MOLINO SPADONI S.p.A.\nSede dello stabilimento: Via Ravegnana, 746 -48125- Coccolia (RA) Italia\nData di scadenza o termine minimo di conservazione: 03-05-2018\nDescrizione peso/volume unità di vendita: confezione 1000 g\nMotivo del richiamo:\ntracce di SOIA riscontrate in un campione.\nAvvertenze:\nI consumatori sono invitati a non consumare il prodotto e a riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:58:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:58:45+00:00"
+}

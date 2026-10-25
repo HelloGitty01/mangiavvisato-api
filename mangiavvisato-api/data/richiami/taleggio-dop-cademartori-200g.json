@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-cademartori-200g/",
+ "titolo": "Taleggio DOP Cademartori 200g",
+ "data_pubblicazione": "2020-05-22",
+ "marca": "CADEMARTORI",
+ "denominazione": "Taleggio DOP Cademartori 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galbani%20Taleggio%20Cademartori%20200g_1761181319.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo galbani Taleggio Cademartori 200g_1761181319.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galbani%20Taleggio%20Cademartori%20200g_1761181319.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "taleggio-dop-cademartori-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Taleggio DOP Cademartori 200g",
+  "operatore": "biG S.r.l.",
+  "lotti": [
+   "LA0403 200126",
+   "LA0603 200127"
+  ],
+  "marchio_identificazione": "IT 03 137 CE",
+  "produttore": "Egidio Galbani S.r.l.",
+  "sede_stabilimento": "Via Vittorio Veneto, 13 - Introbio (LC)",
+  "scadenza": "19/06/20 e 20/06/20",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes rilevata in autocontrollo",
+  "avvertenze": "Non consumare il prodotto e restituirlo se possibile al punto vendita. Inserire immagine uno: Inserire immagine due: Powered by TCPDF (www.tcpdf.org)",
+  "campi_extra": {
+   "Data": "20/05/2020 Marchio del prodotto: Cademartori",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 20/05/2020 Marchio del prodotto: Cademartori\nDenominazione di vendita:Taleggio DOP Cademartori 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: LA0403 200126 e LA0603 200127\nMarchio di identificazione dello stabilimento/del produttore: IT 03 137 CE\nNome del produttore: Egidio Galbani S.r.l.\nSede dello stabilimento: Via Vittorio Veneto, 13 - Introbio (LC)\nData di scadenza o termine minimo di conservazione: 19/06/20 e 20/06/20\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes rilevata in autocontrollo\nAvvertenze:\nNon consumare il prodotto e restituirlo se possibile al punto vendita.\nInserire immagine uno: Inserire immagine due:\nPowered by TCPDF (www.tcpdf.org)"
+ },
+ "prima_rilevazione": "2026-10-25T09:26:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:26:31+00:00"
+}

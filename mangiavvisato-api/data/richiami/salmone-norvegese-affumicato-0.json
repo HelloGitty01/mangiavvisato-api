@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-0/",
+ "titolo": "SALMONE NORVEGESE AFFUMICATO",
+ "data_pubblicazione": "2019-02-15",
+ "marca": "HoVa Fine Foods ApS",
+ "denominazione": "SALMONE NORVEGESE AFFUMICATO",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_richiamo_Salmone_ESSELUNGA_1761178637.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca_richiamo_Salmone_ESSELUNGA_1761178637.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_richiamo_Salmone_ESSELUNGA_1761178637.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salmone-norvegese-affumicato-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALMONE NORVEGESE AFFUMICATO",
+  "operatore": "HOVA FINE FOODS APS",
+  "lotti": [
+   "LOTTO 0777 - 022"
+  ],
+  "marchio_identificazione": "LV A024000 EK",
+  "produttore": "SIA KH SELECT",
+  "sede_stabilimento": "MUIZAS IEAZA 18, ADAZI, LV - 2164 (Lettonia)",
+  "scadenza": "07-03-2019",
+  "peso_volume": "200 g",
+  "motivo_esteso": "REVOCA RICHIAMO",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "13/02/2019 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 13/02/2019 Marchio del prodotto:\nDenominazione di vendita:SALMONE NORVEGESE AFFUMICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è HOVA FINE FOODS APS\ncommercializzato:\nLotto di produzione: LOTTO 0777 - 022\nMarchio di identificazione dello stabilimento/del produttore: LV A024000 EK\nNome del produttore: SIA KH SELECT\nSede dello stabilimento: MUIZAS IEAZA 18, ADAZI, LV - 2164 (Lettonia)\nData di scadenza o termine minimo di conservazione: 07-03-2019\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nREVOCA RICHIAMO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:40:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:40:14+00:00"
+}

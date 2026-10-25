@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filone-di-pesce-spada-decongelato/",
+ "titolo": "FILONE DI PESCE SPADA DECONGELATO",
+ "data_pubblicazione": "2018-12-07",
+ "marca": "TURLA PIERINO",
+ "denominazione": "FILONE DI PESCE SPADA DECONGELATO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20FILONE%20PESCE%20SPADA_1761178530.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO DI RICHIAMO FILONE PESCE SPADA_1761178530.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20FILONE%20PESCE%20SPADA_1761178530.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filone-di-pesce-spada-decongelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:42:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:43+00:00"
+}

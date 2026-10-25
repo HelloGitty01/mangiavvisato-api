@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-stagionati/",
+ "titolo": "Bocconcini stagionati",
+ "data_pubblicazione": "2018-07-05",
+ "marca": "Cà del Botto srl",
+ "denominazione": "Bocconcini stagionati",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo%20ministero_1761176826.pdf",
+ "allegati": [
+  {
+   "titolo": "Avviso di richiamo ministero_1761176826.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo%20ministero_1761176826.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bocconcini-stagionati",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bocconcini stagionato",
+  "operatore": "Ca' del Botto srl",
+  "lotti": [
+   "14910"
+  ],
+  "marchio_identificazione": "IT 638 M CE",
+  "produttore": "Ca' del Botto srl",
+  "sede_stabilimento": "via Cunella 10 Ardesio, Bergamo",
+  "scadenza": "09-12-2018",
+  "peso_volume": "salame non confezionato , legato in file",
+  "motivo_esteso": "non conformità microbiologica",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/06/2018 Marchio del prodotto: Ca' del Botto",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 26/06/2018 Marchio del prodotto: Ca' del Botto\nDenominazione di vendita:Bocconcini stagionato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ca' del Botto srl\ncommercializzato:\nLotto di produzione: 14910\nMarchio di identificazione dello stabilimento/del produttore: IT 638 M CE\nNome del produttore: Ca' del Botto srl\nSede dello stabilimento: via Cunella 10 Ardesio, Bergamo\nData di scadenza o termine minimo di conservazione: 09-12-2018\nDescrizione peso/volume unità di vendita: salame non confezionato , legato in file\nMotivo del richiamo:\nnon conformità microbiologica\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:50:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:03+00:00"
+}

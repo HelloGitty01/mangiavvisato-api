@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciotola-di-bambu/",
+ "titolo": "CIOTOLA DI BAMBÙ",
+ "data_pubblicazione": "2019-08-05",
+ "marca": "TEDI s.r.l.",
+ "denominazione": "CIOTOLA DI BAMBÙ",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20tedi%20italia_1761179484.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo tedi italia_1761179484.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20tedi%20italia_1761179484.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ciotola-di-bambu",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:36:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:36:07+00:00"
+}

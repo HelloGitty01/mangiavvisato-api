@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mettwurst-insaccato-crudo-spalmabile/",
+ "titolo": "METTWURST - Insaccato crudo spalmabile",
+ "data_pubblicazione": "2018-07-09",
+ "marca": "KIEM - Kastelbell",
+ "denominazione": "METTWURST - Insaccato crudo spalmabile",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo Kiem_1761176899.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mettwurst-insaccato-crudo-spalmabile",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "METTWURST - Insaccato crudo spalmabile",
+  "operatore": "Metzgerei Kiem, Kastelbell",
+  "lotti": [
+   "25.18"
+  ],
+  "marchio_identificazione": "IT 9-567L (assente tuttavia in etichetta)",
+  "produttore": "Metzgerei KIEM GmbH",
+  "sede_stabilimento": "Strada Statale 96, Castelbello (BZ)",
+  "scadenza": "tutte fino20.8.18",
+  "peso_volume": "Insaccati da ca. 250g/pz",
+  "motivo_esteso": "Presenza di Listeria monocytogenes in 25 g (in 5 u.c.)",
+  "avvertenze": "Il prodotto in vendita è stato ritirato. Nei punti vendita sono stati esposti dei cartelli per informare i clienti ai fini del richiamo. La commercializzazione è avvenuta interamente in 3 negozi al dettaglio, per un totale di 15 kg ca. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09.07.2018 Marchio del prodotto: Metzgerei KIEM, Kastelbell",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09.07.2018 Marchio del prodotto: Metzgerei KIEM, Kastelbell\nDenominazione di vendita:METTWURST - Insaccato crudo spalmabile\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Metzgerei Kiem, Kastelbell\ncommercializzato:\nLotto di produzione: 25.18\nMarchio di identificazione dello stabilimento/del produttore: IT 9-567L (assente tuttavia in etichetta)\nNome del produttore: Metzgerei KIEM GmbH\nSede dello stabilimento: Strada Statale 96, Castelbello (BZ)\nData di scadenza o termine minimo di conservazione: tutte fino20.8.18\nDescrizione peso/volume unità di vendita: Insaccati da ca. 250g/pz\nMotivo del richiamo:\nPresenza di Listeria monocytogenes in 25 g (in 5 u.c.)\nAvvertenze:\nIl prodotto in vendita è stato ritirato. Nei punti vendita sono stati esposti dei cartelli per informare i clienti\nai fini del richiamo. La commercializzazione è avvenuta interamente in 3 negozi al dettaglio, per un totale\ndi 15 kg ca.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:49:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:49:20+00:00"
+}

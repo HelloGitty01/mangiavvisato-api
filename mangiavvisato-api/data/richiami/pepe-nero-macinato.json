@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-nero-macinato/",
+ "titolo": "pepe nero macinato",
+ "data_pubblicazione": "2017-12-13",
+ "marca": "cucina e sapori",
+ "denominazione": "pepe nero macinato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20pepe%20ministero_1761176069.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo pepe ministero_1761176069.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20pepe%20ministero_1761176069.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pepe-nero-macinato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:54:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:54:34+00:00"
+}

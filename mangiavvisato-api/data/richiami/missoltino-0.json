@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/missoltino-0/",
+ "titolo": "MISSOLTINO",
+ "data_pubblicazione": "2018-07-25",
+ "marca": "MISULTIN STORE SRL",
+ "denominazione": "MISSOLTINO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%202_1761176994.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo 2_1761176994.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%202_1761176994.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "missoltino-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:48:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:48:03+00:00"
+}

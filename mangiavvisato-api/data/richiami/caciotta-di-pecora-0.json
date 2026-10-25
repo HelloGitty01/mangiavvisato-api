@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-0/",
+ "titolo": "Caciotta di pecora",
+ "data_pubblicazione": "2018-07-12",
+ "marca": "MOSERHOF",
+ "denominazione": "Caciotta di pecora",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20richiamo%20Moserhof_1761176929.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello revoca richiamo Moserhof_1761176929.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20richiamo%20Moserhof_1761176929.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "caciotta-di-pecora-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Caciotta",
+  "operatore": "Michael Oberhollenzer, Moserhof",
+  "lotti": [
+   "Prod. 03.05.18 - Conf. 07.05.18"
+  ],
+  "marchio_identificazione": "CE IT D7W06",
+  "produttore": "Moserhof, Michael Oberhollenzer",
+  "sede_stabilimento": "Oberdorf 17, 39030 Steinhaus/Valle Aurina",
+  "scadenza": "06.06.18",
+  "peso_volume": "ca. 190 g",
+  "motivo_esteso": "prodotto ritirato dal commercio (e scaduto)",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 09.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"\nDenominazione di vendita:Caciotta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Michael Oberhollenzer, Moserhof\ncommercializzato:\nLotto di produzione: Prod. 03.05.18 - Conf. 07.05.18\nMarchio di identificazione dello stabilimento/del produttore: CE IT D7W06\nNome del produttore: Moserhof, Michael Oberhollenzer\nSede dello stabilimento: Oberdorf 17, 39030 Steinhaus/Valle Aurina\nData di scadenza o termine minimo di conservazione: 06.06.18\nDescrizione peso/volume unità di vendita: ca. 190 g\nMotivo del richiamo:\nprodotto ritirato dal commercio (e scaduto)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:48:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:48:36+00:00"
+}

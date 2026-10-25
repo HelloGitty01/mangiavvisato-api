@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/4-mixed-vegetables/",
+ "titolo": "4 MIXED VEGETABLES",
+ "data_pubblicazione": "2018-07-09",
+ "marca": "PINGUIN",
+ "denominazione": "4 MIXED VEGETABLES",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO PINGUIN_1761176893.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "4-mixed-vegetables",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "4 MIXED VEGETABLES",
+  "operatore": "GREENYARD FROZEN BELGIUM",
+  "lotti": [
+   "W171583 8G"
+  ],
+  "produttore": "GREENYARD FROZEN BELGIUM N.V.",
+  "sede_stabilimento": "Nagy István utca 36, 6500 Baja, Hungary",
+  "scadenza": "06-07-2019",
+  "peso_volume": "4 MIXED VEGETABLES/ KG 2,5",
+  "motivo_esteso": "Presenza di Listeria monocytogenes in mais congelato",
+  "avvertenze": "RITIRO IMMEDIATO DEL PRODOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/07/2018 Marchio del prodotto: PINGUIN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/07/2018 Marchio del prodotto: PINGUIN\nDenominazione di vendita:4 MIXED VEGETABLES\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GREENYARD FROZEN BELGIUM\ncommercializzato:\nLotto di produzione: W171583 8G\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: GREENYARD FROZEN BELGIUM N.V.\nSede dello stabilimento: Nagy István utca 36, 6500 Baja, Hungary\nData di scadenza o termine minimo di conservazione: 06-07-2019\nDescrizione peso/volume unità di vendita: 4 MIXED VEGETABLES/ KG 2,5\nMotivo del richiamo:\nPresenza di Listeria monocytogenes in mais congelato\nAvvertenze:\nRITIRO IMMEDIATO DEL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:49:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:49:17+00:00"
+}

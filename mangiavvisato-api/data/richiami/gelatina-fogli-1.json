@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-1/",
+ "titolo": "Gelatina in fogli",
+ "data_pubblicazione": "2018-11-22",
+ "marca": "Paneangeli",
+ "denominazione": "Gelatina in fogli",
+ "motivo": "Revoca per analisi di revisione favorevole",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177892.pdf",
+ "allegati": [
+  {
+   "titolo": "REVOCA RICHIAMO_1761177892.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177892.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gelatina-fogli-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gelatina in fogli",
+  "operatore": "Cameo S.p.a.",
+  "lotti": [
+   "24052/3"
+  ],
+  "marchio_identificazione": "DE RP-EV11-001G EG",
+  "produttore": "Ewald-Gelatine GmbH",
+  "sede_stabilimento": "Meddersheimer Str. 50 - D-55566 Bad Sobernheim",
+  "scadenza": "05-06-2021",
+  "peso_volume": "12 g",
+  "motivo_esteso": "sospetta presenza di salmonella",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/11/2018 Marchio del prodotto: Paneangeli",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 22/11/2018 Marchio del prodotto: Paneangeli\nDenominazione di vendita:Gelatina in fogli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cameo S.p.a.\ncommercializzato:\nLotto di produzione: 24052/3\nMarchio di identificazione dello stabilimento/del produttore: DE RP-EV11-001G EG\nNome del produttore: Ewald-Gelatine GmbH\nSede dello stabilimento: Meddersheimer Str. 50 - D-55566 Bad Sobernheim\nData di scadenza o termine minimo di conservazione: 05-06-2021\nDescrizione peso/volume unità di vendita: 12 g\nMotivo del richiamo:\nsospetta presenza di salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:43:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:43:43+00:00"
+}

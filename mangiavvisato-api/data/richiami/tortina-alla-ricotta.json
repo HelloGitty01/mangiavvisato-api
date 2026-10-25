@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta/",
+ "titolo": "Tortina alla ricotta",
+ "data_pubblicazione": "2019-01-23",
+ "marca": "Stabinger",
+ "denominazione": "Tortina alla ricotta",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761178564.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_1761178564.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761178564.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tortina-alla-ricotta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TORTINA ALLA RICOTTA",
+  "operatore": "STABINGER SRL",
+  "lotti": [
+   "coincide con il TMC"
+  ],
+  "produttore": "STABINGER SRL",
+  "sede_stabilimento": "Via Anderter 11, 39030 Sesto (BZ)",
+  "scadenza": "31-01-2019",
+  "peso_volume": "300g",
+  "motivo_esteso": "Il prodotto contiene glutine. Errore di etichettatura: presenza dicitura senza glutine e termine minimo di conservazione errato (31/01/19 e 02/02/19)",
+  "avvertenze": "Non consumare il prodotto se si é intolleranti al glutine. Si prega di riportarlo al punto vendita. Per ulteriori informazioni rivolgersi al fornitore STABINGER SRL - recapito telefonico: 0474 710 352, e-mail: info@stabinger.it Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/01/2019 Marchio del prodotto: STABINGER",
+   "Errore di etichettatura": "presenza dicitura senza glutine e termine minimo di conservazione errato",
+   "recapito telefonico": "0474 710 352, e-mail: info@stabinger.it",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/01/2019 Marchio del prodotto: STABINGER\nDenominazione di vendita:TORTINA ALLA RICOTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è STABINGER SRL\ncommercializzato:\nLotto di produzione: coincide con il TMC\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: STABINGER SRL\nSede dello stabilimento: Via Anderter 11, 39030 Sesto (BZ)\nData di scadenza o termine minimo di conservazione: 31-01-2019\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nIl prodotto contiene glutine.\nErrore di etichettatura: presenza dicitura senza glutine e termine minimo di conservazione errato\n(31/01/19 e 02/02/19)\nAvvertenze:\nNon consumare il prodotto se si é intolleranti al glutine.\nSi prega di riportarlo al punto vendita. Per ulteriori informazioni rivolgersi al fornitore STABINGER SRL -\nrecapito telefonico: 0474 710 352, e-mail: info@stabinger.it\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:29+00:00"
+}

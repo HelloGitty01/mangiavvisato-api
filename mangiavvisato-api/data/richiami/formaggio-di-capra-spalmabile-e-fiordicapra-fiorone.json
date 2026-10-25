@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-di-capra-spalmabile-e-fiordicapra-fiorone/",
+ "titolo": "Formaggio di capra spalmabile e Fiordicapra fiorone",
+ "data_pubblicazione": "2019-11-19",
+ "marca": "IT 03 1881 CE",
+ "denominazione": "Formaggio di capra spalmabile e Fiordicapra fiorone",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ARRIGONI%20BATTISTA%20Modello%20di%20Richiamo%20caprino%20fresco%20spalmabile%20di%20capra%204_dic_1761180383.pdf",
+ "allegati": [
+  {
+   "titolo": "ARRIGONI BATTISTA Modello di Richiamo caprino fresco spalmabile di capra 4_dic_1761180383.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ARRIGONI%20BATTISTA%20Modello%20di%20Richiamo%20caprino%20fresco%20spalmabile%20di%20capra%204_dic_1761180383.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-di-capra-spalmabile-e-fiordicapra-fiorone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAPRINO FRESCO SPALMABILE CAPRA",
+  "operatore": "ARRIGONI BATTISTA SPA",
+  "lotti": [
+   "2210"
+  ],
+  "marchio_identificazione": "IT 03 1881 CE",
+  "produttore": "CASEIFICIO CATTANEO SRL",
+  "sede_stabilimento": "VIA M. BIAGI, 18 LOMAGNA (LC)",
+  "scadenza": "04-12-2019",
+  "peso_volume": "1000 g",
+  "motivo_esteso": "Rischio chimico per possibile presenza di inibenti nel prodotto",
+  "avvertenze": "Non consumare e restituire al punto vendita. Persone di riferimento: Ornella Togni: ornella.togni@arrigoniformaggi.it - tel.: 0363383937 Marco Arrigoni: marco.arrigoni@arrigoniformaggi.it - tel. 3473537496 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/11/2019 Marchio del prodotto: ARRIGONI",
+   "Ornella Togni": "ornella.togni@arrigoniformaggi.it - tel.: 0363383937",
+   "Marco Arrigoni": "marco.arrigoni@arrigoniformaggi.it - tel. 3473537496",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14/11/2019 Marchio del prodotto: ARRIGONI\nDenominazione di vendita:CAPRINO FRESCO SPALMABILE CAPRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ARRIGONI BATTISTA SPA\ncommercializzato:\nLotto di produzione: 2210\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1881 CE\nNome del produttore: CASEIFICIO CATTANEO SRL\nSede dello stabilimento: VIA M. BIAGI, 18 LOMAGNA (LC)\nData di scadenza o termine minimo di conservazione: 04-12-2019\nDescrizione peso/volume unità di vendita: 1000 g\nMotivo del richiamo:\nRischio chimico per possibile presenza di inibenti nel prodotto\nAvvertenze:\nNon consumare e restituire al punto vendita.\nPersone di riferimento:\nOrnella Togni: ornella.togni@arrigoniformaggi.it - tel.: 0363383937\nMarco Arrigoni: marco.arrigoni@arrigoniformaggi.it - tel. 3473537496\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:31:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:28+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-speciali/",
+ "titolo": "Funghi porcini speciali",
+ "data_pubblicazione": "2018-09-10",
+ "marca": "BARESA",
+ "denominazione": "Funghi porcini speciali",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo funghi porcini secchi_1761177733.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "funghi-porcini-speciali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:46:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:43+00:00"
+}

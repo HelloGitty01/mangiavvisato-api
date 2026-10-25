@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-alimentare/",
+ "titolo": "Ghiaccio Alimentare",
+ "data_pubblicazione": "2019-09-24",
+ "marca": "ICE CUBE SRL",
+ "denominazione": "Ghiaccio Alimentare",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ghiaccio-alimentare",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:33:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:23+00:00"
+}

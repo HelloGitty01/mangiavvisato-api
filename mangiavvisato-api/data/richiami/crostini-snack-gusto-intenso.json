@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-gusto-intenso/",
+ "titolo": "Crostini snack gusto intenso",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "San Giorgio",
+ "denominazione": "Crostini snack gusto intenso",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio%20Intenso_1761175112.pdf",
+ "allegati": [
+  {
+   "titolo": "San Giorgio Intenso_1761175112.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio%20Intenso_1761175112.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini-snack-gusto-intenso",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO INTENSO)",
+  "operatore": "SAN GIORGIO SRL",
+  "lotti": [
+   "055016-010417"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+  "peso_volume": "35G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: SAN GIORGIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: SAN GIORGIO\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO INTENSO)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SAN GIORGIO SRL\ncommercializzato:\nLotto di produzione: 055016-010417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 35G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 055016 - SCADENZA 16/08/17\nLOTTO 010417 - SCADENZA 23/09/17\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:14+00:00"
+}

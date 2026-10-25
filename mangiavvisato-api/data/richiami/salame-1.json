@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-1/",
+ "titolo": "SALAME",
+ "data_pubblicazione": "2019-12-20",
+ "marca": "MACELLERIA PERUCCHETTI GIUSEPPE & C SNC",
+ "denominazione": "SALAME",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761180509.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1761180509.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761180509.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:30:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:30:04+00:00"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-10-kg/",
+ "titolo": "bacche di goji 10 kg",
+ "data_pubblicazione": "2019-02-01",
+ "marca": "Abbasciano",
+ "denominazione": "bacche di goji 10 kg",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20KG.10_1761178577.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO BACCHE GOJI KG.10_1761178577.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20KG.10_1761178577.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bacche-di-goji-10-kg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BACCHE DI GOJI Nome o ragione sociale dell'OSA a nome del quale il ABBASCIANO SNC prodotto è commercializzato",
+  "lotti": [
+   "170608-310"
+  ],
+  "produttore": "ABBASCIANO SNC",
+  "sede_stabilimento": "VIA 8 MARZO, 4 38121 TRENTO (TN)",
+  "scadenza": "11/2019",
+  "peso_volume": "10 Kg",
+  "motivo_esteso": "Riscontrati residui di prodotti fitosanitari oltre la soglia consentita.",
+  "avvertenze": "Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega di non consumare il prodotto e riportarlo presso il punto vendita Inserire immagine uno Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/01/2019 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 31/01/2019 Marchio del prodotto:\nDenominazione di vendita: BACCHE DI GOJI\nNome o ragione sociale\ndell'OSA a nome del quale il ABBASCIANO SNC\nprodotto è commercializzato:\nLotto di produzione: 170608-310\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ABBASCIANO SNC\nSede dello stabilimento: VIA 8 MARZO, 4 38121 TRENTO (TN)\nData di scadenza o termine minimo di conservazione: 11/2019\nDescrizione peso/volume unità di vendita: 10 Kg\nMotivo del richiamo:\nRiscontrati residui di prodotti fitosanitari oltre la soglia consentita.\nAvvertenze:\nIl richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega\ndi non consumare il prodotto e riportarlo presso il punto vendita\nInserire immagine uno Inserire immagine due"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:16+00:00"
+}

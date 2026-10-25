@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze/",
+ "titolo": "COZZE",
+ "data_pubblicazione": "2020-08-14",
+ "marca": "EFFELLE PESCA SRL",
+ "denominazione": "COZZE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20RETE_1761181441.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_MBV RETE_1761181441.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20RETE_1761181441.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "cozze",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:24:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:24:37+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-bovino-adulto/",
+ "titolo": "TARTARE BOVINO ADULTO",
+ "data_pubblicazione": "2019-06-12",
+ "marca": "LIDL ITALIA SRL",
+ "denominazione": "TARTARE BOVINO ADULTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_tartare_1761179406.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO_tartare_1761179406.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_tartare_1761179406.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tartare-bovino-adulto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "Allegato 4\n12/06/19\nTartare di bovino adulto\nLidl Italia Srl\n1071215\nIT 1859 S CE\nRosso SPA\nVia Traves 43 I Torino\n13/06/19\n200g\nNon conformità microbiologica (Presenza di Listeria monocytogenes su una unità campionaria, <10ufc/g)"
+ },
+ "prima_rilevazione": "2026-10-25T09:37:54+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:37:54+00:00"
+}

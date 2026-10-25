@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-avicola/",
+ "titolo": "Carne avicola",
+ "data_pubblicazione": "2017-07-13",
+ "marca": "Viustino 65 S.S.",
+ "denominazione": "Carne avicola",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc00387820170713113615_1761175206.pdf",
+ "allegati": [
+  {
+   "titolo": "doc00387820170713113615_1761175206.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc00387820170713113615_1761175206.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "carne-avicola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:58:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:58:23+00:00"
+}

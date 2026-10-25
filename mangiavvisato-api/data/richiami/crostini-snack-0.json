@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-0/",
+ "titolo": "Crostini snack",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "Selex",
+ "denominazione": "Crostini snack",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SELEX_1761175113.pdf",
+ "allegati": [
+  {
+   "titolo": "SELEX_1761175113.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SELEX_1761175113.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini-snack-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+  "operatore": "SELEX SRL",
+  "lotti": [
+   "065016-045116-015116-010417"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+  "peso_volume": "75G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: SELEX",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: SELEX\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX SRL\ncommercializzato:\nLotto di produzione: 065016-045116-015116-010417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 065016 - SCADENZA 17/08/17\nLOTTO 045116 - SCADENZA 22/08/17\nLOTTO 015116 - SCADENZA 19/08/17\nLOTTO 010417 - SCADENZA 23/09/17\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:17+00:00"
+}

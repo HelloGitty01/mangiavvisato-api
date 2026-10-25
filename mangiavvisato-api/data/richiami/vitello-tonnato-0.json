@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-0/",
+ "titolo": "VITELLO TONNATO",
+ "data_pubblicazione": "2018-11-21",
+ "marca": "GASTRONOMIA D'ITALIA",
+ "denominazione": "VITELLO TONNATO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177876.pdf",
+ "allegati": [
+  {
+   "titolo": "LA SORGENTE_richiamo_Vit tonnato_ 21.11.18_1761177876.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177876.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "vitello-tonnato-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VITELLO TONNATO 230 g",
+  "operatore": "SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)",
+  "lotti": [
+   "18048"
+  ],
+  "marchio_identificazione": "BOLLO CE IT358L CE",
+  "produttore": "LA SORGENTE SRL",
+  "sede_stabilimento": "VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)",
+  "scadenza": "24 e 26/11/18",
+  "peso_volume": "230 g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo presso il punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/11/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 21/11/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA\nDenominazione di vendita:VITELLO TONNATO 230 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)\ncommercializzato:\nLotto di produzione: 18048\nMarchio di identificazione dello stabilimento/del produttore: BOLLO CE IT358L CE\nNome del produttore: LA SORGENTE SRL\nSede dello stabilimento: VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)\nData di scadenza o termine minimo di conservazione: 24 e 26/11/18\nDescrizione peso/volume unità di vendita: 230 g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo presso il punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:44:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:44:00+00:00"
+}

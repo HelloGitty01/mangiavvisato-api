@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrale/",
+ "titolo": "SALAME NOSTRALE",
+ "data_pubblicazione": "2017-12-05",
+ "marca": "La Bottega di Adò",
+ "denominazione": "SALAME NOSTRALE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salame_Nostrale_1761176052.pdf",
+ "allegati": [
+  {
+   "titolo": "Salame_Nostrale_1761176052.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salame_Nostrale_1761176052.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salame-nostrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:54:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:54:50+00:00"
+}

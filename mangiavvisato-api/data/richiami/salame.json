@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame/",
+ "titolo": "SALAME",
+ "data_pubblicazione": "2017-12-11",
+ "marca": "MACELLERIA ZANIN VALENTINO",
+ "denominazione": "SALAME",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ZANIN_1761176055.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO ZANIN_1761176055.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ZANIN_1761176055.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME",
+  "operatore": "MACELLERIA ZANIN VALENTINO",
+  "lotti": [
+   "29/08/2017"
+  ],
+  "marchio_identificazione": "9-2804L",
+  "produttore": "ZANIN VALENTINO",
+  "sede_stabilimento": "VIA TAGLIAMENTO 10 - CAMINO AL TAGLIAMENTO (UD)",
+  "peso_volume": "VARIABILE",
+  "motivo_esteso": "PRESENZA DI SALMONELLA RISSEN",
+  "avvertenze": "RITIRO DEL PRODOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/12/2017 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/12/2017 Marchio del prodotto:\nDenominazione di vendita:SALAME\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MACELLERIA ZANIN VALENTINO\ncommercializzato:\nLotto di produzione: 29/08/2017\nMarchio di identificazione dello stabilimento/del produttore: 9-2804L\nNome del produttore: ZANIN VALENTINO\nSede dello stabilimento: VIA TAGLIAMENTO 10 - CAMINO AL TAGLIAMENTO (UD)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: VARIABILE\nMotivo del richiamo:\nPRESENZA DI SALMONELLA RISSEN\nAvvertenze:\nRITIRO DEL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:54:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:54:47+00:00"
+}

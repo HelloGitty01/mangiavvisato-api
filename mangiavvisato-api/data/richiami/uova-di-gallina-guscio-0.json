@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-0/",
+ "titolo": "Uova di gallina in guscio",
+ "data_pubblicazione": "2017-09-22",
+ "marca": "vari marchi",
+ "denominazione": "Uova di gallina in guscio",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175952.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo cisam 22_09_2017_1761175952.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175952.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-di-gallina-guscio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA DI GALLINA IN GUSCIO VARIE CONF.",
+  "operatore": "CISAM Società agricola a.r.l. s",
+  "lotti": [
+   "dal 22-09-2017 al 17-10-2017"
+  ],
+  "marchio_identificazione": "IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L",
+  "produttore": "CISAM Società agricola a.r.l.",
+  "sede_stabilimento": "S.S. Casilina-km.158+620 Mignano Monte Lungo 81049",
+  "peso_volume": "VARIE TIPOLOGIE",
+  "motivo_esteso": "RISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.",
+  "avvertenze": "Le uova vanno riconsegnate al punto di acquisto",
+  "campi_extra": {
+   "Data": "22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO",
+   "RISCHIO GRAVE": "valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg."
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO\nDenominazione di vendita:UOVA DI GALLINA IN GUSCIO VARIE CONF.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CISAM Società agricola a.r.l. s\ncommercializzato:\nLotto di produzione: dal 22-09-2017 al 17-10-2017\nMarchio di identificazione dello stabilimento/del produttore: IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L\nNome del produttore: CISAM Società agricola a.r.l.\nSede dello stabilimento: S.S. Casilina-km.158+620 Mignano Monte Lungo 81049\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: VARIE TIPOLOGIE\nMotivo del richiamo:\nRISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.\nAvvertenze:\nLe uova vanno riconsegnate al punto di acquisto"
+ },
+ "prima_rilevazione": "2026-10-25T09:56:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:56:48+00:00"
+}

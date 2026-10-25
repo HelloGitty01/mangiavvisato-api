@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo/",
+ "titolo": "Salame Campagnolo",
+ "data_pubblicazione": "2019-08-07",
+ "marca": "Salumi Pasini",
+ "denominazione": "Salame Campagnolo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20SALAME%20CAMPAGNOLO%20LOTTO%20N.%201056_1761179503.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO SALAME CAMPAGNOLO LOTTO N. 1056_1761179503.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20SALAME%20CAMPAGNOLO%20LOTTO%20N.%201056_1761179503.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-campagnolo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:35:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:35:44+00:00"
+}

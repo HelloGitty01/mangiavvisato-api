@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rustici-cocco-bio/",
+ "titolo": "Rustici cocco Bio",
+ "data_pubblicazione": "2019-11-26",
+ "marca": "Bio's Merenderia",
+ "denominazione": "Rustici cocco Bio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Rustici%20Bio_s_1761180423.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Rustici Bio_s_1761180423.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Rustici%20Bio_s_1761180423.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "rustici-cocco-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:31:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:04+00:00"
+}

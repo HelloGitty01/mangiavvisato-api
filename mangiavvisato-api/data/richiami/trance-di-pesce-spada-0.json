@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-0/",
+ "titolo": "Trance di pesce spada",
+ "data_pubblicazione": "2018-12-04",
+ "marca": "EFFETI SURGELATI",
+ "denominazione": "Trance di pesce spada",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/EFFETI_1761177946.pdf",
+ "allegati": [
+  {
+   "titolo": "EFFETI_1761177946.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/EFFETI_1761177946.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trance-di-pesce-spada-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Trance di pesce spada",
+  "operatore": "EFFETI SURGELATI",
+  "lotti": [
+   "70898/70899/72476/72477/72478/72838/73409/74330/75185"
+  ],
+  "marchio_identificazione": "IT W2V5V CE",
+  "produttore": "EFFETI SURGELATI",
+  "sede_stabilimento": "via San Morese 66 - Calenzano (Fi)",
+  "scadenza": "27-05-2017",
+  "peso_volume": "sacchetti trasparenti per alimenti",
+  "motivo_esteso": "presenza di mercurio oltre i limiti",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/12/2018 Marchio del prodotto: Trance di pesce spada",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nREVOCA DI RICHIAMO\nData: 04/12/2018 Marchio del prodotto: Trance di pesce spada\nDenominazione di vendita:Trance di pesce spada\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EFFETI SURGELATI\ncommercializzato:\nLotto di produzione: 70898/70899/72476/72477/72478/72838/73409/74330/75185\nMarchio di identificazione dello stabilimento/del produttore: IT W2V5V CE\nNome del produttore: EFFETI SURGELATI\nSede dello stabilimento: via San Morese 66 - Calenzano (Fi)\nData di scadenza o termine minimo di conservazione: 27-05-2017\nDescrizione peso/volume unità di vendita: sacchetti trasparenti per alimenti\nMotivo del richiamo:\npresenza di mercurio oltre i limiti\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:42:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:53+00:00"
+}

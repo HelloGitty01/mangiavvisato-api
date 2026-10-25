@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio/",
+ "titolo": "Uova fresche in guscio",
+ "data_pubblicazione": "2018-09-12",
+ "marca": "Ovo Fucens Soc. sempl.",
+ "denominazione": "Uova fresche in guscio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf",
+ "allegati": [
+  {
+   "titolo": "Digitalizzato_20180912_1761177735.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-guscio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:46:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:32+00:00"
+}

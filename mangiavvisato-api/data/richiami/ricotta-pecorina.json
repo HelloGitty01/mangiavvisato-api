@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-pecorina/",
+ "titolo": "RICOTTA PECORINA",
+ "data_pubblicazione": "2017-08-31",
+ "marca": "ORO BRAND",
+ "denominazione": "RICOTTA PECORINA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOCUMENTO%20RICHIAMO_1761175262.pdf",
+ "allegati": [
+  {
+   "titolo": "DOCUMENTO RICHIAMO_1761175262.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOCUMENTO%20RICHIAMO_1761175262.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ricotta-pecorina",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:57:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/birra-franken-pilsner-50-cl/",
+ "titolo": "Birra Franken Pilsner 50 cl",
+ "data_pubblicazione": "2019-11-07",
+ "marca": "Franken Brau",
+ "denominazione": "Birra Franken Pilsner 50 cl",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/D6348%20_%20PILSNER_1761180350.pdf",
+ "allegati": [
+  {
+   "titolo": "D6348 _ PILSNER_1761180350.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/D6348%20_%20PILSNER_1761180350.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "birra-franken-pilsner-50-cl",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:32:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:22+00:00"
+}

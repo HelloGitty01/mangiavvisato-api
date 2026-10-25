@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-pizza/",
+ "titolo": "Cros&tini Pizza",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "Ica foods Spa - Crik Crok",
+ "denominazione": "Cros&tini Pizza",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20PIZZA_1761175106.pdf",
+ "allegati": [
+  {
+   "titolo": "ICA PIZZA_1761175106.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20PIZZA_1761175106.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini-pizza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTIMO - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO PIZZA)",
+  "operatore": "ICA FOODS SPA",
+  "lotti": [
+   "050417"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)",
+  "scadenza": "27/09/17",
+  "peso_volume": "75G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: CROS&TINI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: CROS&TINI\nDenominazione di vendita:CROSTIMO - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO PIZZA)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ICA FOODS SPA\ncommercializzato:\nLotto di produzione: 050417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 27/09/17\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:03+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamelle-e-salsiccia/",
+ "titolo": "Salamelle e Salsiccia",
+ "data_pubblicazione": "2017-08-04",
+ "marca": "F.lli Rizzi (carne proveniente da macello Sassi spa di Colorno (PR)",
+ "denominazione": "Salamelle e Salsiccia",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamo%20rizzi_1761175244.pdf",
+ "allegati": [
+  {
+   "titolo": "avviso richiamo rizzi_1761175244.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20richiamo%20rizzi_1761175244.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salamelle-e-salsiccia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMELLE E SALSICCIA",
+  "operatore": "F.LLI RIZZI SRL",
+  "lotti": [
+   "240517",
+   "250517"
+  ],
+  "marchio_identificazione": "F.LLI RIZZI SRL",
+  "produttore": "F.LLI RIZZI SRL (TRITO ACQUISTATO DA MACELLO SASSI SPA - COLORNO PR )",
+  "sede_stabilimento": "VIA CIURLINA, 105 GHISALBA (BG)",
+  "scadenza": "30-05-2017",
+  "peso_volume": "KG",
+  "motivo_esteso": "MATERIA PRIMA ACQUISTATA DA MACELLO SASSI SPA CON PRESENZA DI SULFAMIDICI",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/07/2017 Marchio del prodotto: F.LLI RIZZI SRL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 26/07/2017 Marchio del prodotto: F.LLI RIZZI SRL\nDenominazione di vendita:SALAMELLE E SALSICCIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.LLI RIZZI SRL\ncommercializzato:\nLotto di produzione: 240517 e 250517\nMarchio di identificazione dello stabilimento/del produttore: F.LLI RIZZI SRL\nNome del produttore: F.LLI RIZZI SRL (TRITO ACQUISTATO DA MACELLO SASSI SPA - COLORNO PR )\nSede dello stabilimento: VIA CIURLINA, 105 GHISALBA (BG)\nData di scadenza o termine minimo di conservazione: 30-05-2017\nDescrizione peso/volume unità di vendita: KG\nMotivo del richiamo:\nMATERIA PRIMA ACQUISTATA DA MACELLO SASSI SPA CON PRESENZA DI SULFAMIDICI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:57:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:55+00:00"
+}

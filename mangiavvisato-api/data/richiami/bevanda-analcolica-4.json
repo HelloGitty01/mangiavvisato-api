@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-4/",
+ "titolo": "Bevanda analcolica",
+ "data_pubblicazione": "2020-02-18",
+ "marca": "Coca-Cola Original Taste",
+ "denominazione": "Bevanda analcolica",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L200109_7_1761181207.pdf",
+ "allegati": [
+  {
+   "titolo": "cartelli di richiamo COCA COLA e L200109_7_1761181207.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartelli%20di%20richiamo%20COCA%20COLA%20e%20L200109_7_1761181207.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bevanda-analcolica-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:28:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:28:38+00:00"
+}

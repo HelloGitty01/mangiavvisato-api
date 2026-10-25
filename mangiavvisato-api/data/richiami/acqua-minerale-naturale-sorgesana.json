@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-sorgesana/",
+ "titolo": "Acqua minerale naturale Sorgesana",
+ "data_pubblicazione": "2019-09-16",
+ "marca": "Sorgesana",
+ "denominazione": "Acqua minerale naturale Sorgesana",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_1761179655.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_1761179655.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_1761179655.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "acqua-minerale-naturale-sorgesana",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:33:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-san-lorenzo/",
+ "titolo": "Salame San lorenzo",
+ "data_pubblicazione": "2019-06-17",
+ "marca": "Santini",
+ "denominazione": "Salame San lorenzo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumificio_Santini_Cartello_richiamo%20_1761179409.pdf",
+ "allegati": [
+  {
+   "titolo": "Salumificio_Santini_Cartello_richiamo _1761179409.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumificio_Santini_Cartello_richiamo%20_1761179409.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-san-lorenzo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:37:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:37:44+00:00"
+}

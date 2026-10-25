@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marlin-affumicato-premium-0/",
+ "titolo": "MARLIN AFFUMICATO PREMIUM",
+ "data_pubblicazione": "2018-12-05",
+ "marca": "GASTONE BERNARDINI",
+ "denominazione": "MARLIN AFFUMICATO PREMIUM",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MARLIN_1761177990.pdf",
+ "allegati": [
+  {
+   "titolo": "MARLIN_1761177990.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MARLIN_1761177990.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "marlin-affumicato-premium-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MARLIN AFFUMICATO",
+  "operatore": "BERNARDINI GASTONE",
+  "lotti": [
+   "03082018/09082018"
+  ],
+  "marchio_identificazione": "IT 1292 L CE",
+  "produttore": "BERNARDINI GASTONE",
+  "sede_stabilimento": "via Lavoria 83/85 Cenaia - Crespina Lorenzana (Pi)",
+  "scadenza": "02-12-2018",
+  "peso_volume": "Pezzi singoli",
+  "motivo_esteso": "Presenza di salmonella",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/12/2018 Marchio del prodotto: BERNARDINI GASTONE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 05/12/2018 Marchio del prodotto: BERNARDINI GASTONE\nDenominazione di vendita:MARLIN AFFUMICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BERNARDINI GASTONE\ncommercializzato:\nLotto di produzione: 03082018/09082018\nMarchio di identificazione dello stabilimento/del produttore: IT 1292 L CE\nNome del produttore: BERNARDINI GASTONE\nSede dello stabilimento: via Lavoria 83/85 Cenaia - Crespina Lorenzana (Pi)\nData di scadenza o termine minimo di conservazione: 02-12-2018\nDescrizione peso/volume unità di vendita: Pezzi singoli\nMotivo del richiamo:\nPresenza di salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:42:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:50+00:00"
+}

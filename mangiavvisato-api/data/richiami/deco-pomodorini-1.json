@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-pomodorini-1/",
+ "titolo": "DECO' Pomodorini",
+ "data_pubblicazione": "2018-10-24",
+ "marca": "FUTURAGRI",
+ "denominazione": "DECO' Pomodorini",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_2_1761177811.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo_2_1761177811.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_2_1761177811.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "deco-pomodorini-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:44:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:44:51+00:00"
+}

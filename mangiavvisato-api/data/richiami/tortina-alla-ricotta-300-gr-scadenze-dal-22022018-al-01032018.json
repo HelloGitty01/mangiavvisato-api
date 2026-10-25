@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta-300-gr-scadenze-dal-22022018-al-01032018/",
+ "titolo": "Tortina alla ricotta 300 gr. (scadenze dal 22.02.2018 al 01.03.2018)",
+ "data_pubblicazione": "2018-02-19",
+ "marca": "Stabinger",
+ "denominazione": "Tortina alla ricotta 300 gr. (scadenze dal 22.02.2018 al 01.03.2018)",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tortina%20alla%20ricotta%20300%20gr_1761176149.pdf",
+ "allegati": [
+  {
+   "titolo": "Tortina alla ricotta 300 gr_1761176149.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tortina%20alla%20ricotta%20300%20gr_1761176149.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tortina-alla-ricotta-300-gr-scadenze-dal-22022018-al-01032018",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tortina alla ricotta",
+  "operatore": "Stabinger SRL",
+  "lotti": [
+   "01/03/2018"
+  ],
+  "marchio_identificazione": "Stabinger",
+  "produttore": "Stabinger srl",
+  "sede_stabilimento": "Via Anderter 11, 39030 Sesto (BZ)",
+  "scadenza": "01-03-2018",
+  "peso_volume": "300g",
+  "motivo_esteso": "Possibile presenza di parti metalliche nel prodotto",
+  "avvertenze": "Non consumare il prodotto Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "15/02/2018 Marchio del prodotto: Stabinger",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 15/02/2018 Marchio del prodotto: Stabinger\nDenominazione di vendita:Tortina alla ricotta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Stabinger SRL\ncommercializzato:\nLotto di produzione: 01/03/2018\nMarchio di identificazione dello stabilimento/del produttore: Stabinger\nNome del produttore: Stabinger srl\nSede dello stabilimento: Via Anderter 11, 39030 Sesto (BZ)\nData di scadenza o termine minimo di conservazione: 01-03-2018\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nPossibile presenza di parti metalliche nel prodotto\nAvvertenze:\nNon consumare il prodotto\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:53:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:53:15+00:00"
+}

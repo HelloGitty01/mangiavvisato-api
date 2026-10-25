@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancetto-tiramisu/",
+ "titolo": "Trancetto tiramisù",
+ "data_pubblicazione": "2017-03-17",
+ "marca": "Stabinger srl",
+ "denominazione": "Trancetto tiramisù",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Stabinger_1761175131.pdf",
+ "allegati": [
+  {
+   "titolo": "Stabinger_1761175131.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Stabinger_1761175131.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "trancetto-tiramisu",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:59:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:59:35+00:00"
+}

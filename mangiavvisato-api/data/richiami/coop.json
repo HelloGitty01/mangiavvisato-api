@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coop/",
+ "titolo": "COOP",
+ "data_pubblicazione": "2018-11-22",
+ "marca": "821159/0010 COOP SCAMORZA BIANCA A FETTE 140X10",
+ "denominazione": "COOP",
+ "motivo": "Revoca per analisi di revisione favorevole",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "coop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:43:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:43:36+00:00"
+}

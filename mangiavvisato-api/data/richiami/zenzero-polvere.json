@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zenzero-polvere/",
+ "titolo": "zenzero polvere",
+ "data_pubblicazione": "2019-08-30",
+ "marca": "Lucrom",
+ "denominazione": "zenzero polvere",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20zenzero_1761179614.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_20171116 zenzero_1761179614.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20zenzero_1761179614.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "zenzero-polvere",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ZENZERO POLVERE",
+  "operatore": "LUCROM SNC DI SILVIA E FABRIZIO LUCINI",
+  "lotti": [
+   "L 2275"
+  ],
+  "produttore": "LUCROM SNC",
+  "sede_stabilimento": "VIA CONCORDIA 41 , 20838 RENATE MB",
+  "scadenza": "31-12-2021",
+  "peso_volume": "PESO 60 g",
+  "motivo_esteso": "NON CONFORMITA' IN ANALISI MICROBIOLOGICHE: PRESENZA SALMONELLA",
+  "avvertenze": "Si prega di riportare la confezione con lotto 2275 anche se aperta al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29/08/2019 Marchio del prodotto: LUCROM SNC",
+   "NON CONFORMITA' IN ANALISI MICROBIOLOGICHE": "PRESENZA SALMONELLA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29/08/2019 Marchio del prodotto: LUCROM SNC\nDenominazione di vendita:ZENZERO POLVERE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUCROM SNC DI SILVIA E FABRIZIO LUCINI\ncommercializzato:\nLotto di produzione: L 2275\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LUCROM SNC\nSede dello stabilimento: VIA CONCORDIA 41 , 20838 RENATE MB\nData di scadenza o termine minimo di conservazione: 31-12-2021\nDescrizione peso/volume unità di vendita: PESO 60 g\nMotivo del richiamo:\nNON CONFORMITA' IN ANALISI MICROBIOLOGICHE: PRESENZA SALMONELLA\nAvvertenze:\nSi prega di riportare la confezione con lotto 2275 anche se aperta al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:35:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:35:04+00:00"
+}

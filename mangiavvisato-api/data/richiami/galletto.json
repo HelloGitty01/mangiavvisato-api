@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/galletto/",
+ "titolo": "Galletto",
+ "data_pubblicazione": "2018-12-04",
+ "marca": "ANIMAL STAR",
+ "denominazione": "Galletto",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLETTO_1761177950.pdf",
+ "allegati": [
+  {
+   "titolo": "GALLETTO_1761177950.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLETTO_1761177950.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "galletto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Galletto",
+  "operatore": "Galletto",
+  "lotti": [
+   "095 A 17"
+  ],
+  "marchio_identificazione": "ABP2326",
+  "produttore": "BARF ITALIA",
+  "sede_stabilimento": "via Campo Rendina - 67017 Pizzoli (AQ)",
+  "scadenza": "30-09-2018",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Presenza di salmonella in alimenti per animali da compagnia",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/12/2018 Marchio del prodotto: ANIMAL STAR",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nREVOCA DI RICHIAMO\nData: 04/12/2018 Marchio del prodotto: ANIMAL STAR\nDenominazione di vendita:Galletto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Galletto\ncommercializzato:\nLotto di produzione: 095 A 17\nMarchio di identificazione dello stabilimento/del produttore: ABP2326\nNome del produttore: BARF ITALIA\nSede dello stabilimento: via Campo Rendina - 67017 Pizzoli (AQ)\nData di scadenza o termine minimo di conservazione: 30-09-2018\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPresenza di salmonella in alimenti per animali da compagnia\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:42:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:55+00:00"
+}

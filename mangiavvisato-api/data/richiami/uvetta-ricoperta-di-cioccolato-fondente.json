@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente/",
+ "titolo": "Uvetta ricoperta di cioccolato fondente",
+ "data_pubblicazione": "2018-08-24",
+ "marca": "Passioni - Auchan",
+ "denominazione": "Uvetta ricoperta di cioccolato fondente",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017207_1761177723.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO LOTTO 17207_1761177723.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017207_1761177723.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uvetta-ricoperta-di-cioccolato-fondente",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RICOPERTA DI CIOCCOLATO FONDENTE",
+  "operatore": "AUCHAN SPA",
+  "lotti": [
+   "17207"
+  ],
+  "marchio_identificazione": "INO CORSINI SPA",
+  "produttore": "DOLCEAMARO SRL",
+  "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 86075 (IS)",
+  "scadenza": "r-02-2079",
+  "peso_volume": "140 g",
+  "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta Awertenze: 'i- i §l'. og §'r uno: due",
+  "campi_extra": {
+   "Data": "23lOB/20L8 Marchio del prodotto: PASSIONI AUCHAN",
+   "uno": "due:"
+  },
+  "testo": "RICHIAMO\n.\nData: 23lOB/20L8 Marchio del prodotto: PASSIONI AUCHAN\n.A\nDenominazione di vendita: RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AUCHAN SPA\ncommercializzato:\nLotto di produzione: 17207\nMarchio di identificazione dello stabilimento/del produttore: INO CORSINI SPA\nNome del produttore: DOLCEAMARO SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: r-02-2079\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAwertenze:\n'i-\ni\n§l'. og\n§'r\nuno: due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:46:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:46+00:00"
+}

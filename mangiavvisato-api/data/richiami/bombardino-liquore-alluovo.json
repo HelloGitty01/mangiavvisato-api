@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bombardino-liquore-alluovo/",
+ "titolo": "Bombardino liquore all'uovo",
+ "data_pubblicazione": "2019-06-11",
+ "marca": "Psenner",
+ "denominazione": "Bombardino liquore all'uovo",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bombardino%20Psenner%20_%20L%2018325_1761179403.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Bombardino Psenner _ L 18325_1761179403.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bombardino%20Psenner%20_%20L%2018325_1761179403.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "bombardino-liquore-alluovo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bombardino liquore all'uovo / Bombardino Likör mit Eizusatz",
+  "operatore": "Distilleria L. Psenner s.r.l, 39040 Termeno (BZ), via Stazione, 1",
+  "lotti": [
+   "L 18325"
+  ],
+  "marchio_identificazione": "L. Psenner s.r.l.",
+  "produttore": "L. Psenner s.r.l., 39040 Termeno (BZ), via Stazione, 1",
+  "sede_stabilimento": "39040 Termeno (BZ), via Stazione, 1",
+  "scadenza": "///",
+  "peso_volume": "0,7 L - Bottiglia in vetro",
+  "motivo_esteso": "Allergene latte (proteine del latte) NON dichiarato in alcune bottiglie del lotto L 18325 per errore d'etichettatura / confezionamento",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "11/06/2019 Marchio del prodotto: PSENNER",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 11/06/2019 Marchio del prodotto: PSENNER\nDenominazione di vendita:Bombardino liquore all'uovo / Bombardino Likör mit Eizusatz\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Distilleria L. Psenner s.r.l, 39040 Termeno (BZ), via Stazione, 1\ncommercializzato:\nLotto di produzione: L 18325\nMarchio di identificazione dello stabilimento/del produttore: L. Psenner s.r.l.\nNome del produttore: L. Psenner s.r.l., 39040 Termeno (BZ), via Stazione, 1\nSede dello stabilimento: 39040 Termeno (BZ), via Stazione, 1\nData di scadenza o termine minimo di conservazione: ///\nDescrizione peso/volume unità di vendita: 0,7 L - Bottiglia in vetro\nMotivo del richiamo:\nAllergene latte (proteine del latte) NON dichiarato in alcune bottiglie del lotto L 18325 per errore\nd'etichettatura / confezionamento\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:38:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:38:05+00:00"
+}

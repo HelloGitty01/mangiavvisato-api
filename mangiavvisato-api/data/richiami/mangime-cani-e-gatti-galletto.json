@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mangime-cani-e-gatti-galletto/",
+ "titolo": "Mangime per cani e gatti Galletto",
+ "data_pubblicazione": "2017-07-06",
+ "marca": "Animal Star",
+ "denominazione": "Mangime per cani e gatti Galletto",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galletto_1761175188.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo galletto_1761175188.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20galletto_1761175188.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mangime-cani-e-gatti-galletto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:58:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:58:37+00:00"
+}

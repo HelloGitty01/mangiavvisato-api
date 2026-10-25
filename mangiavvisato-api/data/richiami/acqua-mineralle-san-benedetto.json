@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-mineralle-san-benedetto/",
+ "titolo": "ACQUA MINERALLE SAN BENEDETTO",
+ "data_pubblicazione": "2018-06-19",
+ "marca": "ACQUA MINERALLE SAN BENEDETTO",
+ "denominazione": "ACQUA MINERALLE SAN BENEDETTO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ACQUA%20SAN%20BENEDETTO_lotto%20corretto_1761176810.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO ACQUA SAN BENEDETTO_lotto corretto_1761176810.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ACQUA%20SAN%20BENEDETTO_lotto%20corretto_1761176810.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "acqua-mineralle-san-benedetto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:50:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:18+00:00"
+}

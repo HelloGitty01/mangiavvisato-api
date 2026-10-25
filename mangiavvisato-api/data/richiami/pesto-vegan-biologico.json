@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-vegan-biologico/",
+ "titolo": "Pesto Vegan (biologico)",
+ "data_pubblicazione": "2020-08-06",
+ "marca": "La Selva SARLU (Società agricola a responsabilità limitata uninominale)",
+ "denominazione": "Pesto Vegan (biologico)",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ministeriale_1761181427.pdf",
+ "allegati": [
+  {
+   "titolo": "modello ministeriale_1761181427.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ministeriale_1761181427.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-vegan-biologico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:24:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:24:51+00:00"
+}

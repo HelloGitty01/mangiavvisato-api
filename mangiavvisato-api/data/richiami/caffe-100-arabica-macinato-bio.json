@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-100-arabica-macinato-bio/",
+ "titolo": "Caffè 100% ARABICA MACINATO BIO",
+ "data_pubblicazione": "2018-09-17",
+ "marca": "CORSINO CORSINI",
+ "denominazione": "Caffè 100% ARABICA MACINATO BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf",
+ "allegati": [
+  {
+   "titolo": "caffe CORSINI_1761177748.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "caffe-100-arabica-macinato-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "' 100o/o ARABICA MACINATO BIO",
+  "operatore": "INO CORSINI SPA",
+  "lotti": [
+   "2B/O4/2OL9 S"
+  ],
+  "marchio_identificazione": "RSINO CORSINI SPA",
+  "produttore": "CORSINI SPA",
+  "sede_stabilimento": "DEL SEMBOLINO 62164 52O4L BADIA AL PINO (AR)",
+  "scadenza": "8-04-2019",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Ocratossina A superiore al limite previsto dal Reg. L88L/2O06 e s.m.i.",
+  "avvertenze": "due",
+  "campi_extra": {
+   "Data": "/20L8 Marchio del prodotto: CAFFE'"
+  },
+  "testo": "Data: /20L8 Marchio del prodotto: CAFFE'\nDenominazione di vendita ' 100o/o ARABICA MACINATO BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è INO CORSINI SPA\ncommercializzato:\nLotto di produzione: 2B/O4/2OL9 S\nMarchio di identificazione dello stabilimento/del produttore: RSINO CORSINI SPA\nNome del produttore: CORSINI SPA\nSede dello stabilimento: DEL SEMBOLINO 62164 52O4L BADIA AL PINO (AR)\nData di scadenza o termine minimo di conservazione: 8-04-2019\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nOcratossina A superiore al limite previsto dal Reg. L88L/2O06 e s.m.i.\nAvvertenze:\ndue:"
+ },
+ "prima_rilevazione": "2026-10-25T09:46:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:23+00:00"
+}

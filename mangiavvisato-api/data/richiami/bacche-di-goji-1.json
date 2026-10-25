@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-1/",
+ "titolo": "BACCHE DI GOJI",
+ "data_pubblicazione": "2020-03-11",
+ "marca": "BACCHE DI GOJI",
+ "denominazione": "BACCHE DI GOJI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_100_gr_1761181251.pdf",
+ "allegati": [
+  {
+   "titolo": "buste_100_gr_1761181251.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/buste_100_gr_1761181251.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bacche-di-goji-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:27:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:27:24+00:00"
+}

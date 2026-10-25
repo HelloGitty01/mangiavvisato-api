@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-oligominerale-santa-croce/",
+ "titolo": "ACQUA OLIGOMINERALE SANTA CROCE",
+ "data_pubblicazione": "2018-08-10",
+ "marca": "SANTA CROCE",
+ "denominazione": "ACQUA OLIGOMINERALE SANTA CROCE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20santa%20croce%20_%20sorgente%20fiuggino_1761177707.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo santa croce _ sorgente fiuggino_1761177707.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20santa%20croce%20_%20sorgente%20fiuggino_1761177707.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "acqua-oligominerale-santa-croce",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:47:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:47:23+00:00"
+}

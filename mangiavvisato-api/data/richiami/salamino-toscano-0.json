@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-toscano-0/",
+ "titolo": "Salamino Toscano",
+ "data_pubblicazione": "2018-12-04",
+ "marca": "Salumi di Siena IL BORGO",
+ "denominazione": "Salamino Toscano",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salamino%20Toscano_1761177972.pdf",
+ "allegati": [
+  {
+   "titolo": "salamino Toscano_1761177972.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salamino%20Toscano_1761177972.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamino-toscano-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMINO TOSCANO",
+  "operatore": "Salumi Il Borgo",
+  "lotti": [
+   "80199902L003"
+  ],
+  "marchio_identificazione": "IT 1829 CE",
+  "produttore": "Salumi Il Borgo",
+  "sede_stabilimento": "via Toscana 183 - Monteroni d'Arbia (Si)",
+  "scadenza": "04-04-2018",
+  "peso_volume": "500 g circa",
+  "motivo_esteso": "Presenza di salmonella",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/12/2018 Marchio del prodotto: Il Borgo Salumi di Siena",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 04/12/2018 Marchio del prodotto: Il Borgo Salumi di Siena\nDenominazione di vendita:SALAMINO TOSCANO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Salumi Il Borgo\ncommercializzato:\nLotto di produzione: 80199902L003\nMarchio di identificazione dello stabilimento/del produttore: IT 1829 CE\nNome del produttore: Salumi Il Borgo\nSede dello stabilimento: via Toscana 183 - Monteroni d'Arbia (Si)\nData di scadenza o termine minimo di conservazione: 04-04-2018\nDescrizione peso/volume unità di vendita: 500 g circa\nMotivo del richiamo:\nPresenza di salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:43:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:43:07+00:00"
+}

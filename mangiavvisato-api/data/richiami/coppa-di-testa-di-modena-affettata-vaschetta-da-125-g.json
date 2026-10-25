@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-di-modena-affettata-vaschetta-da-125-g/",
+ "titolo": "coppa di testa di modena affettata in vaschetta da 125 g",
+ "data_pubblicazione": "2019-11-05",
+ "marca": "gigi il salumificio s.r.l.",
+ "denominazione": "coppa di testa di modena affettata in vaschetta da 125 g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%202%20richiamo%20lotto%201478%20coppa%20di%20testa_1761180343.pdf",
+ "allegati": [
+  {
+   "titolo": "All. 2 richiamo lotto 1478 coppa di testa_1761180343.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%202%20richiamo%20lotto%201478%20coppa%20di%20testa_1761180343.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "coppa-di-testa-di-modena-affettata-vaschetta-da-125-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "coppa di testa di modena affettata in vaschetta da 125 g",
+  "operatore": "gigi il salumificio s.r.l.",
+  "lotti": [
+   "1478"
+  ],
+  "marchio_identificazione": "CE IT 779 S",
+  "produttore": "GIGI IL SALUMIFICIO S.R.L.",
+  "sede_stabilimento": "VIA A. MORO 3/ B CASTELNUOVO RANGONE (MO)",
+  "scadenza": "04-01-2020",
+  "peso_volume": "125 g",
+  "motivo_esteso": "rischio microbiologico: presenza di listeria m.",
+  "avvertenze": "si prega di non consumare il prodotto e di renderlo al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "4/11/2019 Marchio del prodotto: gigi il salumificio s.r.l.",
+   "rischio microbiologico": "presenza di listeria m.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 4/11/2019 Marchio del prodotto: gigi il salumificio s.r.l.\nDenominazione di vendita:coppa di testa di modena affettata in vaschetta da 125 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è gigi il salumificio s.r.l.\ncommercializzato:\nLotto di produzione: 1478\nMarchio di identificazione dello stabilimento/del produttore: CE IT 779 S\nNome del produttore: GIGI IL SALUMIFICIO S.R.L.\nSede dello stabilimento: VIA A. MORO 3/ B CASTELNUOVO RANGONE (MO)\nData di scadenza o termine minimo di conservazione: 04-01-2020\nDescrizione peso/volume unità di vendita: 125 g\nMotivo del richiamo:\nrischio microbiologico: presenza di listeria m.\nAvvertenze:\nsi prega di non consumare il prodotto e di renderlo al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:32:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:27+00:00"
+}

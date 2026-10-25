@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-e-fagioli-0/",
+ "titolo": "PASTA E FAGIOLI",
+ "data_pubblicazione": "2019-08-13",
+ "marca": "Euroverde soc. agr. srl",
+ "denominazione": "PASTA E FAGIOLI",
+ "motivo": "Revoca per analisi di revisione favorevole",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_richiamo_PASTA_E_FAGIOLI_1761179522.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca_richiamo_PASTA_E_FAGIOLI_1761179522.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_richiamo_PASTA_E_FAGIOLI_1761179522.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-e-fagioli-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PASTA E FAGIOLI",
+  "operatore": "Euroverde soc. agr. srl",
+  "lotti": [
+   "391171"
+  ],
+  "marchio_identificazione": "Euroverde soc. agr. srl",
+  "produttore": "Euroverde soc. agr. srl",
+  "sede_stabilimento": "Via Quinzano 1 - 25020 Azzano Mella (BS)",
+  "scadenza": "04-08-2019",
+  "peso_volume": "350g",
+  "motivo_esteso": "Esito ulteriori analisi: CONFORME",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "13/08/2019 Marchio del prodotto: Bontà di stagione",
+   "Esito ulteriori analisi": "CONFORME",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 13/08/2019 Marchio del prodotto: Bontà di stagione\nDenominazione di vendita:PASTA E FAGIOLI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Euroverde soc. agr. srl\ncommercializzato:\nLotto di produzione: 391171\nMarchio di identificazione dello stabilimento/del produttore: Euroverde soc. agr. srl\nNome del produttore: Euroverde soc. agr. srl\nSede dello stabilimento: Via Quinzano 1 - 25020 Azzano Mella (BS)\nData di scadenza o termine minimo di conservazione: 04-08-2019\nDescrizione peso/volume unità di vendita: 350g\nMotivo del richiamo:\nEsito ulteriori analisi: CONFORME\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:35:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:35:26+00:00"
+}

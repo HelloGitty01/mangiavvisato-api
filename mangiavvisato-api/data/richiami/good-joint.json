@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/good-joint/",
+ "titolo": "Good Joint",
+ "data_pubblicazione": "2019-05-31",
+ "marca": "Benessere Pharma Srl",
+ "denominazione": "Good Joint",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20_%20Good%20Joint%20_1761178816.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo _ Good Joint _1761178816.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20_%20Good%20Joint%20_1761178816.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "good-joint",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Good Joint",
+  "operatore": "anome del quale il prodotto è Benessere Pharma Srl comercializzato",
+  "lotti": [
+   "190503"
+  ],
+  "marchio_identificazione": "EKAPPA LABORATORI",
+  "produttore": "EKAPPA LABORATORI SRL",
+  "sede_stabilimento": "Via Ponte Vecchio, 81 - 61049 Urbania (PU)",
+  "scadenza": "05/2023",
+  "peso_volume": "120 Compresse - 96 g",
+  "motivo_esteso": "Richiamo in via precauzionale per segnalazione relativa al lotto",
+  "avvertenze": "Ritiro/richiamo del lotto segnalato anche in caso di vendita online. Messa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i controlli effettuati, le iniziative messe in atto per garantire la sicurezza dei prodotti immessi sul mercato. foto fronte foto retro",
+  "campi_extra": {
+   "Data": "28/05/19 Marchio del prodotto: Benessere Pharma Srl"
+  },
+  "testo": "RICHIAMO\nData: 28/05/19 Marchio del prodotto: Benessere Pharma Srl\nDenominazione di vendita: Good Joint\nNome o ragione sociale dell’OSA\nanome del quale il prodotto è Benessere Pharma Srl\ncomercializzato:\nLotto di produzione: 190503\nMarchio di identificazione dello stabilimento/del produttore: EKAPPA LABORATORI\nNome del produttore: EKAPPA LABORATORI SRL\nSede dello stabilimento: Via Ponte Vecchio, 81 - 61049 Urbania (PU)\nData di scadenza o termine minimo di conservazione: 05/2023\nDescrizione peso/volume unità di vendita: 120 Compresse - 96 g\nMotivo del richiamo:\nRichiamo in via precauzionale per segnalazione relativa al lotto\nAvvertenze:\nRitiro/richiamo del lotto segnalato anche in caso di vendita online.\nMessa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i\ncontrolli effettuati, le iniziative messe in atto per garantire la sicurezza dei prodotti immessi sul\nmercato.\nfoto fronte foto retro"
+ },
+ "prima_rilevazione": "2026-10-25T09:38:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:38:15+00:00"
+}

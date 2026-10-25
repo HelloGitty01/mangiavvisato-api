@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-gialla-bramata/",
+ "titolo": "Farina di mais gialla bramata",
+ "data_pubblicazione": "2017-02-10",
+ "marca": "La Bresciana",
+ "denominazione": "Farina di mais gialla bramata",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais-gialla-bramata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Farina di mais gialla bramata",
+  "operatore": "Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.",
+  "lotti": [
+   "0810016"
+  ],
+  "produttore": "Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.",
+  "sede_stabilimento": "Vicolo del Molino 10 - Azzano Mella - Brescia",
+  "scadenza": "30-11-2017",
+  "peso_volume": "Sacchetto 1 kg",
+  "motivo_esteso": "Fumonisine oltre i limiti previsti dal Regolamento CE n. 1881/2006",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "10/02/2017 Marchio del prodotto: La Bresciana",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 10/02/2017 Marchio del prodotto: La Bresciana\nDenominazione di vendita:Farina di mais gialla bramata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.\ncommercializzato:\nLotto di produzione: 0810016\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.\nSede dello stabilimento: Vicolo del Molino 10 - Azzano Mella - Brescia\nData di scadenza o termine minimo di conservazione: 30-11-2017\nDescrizione peso/volume unità di vendita: Sacchetto 1 kg\nMotivo del richiamo:\nFumonisine oltre i limiti previsti dal Regolamento CE n. 1881/2006\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:30+00:00"
+}

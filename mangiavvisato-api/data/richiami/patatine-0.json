@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-0/",
+ "titolo": "Patatine",
+ "data_pubblicazione": "2017-12-12",
+ "marca": "TRAFO",
+ "denominazione": "Patatine",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_17_70_C_125_gr_1761176063.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_17_70_C_125_gr_1761176063.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_17_70_C_125_gr_1761176063.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "patatine-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:54:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:54:41+00:00"
+}

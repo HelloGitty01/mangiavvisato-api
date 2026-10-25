@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-dop-200g-0/",
+ "titolo": "Puzzone di Moena DOP 200g",
+ "data_pubblicazione": "2020-01-23",
+ "marca": "Regione che Vai",
+ "denominazione": "Puzzone di Moena DOP 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf",
+ "allegati": [
+  {
+   "titolo": "417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "puzzone-di-moena-dop-200g-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Puzzone di Moena DOP 200g",
+  "operatore": "Aldi Srl",
+  "lotti": [
+   "21324",
+   "21324A"
+  ],
+  "marchio_identificazione": "IT 05 195 CE",
+  "produttore": "Trentin S.p.A.",
+  "sede_stabilimento": "Via Genova, 19 37053 Cerea (VR)",
+  "scadenza": "* vedi sotto",
+  "peso_volume": "200g",
+  "motivo_esteso": "Possibile contaminazione da Listeria monocytogenes",
+  "avvertenze": "Il prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+  "campi_extra": {
+   "Data": "22/01/2020 Marchio del prodotto: Regione che Vai"
+  },
+  "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: Regione che Vai\nDenominazione di vendita:Puzzone di Moena DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aldi Srl\ncommercializzato:\nLotto di produzione: 21324, 21324A\nMarchio di identificazione dello stabilimento/del produttore: IT 05 195 CE\nNome del produttore: Trentin S.p.A.\nSede dello stabilimento: Via Genova, 19 37053 Cerea (VR)\nData di scadenza o termine minimo di conservazione: * vedi sotto\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile contaminazione da Listeria monocytogenes\nAvvertenze:\nIl prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi\npunto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T09:29:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:18+00:00"
+}

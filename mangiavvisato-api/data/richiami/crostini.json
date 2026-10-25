@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini/",
+ "titolo": "Crostini",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "Bontà di pane",
+ "denominazione": "Crostini",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BONTA%20DI%20PANE_1761175103.pdf",
+ "allegati": [
+  {
+   "titolo": "BONTA DI PANE_1761175103.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BONTA%20DI%20PANE_1761175103.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+  "operatore": "PRIX QUALITY SPA",
+  "lotti": [
+   "040417-050517"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+  "peso_volume": "150G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: BONTA' DI PANE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: BONTA' DI PANE\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PRIX QUALITY SPA\ncommercializzato:\nLotto di produzione: 040417-050517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 150G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 040417 - SCADENZA 26/09/17\nLOTTO 050517 - SCADENZA 03/10/17\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:59:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:59:58+00:00"
+}

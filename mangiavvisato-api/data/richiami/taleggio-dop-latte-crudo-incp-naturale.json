@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incp-naturale/",
+ "titolo": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+ "data_pubblicazione": "2017-09-21",
+ "marca": "CAROZZI FORMAGGI SRL",
+ "denominazione": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761175317.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_1761175317.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761175317.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "taleggio-dop-latte-crudo-incp-naturale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TALEGGIO DOP LATTE CRUDO INC. P. NATURALE",
+  "operatore": "CAROZZI FORMAGGI srl",
+  "lotti": [
+   "04827"
+  ],
+  "marchio_identificazione": "IT 03 1880",
+  "produttore": "CAROZZI FORMAGGI srl",
+  "sede_stabilimento": "BARZIO (LC), LOC. PRATO BUSCANTE",
+  "peso_volume": "FORMA INTERA",
+  "motivo_esteso": "PRESENZA LISTERIA MONOCYTOGENES",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO  ",
+  "campi_extra": {
+   "Data": "15/09/2017 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE"
+  },
+  "testo": "\nMinistero della Salute\nRICHIAMO\nData: 15/09/2017 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE\nDenominazione di vendita:TALEGGIO DOP LATTE CRUDO INC. P. NATURALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAROZZI FORMAGGI srl\ncommercializzato:\nLotto di produzione: 04827\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1880\nNome del produttore: CAROZZI FORMAGGI srl\nSede dello stabilimento: BARZIO (LC), LOC. PRATO BUSCANTE\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FORMA INTERA\nMotivo del richiamo:\nPRESENZA LISTERIA MONOCYTOGENES\nAvvertenze:\nNON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:56:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:56:53+00:00"
+}

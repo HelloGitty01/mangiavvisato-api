@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luganega/",
+ "titolo": "Luganega",
+ "data_pubblicazione": "2019-02-07",
+ "marca": "Fattorie Novella sentieri",
+ "denominazione": "Luganega",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190206_Richiamo_%20AZ_AGR_FATTORIE%20NOVELLA%20SENTIERI_1761178605.pdf",
+ "allegati": [
+  {
+   "titolo": "20190206_Richiamo_ AZ_AGR_FATTORIE NOVELLA SENTIERI_1761178605.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190206_Richiamo_%20AZ_AGR_FATTORIE%20NOVELLA%20SENTIERI_1761178605.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "luganega",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:40:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:40:39+00:00"
+}

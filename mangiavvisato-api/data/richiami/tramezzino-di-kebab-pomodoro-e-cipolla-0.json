@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-di-kebab-pomodoro-e-cipolla-0/",
+ "titolo": "tramezzino di kebab, pomodoro e cipolla",
+ "data_pubblicazione": "2017-04-03",
+ "marca": "IT D1T8V",
+ "denominazione": "tramezzino di kebab, pomodoro e cipolla",
+ "motivo": "Revoca richiamo",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20revoca_1761175136.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO revoca_1761175136.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20revoca_1761175136.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tramezzino-di-kebab-pomodoro-e-cipolla-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "tramezzino di kebab, pomodoro e cipolla",
+  "operatore": "Riva Alimentari Uniti srl",
+  "lotti": [
+   "L 053 R"
+  ],
+  "marchio_identificazione": "IT D1T8V CE",
+  "produttore": "Riva Alimentari Uniti srl",
+  "sede_stabilimento": "Nibionno (LC), via Gaggio 43",
+  "scadenza": "29-03-2017",
+  "peso_volume": "confezioni in atmosfera protettiva da 150gr",
+  "motivo_esteso": "presenza di Listeria monocytogenes",
+  "avvertenze": "revoca di richiamo per scadenza prodotto  ",
+  "campi_extra": {
+   "Data": "03/04/2017 Marchio del prodotto: R-RIVA Premium"
+  },
+  "testo": "\nMinistero della Salute\nRICHIAMO\nData: 03/04/2017 Marchio del prodotto: R-RIVA Premium\nDenominazione di vendita:tramezzino di kebab, pomodoro e cipolla\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riva Alimentari Uniti srl\ncommercializzato:\nLotto di produzione: L 053 R\nMarchio di identificazione dello stabilimento/del produttore: IT D1T8V CE\nNome del produttore: Riva Alimentari Uniti srl\nSede dello stabilimento: Nibionno (LC), via Gaggio 43\nData di scadenza o termine minimo di conservazione: 29-03-2017\nDescrizione peso/volume unità di vendita: confezioni in atmosfera protettiva da 150gr\nMotivo del richiamo:\npresenza di Listeria monocytogenes\nAvvertenze:\nrevoca di richiamo per scadenza prodotto\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:59:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:59:30+00:00"
+}

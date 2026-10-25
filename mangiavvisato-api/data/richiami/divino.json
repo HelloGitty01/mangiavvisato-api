@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/divino/",
+ "titolo": "Divino",
+ "data_pubblicazione": "2020-07-02",
+ "marca": "Azienda agricola di Carai Giuseppe &C ssa",
+ "denominazione": "Divino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Formaggio%20Pecorino%20Az%20Agricola%20%20CARAI%20_1__1761181366.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO Formaggio Pecorino Az Agricola  CARAI _1__1761181366.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Formaggio%20Pecorino%20Az%20Agricola%20%20CARAI%20_1__1761181366.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "divino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:25:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:25:42+00:00"
+}

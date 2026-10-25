@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais/",
+ "titolo": "farina di mais",
+ "data_pubblicazione": "2017-10-12",
+ "marca": "buono & bio",
+ "denominazione": "farina di mais",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BUONO%20E%20BIO_1761175996.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO BUONO E BIO_1761175996.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BUONO%20E%20BIO_1761175996.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI MAIS BRAMATA",
+  "operatore": "AZ. AGR. BUONO E BIO DI ALBERTO LIBE'",
+  "lotti": [
+   "L 17081"
+  ],
+  "marchio_identificazione": "MULINO ZAPPAROLI SRL",
+  "produttore": "MULINO ZAPPAROLI SRL",
+  "sede_stabilimento": "VIA DELLA CHIESA - SERMIDE - MN",
+  "scadenza": "22-03-2018",
+  "peso_volume": "1 KG",
+  "motivo_esteso": "PRESENZA DI FUMONISINE IN ECCESSO",
+  "avvertenze": "RICONSEGNARE AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/10/2017 Marchio del prodotto: AZ. AGR. BUONO E BIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 06/10/2017 Marchio del prodotto: AZ. AGR. BUONO E BIO\nDenominazione di vendita:FARINA DI MAIS BRAMATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZ. AGR. BUONO E BIO DI ALBERTO LIBE'\ncommercializzato:\nLotto di produzione: L 17081\nMarchio di identificazione dello stabilimento/del produttore: MULINO ZAPPAROLI SRL\nNome del produttore: MULINO ZAPPAROLI SRL\nSede dello stabilimento: VIA DELLA CHIESA - SERMIDE - MN\nData di scadenza o termine minimo di conservazione: 22-03-2018\nDescrizione peso/volume unità di vendita: 1 KG\nMotivo del richiamo:\nPRESENZA DI FUMONISINE IN ECCESSO\nAvvertenze:\nRICONSEGNARE AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:55:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:55:44+00:00"
+}

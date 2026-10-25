@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido/",
+ "titolo": "salame morbido",
+ "data_pubblicazione": "2018-12-12",
+ "marca": "Rovetano",
+ "denominazione": "salame morbido",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoRegoliIvano._1761178532.pdf",
+ "allegati": [
+  {
+   "titolo": "RichiamoRegoliIvano._1761178532.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoRegoliIvano._1761178532.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-morbido",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:42:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:31+00:00"
+}

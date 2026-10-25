@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-grano-tenero-tipo-00/",
+ "titolo": "FARINA GRANO TENERO TIPO 00",
+ "data_pubblicazione": "2019-02-28",
+ "marca": "CUORE MEDITERRANEO",
+ "denominazione": "FARINA GRANO TENERO TIPO 00",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformicuorem%20_1__1761178646.pdf",
+ "allegati": [
+  {
+   "titolo": "Fup_386210_OSAmodulodirichiamoprodottinonconformicuorem _1__1761178646.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformicuorem%20_1__1761178646.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-grano-tenero-tipo-00",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI GRANO TENERO TIPO 00",
+  "operatore": "TODIS – Iges S.r.l. via tiberina km 19.300 00065 Fiano Romano RM.",
+  "lotti": [
+   "L 19 008"
+  ],
+  "produttore": "MOLINO ROSSETTO",
+  "sede_stabilimento": "Via San Fausto 98 Pontelongo PD",
+  "scadenza": "08-02-2020",
+  "peso_volume": "sacchetto carta 1 kg, cod. ean 8025916107072",
+  "motivo_esteso": "presenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla confezione sia riportata la dicitura: \"prodotto in uno stabilimento in cui si utilizza soia\"",
+  "avvertenze": "il prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori a non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro",
+  "campi_extra": {
+   "Data": "27/02/2019 Marchio del prodotto: CUORE MEDITERRANEO",
+   "confezione sia riportata la dicitura": "\"prodotto in uno stabilimento in cui si utilizza soia\"",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 27/02/2019 Marchio del prodotto: CUORE MEDITERRANEO\nDenominazione di vendita: FARINA DI GRANO TENERO TIPO 00\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TODIS – Iges S.r.l. via tiberina km 19.300 00065 Fiano Romano RM.\ncommercializzato:\nLotto di produzione: L 19 008\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MOLINO ROSSETTO\nSede dello stabilimento: Via San Fausto 98 Pontelongo PD\nData di scadenza o termine minimo di conservazione: 08-02-2020\nDescrizione peso/volume unità di vendita: sacchetto carta 1 kg, cod. ean 8025916107072\nMotivo del richiamo:\npresenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla\nconfezione sia riportata la dicitura: \"prodotto in uno stabilimento in cui si utilizza soia\"\nAvvertenze:\nil prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori\na non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro\nlotto\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:40:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:40:05+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stellino/",
+ "titolo": "SALAME STELLINO",
+ "data_pubblicazione": "2019-10-09",
+ "marca": "NATIVA 2018 SRL",
+ "denominazione": "SALAME STELLINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_43_B_20191009_MODULO%20RCHIAMO_1761180325.pdf",
+ "allegati": [
+  {
+   "titolo": "19_43_B_20191009_MODULO RCHIAMO_1761180325.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_43_B_20191009_MODULO%20RCHIAMO_1761180325.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-stellino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "IT 1342L CE"
+ },
+ "prima_rilevazione": "2026-10-25T09:33:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:04+00:00"
+}

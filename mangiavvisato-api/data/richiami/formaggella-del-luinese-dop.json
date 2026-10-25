@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-del-luinese-dop/",
+ "titolo": "FORMAGGELLA DEL LUINESE DOP",
+ "data_pubblicazione": "2020-07-30",
+ "marca": "AZIENDA AGRICOLA IL VALLONE DI CRIVELLI MATTIA",
+ "denominazione": "FORMAGGELLA DEL LUINESE DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FORMAGGELLA%20LUINESE%20DOP_1761181409.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO FORMAGGELLA LUINESE DOP_1761181409.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FORMAGGELLA%20LUINESE%20DOP_1761181409.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggella-del-luinese-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGELLA DEL LUINESE DOP",
+  "operatore": "AZIENDA AGRICOLA IL VALLONE DI CRIVELLI MATTIA",
+  "lotti": [
+   "18E"
+  ],
+  "marchio_identificazione": "CE IT 03 546",
+  "produttore": "PELOSO PARIDE",
+  "sede_stabilimento": "VIA S. PIETRO 12, 21030 RANCIO VALCUVIA (VA)",
+  "scadenza": "vedi avvertenze",
+  "peso_volume": "preincarti a peso variabile",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO: POSSIBILE PRESENZA DI ESCHERICHIA COLI STEC",
+  "avvertenze": "Si invitano i consumatori che avessero acquistato nel reparto gastronomia/formaggi dal 13/7/20 al 28/7/20 preincarti di questo articolo (tutte le scadenze fino al 04/08/20) a NON consumare il prodotto ed a riportarlo presso il punto vendita dove è stato acquistato Inserire immagine uno: Inserire immagine due: Data fine affissione 12/08/20",
+  "campi_extra": {
+   "Data": "29/07/2020 Marchio del prodotto:",
+   "RISCHIO MICROBIOLOGICO": "POSSIBILE PRESENZA DI ESCHERICHIA COLI STEC",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29/07/2020 Marchio del prodotto:\nDenominazione di vendita:FORMAGGELLA DEL LUINESE DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA IL VALLONE DI CRIVELLI MATTIA\ncommercializzato:\nLotto di produzione: 18E\nMarchio di identificazione dello stabilimento/del produttore: CE IT 03 546\nNome del produttore: PELOSO PARIDE\nSede dello stabilimento: VIA S. PIETRO 12, 21030 RANCIO VALCUVIA (VA)\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: preincarti a peso variabile\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO: POSSIBILE PRESENZA DI ESCHERICHIA COLI STEC\nAvvertenze:\nSi invitano i consumatori che avessero acquistato nel reparto gastronomia/formaggi dal 13/7/20 al\n28/7/20 preincarti di questo articolo (tutte le scadenze fino al 04/08/20) a NON consumare il prodotto ed a\nriportarlo presso il punto vendita dove è stato acquistato\nInserire immagine uno: Inserire immagine due:\nData fine affissione 12/08/20"
+ },
+ "prima_rilevazione": "2026-10-25T09:25:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:25:00+00:00"
+}

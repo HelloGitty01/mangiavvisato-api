@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacine-e-4-spinacine/",
+ "titolo": "SPINACINE e 4 SPINACINE",
+ "data_pubblicazione": "2019-05-29",
+ "marca": "AIA",
+ "denominazione": "SPINACINE e 4 SPINACINE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/spinacine_1761178801.pdf",
+ "allegati": [
+  {
+   "titolo": "spinacine_1761178801.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/spinacine_1761178801.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "spinacine-e-4-spinacine",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "A2926 Spinacine 220g e B4003 440g",
+  "operatore": "AIA Spa",
+  "lotti": [
+   "07258020"
+  ],
+  "marchio_identificazione": "IT 752L CE",
+  "produttore": "Agricola Tre Valli Soc. Coop",
+  "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+  "scadenza": "08/06/2019",
+  "peso_volume": "confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.",
+  "motivo_esteso": "Possibile presenza di frammenti di plastica bianca",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per sostituzione A2926 B4003 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "28/05/2019 Marchio del prodotto: AIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 28/05/2019 Marchio del prodotto: AIA\nDenominazione di vendita:A2926 Spinacine 220g e B4003 440g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 07258020\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 08/06/2019\nDescrizione peso/volume unità di vendita: confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica bianca\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per sostituzione\nA2926 B4003\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:38:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:38:27+00:00"
+}

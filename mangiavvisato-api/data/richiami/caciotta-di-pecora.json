@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora/",
+ "titolo": "caciotta di pecora",
+ "data_pubblicazione": "2018-05-25",
+ "marca": "Moserhof",
+ "denominazione": "caciotta di pecora",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761176793.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_1761176793.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761176793.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caciotta-di-pecora",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "caciotta di pecora Frischkäse",
+  "operatore": "OBERHOLLENZER MICHAEL MOSERHOF VALLE AURINA/BZ",
+  "lotti": [
+   "03/05/2018 conf. 07/05/2018"
+  ],
+  "marchio_identificazione": "MOSERHOF - IT D7W06 CE",
+  "produttore": "MICHAEL OBERHOLLENZER MOSERHOF",
+  "sede_stabilimento": "VALLE AURINA 39030 OBERDORF 19",
+  "scadenza": "06-06-2018",
+  "peso_volume": "forme da ca 190 g",
+  "motivo_esteso": "PRESENZA SALMONELLA",
+  "avvertenze": "FORMAGGIO COMMERCIALIZZATO ESCLUSIVAMENTE IN PROV. DI BOLZANO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "24/05/2018 Marchio del prodotto: MOSERHOF AHRNTAL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 24/05/2018 Marchio del prodotto: MOSERHOF AHRNTAL\nDenominazione di vendita:caciotta di pecora Frischkäse\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OBERHOLLENZER MICHAEL MOSERHOF VALLE AURINA/BZ\ncommercializzato:\nLotto di produzione: 03/05/2018 conf. 07/05/2018\nMarchio di identificazione dello stabilimento/del produttore: MOSERHOF - IT D7W06 CE\nNome del produttore: MICHAEL OBERHOLLENZER MOSERHOF\nSede dello stabilimento: VALLE AURINA 39030 OBERDORF 19\nData di scadenza o termine minimo di conservazione: 06-06-2018\nDescrizione peso/volume unità di vendita: forme da ca 190 g\nMotivo del richiamo:\nPRESENZA SALMONELLA\nAvvertenze:\nFORMAGGIO COMMERCIALIZZATO ESCLUSIVAMENTE IN PROV. DI BOLZANO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:50:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:41+00:00"
+}

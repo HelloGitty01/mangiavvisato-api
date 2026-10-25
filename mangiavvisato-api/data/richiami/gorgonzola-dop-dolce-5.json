@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-5/",
+ "titolo": "Gorgonzola DOP Dolce",
+ "data_pubblicazione": "2019-02-06",
+ "marca": "IGOR BLU",
+ "denominazione": "Gorgonzola DOP Dolce",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Preconf_Igor_blu_lotto_00716005_1761178602.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO_Preconf_Igor_blu_lotto_00716005_1761178602.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Preconf_Igor_blu_lotto_00716005_1761178602.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dop-dolce-5",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "05.02.2019 IGOR BLU\nGorgonzola DOP Dolce\nIGOR SRL\n00716005\nIT 01 124 CE\nIGOR SRL\nstrada NATALE LEONARDI, 32 -28062 CAMERI\n16.02.2019\n150 gr\nPresenza Listeria monocytogenes"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:04+00:00"
+}

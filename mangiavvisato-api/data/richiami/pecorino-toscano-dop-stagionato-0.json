@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-toscano-dop-stagionato-0/",
+ "titolo": "Pecorino Toscano DOP Stagionato",
+ "data_pubblicazione": "2018-12-05",
+ "marca": "Pascoli ITALIANI",
+ "denominazione": "Pecorino Toscano DOP Stagionato",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20Toscano_1761177985.pdf",
+ "allegati": [
+  {
+   "titolo": "Pecorino Toscano_1761177985.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20Toscano_1761177985.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pecorino-toscano-dop-stagionato-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pecorino Toscano DOP stagionato",
+  "operatore": "Spesa Intelligente",
+  "lotti": [
+   "TS 22180130"
+  ],
+  "marchio_identificazione": "IT 0929 CE",
+  "produttore": "Rocca Toscana Formaggi",
+  "sede_stabilimento": "via Puccini 79 - 52100 Arezzo (Ar)",
+  "scadenza": "01-10-2018",
+  "peso_volume": "350 g",
+  "motivo_esteso": "Presenza di Listeria monocytogenes",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/12/2018 Marchio del prodotto: Pascoli Italiani",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 05/12/2018 Marchio del prodotto: Pascoli Italiani\nDenominazione di vendita:Pecorino Toscano DOP stagionato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Spesa Intelligente\ncommercializzato:\nLotto di produzione: TS 22180130\nMarchio di identificazione dello stabilimento/del produttore: IT 0929 CE\nNome del produttore: Rocca Toscana Formaggi\nSede dello stabilimento: via Puccini 79 - 52100 Arezzo (Ar)\nData di scadenza o termine minimo di conservazione: 01-10-2018\nDescrizione peso/volume unità di vendita: 350 g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:42:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:48+00:00"
+}

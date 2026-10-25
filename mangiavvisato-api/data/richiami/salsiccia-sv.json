@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sv/",
+ "titolo": "SALSICCIA S/V",
+ "data_pubblicazione": "2020-08-11",
+ "marca": "SALUMIFICIO RAVECCA SRL\nAPPROVAL NUMBER IT C 9681 CE",
+ "denominazione": "SALSICCIA S/V",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salsiccia%20metro%20con%20foto_1761181436.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo salsiccia metro con foto_1761181436.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salsiccia%20metro%20con%20foto_1761181436.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salsiccia-sv",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:24:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:24:44+00:00"
+}

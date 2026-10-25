@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caprino-fresco-70-g/",
+ "titolo": "CAPRINO FRESCO 70 G",
+ "data_pubblicazione": "2019-11-19",
+ "marca": "CIRESA SRL",
+ "denominazione": "CAPRINO FRESCO 70 G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ciresa_1761180393.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Ciresa_1761180393.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ciresa_1761180393.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "caprino-fresco-70-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAPRINO FRESCO 70 GR",
+  "operatore": "CIRESA SRL",
+  "lotti": [
+   "9485"
+  ],
+  "marchio_identificazione": "CE IT 03 165",
+  "produttore": "CIRESA SRL",
+  "sede_stabilimento": "INTROBIO (LC) VIA V.EMANUELE 62",
+  "scadenza": "da 02 a 13/12/19",
+  "peso_volume": "VASCHETTA 2X7, VASCHETTA 6X2",
+  "motivo_esteso": "per comunicazione da parte del fornitore di presenza di sostanze inibenti nel latte di capra destinato alla produzione di questo lotto",
+  "avvertenze": " ",
+  "campi_extra": {
+   "Data": "14/11/2019 Marchio del prodotto: CIRESA SRL"
+  },
+  "testo": "RICHIAMO\nData: 14/11/2019 Marchio del prodotto: CIRESA SRL\nDenominazione di vendita:CAPRINO FRESCO 70 GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CIRESA SRL\ncommercializzato:\nLotto di produzione: 9485\nMarchio di identificazione dello stabilimento/del produttore: CE IT 03 165\nNome del produttore: CIRESA SRL\nSede dello stabilimento: INTROBIO (LC) VIA V.EMANUELE 62\nData di scadenza o termine minimo di conservazione: da 02 a 13/12/19\nDescrizione peso/volume unità di vendita: VASCHETTA 2X7, VASCHETTA 6X2\nMotivo del richiamo:\nper comunicazione da parte del fornitore di presenza di sostanze inibenti nel latte di capra destinato alla\nproduzione di questo lotto\nAvvertenze:\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:31:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:39+00:00"
+}

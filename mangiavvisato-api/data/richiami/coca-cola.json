@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coca-cola/",
+ "titolo": "Coca Cola",
+ "data_pubblicazione": "2017-06-01",
+ "marca": "Coca Cola",
+ "denominazione": "Coca Cola",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamodelprodotto%20Coca%20Cola_1761175170.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamodelprodotto Coca Cola_1761175170.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamodelprodotto%20Coca%20Cola_1761175170.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "coca-cola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:58:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:58:51+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp-500600-gr/",
+ "titolo": "ciauscolo IGP 500/600 gr",
+ "data_pubblicazione": "2018-12-12",
+ "marca": "Ciriaci",
+ "denominazione": "ciauscolo IGP 500/600 gr",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761178534.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo_1761178534.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761178534.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "ciauscolo-igp-500600-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:42:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:36+00:00"
+}

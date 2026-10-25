@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-aromatico-con-verdure-e-bacche-di-goji/",
+ "titolo": "Cous cous aromatico con verdure e bacche di goji",
+ "data_pubblicazione": "2018-05-11",
+ "marca": "Carrefour VEG",
+ "denominazione": "Cous cous aromatico con verdure e bacche di goji",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_richiamo_COUS%20COUS%20CRF%20VEG%2010_5_2018_1761176784.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_richiamo_COUS COUS CRF VEG 10_5_2018_1761176784.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_richiamo_COUS%20COUS%20CRF%20VEG%2010_5_2018_1761176784.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cous-cous-aromatico-con-verdure-e-bacche-di-goji",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cous cous aromatico con verdure e bacche di Goji",
+  "operatore": "GS S.p.A.",
+  "lotti": [
+   "JD15"
+  ],
+  "marchio_identificazione": "IT 678/L CE",
+  "produttore": "Gastronomica Roscio srl",
+  "sede_stabilimento": "via Madonnina, 32 27018 Vidigulfo (PV)",
+  "scadenza": "22-05-2018",
+  "peso_volume": "200g",
+  "motivo_esteso": "PRESENZA DI SOIA (ALLERGENE) NON DICHIARATA IN ETICHETTA",
+  "avvertenze": "RICHIAMO RIVOLTO ESCLUSIVAMENTE ALLE PERSONE ALLERGICHE ALLA SOIA, CHE SONO INVITATE A NON CONSUMARLO E RIPORTARLO IN PUNTO VENDITA PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO E' IDONEO AL CONSUMO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "10/05/2018 Marchio del prodotto: Carrefour VEG",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 10/05/2018 Marchio del prodotto: Carrefour VEG\nDenominazione di vendita:Cous cous aromatico con verdure e bacche di Goji\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GS S.p.A.\ncommercializzato:\nLotto di produzione: JD15\nMarchio di identificazione dello stabilimento/del produttore: IT 678/L CE\nNome del produttore: Gastronomica Roscio srl\nSede dello stabilimento: via Madonnina, 32 27018 Vidigulfo (PV)\nData di scadenza o termine minimo di conservazione: 22-05-2018\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPRESENZA DI SOIA (ALLERGENE) NON DICHIARATA IN ETICHETTA\nAvvertenze:\nRICHIAMO RIVOLTO ESCLUSIVAMENTE ALLE PERSONE ALLERGICHE ALLA SOIA, CHE SONO INVITATE A\nNON CONSUMARLO E RIPORTARLO IN PUNTO VENDITA\nPER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO E' IDONEO AL CONSUMO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:50:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:47+00:00"
+}

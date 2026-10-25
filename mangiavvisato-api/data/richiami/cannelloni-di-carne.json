@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannelloni-di-carne/",
+ "titolo": "CANNELLONI DI CARNE",
+ "data_pubblicazione": "2019-01-30",
+ "marca": "ESSELUNGA",
+ "denominazione": "CANNELLONI DI CARNE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%204_1761178571.pdf",
+ "allegati": [
+  {
+   "titolo": "Esselunga Spa _ allegato 4_1761178571.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%204_1761178571.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cannelloni-di-carne",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CANNELLONI DI CARNE",
+  "operatore": "ESSELUNGA SPA",
+  "lotti": [
+   "SC. 29.01.19"
+  ],
+  "marchio_identificazione": "IT 1184 S CE",
+  "produttore": "ESSELUNGA SPA VIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO",
+  "scadenza": "SC. 29.01.19",
+  "peso_volume": "Peso variabile (330 g)",
+  "motivo_esteso": "Potenziale presenza di frammenti di plastica",
+  "avvertenze": "• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. • Si prega di non consumare il prodotto e riportarlo presso il punto vendita. • Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita.",
+  "campi_extra": {
+   "Data": "28/01/2019 Marchio del prodotto: ESSELUNGA SPA"
+  },
+  "testo": "RICHIAMO\nData: 28/01/2019 Marchio del prodotto: ESSELUNGA SPA\nDenominazione di vendita: CANNELLONI DI CARNE\nNome o ragione sociale dell'OSA\nESSELUNGA SPA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: SC. 29.01.19\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 S CE\nNome del produttore: ESSELUNGA SPA\nVIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: SC. 29.01.19\nDescrizione peso/volume unità di vendita: Peso variabile (330 g)\nMotivo del richiamo: Potenziale presenza di frammenti di plastica\nAvvertenze:\n• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati.\n• Si prega di non consumare il prodotto e riportarlo presso il punto vendita.\n• Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:41:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:26+00:00"
+}

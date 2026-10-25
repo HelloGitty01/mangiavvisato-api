@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00/",
+ "titolo": "FARINA DI GRANO TENERO TIPO 00",
+ "data_pubblicazione": "2019-02-28",
+ "marca": "SELEX",
+ "denominazione": "FARINA DI GRANO TENERO TIPO 00",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformiselexok_1761178649.pdf",
+ "allegati": [
+  {
+   "titolo": "Fup_386210_OSAmodulodirichiamoprodottinonconformiselexok_1761178649.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_386210_OSAmodulodirichiamoprodottinonconformiselexok_1761178649.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "farina-di-grano-tenero-tipo-00",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI GRANO TENERO TIPO 00",
+  "operatore": "SELEX Via C.Colombo, 51 20090 Trezzano s/N MI",
+  "lotti": [
+   "L 19 009"
+  ],
+  "produttore": "MOLINO ROSSETTO",
+  "sede_stabilimento": "Via San Fausto 98 Pontelongo PD",
+  "scadenza": "09-02-2020",
+  "peso_volume": "sacchetto carta 1 kg, cod. ean 8003100250018",
+  "motivo_esteso": "presenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla confezione sia riportata la dicitura: \"prodotto in uno stabilimento in cui si utilizza soia\"",
+  "avvertenze": "il prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori a non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro",
+  "campi_extra": {
+   "Data": "27/02/2019 Marchio del prodotto: SELEX",
+   "confezione sia riportata la dicitura": "\"prodotto in uno stabilimento in cui si utilizza soia\"",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 27/02/2019 Marchio del prodotto: SELEX\nDenominazione di vendita: FARINA DI GRANO TENERO TIPO 00\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX Via C.Colombo, 51 20090 Trezzano s/N MI\ncommercializzato:\nLotto di produzione: L 19 009\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MOLINO ROSSETTO\nSede dello stabilimento: Via San Fausto 98 Pontelongo PD\nData di scadenza o termine minimo di conservazione: 09-02-2020\nDescrizione peso/volume unità di vendita: sacchetto carta 1 kg, cod. ean 8003100250018\nMotivo del richiamo:\npresenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla\nconfezione sia riportata la dicitura: \"prodotto in uno stabilimento in cui si utilizza soia\"\nAvvertenze:\nil prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori\na non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro\nlotto\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:40:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:40:07+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-mista-capricciosa/",
+ "titolo": "Insalata mista Capricciosa",
+ "data_pubblicazione": "2019-01-18",
+ "marca": "Centrale del latte di Brescia spa",
+ "denominazione": "Insalata mista Capricciosa",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-mista-capricciosa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Capricciosa",
+  "operatore": "Centrale del Latte di Brescia S.p.A.",
+  "lotti": [
+   "15L4M255 - 16L4M255 - 17L4M255"
+  ],
+  "marchio_identificazione": "Facchini srl",
+  "produttore": "Facchini srl",
+  "sede_stabilimento": "Via Martiri della Libertà 23 cap. 25020 Poncarale (BS)",
+  "scadenza": "22-23-24/01/19",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza di Listeria Monocytogenes",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "18/01/2019 Marchio del prodotto: Centrale del Latte di Brescia S.p.A.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 18/01/2019 Marchio del prodotto: Centrale del Latte di Brescia S.p.A.\nDenominazione di vendita:Capricciosa\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centrale del Latte di Brescia S.p.A.\ncommercializzato:\nLotto di produzione: 15L4M255 - 16L4M255 - 17L4M255\nMarchio di identificazione dello stabilimento/del produttore: Facchini srl\nNome del produttore: Facchini srl\nSede dello stabilimento: Via Martiri della Libertà 23 cap. 25020 Poncarale (BS)\nData di scadenza o termine minimo di conservazione: 22-23-24/01/19\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza di Listeria Monocytogenes\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:39+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-sesamo-bio/",
+ "titolo": "Bocconcini sesamo Bio",
+ "data_pubblicazione": "2019-11-26",
+ "marca": "Bio's Merenderia",
+ "denominazione": "Bocconcini sesamo Bio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bocconcini%20Bio_s_1761180433.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Bocconcini Bio_s_1761180433.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bocconcini%20Bio_s_1761180433.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bocconcini-sesamo-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:31:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:13+00:00"
+}

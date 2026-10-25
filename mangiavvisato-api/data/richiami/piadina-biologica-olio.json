@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piadina-biologica-olio/",
+ "titolo": "PIADINA BIOLOGICA OLIO",
+ "data_pubblicazione": "2019-11-14",
+ "marca": "AQUAFARINA",
+ "denominazione": "PIADINA BIOLOGICA OLIO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20ACQUAFARINA%20L23592_1761180366.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO PIADINA BIO ACQUAFARINA L23592_1761180366.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PIADINA%20BIO%20ACQUAFARINA%20L23592_1761180366.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "piadina-biologica-olio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:31:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:53+00:00"
+}

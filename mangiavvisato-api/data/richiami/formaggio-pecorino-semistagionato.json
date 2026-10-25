@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pecorino-semistagionato/",
+ "titolo": "Formaggio Pecorino semistagionato",
+ "data_pubblicazione": "2018-12-12",
+ "marca": "Caseificio La Fonte",
+ "denominazione": "Formaggio Pecorino semistagionato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino_1761178533.pdf",
+ "allegati": [
+  {
+   "titolo": "Pecorino_1761178533.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino_1761178533.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggio-pecorino-semistagionato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio media stagionatura GARANTE",
+  "operatore": "Caseificio LA FONTE di Pasquale Pace",
+  "lotti": [
+   "18202"
+  ],
+  "marchio_identificazione": "IT 09 439 CE",
+  "produttore": "Caseificio LA FONTE",
+  "sede_stabilimento": "Località Torre a Castello - 53041 Asciano (Si)",
+  "scadenza": "02-05-2019",
+  "peso_volume": "Forma singola/1,400 Kg",
+  "motivo_esteso": "Presenza di Listeria monocytogenes",
+  "avvertenze": "La non conformità è stata comunicata ai clienti Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "10/12/2018 Marchio del prodotto: Pecorino semistagionato",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 10/12/2018 Marchio del prodotto: Pecorino semistagionato\nDenominazione di vendita:Formaggio media stagionatura GARANTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caseificio LA FONTE di Pasquale Pace\ncommercializzato:\nLotto di produzione: 18202\nMarchio di identificazione dello stabilimento/del produttore: IT 09 439 CE\nNome del produttore: Caseificio LA FONTE\nSede dello stabilimento: Località Torre a Castello - 53041 Asciano (Si)\nData di scadenza o termine minimo di conservazione: 02-05-2019\nDescrizione peso/volume unità di vendita: Forma singola/1,400 Kg\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nLa non conformità è stata comunicata ai clienti\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:42:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:42:34+00:00"
+}

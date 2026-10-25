@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incp-naturale-0/",
+ "titolo": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+ "data_pubblicazione": "2019-04-24",
+ "marca": "CAROZZI FORMAGGI SRL",
+ "denominazione": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2017_09_15%20taleggio%20Carozzi%20REVOCA_1761178723.pdf",
+ "allegati": [
+  {
+   "titolo": "2017_09_15 taleggio Carozzi REVOCA_1761178723.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2017_09_15%20taleggio%20Carozzi%20REVOCA_1761178723.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "taleggio-dop-latte-crudo-incp-naturale-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+  "operatore": "CAROZZI FORMAGGI srl",
+  "lotti": [
+   "04827"
+  ],
+  "marchio_identificazione": "IT 03 1880",
+  "produttore": "CAROZZI FORMAGGI srl",
+  "sede_stabilimento": "BARZIO (LC), LOC. PRATO BUSCANTE",
+  "peso_volume": "forma intera",
+  "motivo_esteso": "PRESENZA LISTERIA MONOCYTOGENES",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO  ",
+  "campi_extra": {
+   "Data": "23/04/2019 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 23/04/2019 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE\nDenominazione di vendita:TALEGGIO DOP LATTE CRUDO INC.P. NATURALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAROZZI FORMAGGI srl\ncommercializzato:\nLotto di produzione: 04827\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1880\nNome del produttore: CAROZZI FORMAGGI srl\nSede dello stabilimento: BARZIO (LC), LOC. PRATO BUSCANTE\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: forma intera\nMotivo del richiamo:\nPRESENZA LISTERIA MONOCYTOGENES\nAvvertenze:\nNON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:39:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:39:09+00:00"
+}

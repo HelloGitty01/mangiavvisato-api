@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-formaggio-fresco-di-pecora/",
+ "titolo": "caciotta formaggio fresco di pecora",
+ "data_pubblicazione": "2018-05-25",
+ "marca": "Moserhof",
+ "denominazione": "caciotta formaggio fresco di pecora",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ruckruf_1761176789.pdf",
+ "allegati": [
+  {
+   "titolo": "Ruckruf_1761176789.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ruckruf_1761176789.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "caciotta-formaggio-fresco-di-pecora",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:50:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:36+00:00"
+}

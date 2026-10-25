@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-farro-integrale/",
+ "titolo": "FARINA DI FARRO INTEGRALE",
+ "data_pubblicazione": "2019-10-10",
+ "marca": "LO CONTE",
+ "denominazione": "FARINA DI FARRO INTEGRALE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lo%20conte%2018339_1761180326.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo farro lo conte 18339_1761180326.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lo%20conte%2018339_1761180326.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-farro-integrale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "05/10/2019"
+ },
+ "prima_rilevazione": "2026-10-25T09:32:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:59+00:00"
+}

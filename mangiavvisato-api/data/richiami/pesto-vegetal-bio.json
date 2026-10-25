@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-vegetal-bio/",
+ "titolo": "PESTO VEGETAL BIO",
+ "data_pubblicazione": "2017-09-28",
+ "marca": "LA FINESTRA SUL CIELO SPA",
+ "denominazione": "PESTO VEGETAL BIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto%20Bio%2028_09_17_1761175965.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_Pesto Bio 28_09_17_1761175965.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto%20Bio%2028_09_17_1761175965.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-vegetal-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:56:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:56:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-con-patate-e-porri/",
+ "titolo": "Crema con patate e porri",
+ "data_pubblicazione": "2018-06-11",
+ "marca": "CONAD",
+ "denominazione": "Crema con patate e porri",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO_1761176798.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RITIRO_1761176798.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO_1761176798.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "crema-con-patate-e-porri",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:50:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:50:32+00:00"
+}

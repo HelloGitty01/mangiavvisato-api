@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aglio-olio-e-peperoncino-1/",
+ "titolo": "Aglio olio e peperoncino",
+ "data_pubblicazione": "2019-08-13",
+ "marca": "F.lli Polli",
+ "denominazione": "Aglio olio e peperoncino",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Ditta%20Polli%20spa_1761179525.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo Ditta Polli spa_1761179525.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Ditta%20Polli%20spa_1761179525.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "aglio-olio-e-peperoncino-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:35:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:35:29+00:00"
+}

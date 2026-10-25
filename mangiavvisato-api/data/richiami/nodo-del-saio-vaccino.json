@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nodo-del-saio-vaccino/",
+ "titolo": "Nodo del Saio Vaccino",
+ "data_pubblicazione": "2020-08-21",
+ "marca": "Caseificio Francesco Rabbia",
+ "denominazione": "Nodo del Saio Vaccino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMONODODELSAIOVACCINO_1761181469.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMONODODELSAIOVACCINO_1761181469.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMONODODELSAIOVACCINO_1761181469.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nodo-del-saio-vaccino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NODO DEL SAIO VACCINO",
+  "operatore": "CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.",
+  "lotti": [
+   "200507"
+  ],
+  "marchio_identificazione": "IT 01 417 CE",
+  "produttore": "CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.",
+  "sede_stabilimento": "IT 01 417 CE",
+  "scadenza": "31-10-2020",
+  "peso_volume": "2,5KG",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO - E. coli/STEC",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/08/2020 Marchio del prodotto: CASEIFICIO FRANCESCO RABBIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 21/08/2020 Marchio del prodotto: CASEIFICIO FRANCESCO RABBIA\nDenominazione di vendita:NODO DEL SAIO VACCINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.\ncommercializzato:\nLotto di produzione: 200507\nMarchio di identificazione dello stabilimento/del produttore: IT 01 417 CE\nNome del produttore: CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.\nSede dello stabilimento: IT 01 417 CE\nData di scadenza o termine minimo di conservazione: 31-10-2020\nDescrizione peso/volume unità di vendita: 2,5KG\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO - E. coli/STEC\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:24:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:24:26+00:00"
+}

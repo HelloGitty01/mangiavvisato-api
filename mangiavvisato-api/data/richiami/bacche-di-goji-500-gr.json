@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-500-gr/",
+ "titolo": "bacche di goji 500 gr",
+ "data_pubblicazione": "2019-02-01",
+ "marca": "Abbasciano",
+ "denominazione": "bacche di goji 500 gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20G.500_1761178575.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO BACCHE GOJI G.500_1761178575.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BACCHE%20GOJI%20G.500_1761178575.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bacche-di-goji-500-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BACCHE DI GOJI Nome o ragione sociale dell'OSA a nome del quale il ABBASCIANO SNC prodotto è commercializzato",
+  "lotti": [
+   "28316-018"
+  ],
+  "produttore": "ABBASCIANO SNC",
+  "sede_stabilimento": "VIA 8 MARZO, 4",
+  "scadenza": "07/2019",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Riscontrati residui di prodotti fitosanitari oltre la soglia consentita.",
+  "avvertenze": "Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega di non consumare il prodotto e riportarlo presso il punto vendita Inserire immagine uno Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/01/2019 Marchio del prodotto: ABBASCIANO"
+  },
+  "testo": "RICHIAMO\nData: 31/01/2019 Marchio del prodotto: ABBASCIANO\nDenominazione di vendita: BACCHE DI GOJI\nNome o ragione sociale\ndell'OSA a nome del quale il ABBASCIANO SNC\nprodotto è commercializzato:\nLotto di produzione: 28316-018\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ABBASCIANO SNC\nSede dello stabilimento: VIA 8 MARZO, 4\nData di scadenza o termine minimo di conservazione: 07/2019\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRiscontrati residui di prodotti fitosanitari oltre la soglia consentita.\nAvvertenze:\nIl richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. Si prega\ndi non consumare il prodotto e riportarlo presso il punto vendita\nInserire immagine uno Inserire immagine due"
+ },
+ "prima_rilevazione": "2026-10-25T09:41:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:41:14+00:00"
+}

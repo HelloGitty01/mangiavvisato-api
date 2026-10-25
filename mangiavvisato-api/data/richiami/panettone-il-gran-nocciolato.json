@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-il-gran-nocciolato/",
+ "titolo": "PANETTONE IL GRAN NOCCIOLATO",
+ "data_pubblicazione": "2018-11-21",
+ "marca": "MAINA PANETTONI",
+ "denominazione": "PANETTONE IL GRAN NOCCIOLATO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maina%20_%20Panettone%20Il%20Gran%20Nocciolato%2019_11_18_1761177872.pdf",
+ "allegati": [
+  {
+   "titolo": "Maina _ Panettone Il Gran Nocciolato 19_11_18_1761177872.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maina%20_%20Panettone%20Il%20Gran%20Nocciolato%2019_11_18_1761177872.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panettone-il-gran-nocciolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANETTONE IL GRAN NOCCIOLATO",
+  "operatore": "MAINA PANETTONI S.P.A.",
+  "lotti": [
+   "801077-881077-891077"
+  ],
+  "marchio_identificazione": "MAINA PANETTONI S.P.A.",
+  "produttore": "MAINA PANETTONI S.P.A.",
+  "sede_stabilimento": "Via Bra (Tagliata), 109 - 12045 Fossano (CN) IT",
+  "scadenza": "30-06-2019",
+  "peso_volume": "1 KG cod. EAN 8005190401011",
+  "motivo_esteso": "possibile contaminazione da filamenti metallici",
+  "avvertenze": "Invitiamo il consumatore a riportare il prodotto al punto vendita per la sostituzione. E-mail: gestionereclami@mainapanettoni.com N. verde: 800-617781 (lu-ve 8,00-12,00 e 14,00-18,00) Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/11/2018 Marchio del prodotto: MAINA PANETTONI",
+   "E-mail": "gestionereclami@mainapanettoni.com",
+   "N. verde": "800-617781 (lu-ve 8,00-12,00 e 14,00-18,00)",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19/11/2018 Marchio del prodotto: MAINA PANETTONI\nDenominazione di vendita:PANETTONE IL GRAN NOCCIOLATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAINA PANETTONI S.P.A.\ncommercializzato:\nLotto di produzione: 801077-881077-891077\nMarchio di identificazione dello stabilimento/del produttore: MAINA PANETTONI S.P.A.\nNome del produttore: MAINA PANETTONI S.P.A.\nSede dello stabilimento: Via Bra (Tagliata), 109 - 12045 Fossano (CN) IT\nData di scadenza o termine minimo di conservazione: 30-06-2019\nDescrizione peso/volume unità di vendita: 1 KG cod. EAN 8005190401011\nMotivo del richiamo:\npossibile contaminazione da filamenti metallici\nAvvertenze:\nInvitiamo il consumatore a riportare il prodotto al punto vendita per la sostituzione.\nE-mail: gestionereclami@mainapanettoni.com\nN. verde: 800-617781 (lu-ve 8,00-12,00 e 14,00-18,00)\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:43:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:43:56+00:00"
+}

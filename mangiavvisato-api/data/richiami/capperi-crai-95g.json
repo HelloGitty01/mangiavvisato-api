@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capperi-crai-95g/",
+ "titolo": "CAPPERI CRAI 95g",
+ "data_pubblicazione": "2019-11-13",
+ "marca": "Crai",
+ "denominazione": "CAPPERI CRAI 95g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Capperi%20all_aceto%20Crai%2095g_lotto_L2429_1761180364.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO_Capperi all_aceto Crai 95g_lotto_L2429_1761180364.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Capperi%20all_aceto%20Crai%2095g_lotto_L2429_1761180364.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "capperi-crai-95g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAPPERI CRAI 95g",
+  "operatore": "CRAI SECOM SpA",
+  "lotti": [
+   "L2429"
+  ],
+  "produttore": "Ponti SpA",
+  "sede_stabilimento": "Via E. Ferrari, 7 – 28074 GHEMME (NO)",
+  "scadenza": "31/08/2022",
+  "peso_volume": "95g - 55g sgocciolato",
+  "motivo_esteso": "A scopo precauzionale per la possibile presenza di un corpo estraneo",
+  "avvertenze": "Restituire il prodotto al Punto di Vendita per la sostituzione Immagine uno Immagine due",
+  "testo": "RICHIAMO\nData 11/11/2019 Marchio del prodotto Crai\nDenominazione di Vendita: CAPPERI CRAI 95g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CRAI SECOM SpA\ncommercializzato:\nLotto di Produzione L2429\nMarchio di identificazione dello stabilimento /del produttore\nNome del produttore: Ponti SpA\nSede dello stabilimento:\nVia E. Ferrari, 7 – 28074 GHEMME (NO)\nData di scadenza o termine minimo di conservazione: 31/08/2022\nDescrizione peso/volume unità di vendita 95g - 55g sgocciolato\nMotivo del richiamo:\nA scopo precauzionale per la possibile presenza di un corpo estraneo\nAvvertenze:\nRestituire il prodotto al Punto di Vendita per la sostituzione\nImmagine uno Immagine due"
+ },
+ "prima_rilevazione": "2026-10-25T09:32:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:10+00:00"
+}

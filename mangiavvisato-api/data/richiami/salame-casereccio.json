@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-casereccio/",
+ "titolo": "Salame casereccio",
+ "data_pubblicazione": "2020-02-04",
+ "marca": "Salumi Vida",
+ "denominazione": "Salame casereccio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salame%20casereccio%20corretto_1761180615.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo salame casereccio corretto_1761180615.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salame%20casereccio%20corretto_1761180615.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-casereccio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:29:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:02+00:00"
+}

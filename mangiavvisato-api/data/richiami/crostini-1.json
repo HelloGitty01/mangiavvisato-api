@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-1/",
+ "titolo": "Crostini",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "PAM Panorama",
+ "denominazione": "Crostini",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PAM_1761175107.pdf",
+ "allegati": [
+  {
+   "titolo": "PAM_1761175107.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PAM_1761175107.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+  "operatore": "PAM PANORAMA SPA",
+  "lotti": [
+   "045116-020517"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+  "peso_volume": "75G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: PAM PANORAMA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: PAM PANORAMA\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PAM PANORAMA SPA\ncommercializzato:\nLotto di produzione: 045116-020517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 045116 - SCADENZA 22/08/17\nLOTTO 020517 - SCADENZA 01/10/17\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:06+00:00"
+}

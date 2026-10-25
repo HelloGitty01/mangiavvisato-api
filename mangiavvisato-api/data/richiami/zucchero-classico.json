@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchero-classico/",
+ "titolo": "zucchero classico",
+ "data_pubblicazione": "2019-03-27",
+ "marca": "Sudzuccheri",
+ "denominazione": "zucchero classico",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20zucchero_1761178675.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo zucchero_1761178675.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20zucchero_1761178675.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zucchero-classico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:39:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:39:45+00:00"
+}

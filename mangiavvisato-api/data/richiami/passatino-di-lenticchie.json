@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passatino-di-lenticchie/",
+ "titolo": "Passatino di lenticchie",
+ "data_pubblicazione": "2018-07-20",
+ "marca": "Baby Kiss",
+ "denominazione": "Passatino di lenticchie",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro%20richiamo%20Ministeriale_1761176976.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo ritiro richiamo Ministeriale_1761176976.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro%20richiamo%20Ministeriale_1761176976.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "passatino-di-lenticchie",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PASSATINO DI LENTICCHIE",
+  "operatore": "ANTAAR&S S.p.A.",
+  "lotti": [
+   "L 05271"
+  ],
+  "marchio_identificazione": "ANTAAR&S S.p.A. - CE IT 2699",
+  "produttore": "ANTAAR&S S.p.A.",
+  "sede_stabilimento": "Via Aldo Moro 3, 27051 – Cava Manara (PV) - IT",
+  "scadenza": "21 02 19",
+  "peso_volume": "150g",
+  "motivo_esteso": "RITIRO / RICHIAMO CAUTELATIVO A CAUSA DI PRESENZA DI GLUTINE NON DICHIARATA",
+  "avvertenze": "Se consumato, il prodotto POTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL GLUTINE (CELIACI). Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/07/2018 Marchio del prodotto: BABY KISS",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19/07/2018 Marchio del prodotto: BABY KISS\nDenominazione di vendita:PASSATINO DI LENTICCHIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ANTAAR&S S.p.A.\ncommercializzato:\nLotto di produzione: L 05271\nMarchio di identificazione dello stabilimento/del produttore: ANTAAR&S S.p.A. - CE IT 2699\nNome del produttore: ANTAAR&S S.p.A.\nSede dello stabilimento: Via Aldo Moro 3, 27051 – Cava Manara (PV) - IT\nData di scadenza o termine minimo di conservazione: 21 02 19\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nRITIRO / RICHIAMO CAUTELATIVO A CAUSA DI PRESENZA DI GLUTINE NON DICHIARATA\nAvvertenze:\nSe consumato, il prodotto\nPOTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL GLUTINE (CELIACI).\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:48:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:48:16+00:00"
+}

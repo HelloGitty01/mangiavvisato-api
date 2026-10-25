@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-classici-0/",
+ "titolo": "Crostini classici",
+ "data_pubblicazione": "2017-02-22",
+ "marca": "Primo",
+ "denominazione": "Crostini classici",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIMO_1761175109.pdf",
+ "allegati": [
+  {
+   "titolo": "PRIMO_1761175109.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIMO_1761175109.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crostini-classici-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CROSTINO - PRODOTTO DA FORNO TOSTATO E FRITTO",
+  "operatore": "SISA SPA",
+  "lotti": [
+   "030517"
+  ],
+  "marchio_identificazione": "SAN GIORGIO SRL",
+  "produttore": "SAN GIORGIO SRL",
+  "sede_stabilimento": "VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)",
+  "scadenza": "01-10-2017",
+  "peso_volume": "75G",
+  "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/02/2017 Marchio del prodotto: PRIMO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: PRIMO\nDenominazione di vendita:CROSTINO - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SISA SPA\ncommercializzato:\nLotto di produzione: 030517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 01-10-2017\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T10:00:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T10:00:09+00:00"
+}

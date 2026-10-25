@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-0/",
+ "titolo": "Salametto",
+ "data_pubblicazione": "2019-10-08",
+ "marca": "Cesare Fiorucci SPA",
+ "denominazione": "Salametto",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2_Integrazione%20RICHIAMO_1761180324.pdf",
+ "allegati": [
+  {
+   "titolo": "MinsaluteAllA2_Integrazione RICHIAMO_1761180324.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2_Integrazione%20RICHIAMO_1761180324.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salametto-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:33:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:06+00:00"
+}

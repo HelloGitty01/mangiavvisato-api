@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olive-farcite/",
+ "titolo": "Olive farcite",
+ "data_pubblicazione": "2019-09-20",
+ "marca": "Coop",
+ "denominazione": "Olive farcite",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20rich%20_1761179689.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo rich _1761179689.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20rich%20_1761179689.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "olive-farcite",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "OLIVE FARCITE",
+  "operatore": "COOP ITALIA",
+  "lotti": [
+   "LJ 197"
+  ],
+  "produttore": "INPA SPA",
+  "sede_stabilimento": "VIA CIAMBELLANA 2",
+  "scadenza": "LUG 2021",
+  "peso_volume": "280g peso netto 180 g peso sgocciolato",
+  "motivo_esteso": "POSSIBILE PRESENZA DI SOLFITI NON DICHIARATI IN ETICHETTA",
+  "avvertenze": "SI INVITA I CONSUMATORI ALLERGICI AI SOLFITI A NON CONSUMARE IL PRODOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/09/2019 Marchio del prodotto: COOP",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19/09/2019 Marchio del prodotto: COOP\nDenominazione di vendita:OLIVE FARCITE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA\ncommercializzato:\nLotto di produzione: LJ 197\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: INPA SPA\nSede dello stabilimento: VIA CIAMBELLANA 2\nData di scadenza o termine minimo di conservazione: LUG 2021\nDescrizione peso/volume unità di vendita: 280g peso netto 180 g peso sgocciolato\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SOLFITI NON DICHIARATI IN ETICHETTA\nAvvertenze:\nSI INVITA I CONSUMATORI ALLERGICI AI SOLFITI A NON CONSUMARE IL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:33:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:35+00:00"
+}

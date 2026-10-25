@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ceci-biologici/",
+ "titolo": "CECI BIOLOGICI",
+ "data_pubblicazione": "2020-01-31",
+ "marca": "ECOR",
+ "denominazione": "CECI BIOLOGICI",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf",
+ "allegati": [
+  {
+   "titolo": "Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ceci-biologici",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CECI BIOLOGICI",
+  "operatore": "EcorNaturaSì SpA, via L. De Besi 20/C Verona (VR) Italia",
+  "lotti": [
+   "15-07-2021"
+  ],
+  "marchio_identificazione": "ILTA Alimentare SpA",
+  "produttore": "ILTA Alimentare SpA",
+  "sede_stabilimento": "via dell’elettricità 19, Venezia (VE) Italia",
+  "scadenza": "15-07-2021",
+  "peso_volume": "400g",
+  "motivo_esteso": "PRESENZA DI ALLERGENI SOIA E SENAPE NON INDICATI IN ETICHETTA",
+  "avvertenze": "Si raccomanda ai consumatori ALLERGICI ALLA SOIA E ALLA SENAPE di controllare il prodotto acquistato e se appartenente alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "30/01/2020 Marchio del prodotto: ECOR",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 30/01/2020 Marchio del prodotto: ECOR\nDenominazione di vendita:CECI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EcorNaturaSì SpA, via L. De Besi 20/C Verona (VR) Italia\ncommercializzato:\nLotto di produzione: 15-07-2021\nMarchio di identificazione dello stabilimento/del produttore: ILTA Alimentare SpA\nNome del produttore: ILTA Alimentare SpA\nSede dello stabilimento: via dell’elettricità 19, Venezia (VE) Italia\nData di scadenza o termine minimo di conservazione: 15-07-2021\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nPRESENZA DI ALLERGENI SOIA E SENAPE NON INDICATI IN ETICHETTA\nAvvertenze:\nSi raccomanda ai consumatori ALLERGICI ALLA SOIA E ALLA SENAPE di controllare il prodotto acquistato e\nse appartenente alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che\nprovvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:29:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:05+00:00"
+}

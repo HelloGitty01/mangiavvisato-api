@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-0/",
+ "titolo": "FORMAGGELLA",
+ "data_pubblicazione": "2019-04-24",
+ "marca": "SOCIETA' AGRICOLA PONTI",
+ "denominazione": "FORMAGGELLA",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2018_10_03%20formaggella%20Ponti_1761178731.pdf",
+ "allegati": [
+  {
+   "titolo": "2018_10_03 formaggella Ponti_1761178731.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2018_10_03%20formaggella%20Ponti_1761178731.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggella-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGELLA",
+  "operatore": "SOCIETA' AGRICOLA F.LLI PONTI",
+  "lotti": [
+   "06-28/08/2018"
+  ],
+  "marchio_identificazione": "\\\\",
+  "produttore": "SOCIETA' AGRICOLA F.LLI PONTI",
+  "sede_stabilimento": "VIA PRIVATA DELLE INDUSTRIE 7, NOVA MILANESE (MB)",
+  "scadenza": "29-10-2018",
+  "peso_volume": "2,5 KG",
+  "avvertenze": " ",
+  "campi_extra": {
+   "Data": "24/04/2019 Marchio del prodotto: SOCIETA' AGRICOLA F.LLI PONTI"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 24/04/2019 Marchio del prodotto: SOCIETA' AGRICOLA F.LLI PONTI\nDenominazione di vendita:FORMAGGELLA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SOCIETA' AGRICOLA F.LLI PONTI\ncommercializzato:\nLotto di produzione: 06-28/08/2018\nMarchio di identificazione dello stabilimento/del produttore: \\\\\nNome del produttore: SOCIETA' AGRICOLA F.LLI PONTI\nSede dello stabilimento: VIA PRIVATA DELLE INDUSTRIE 7, NOVA MILANESE (MB)\nData di scadenza o termine minimo di conservazione: 29-10-2018\nDescrizione peso/volume unità di vendita: 2,5 KG\nMotivo del richiamo:\nAvvertenze:\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:39:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:39:13+00:00"
+}

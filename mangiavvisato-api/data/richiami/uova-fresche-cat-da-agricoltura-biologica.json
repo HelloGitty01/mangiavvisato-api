@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-da-agricoltura-biologica/",
+ "titolo": "Uova Fresche Cat. A da agricoltura biologica",
+ "data_pubblicazione": "2020-01-22",
+ "marca": "Amadori - Uova da agricoltura biologica",
+ "denominazione": "Uova Fresche Cat. A da agricoltura biologica",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GESCO_Amadori_1761180568.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo GESCO_Amadori_1761180568.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GESCO_Amadori_1761180568.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-cat-da-agricoltura-biologica",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO",
+  "operatore": "GESCO SOCIETA' COOPERATIVA AGRICOLA",
+  "lotti": [
+   "5528139926"
+  ],
+  "marchio_identificazione": "OLIVERO CLAUDIO",
+  "produttore": "OLIVERO CLAUDIO",
+  "sede_stabilimento": "VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)",
+  "scadenza": "08-FEBBRAIO",
+  "peso_volume": "confezione da 4 uova da agricoltura biologica - vario calibro",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+  "avvertenze": "NON CONSUMARE LE UOVA RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/01/2020 Marchio del prodotto: AMADORI - UOVA DA AGRICOLTURA BIOLOGICA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: AMADORI - UOVA DA AGRICOLTURA BIOLOGICA\nDenominazione di vendita:UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GESCO SOCIETA' COOPERATIVA AGRICOLA\ncommercializzato:\nLotto di produzione: 5528139926\nMarchio di identificazione dello stabilimento/del produttore: OLIVERO CLAUDIO\nNome del produttore: OLIVERO CLAUDIO\nSede dello stabilimento: VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)\nData di scadenza o termine minimo di conservazione: 08-FEBBRAIO\nDescrizione peso/volume unità di vendita: confezione da 4 uova da agricoltura biologica - vario calibro\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nNON CONSUMARE LE UOVA\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:29:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:28+00:00"
+}

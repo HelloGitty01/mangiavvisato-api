@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-categoria-fresche/",
+ "titolo": "Uova categoria A Fresche",
+ "data_pubblicazione": "2017-09-21",
+ "marca": "Uova rosse \nAzienda Agricola Tomaino Rosina",
+ "denominazione": "Uova categoria A Fresche",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ETICHETTA%20LOTTO%20CAMPIONATURA_1761175323.pdf",
+ "allegati": [
+  {
+   "titolo": "ETICHETTA LOTTO CAMPIONATURA_1761175323.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ETICHETTA%20LOTTO%20CAMPIONATURA_1761175323.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-categoria-fresche",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:56:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:56:56+00:00"
+}

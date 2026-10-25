@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-veneto-500-g/",
+ "titolo": "Salame Veneto 500 g",
+ "data_pubblicazione": "2019-10-02",
+ "marca": "Il tagliere del re",
+ "denominazione": "Salame Veneto 500 g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%2066522_1761180319.pdf",
+ "allegati": [
+  {
+   "titolo": "Manifesto 66522_1761180319.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%2066522_1761180319.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-veneto-500-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame Veneto 500 g",
+  "operatore": "ALDI Srl",
+  "lotti": [
+   "1190528(indicato anche con 0528)"
+  ],
+  "marchio_identificazione": "IT 807L CE",
+  "produttore": "Becher Spa",
+  "sede_stabilimento": "Via Povegliano 46, 31050 Ponzano Veneto (TV)",
+  "scadenza": "Tutti",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Riscontrata la presenza di Salmonella in alcuni campioni.",
+  "avvertenze": "Il prodotto con lotto 1190528 (indicato anche con 0528) non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+  "campi_extra": {
+   "Data": "24/09/2019 Marchio del prodotto: Il tagliere del re"
+  },
+  "testo": "RICHIAMO\nData: 24/09/2019 Marchio del prodotto: Il tagliere del re\nDenominazione di vendita:Salame Veneto 500 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: 1190528(indicato anche con 0528)\nMarchio di identificazione dello stabilimento/del produttore: IT 807L CE\nNome del produttore: Becher Spa\nSede dello stabilimento: Via Povegliano 46, 31050 Ponzano Veneto (TV)\nData di scadenza o termine minimo di conservazione: Tutti\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRiscontrata la presenza di Salmonella in alcuni campioni.\nAvvertenze:\nIl prodotto con lotto 1190528 (indicato anche con 0528) non deve essere consumato e può essere\nrestituito in qualsiasi punto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T09:33:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:18+00:00"
+}

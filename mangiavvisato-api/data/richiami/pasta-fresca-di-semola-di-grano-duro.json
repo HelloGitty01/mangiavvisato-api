@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-fresca-di-semola-di-grano-duro/",
+ "titolo": "Pasta fresca di semola di grano duro",
+ "data_pubblicazione": "2020-04-06",
+ "marca": "Tre Mulini prodotto dallo stabilimento P.A.C. di Melfi per conto di EUROSPIN",
+ "denominazione": "Pasta fresca di semola di grano duro",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761181299.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo_1761181299.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_1761181299.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pasta-fresca-di-semola-di-grano-duro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:26:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:26:45+00:00"
+}

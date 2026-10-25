@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-salsa-pronta-0/",
+ "titolo": "POMODORO DATTERINO SALSA PRONTA",
+ "data_pubblicazione": "2020-04-09",
+ "marca": "IPER MONTEBELLO SPA",
+ "denominazione": "POMODORO DATTERINO SALSA PRONTA",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20_1761181303.pdf",
+ "allegati": [
+  {
+   "titolo": "revoca richiamo _1761181303.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20_1761181303.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pomodoro-datterino-salsa-pronta-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ODORO DATTERINO - SALSA PRONTA",
+  "operatore": "PER MONTEBELLO S.p.A. commercializzata",
+  "lotti": [
+   "3A4/§"
+  ],
+  "marchio_identificazione": "TTEGA DI SICILIA",
+  "produttore": "BOTTEGA DI SICILIA S.r.l.",
+  "sede_stabilimento": ".da Capraro - 97019 Vittoria (RG)",
+  "scadenza": "t1022,3LLZZZ",
+  "peso_volume": "3309",
+  "motivo_esteso": "Trascorso un mese dalla data di esposizione del modulo di richiamo, non ci sono state né altre segnalazioni né resi del prodotto.",
+  "avvertenze": "nserrre rmma9lne uno: serire immagine due",
+  "campi_extra": {
+   "Data": "a4/2020 Marchio del prodotto: PER",
+   "nserrre rmma9lne uno": "serire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: a4/2020 Marchio del prodotto: PER\nDenominazione di vendita : ODORO DATTERINO - SALSA PRONTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PER MONTEBELLO S.p.A.\ncommercializzata:\nLotto di produzione: 3A4/§\nMarchio di identificazione dello stabilimento/del produttore: TTEGA DI SICILIA\nNome del produttore: BOTTEGA DI SICILIA S.r.l.\nSede dello stabilimento : .da Capraro - 97019 Vittoria (RG)\nData di scadenza o termine minimo di conservazione: t1022,3LLZZZ\nDescrizione peso/volume unità di vendita: 3309\nMotivo del richiamo:\nTrascorso un mese dalla data di esposizione del modulo di richiamo, non ci sono state né altre segnalazioni\nné resi del prodotto.\nAvvertenze:\nnserrre rmma9lne uno: serire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:26:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:26:40+00:00"
+}

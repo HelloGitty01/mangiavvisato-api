@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-0/",
+ "titolo": "Salsiccia",
+ "data_pubblicazione": "2019-07-23",
+ "marca": "F.B.M. lavorazione carni",
+ "denominazione": "Salsiccia",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20FBM%20salsiccia_1761179459.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca FBM salsiccia_1761179459.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20FBM%20salsiccia_1761179459.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "salsiccia",
+  "operatore": "F.B.M.LAVORAZIONE CARNI SRL",
+  "lotti": [
+   "33491"
+  ],
+  "marchio_identificazione": "IT 1727/S CE",
+  "produttore": "F.B.M.LAVORAZIONE CARNI SRL",
+  "sede_stabilimento": "Calci",
+  "scadenza": "26-06-2019",
+  "peso_volume": "sfuso",
+  "motivo_esteso": "Revoca scadenza prodotto",
+  "campi_extra": {
+   "Data": "23/07/2019 Marchio del prodotto: F.B.M. lavorazione carni"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 23/07/2019 Marchio del prodotto: F.B.M. lavorazione carni\nDenominazione di vendita:salsiccia\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.B.M.LAVORAZIONE CARNI SRL\ncommercializzato:\nLotto di produzione: 33491\nMarchio di identificazione dello stabilimento/del produttore: IT 1727/S CE\nNome del produttore: F.B.M.LAVORAZIONE CARNI SRL\nSede dello stabilimento: Calci\nData di scadenza o termine minimo di conservazione: 26-06-2019\nDescrizione peso/volume unità di vendita: sfuso\nMotivo del richiamo:\nRevoca scadenza prodotto\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T09:36:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:36:31+00:00"
+}

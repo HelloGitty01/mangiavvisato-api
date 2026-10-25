@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bigger-cotoletta-di-tacchino-xxl/",
+ "titolo": "BIGGER COTOLETTA DI TACCHINO XXL",
+ "data_pubblicazione": "2019-05-29",
+ "marca": "AIA",
+ "denominazione": "BIGGER COTOLETTA DI TACCHINO XXL",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/B3973___1761178806.pdf",
+ "allegati": [
+  {
+   "titolo": "B3973___1761178806.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/B3973___1761178806.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "bigger-cotoletta-di-tacchino-xxl",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "B3973 BIGGER COTOLETTA DI TACCHINO XXL",
+  "operatore": "AIA Spa",
+  "lotti": [
+   "07258011"
+  ],
+  "marchio_identificazione": "IT 752L CE",
+  "produttore": "Agricola Tre Valli Soc. Coop",
+  "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+  "scadenza": "08/06/2019",
+  "peso_volume": "280g",
+  "motivo_esteso": "Possibile presenza di frammenti di plastica bianca",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per sostituzione B3973 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "28/05/2019 Marchio del prodotto: AIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 28/05/2019 Marchio del prodotto: AIA\nDenominazione di vendita:B3973 BIGGER COTOLETTA DI TACCHINO XXL\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 07258011\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 08/06/2019\nDescrizione peso/volume unità di vendita: 280g\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica bianca\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per sostituzione\nB3973\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:38:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:38:30+00:00"
+}

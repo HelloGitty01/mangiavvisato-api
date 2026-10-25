@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-legumi-e-cereali/",
+ "titolo": "ZUPPA CON LEGUMI E CEREALI",
+ "data_pubblicazione": "2020-05-22",
+ "marca": "ZERBINATI",
+ "denominazione": "ZUPPA CON LEGUMI E CEREALI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_marchio_Zerbinati_1761181316.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_marchio_Zerbinati_1761181316.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_marchio_Zerbinati_1761181316.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zuppa-con-legumi-e-cereali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ZUPPA CON LEGUMI E CEREALI",
+  "operatore": "ZERBINATI",
+  "lotti": [
+   "20-113"
+  ],
+  "marchio_identificazione": "ZERBINATI",
+  "produttore": "ZERBINATI SRL",
+  "sede_stabilimento": "VIA SALMAZZA, 7-15032 BORGO SAN MARTINO -AL",
+  "scadenza": "01/06/2020",
+  "peso_volume": "310G",
+  "motivo_esteso": "SOSPETTA PRESENZA DI BOTULINO",
+  "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "21/05/2020 Marchio del prodotto: ZERBINATI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 21/05/2020 Marchio del prodotto: ZERBINATI\nDenominazione di vendita:ZUPPA CON LEGUMI E CEREALI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ZERBINATI\ncommercializzato:\nLotto di produzione: 20-113\nMarchio di identificazione dello stabilimento/del produttore: ZERBINATI\nNome del produttore: ZERBINATI SRL\nSede dello stabilimento: VIA SALMAZZA, 7-15032 BORGO SAN MARTINO -AL-\nData di scadenza o termine minimo di conservazione: 01/06/2020\nDescrizione peso/volume unità di vendita: 310G\nMotivo del richiamo:\nSOSPETTA PRESENZA DI BOTULINO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:26:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:26:29+00:00"
+}

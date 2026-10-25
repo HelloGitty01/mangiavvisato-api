@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-piccante/",
+ "titolo": "SALAMINO PICCANTE",
+ "data_pubblicazione": "2018-02-21",
+ "marca": "ROBERTO AZZOCCHI SRL",
+ "denominazione": "SALAMINO PICCANTE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino%20piccante%20azzocchi_1761176161.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo salamino piccante azzocchi_1761176161.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salamino%20piccante%20azzocchi_1761176161.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamino-piccante",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMINO PICCANTE",
+  "operatore": "ROBERTO AZZOCCHI SRI",
+  "lotti": [
+   "000031"
+  ],
+  "marchio_identificazione": "IT 9-2506 LP",
+  "produttore": "ROBERTO AZZOCCHI SRL",
+  "sede_stabilimento": "ARICCIA",
+  "scadenza": "Tutte le scadenze",
+  "peso_volume": "CONFEZIONE SOTTOVUOTO GR.200/300 KG. 1.5/2.0",
+  "motivo_esteso": "RITIRO PRECAUZIONALE PER POSSIBILE PRESENZA DI SALMONELLA",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO RICONSEGNARLO PRESSO IL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "01-02-2018 Marchio del prodotto: ROBERTO AZZOCCHI SRI"
+  },
+  "testo": "RICHIAMO\nData: 01-02-2018 Marchio del prodotto: ROBERTO AZZOCCHI SRI\nDenominazione di vendita:SALAMINO PICCANTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ROBERTO AZZOCCHI SRI\ncommercializzato:\nLotto di produzione: 000031\nMarchio di identificazione dello stabilimento/del produttore: IT 9-2506 LP\nNome del produttore: ROBERTO AZZOCCHI SRL\nSede dello stabilimento: ARICCIA\nData di scadenza o termine minimo di conservazione: Tutte le scadenze\nDescrizione peso/volume unità di vendita: CONFEZIONE SOTTOVUOTO GR.200/300 KG. 1.5/2.0\nMotivo del richiamo:\nRITIRO PRECAUZIONALE PER POSSIBILE PRESENZA DI SALMONELLA\nAvvertenze:\nNON CONSUMARE IL PRODOTTO\nRICONSEGNARLO PRESSO IL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T09:53:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:53:13+00:00"
+}

@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria/",
+ "titolo": "UOVA FRESCHE CATEGORIA A",
+ "data_pubblicazione": "2017-09-21",
+ "marca": "UOVA ROSSE Az. Agricola TOMAINO ROSINA",
+ "denominazione": "UOVA FRESCHE CATEGORIA A",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SARAM%20339161_1761175328.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo SARAM 339161_1761175328.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SARAM%20339161_1761175328.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-categoria",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T09:57:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:04+00:00"
+}

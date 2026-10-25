@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-lardellato/",
+ "titolo": "salame lardellato",
+ "data_pubblicazione": "2020-07-30",
+ "marca": "salumificio cardinali",
+ "denominazione": "salame lardellato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc1_richiamo_cardin_salm_1761181414.pdf",
+ "allegati": [
+  {
+   "titolo": "doc1_richiamo_cardin_salm_1761181414.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/doc1_richiamo_cardin_salm_1761181414.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salame-lardellato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:25:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:25:03+00:00"
+}

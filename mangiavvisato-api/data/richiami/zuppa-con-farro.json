@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro/",
+ "titolo": "ZUPPA CON FARRO",
+ "data_pubblicazione": "2020-06-27",
+ "marca": "Terra & Vita Le Zuppe Belle e Pronte",
+ "denominazione": "ZUPPA CON FARRO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ZUPPA%20FARRO%20LOTTO%20L23_R_148_1761181338.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RICHIAMO ZUPPA FARRO LOTTO L23_R_148_1761181338.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20ZUPPA%20FARRO%20LOTTO%20L23_R_148_1761181338.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "zuppa-con-farro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:25:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:25:59+00:00"
+}

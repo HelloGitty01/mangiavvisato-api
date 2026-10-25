@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gli-speroni-tarallini-al-grano-saraceno/",
+ "titolo": "Gli Speroni - Tarallini al grano saraceno",
+ "data_pubblicazione": "2018-10-30",
+ "marca": "The Italian Gringo",
+ "denominazione": "Gli Speroni - Tarallini al grano saraceno",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/374189%20Modello%20di%20richiamo_1_1761177835.pdf",
+ "allegati": [
+  {
+   "titolo": "374189 Modello di richiamo_1_1761177835.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/374189%20Modello%20di%20richiamo_1_1761177835.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gli-speroni-tarallini-al-grano-saraceno",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "Presenza di allergene non dichiarato in etichetta": "senape."
+  },
+  "testo": "Allegato 4\n25/10/2018 The Italian Gringo\nGli Speroni - Tarallini al grano saraceno\nLidl Italia Srl\n25318 - 25418 - 25518 - 25618\nP.A.P. srl\nVia L. Cannelonga - Zona PIP - San Severo (FG)\n10/09/19 - 11/09/19 - 12/09/19 - 13/09/19\n500g\nPresenza di allergene non dichiarato in etichetta: senape.\nProdotto non idoneo al consumo da parte di allergici alle proteine di senape. Si invitano tali consumatori a non\nconsumarlo e a riportarlo al punto vendita per il rimborso"
+ },
+ "prima_rilevazione": "2026-10-25T09:44:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:44:33+00:00"
+}

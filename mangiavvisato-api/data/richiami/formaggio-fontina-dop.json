@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-fontina-dop/",
+ "titolo": "FORMAGGIO FONTINA D.O.P.",
+ "data_pubblicazione": "2018-07-27",
+ "marca": "TERRE D'ITALIA",
+ "denominazione": "FORMAGGIO FONTINA D.O.P.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Fontina%202018.07.27_1761177696.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Fontina 2018.07.27_1761177696.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Fontina%202018.07.27_1761177696.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-fontina-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO FONTINA D.O.P.",
+  "operatore": "G.S. S.p.A.",
+  "lotti": [
+   "L171"
+  ],
+  "marchio_identificazione": "IT 02 2 CE",
+  "produttore": "Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.",
+  "sede_stabilimento": "Loc. La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)",
+  "scadenza": "19-08-2018",
+  "peso_volume": "Preimballato 250g circa (peso variabile)",
+  "motivo_esteso": "Rischio microbiologico per presenza di Escherichia coli STEC PER EVENTUALI INFORMAZIONI SI PREGA DI CONTATTARE IL PRODUTTORE AL TEL 335 1357783",
+  "avvertenze": "I consumatori che avessero acquistato il prodotto sono invitati a non consumarlo e a riportare le confezioni al presente punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/07/2018 Marchio del prodotto: TERRE D'ITALIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2018 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:FORMAGGIO FONTINA D.O.P.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.S. S.p.A.\ncommercializzato:\nLotto di produzione: L171\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.\nSede dello stabilimento: Loc. La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)\nData di scadenza o termine minimo di conservazione: 19-08-2018\nDescrizione peso/volume unità di vendita: Preimballato 250g circa (peso variabile)\nMotivo del richiamo:\nRischio microbiologico per presenza di Escherichia coli STEC\nPER EVENTUALI INFORMAZIONI SI PREGA DI CONTATTARE IL PRODUTTORE AL TEL 335 1357783\nAvvertenze:\nI consumatori che avessero acquistato il prodotto sono invitati a non consumarlo e a riportare le confezioni\nal presente punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:47:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:47:44+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-contadino-ca/",
+ "titolo": "SALAME CONTADINO C/A",
+ "data_pubblicazione": "2020-02-27",
+ "marca": "LA SALUMERIA DI EUSTACHIO",
+ "denominazione": "SALAME CONTADINO C/A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20eustacchio%20_1__1761181239.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo salame eustacchio _1__1761181239.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salame%20eustacchio%20_1__1761181239.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-contadino-ca",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:27:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:27:43+00:00"
+}

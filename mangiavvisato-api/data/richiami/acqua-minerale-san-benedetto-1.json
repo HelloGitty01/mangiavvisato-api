@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-san-benedetto-1/",
+ "titolo": "ACQUA MINERALE SAN BENEDETTO",
+ "data_pubblicazione": "2019-11-18",
+ "marca": "ACQUA MINERALE SAN BENEDETTO",
+ "denominazione": "ACQUA MINERALE SAN BENEDETTO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Acqua%20minerale%20San%20Benedetto%20_Popoli%20_PE__18.11.2019_1761180378.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo Acqua minerale San Benedetto _Popoli _PE__18.11.2019_1761180378.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Acqua%20minerale%20San%20Benedetto%20_Popoli%20_PE__18.11.2019_1761180378.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "acqua-minerale-san-benedetto-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ACQUA MINERALE SAN BENEDETTO",
+  "operatore": "GRAN GUIZZA S.P.A.",
+  "lotti": [
+   "23LB8137E"
+  ],
+  "marchio_identificazione": "033PE1045",
+  "produttore": "GRAN GUIZZA S.P.A.",
+  "sede_stabilimento": "VIA STATALE 17 POPOLI PE",
+  "scadenza": "16-11-2019",
+  "peso_volume": "BOTTIGLIE IN PET DA 0,5L",
+  "motivo_esteso": "PRESENZA DI CONTAMINANTI IDROCARBURICI PREVALENZA XILENE TRIMETILBENZENE TOLUENE ETILBENZENE",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "17/11/2019 Marchio del prodotto: ACQUA MINERALE SAN BENEDETTO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 17/11/2019 Marchio del prodotto: ACQUA MINERALE SAN BENEDETTO\nDenominazione di vendita:ACQUA MINERALE SAN BENEDETTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GRAN GUIZZA S.P.A.\ncommercializzato:\nLotto di produzione: 23LB8137E\nMarchio di identificazione dello stabilimento/del produttore: 033PE1045\nNome del produttore: GRAN GUIZZA S.P.A.\nSede dello stabilimento: VIA STATALE 17 POPOLI PE\nData di scadenza o termine minimo di conservazione: 16-11-2019\nDescrizione peso/volume unità di vendita: BOTTIGLIE IN PET DA 0,5L\nMotivo del richiamo:\nPRESENZA DI CONTAMINANTI IDROCARBURICI PREVALENZA XILENE TRIMETILBENZENE TOLUENE\nETILBENZENE\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:31:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:44+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-bologna-igp-100g-freschiconvenienti/",
+ "titolo": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+ "data_pubblicazione": "2019-10-04",
+ "marca": "CONAD",
+ "denominazione": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20conad%20modulo%20di%20richiamo%20da%20inviare%20all_AC_1761180320.pdf",
+ "allegati": [
+  {
+   "titolo": "Mortadella conad modulo di richiamo da inviare all_AC_1761180320.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20conad%20modulo%20di%20richiamo%20da%20inviare%20all_AC_1761180320.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mortadella-bologna-igp-100g-freschiconvenienti",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+  "operatore": "CONAD",
+  "lotti": [
+   "26937039"
+  ],
+  "marchio_identificazione": "IT 848L CE",
+  "produttore": "Grandi Salumifici Italiani S.p.A.",
+  "sede_stabilimento": "Noceto(PR) Via Gandiolo 2/A",
+  "scadenza": "01-11-2019",
+  "peso_volume": "100g",
+  "motivo_esteso": "Presenza di Listeria monocytogenes",
+  "avvertenze": "Il prodotto non deve essere consumato, può essere restituito in qualsiasi punto vendita Conad Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/10/2019 Marchio del prodotto: CONAD",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 02/10/2019 Marchio del prodotto: CONAD\nDenominazione di vendita:Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD\ncommercializzato:\nLotto di produzione: 26937039\nMarchio di identificazione dello stabilimento/del produttore: IT 848L CE\nNome del produttore: Grandi Salumifici Italiani S.p.A.\nSede dello stabilimento: Noceto(PR) Via Gandiolo 2/A\nData di scadenza o termine minimo di conservazione: 01-11-2019\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nIl prodotto non deve essere consumato, può essere restituito in qualsiasi punto vendita Conad\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:33:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:13+00:00"
+}

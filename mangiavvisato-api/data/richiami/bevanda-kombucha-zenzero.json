@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-zenzero/",
+ "titolo": "Bevanda kombucha Zenzero",
+ "data_pubblicazione": "2018-07-09",
+ "marca": "Karma",
+ "denominazione": "Bevanda kombucha Zenzero",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO KOMBUCHA zenzero_1761176876.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bevanda-kombucha-zenzero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bevanda kombucha Zenzero",
+  "operatore": "BIOGROUPE SAS",
+  "lotti": [
+   "20-02-19"
+  ],
+  "produttore": "BIOGROUPE SAS",
+  "sede_stabilimento": "ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY",
+  "scadenza": "20-02-19",
+  "peso_volume": "500 mL",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/07/18 Marchio del prodotto: Karma",
+   "commercializzato": "BIOGROUPE SAS",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 06/07/18 Marchio del prodotto: Karma\nDenominazione di vendita: Bevanda kombucha Zenzero\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: BIOGROUPE SAS\nLotto di produzione: 20-02-19\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BIOGROUPE SAS\nSede dello stabilimento: ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY\nData di scadenza o termine minimo di conservazione: 20-02-19\nDescrizione peso/volume unità di vendita: 500 mL\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:49:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:49:03+00:00"
+}

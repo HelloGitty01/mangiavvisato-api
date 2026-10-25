@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-di-capra-fiorone/",
+ "titolo": "CUOR DI CAPRA - FIORONE",
+ "data_pubblicazione": "2019-11-12",
+ "marca": "CASEIFICIO CATTANEO SRL",
+ "denominazione": "CUOR DI CAPRA - FIORONE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cattaneo%202019_11_11%20richiamo_1761180358.pdf",
+ "allegati": [
+  {
+   "titolo": "Cattaneo 2019_11_11 richiamo_1761180358.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cattaneo%202019_11_11%20richiamo_1761180358.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "cuor-di-capra-fiorone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:32:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:18+00:00"
+}

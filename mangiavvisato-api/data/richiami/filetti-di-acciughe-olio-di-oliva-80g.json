@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-olio-di-oliva-80g/",
+ "titolo": "Filetti di Acciughe in Olio di Oliva - 80g",
+ "data_pubblicazione": "2017-11-08",
+ "marca": "ATHENA",
+ "denominazione": "Filetti di Acciughe in Olio di Oliva - 80g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20Richiamo%20Filetti%20Acciughe%2080g_1761176022.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Ministero Richiamo Filetti Acciughe 80g_1761176022.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20Richiamo%20Filetti%20Acciughe%2080g_1761176022.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-acciughe-olio-di-oliva-80g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Filetti di Acciughe in Olio di Oliva - 80g",
+  "operatore": "EUROSPIN ITALIA Spa",
+  "lotti": [
+   "SK343A"
+  ],
+  "marchio_identificazione": "EU Approval Number MA AGR 1898",
+  "produttore": "Importato da Sea Fish Spa - via Trento, 53 20021 Ospiate di Bollate (MI)",
+  "sede_stabilimento": "Quartier Industriel Anza cote mer B.P. 6294 Anza-Agadir",
+  "scadenza": "08-06-2018",
+  "peso_volume": "Peso netto 80g - Peso sgocciolato 42g",
+  "motivo_esteso": "Rilevata presenza di istamina oltre il limite consentito.",
+  "avvertenze": "Non consumare il prodotto e riportarlo presso il punto di vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/11/2017 Marchio del prodotto: ATHENA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 06/11/2017 Marchio del prodotto: ATHENA\nDenominazione di vendita:Filetti di Acciughe in Olio di Oliva - 80g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA Spa\ncommercializzato:\nLotto di produzione: SK343A\nMarchio di identificazione dello stabilimento/del produttore: EU Approval Number MA AGR 1898\nNome del produttore: Importato da Sea Fish Spa - via Trento, 53 20021 Ospiate di Bollate (MI)\nSede dello stabilimento: Quartier Industriel Anza cote mer B.P. 6294 Anza-Agadir\nData di scadenza o termine minimo di conservazione: 08-06-2018\nDescrizione peso/volume unità di vendita: Peso netto 80g - Peso sgocciolato 42g\nMotivo del richiamo:\nRilevata presenza di istamina oltre il limite consentito.\nAvvertenze:\nNon consumare il prodotto e riportarlo presso il punto di vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:55:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:55:14+00:00"
+}

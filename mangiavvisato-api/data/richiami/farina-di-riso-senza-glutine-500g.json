@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-riso-senza-glutine-500g/",
+ "titolo": "FARINA DI RISO SENZA GLUTINE 500G",
+ "data_pubblicazione": "2020-08-20",
+ "marca": "Il Molino Chiavazza",
+ "denominazione": "FARINA DI RISO SENZA GLUTINE 500G",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20riso%20senza%20glutine%20500g%20_%2019082020_1761181450.pdf",
+ "allegati": [
+  {
+   "titolo": "Farina di riso senza glutine 500g _ 19082020_1761181450.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20riso%20senza%20glutine%20500g%20_%2019082020_1761181450.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-riso-senza-glutine-500g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI RISO SENZA GLUTINE 500G",
+  "operatore": "Molino F.lli Chiavazza S.p.A.",
+  "lotti": [
+   "025360"
+  ],
+  "marchio_identificazione": "IL MOLINO CHIAVAZZA",
+  "produttore": "Molino F.lli CHIAVAZZA S.p.A. Via Racconigi 5 - 12030 Casalgrasso CN",
+  "sede_stabilimento": "Pancalieri TO Via Pinerolo 75",
+  "scadenza": "15-03-2021",
+  "peso_volume": "500g",
+  "motivo_esteso": "Presenza contaminazione da soia",
+  "avvertenze": "I clienti allergici alla soia che avessero acquistato il lotto 025360 sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 06/09/2020. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà.",
+  "campi_extra": {
+   "Data": "19/08/2020 Marchio del prodotto: Il Molino Chiavazza"
+  },
+  "testo": "RICHIAMO\nData: 19/08/2020 Marchio del prodotto: Il Molino Chiavazza\nDenominazione di vendita:FARINA DI RISO SENZA GLUTINE 500G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino F.lli Chiavazza S.p.A.\ncommercializzato:\nLotto di produzione: 025360\nMarchio di identificazione dello stabilimento/del produttore: IL MOLINO CHIAVAZZA\nNome del produttore: Molino F.lli CHIAVAZZA S.p.A. Via Racconigi 5 - 12030 Casalgrasso CN\nSede dello stabilimento: Pancalieri TO Via Pinerolo 75\nData di scadenza o termine minimo di conservazione: 15-03-2021\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPresenza contaminazione da soia\nAvvertenze:\nI clienti allergici alla soia che avessero acquistato il lotto 025360 sono pregati di non consumare il prodotto\ne restituirlo al punto vendita per la sostituzione o rimborso entro il 06/09/2020.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà."
+ },
+ "prima_rilevazione": "2026-10-25T09:24:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:24:30+00:00"
+}

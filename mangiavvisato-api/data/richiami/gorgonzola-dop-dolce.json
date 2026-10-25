@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce/",
+ "titolo": "Gorgonzola DOP Dolce",
+ "data_pubblicazione": "2019-02-06",
+ "marca": "Casa Leonardi",
+ "denominazione": "Gorgonzola DOP Dolce",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO__ottavo_Casa_Leonardi_lotto_0083002_1761178588.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO__ottavo_Casa_Leonardi_lotto_0083002_1761178588.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO__ottavo_Casa_Leonardi_lotto_0083002_1761178588.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dop-dolce",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "05.02.2019 Casa Leonardi\nGorgonzola DOP Dolce\nIGOR SRL\n0083002\nIT 01 124 CE\nIGOR SRL\nstrada NATALE LEONARDI, 32 -28062 CAMERI\n08.03.2019\n1,5 kg\nPresenza Listeria monocytogenes"
+ },
+ "prima_rilevazione": "2026-10-25T09:40:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:40:49+00:00"
+}

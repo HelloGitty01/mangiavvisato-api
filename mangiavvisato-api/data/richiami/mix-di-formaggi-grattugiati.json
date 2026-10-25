@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-formaggi-grattugiati/",
+ "titolo": "Mix di formaggi grattugiati",
+ "data_pubblicazione": "2019-06-14",
+ "marca": "Gran Soresina mix formaggi grattugiati",
+ "denominazione": "Mix di formaggi grattugiati",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/latteria%20Soresina_cartello_clienti_richiamo%20grattugiato%20mix%20lotto%2000%209114_1761179407.pdf",
+ "allegati": [
+  {
+   "titolo": "latteria Soresina_cartello_clienti_richiamo grattugiato mix lotto 00 9114_1761179407.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/latteria%20Soresina_cartello_clienti_richiamo%20grattugiato%20mix%20lotto%2000%209114_1761179407.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mix-di-formaggi-grattugiati",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:37:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:37:49+00:00"
+}

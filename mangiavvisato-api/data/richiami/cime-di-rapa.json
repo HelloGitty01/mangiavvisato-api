@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cime-di-rapa/",
+ "titolo": "Cime di Rapa",
+ "data_pubblicazione": "2017-10-11",
+ "marca": "Gusto del Salento",
+ "denominazione": "Cime di Rapa",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tutti%20lotti%20con%20foto_1761175991.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo tutti lotti con foto_1761175991.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tutti%20lotti%20con%20foto_1761175991.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "cime-di-rapa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cime di Rapa",
+  "operatore": "Soc.Coop. Agr. Natura a.r.l. Z.I. Tronco A Lotto 27 , 73042 Casarano-Lecce",
+  "lotti": [
+   "tutti"
+  ],
+  "marchio_identificazione": "Gusto del Salento",
+  "produttore": "Soc. Coop. Agr. Natura arl",
+  "sede_stabilimento": "Z.I. Tronco A Lotto 27 , 73042 Casarano-Lecce",
+  "peso_volume": "Peso netto sg. 400g",
+  "motivo_esteso": "Caso confermato di botulismo alimentare a seguito di consumo di cime di rape \"al naturale\".",
+  "avvertenze": "Non consumare il prodotto e restituzione al punto vendita  ",
+  "campi_extra": {
+   "Data": "09/10/2017 Marchio del prodotto: Gusto del Salento"
+  },
+  "testo": "\nMinistero della Salute\nRICHIAMO\nData: 09/10/2017 Marchio del prodotto: Gusto del Salento\nDenominazione di vendita:Cime di Rapa\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Soc.Coop. Agr. Natura a.r.l. Z.I. Tronco A Lotto 27 , 73042 Casarano-Lecce\ncommercializzato:\nLotto di produzione: tutti\nMarchio di identificazione dello stabilimento/del produttore: Gusto del Salento\nNome del produttore: Soc. Coop. Agr. Natura arl\nSede dello stabilimento: Z.I. Tronco A Lotto 27 , 73042 Casarano-Lecce\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Peso netto sg. 400g\nMotivo del richiamo:\nCaso confermato di botulismo alimentare a seguito di consumo di cime di rape \"al naturale\".\nAvvertenze:\nNon consumare il prodotto e restituzione al punto vendita\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:55:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:55:48+00:00"
+}

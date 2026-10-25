@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-cat-0/",
+ "titolo": "Uova fresche in guscio cat. A",
+ "data_pubblicazione": "2018-10-09",
+ "marca": "Le Rosselline dell'Avicola Peligna",
+ "denominazione": "Uova fresche in guscio cat. A",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20E971D%20CE_revoca%20richiamo_1761177771.pdf",
+ "allegati": [
+  {
+   "titolo": "IT E971D CE_revoca richiamo_1761177771.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/IT%20E971D%20CE_revoca%20richiamo_1761177771.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-guscio-cat-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "uova fresche in guscio cat. A",
+  "operatore": "AVICOLA PELIGNA di MARGIOTTA Mario",
+  "lotti": [
+   "scadenza dal 28/09/18 al 05/10/2018"
+  ],
+  "marchio_identificazione": "IT E971D CE",
+  "produttore": "AVICOLA PELIGNA di MARGIOTTA Mario",
+  "sede_stabilimento": "C.DA SAN MARTINO - RAIANO (AQ)",
+  "scadenza": "dal 28/09 al 05/10/18",
+  "peso_volume": "uova fresche cat. A",
+  "motivo_esteso": "REVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/10/2018 Marchio del prodotto: Le Rosselline dell'Avicola Peligna",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 06/10/2018 Marchio del prodotto: Le Rosselline dell'Avicola Peligna\nDenominazione di vendita:uova fresche in guscio cat. A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA Mario\ncommercializzato:\nLotto di produzione: scadenza dal 28/09/18 al 05/10/2018\nMarchio di identificazione dello stabilimento/del produttore: IT E971D CE\nNome del produttore: AVICOLA PELIGNA di MARGIOTTA Mario\nSede dello stabilimento: C.DA SAN MARTINO - RAIANO (AQ)\nData di scadenza o termine minimo di conservazione: dal 28/09 al 05/10/18\nDescrizione peso/volume unità di vendita: uova fresche cat. A\nMotivo del richiamo:\nREVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:45:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:45:44+00:00"
+}

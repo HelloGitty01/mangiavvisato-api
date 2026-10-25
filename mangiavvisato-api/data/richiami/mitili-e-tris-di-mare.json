@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-e-tris-di-mare/",
+ "titolo": "Mitili e Tris di mare",
+ "data_pubblicazione": "2019-09-19",
+ "marca": "MARINSIEME M.GI.B.",
+ "denominazione": "Mitili e Tris di mare",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1__1761179669.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo_1__1761179669.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1__1761179669.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mitili-e-tris-di-mare",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mitili, Tris di mare",
+  "operatore": "M.Gi.B. Srl",
+  "marchio_identificazione": "IT 467 CE",
+  "produttore": "M.Gi.B. srl",
+  "sede_stabilimento": "Via Dell’Artigianato, 20 Bosco Mesola (Ferrara) Tel. 0533/795825",
+  "peso_volume": "Confezioni in rete da 1 Kg di mitili e confezioni Tris di mare da 1 Kg",
+  "motivo_esteso": "Presenza di biotossine algali (DSP)",
+  "avvertenze": "la clientela, qualora possieda i seguenti lotti è pregata di riportare le confezioni acquistate presso il punto vendita.",
+  "campi_extra": {
+   "Codice": "07/08 I",
+   "Data": "19-09-19 Marchio del prodotto: Marinsieme M.Gi.B.",
+   "commercializzato": "M.Gi.B. Srl"
+  },
+  "testo": "Tipo di\nModulo\nCOMUNICAZIONE DI documento:\nCodice: 07/08 I\nRICHIAMO\nEd. 01 Rev. 00 del 31 luglio 2019\nMODELLO DI RICHIAMO\nData: 19-09-19 Marchio del prodotto: Marinsieme M.Gi.B.\nDenominazione di vendita: Mitili, Tris di mare\nNome o ragione sociale dell’OSA\na nome del quale il prodotto è\ncommercializzato: M.Gi.B. Srl\nLotti di produzione:\nLotto Data scadenza o TMC\n59433 10/09/19\n59443, 59459 11/09/19\n59465 12/09/19\n59510 12/09/19\nMarchio di identificazione dello stabilimento: IT 467 CE\nNome del Produttore: M.Gi.B. srl\nSede dello stabilimento: Via Dell’Artigianato, 20 Bosco Mesola (Ferrara) Tel. 0533/795825\nDescrizione peso/volume unità di vendita: Confezioni in rete da 1 Kg di mitili e confezioni Tris di mare da 1 Kg\nMotivo del richiamo:\nPresenza di biotossine algali (DSP)\nAvvertenze:\nla clientela, qualora possieda i seguenti lotti è pregata di riportare le confezioni acquistate presso il punto\nvendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:33:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:37+00:00"
+}

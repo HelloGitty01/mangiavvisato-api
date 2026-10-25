@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano/",
+ "titolo": "SALAME NOSTRANO",
+ "data_pubblicazione": "2017-11-10",
+ "marca": "MACELLERIA PERUCHETTI",
+ "denominazione": "SALAME NOSTRANO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO%20SALAME%20PERUCHETTI_1761176032.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO DI RICHIAMO SALAME PERUCHETTI_1761176032.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO%20SALAME%20PERUCHETTI_1761176032.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salame-nostrano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:55:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:55:07+00:00"
+}

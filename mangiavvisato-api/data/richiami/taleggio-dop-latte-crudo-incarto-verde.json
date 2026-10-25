@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incarto-verde/",
+ "titolo": "TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+ "data_pubblicazione": "2020-03-10",
+ "marca": "LUIGI GUFFANTI 1876",
+ "denominazione": "TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%2043_2020_1761181245.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo 43_2020_1761181245.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%2043_2020_1761181245.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "taleggio-dop-latte-crudo-incarto-verde",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TALEGGIO DOP A LATTE CRUDO INCARTO VERDE",
+  "operatore": "LUIGI GUFFANTI 1876 SRL",
+  "lotti": [
+   "134/20"
+  ],
+  "marchio_identificazione": "IT 03 278 CE",
+  "produttore": "CASARRIGONI SRL",
+  "sede_stabilimento": "FRAZ. PEGHERA, 575",
+  "scadenza": "vedi avvertenze",
+  "peso_volume": "1 FORMA DA CIRCA 2 KG",
+  "motivo_esteso": "ESCHERICHIA COLI STEC (SHIGA-TOXINE E.COLI)",
+  "avvertenze": "21/02/2020, 14/03/2020, 21/03/2020, 22/03/2020, 29/03/2020, 03/04/2020, 04/04/2020, 05/04/2020, 06/04/2020, 07/04/2020, 10/04/2020, 12/04/2020, 13/04/2020, 15/04/2020, 18/04/2020 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/03/2020 Marchio del prodotto: LUIGI GUFFANTI 1876",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/03/2020 Marchio del prodotto: LUIGI GUFFANTI 1876\nDenominazione di vendita:TALEGGIO DOP A LATTE CRUDO INCARTO VERDE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUIGI GUFFANTI 1876 SRL\ncommercializzato:\nLotto di produzione: 134/20\nMarchio di identificazione dello stabilimento/del produttore: IT 03 278 CE\nNome del produttore: CASARRIGONI SRL\nSede dello stabilimento: FRAZ. PEGHERA, 575\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: 1 FORMA DA CIRCA 2 KG\nMotivo del richiamo:\nESCHERICHIA COLI STEC (SHIGA-TOXINE E.COLI)\nAvvertenze:\n21/02/2020, 14/03/2020, 21/03/2020, 22/03/2020, 29/03/2020, 03/04/2020, 04/04/2020, 05/04/2020,\n06/04/2020, 07/04/2020, 10/04/2020, 12/04/2020, 13/04/2020, 15/04/2020, 18/04/2020\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:27:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:27:35+00:00"
+}

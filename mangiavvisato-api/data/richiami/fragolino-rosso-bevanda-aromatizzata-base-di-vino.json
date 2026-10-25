@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fragolino-rosso-bevanda-aromatizzata-base-di-vino/",
+ "titolo": "FRAGOLINO ROSSO - BEVANDA AROMATIZZATA A BASE DI VINO",
+ "data_pubblicazione": "2020-07-24",
+ "marca": "GORGHELLO",
+ "denominazione": "FRAGOLINO ROSSO - BEVANDA AROMATIZZATA A BASE DI VINO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_435550_Richiamo_1761181388.pdf",
+ "allegati": [
+  {
+   "titolo": "Notifica_435550_Richiamo_1761181388.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_435550_Richiamo_1761181388.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fragolino-rosso-bevanda-aromatizzata-base-di-vino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:25:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:25:22+00:00"
+}

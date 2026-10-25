@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-mascarpone-duetto/",
+ "titolo": "Gorgonzola Mascarpone Duetto",
+ "data_pubblicazione": "2019-10-18",
+ "marca": "Mauri",
+ "denominazione": "Gorgonzola Mascarpone Duetto",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761180332.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo_1761180332.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761180332.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "gorgonzola-mascarpone-duetto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gorgonzola e Mascarpone Duetto",
+  "operatore": "Emilio Mauri SpA",
+  "lotti": [
+   "2550009"
+  ],
+  "marchio_identificazione": "IT 03 48 CE",
+  "produttore": "Emilio Mauri SpA",
+  "sede_stabilimento": "via Provinciale 11, 23818 Pasturo LC",
+  "scadenza": "10-10-2019",
+  "peso_volume": "200 g",
+  "motivo_esteso": "revoca per scadenza",
+  "avvertenze": " ",
+  "campi_extra": {
+   "Data": "18-10-2019 Marchio del prodotto: MAURI"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 18-10-2019 Marchio del prodotto: MAURI\nDenominazione di vendita:Gorgonzola e Mascarpone Duetto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Emilio Mauri SpA\ncommercializzato:\nLotto di produzione: 2550009\nMarchio di identificazione dello stabilimento/del produttore: IT 03 48 CE\nNome del produttore: Emilio Mauri SpA\nSede dello stabilimento: via Provinciale 11, 23818 Pasturo LC\nData di scadenza o termine minimo di conservazione: 10-10-2019\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nrevoca per scadenza\nAvvertenze:\n "
+ },
+ "prima_rilevazione": "2026-10-25T09:32:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:51+00:00"
+}

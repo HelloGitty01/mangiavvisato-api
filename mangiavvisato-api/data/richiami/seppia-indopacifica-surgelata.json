@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/seppia-indopacifica-surgelata/",
+ "titolo": "seppia indopacifica surgelata",
+ "data_pubblicazione": "2019-10-28",
+ "marca": "SEACON (SEAFOOD CONNECTION) - OLANDA",
+ "denominazione": "seppia indopacifica surgelata",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DINGFENG%20_RICHIAMO_1761180336.pdf",
+ "allegati": [
+  {
+   "titolo": "DINGFENG _RICHIAMO_1761180336.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DINGFENG%20_RICHIAMO_1761180336.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "seppia-indopacifica-surgelata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEPPIA INDOPACIFICA SURGELATO(SEPIA ACULEATA)",
+  "operatore": "DINGFENG IMPORT EXPORT VIA POLVERIERA 41 NOVATE MILANESE",
+  "lotti": [
+   "SC/PFPL/REAL-18001"
+  ],
+  "marchio_identificazione": "SEACON -SEAFOOD CONNECTION OLANDA",
+  "produttore": "SEAFOOD CONNECTION OLANDA",
+  "sede_stabilimento": "OLANDA -HET-SPIJK12, 8321 WTURK NL OLANDA",
+  "scadenza": "19-03-2021",
+  "peso_volume": "CONFEZIONI IN IQF DA 800gr seacon cuttlefish",
+  "motivo_esteso": "presenza di cadmio (Cd).",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26-10-2019 Marchio del prodotto: SEACON (SEAFOOD CONNECTION)OLANDA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26-10-2019 Marchio del prodotto: SEACON (SEAFOOD CONNECTION)OLANDA\nDenominazione di vendita:SEPPIA INDOPACIFICA SURGELATO(SEPIA ACULEATA)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DINGFENG IMPORT EXPORT VIA POLVERIERA 41 NOVATE MILANESE\ncommercializzato:\nLotto di produzione: SC/PFPL/REAL-18001\nMarchio di identificazione dello stabilimento/del produttore: SEACON -SEAFOOD CONNECTION OLANDA\nNome del produttore: SEAFOOD CONNECTION OLANDA\nSede dello stabilimento: OLANDA -HET-SPIJK12, 8321 WTURK NL OLANDA\nData di scadenza o termine minimo di conservazione: 19-03-2021\nDescrizione peso/volume unità di vendita: CONFEZIONI IN IQF DA 800gr seacon cuttlefish\nMotivo del richiamo:\npresenza di cadmio (Cd).\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:32:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:32:42+00:00"
+}

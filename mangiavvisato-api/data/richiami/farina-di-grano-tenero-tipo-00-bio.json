@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00-bio/",
+ "titolo": "FARINA DI GRANO TENERO TIPO 00 BIO",
+ "data_pubblicazione": "2019-11-19",
+ "marca": "BONGIOVANNI SRL",
+ "denominazione": "FARINA DI GRANO TENERO TIPO 00 BIO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_FARINA%20DI%20GRANO%20TENERO%20TIPO%2000%20BIO_1761180390.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO_FARINA DI GRANO TENERO TIPO 00 BIO_1761180390.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_FARINA%20DI%20GRANO%20TENERO%20TIPO%2000%20BIO_1761180390.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-grano-tenero-tipo-00-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI GRANO TENERO TIPO 00 BIO",
+  "operatore": "BONGIOVANNI SRL",
+  "lotti": [
+   "00FT0019/0702"
+  ],
+  "marchio_identificazione": "IFTEA SRL",
+  "produttore": "IFTEA SRL",
+  "sede_stabilimento": "VIA CA' DEL VENTO 35 - BAGNACAVALLO (RA)",
+  "scadenza": "22-02-2020",
+  "peso_volume": "1KG-5KG-25KG",
+  "motivo_esteso": "CONTAMINAZIONE CROCIATA DA ALLERGENE SENAPE",
+  "avvertenze": "PER I NEGOZI COMUNICARE LA GIACENZA A MAGAZZINO E ESPORRE IN NEGOZIO QUESTO AVVISO -PER LE DITTE COMUNICARE LA GIACENZA A MAGAZZINO E RENDERE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "15/11/2019 Marchio del prodotto: FARINA DI GRANO TENERO TIPO 00 BIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 15/11/2019 Marchio del prodotto: FARINA DI GRANO TENERO TIPO 00 BIO\nDenominazione di vendita:FARINA DI GRANO TENERO TIPO 00 BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BONGIOVANNI SRL\ncommercializzato:\nLotto di produzione: 00FT0019/0702\nMarchio di identificazione dello stabilimento/del produttore: IFTEA SRL\nNome del produttore: IFTEA SRL\nSede dello stabilimento: VIA CA' DEL VENTO 35 - BAGNACAVALLO (RA)\nData di scadenza o termine minimo di conservazione: 22-02-2020\nDescrizione peso/volume unità di vendita: 1KG-5KG-25KG\nMotivo del richiamo:\nCONTAMINAZIONE CROCIATA DA ALLERGENE SENAPE\nAvvertenze:\n-PER I NEGOZI COMUNICARE LA GIACENZA A MAGAZZINO E ESPORRE IN NEGOZIO QUESTO AVVISO\n-PER LE DITTE COMUNICARE LA GIACENZA A MAGAZZINO E RENDERE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:31:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:31:36+00:00"
+}

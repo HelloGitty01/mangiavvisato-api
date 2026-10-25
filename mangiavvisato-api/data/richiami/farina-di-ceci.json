@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-ceci/",
+ "titolo": "FARINA DI CECI",
+ "data_pubblicazione": "2019-09-11",
+ "marca": "MOLINO ZANONE",
+ "denominazione": "FARINA DI CECI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-ceci",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI CECI",
+  "operatore": "MOLINO ZANONE SRL",
+  "lotti": [
+   "FI00172.19A",
+   "B"
+  ],
+  "marchio_identificazione": "MOLINO ZANONE",
+  "produttore": "MOLINO ZANONE SRL",
+  "sede_stabilimento": "VIA PROVINCIALE CEVA 3, 12070, LISIO (CN) ITALIA",
+  "scadenza": "21-06-2020",
+  "peso_volume": "confezioni da gr. 400",
+  "motivo_esteso": "PRESENZA DI INFESTANTI",
+  "avvertenze": "METTERE SUBITO APPOSITA CARTELLONISTICA SULLO SCAFFALE PER INFORMARE IL CLIENTE. RITIRO MERCE A CARICO DELLA MOLINO ZANONE.",
+  "campi_extra": {
+   "Data": "06/09/2019 Marchio del prodotto: MOLINO ZANONE"
+  },
+  "testo": "RICHIAMO\nData: 06/09/2019 Marchio del prodotto: MOLINO ZANONE\nDenominazione di vendita:FARINA DI CECI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MOLINO ZANONE SRL\ncommercializzato:\nLotto di produzione: FI00172.19A,B\nMarchio di identificazione dello stabilimento/del produttore: MOLINO ZANONE\nNome del produttore: MOLINO ZANONE SRL\nSede dello stabilimento: VIA PROVINCIALE CEVA 3, 12070, LISIO (CN) ITALIA\nData di scadenza o termine minimo di conservazione: 21-06-2020\nDescrizione peso/volume unità di vendita: confezioni da gr. 400\nMotivo del richiamo:\nPRESENZA DI INFESTANTI\nAvvertenze:\nMETTERE SUBITO APPOSITA CARTELLONISTICA SULLO SCAFFALE PER INFORMARE IL CLIENTE.\nRITIRO MERCE A CARICO DELLA MOLINO ZANONE."
+ },
+ "prima_rilevazione": "2026-10-25T09:33:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:33:53+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-3/",
+ "titolo": "UOVA FRESCHE",
+ "data_pubblicazione": "2018-09-12",
+ "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+ "denominazione": "UOVA FRESCHE",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf",
+ "allegati": [
+  {
+   "titolo": "revoca Margiotta 2_1761177739.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE",
+  "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+  "lotti": [
+   "19-20-0718"
+  ],
+  "marchio_identificazione": "077AQ082",
+  "produttore": "MARGIOTTA MARIO",
+  "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+  "scadenza": "17-08-2018",
+  "peso_volume": "21600 KG",
+  "motivo_esteso": "revoca del richiamo per scadenza del prodotto",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 19-20-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 17-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nrevoca del richiamo per scadenza del prodotto\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:46:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:46:38+00:00"
+}

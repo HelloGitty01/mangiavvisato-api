@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-norcia/",
+ "titolo": "Salame Norcia",
+ "data_pubblicazione": "2017-09-08",
+ "marca": "Lanzi Srl",
+ "denominazione": "Salame Norcia",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%202%20Richiamo%20Lanzi%20srl_1761175301.pdf",
+ "allegati": [
+  {
+   "titolo": "Mod 2 Richiamo Lanzi srl_1761175301.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%202%20Richiamo%20Lanzi%20srl_1761175301.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-norcia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:57:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:23+00:00"
+}

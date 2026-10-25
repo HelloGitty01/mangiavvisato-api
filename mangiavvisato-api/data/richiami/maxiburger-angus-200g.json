@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maxiburger-angus-200g/",
+ "titolo": "MAXIBURGER ANGUS 200G",
+ "data_pubblicazione": "2018-12-04",
+ "marca": "SALUMIFICIO SANDRI SNC",
+ "denominazione": "MAXIBURGER ANGUS 200G",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/sandri%20amburger_1761177968.pdf",
+ "allegati": [
+  {
+   "titolo": "sandri amburger_1761177968.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/sandri%20amburger_1761177968.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "maxiburger-angus-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MAXIBURGER ANGUS 200G",
+  "operatore": "SALUMIFICIO SANDRI SNC",
+  "lotti": [
+   "187"
+  ],
+  "marchio_identificazione": "2276 P",
+  "produttore": "SALUMIFICIO SANDRI SNC",
+  "sede_stabilimento": "MONTESCUDAIO",
+  "scadenza": "14-07-2017",
+  "motivo_esteso": "CORPO ESTRANEO METALLICO",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "04/12/2018 Marchio del prodotto: SANDRI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 04/12/2018 Marchio del prodotto: SANDRI\nDenominazione di vendita:MAXIBURGER ANGUS 200G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO SANDRI SNC\ncommercializzato:\nLotto di produzione: 187\nMarchio di identificazione dello stabilimento/del produttore: 2276 P\nNome del produttore: SALUMIFICIO SANDRI SNC\nSede dello stabilimento: MONTESCUDAIO\nData di scadenza o termine minimo di conservazione: 14-07-2017\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nCORPO ESTRANEO METALLICO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:43:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:43:05+00:00"
+}

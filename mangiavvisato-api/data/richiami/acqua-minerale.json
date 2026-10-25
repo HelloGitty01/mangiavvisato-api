@@ -1,0 +1,48 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale/",
+ "titolo": "Acqua Minerale",
+ "data_pubblicazione": "2017-09-19",
+ "marca": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+ "denominazione": "Acqua Minerale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_%20Cutolo%20Rionero%20in%20Vulture_1761175312.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di Richiamo_ Cutolo Rionero in Vulture_1761175312.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_%20Cutolo%20Rionero%20in%20Vulture_1761175312.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "acqua-minerale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+  "operatore": "Fonte Cutolo Rionero in Vulture SrL LR7248C; LR7249C; LR7250C; LR7251C; LR7252C; LR7253C",
+  "lotti": [
+   "LR7254C",
+   "LR7255C"
+  ],
+  "marchio_identificazione": "Fonte Cutolo Rionero in Vulture SrL",
+  "produttore": "Fonte Cutolo Rionero in Vulture SrL",
+  "sede_stabilimento": "Contrada Santa Maria degli Angeli, 85020 Atella (PZ)",
+  "scadenza": "05-09-2018; 06-09-2018; 07-09-2018; 08-09-2018; 09-09-2018; 10-09-2018; 11-09-2018; 12-09-2018 LR7254C; LR7255C; LR7256C",
+  "peso_volume": "1,5 PET/X6 Bottiglie; 1L PET/X12 Bottiglie unita di vendita: 1/2",
+  "motivo_esteso": "Comunicazione di Non Conformità : superamento dei limiti per il parametro Ps. aerugunosa, come previsto dal D.M. 10 febbraio 2015. Punto: Serbatoio n.3",
+  "avvertenze": "Possibile rischio per la salute dei consumatori. Non Consumare e restituire al punto vendita. Inserire Immagine uno: Inserire Immagine due: 2/2",
+  "campi_extra": {
+   "Data": "13/09/2017",
+   "Commercializzato": "Fonte Cutolo Rionero in Vulture SrL",
+   "Stabilimento/ del produttore": "Fonte Cutolo Rionero in Vulture SrL",
+   "Comunicazione di Non Conformità": "superamento dei limiti per il parametro Ps. aerugunosa,",
+   "come previsto dal D.M. 10 febbraio 2015. Punto": "Serbatoio n.3",
+   "Inserire Immagine uno": "Inserire Immagine due:"
+  },
+  "testo": "Data: 13/09/2017\nMarchio del prodotto : Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues\nNome o ragione sociale dell’OSA\nA nome del quale il prodotto è\nCommercializzato: Fonte Cutolo Rionero in Vulture SrL\nLR7248C; LR7249C; LR7250C; LR7251C; LR7252C; LR7253C\nLotto di Produzione:\nLR7254C; LR7255C;\nMarchio di Identificazione dello\nStabilimento/ del produttore: Fonte Cutolo Rionero in Vulture SrL\nNome del produttore: Fonte Cutolo Rionero in Vulture SrL\nSede dello stabilimento: Contrada Santa Maria degli Angeli, 85020 Atella (PZ)\nData di scadenza o termine\n05-09-2018; 06-09-2018; 07-09-2018; 08-09-2018; 09-09-2018;\n10-09-2018; 11-09-2018; 12-09-2018\nminimo di conservazione:\nLR7254C; LR7255C; LR7256C\nDescrizione peso/volume\n1,5 PET/X6 Bottiglie; 1L PET/X12 Bottiglie\nunita di vendita:\n1/2\nMotivo del richiamo:\nComunicazione di Non Conformità : superamento dei limiti per il parametro Ps. aerugunosa,\ncome previsto dal D.M. 10 febbraio 2015. Punto: Serbatoio n.3\nAvvertenze:\nPossibile rischio per la salute dei consumatori.\nNon Consumare e restituire al punto vendita.\nInserire Immagine uno: Inserire Immagine due:\n2/2"
+ },
+ "prima_rilevazione": "2026-10-25T09:57:12+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:12+00:00"
+}

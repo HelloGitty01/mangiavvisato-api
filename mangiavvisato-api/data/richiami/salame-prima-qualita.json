@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-prima-qualita/",
+ "titolo": "SALAME PRIMA QUALITA'",
+ "data_pubblicazione": "2019-12-31",
+ "marca": "SALUMIFICIO BERTOLETTI SRL",
+ "denominazione": "SALAME PRIMA QUALITA'",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALUMIFICIO%20BERTOLETTI_RICHIAMO_1761180535.pdf",
+ "allegati": [
+  {
+   "titolo": "SALUMIFICIO BERTOLETTI_RICHIAMO_1761180535.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SALUMIFICIO%20BERTOLETTI_RICHIAMO_1761180535.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-prima-qualita",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame prima qualità",
+  "operatore": "Salumificio Bertoletti srl",
+  "lotti": [
+   "251019"
+  ],
+  "marchio_identificazione": "Salumificio Bertoletti srl",
+  "produttore": "Salumificio Bertoletti srl",
+  "sede_stabilimento": "Via delle Boschine 6 - Graffignana",
+  "scadenza": "20/04/2020",
+  "motivo_esteso": "presenza salmonella",
+  "avvertenze": "non consumare e riportare in punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/12/2019 Marchio del prodotto: Salumificio Bertoletti srl",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: 31/12/2019 Marchio del prodotto: Salumificio Bertoletti srl\nDenominazione di vendita: Salame prima qualità\nNome o ragione sociale dell'OSA\nSalumificio Bertoletti srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 251019\nMarchio di identificazione dello stabilimento/del produttore: Salumificio Bertoletti srl\nNome del produttore: Salumificio Bertoletti srl\nSede dello stabilimento: Via delle Boschine 6 - Graffignana\nData di scadenza o termine minimo di conservazione: 20/04/2020\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo: presenza salmonella\nAvvertenze: non consumare e riportare in punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:29:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:29:46+00:00"
+}

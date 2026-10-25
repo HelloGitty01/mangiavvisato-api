@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio/",
+ "titolo": "UOVA DI GALLINA IN GUSCIO",
+ "data_pubblicazione": "2017-09-11",
+ "marca": "FATTORIE VALLE DEL MISA",
+ "denominazione": "UOVA DI GALLINA IN GUSCIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PRODOTTO%20ALIMENTARE%20FATTORIE%20VALLE%20DEL%20MISA_1761175306.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO PRODOTTO ALIMENTARE FATTORIE VALLE DEL MISA_1761175306.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PRODOTTO%20ALIMENTARE%20FATTORIE%20VALLE%20DEL%20MISA_1761175306.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-di-gallina-guscio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "31/17",
+   "32/17",
+   "33/17",
+   "34/17. NOME E SEDE STABILIMENTO: FATTORIE VALLE DEL MISA - VIA BAROCCO",
+   "14 – OSTRA VETERE (AN)"
+  ],
+  "motivo_esteso": "FIPRONIL PRESENZA DI PER UN VALORE > 0,72 mg/Kg. AVVERTENZA IMPORTANTE: LE UOVA NON CONSUMATE VANNO RICONSEGNATE AL PUNTO DI ACQUISTO.",
+  "campi_extra": {
+   "NOME E SEDE STABILIMENTO": "FATTORIE"
+  },
+  "testo": "RICHIAMO PRODOTTO ALIMENTARE NON\nCONFORME:\nPRODOTTO:\nUOVA DI GALLINA IN GUSCIO\nPRODOTTE DALLA “FATTORIE VALLE DEL MISA”\nLOTTI DI PRODUZIONE:\n31/17;32/17;33/17;34/17.\nNOME E SEDE STABILIMENTO: FATTORIE\nVALLE DEL MISA\n- VIA BAROCCO, 14 –\nOSTRA VETERE (AN)\nMOTIVO DEL RICHIAMO:\nFIPRONIL\nPRESENZA DI PER UN VALORE >\n0,72 mg/Kg.\nAVVERTENZA IMPORTANTE:\nLE UOVA NON CONSUMATE\nVANNO RICONSEGNATE AL\nPUNTO DI ACQUISTO."
+ },
+ "prima_rilevazione": "2026-10-25T09:57:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:57:20+00:00"
+}

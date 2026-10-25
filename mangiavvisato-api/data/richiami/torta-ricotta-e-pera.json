@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-ricotta-e-pera/",
+ "titolo": "Torta ricotta e pera",
+ "data_pubblicazione": "2017-03-10",
+ "marca": "Dolce Voglia",
+ "denominazione": "Torta ricotta e pera",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO-MINISTERIALE-pdf310905_1761175123.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO-MINISTERIALE-pdf310905_1761175123.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO-MINISTERIALE-pdf310905_1761175123.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "torta-ricotta-e-pera",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:59:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:59:46+00:00"
+}

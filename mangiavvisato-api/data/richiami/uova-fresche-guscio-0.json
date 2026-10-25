@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-0/",
+ "titolo": "UOVA FRESCHE IN GUSCIO",
+ "data_pubblicazione": "2018-10-09",
+ "marca": "OVO FUCENS Soc. Sempl.",
+ "denominazione": "UOVA FRESCHE IN GUSCIO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/006%20AQ%20702_revoca%20richiamo_1761177774.pdf",
+ "allegati": [
+  {
+   "titolo": "006 AQ 702_revoca richiamo_1761177774.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/006%20AQ%20702_revoca%20richiamo_1761177774.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-guscio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE IN GUSCIO",
+  "operatore": "OVO FUCENS Soc. Sempl.",
+  "lotti": [
+   "FMC dal 11/9 al 07/10/18"
+  ],
+  "marchio_identificazione": "006 AQ 702",
+  "produttore": "OVO FUCENS Soc. Sempl.",
+  "sede_stabilimento": "Avezzano (AQ) - Loc. Paterno",
+  "scadenza": "07-10-2018",
+  "peso_volume": "UOVA FRESCHE IN GUSCIO",
+  "motivo_esteso": "REVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08/10/2018 Marchio del prodotto: OVO FUCENS Soc. Sempl.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 08/10/2018 Marchio del prodotto: OVO FUCENS Soc. Sempl.\nDenominazione di vendita:UOVA FRESCHE IN GUSCIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OVO FUCENS Soc. Sempl.\ncommercializzato:\nLotto di produzione: FMC dal 11/9 al 07/10/18\nMarchio di identificazione dello stabilimento/del produttore: 006 AQ 702\nNome del produttore: OVO FUCENS Soc. Sempl.\nSede dello stabilimento: Avezzano (AQ) - Loc. Paterno\nData di scadenza o termine minimo di conservazione: 07-10-2018\nDescrizione peso/volume unità di vendita: UOVA FRESCHE IN GUSCIO\nMotivo del richiamo:\nREVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:45:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:45:46+00:00"
+}

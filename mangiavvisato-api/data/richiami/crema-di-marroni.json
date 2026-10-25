@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-marroni/",
+ "titolo": "CREMA DI MARRONI",
+ "data_pubblicazione": "2019-04-26",
+ "marca": "ARC EN CIEL",
+ "denominazione": "CREMA DI MARRONI",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo__Arc_en_Ciel_1761178735.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo__Arc_en_Ciel_1761178735.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo__Arc_en_Ciel_1761178735.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crema-di-marroni",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CREMA DI MARRONI",
+  "operatore": "ARC EN CIEL SOC. AGR. COOP.",
+  "lotti": [
+   "17.07.21"
+  ],
+  "marchio_identificazione": "ARC EN CIEL",
+  "produttore": "ARC EN CIEL SOC. AGR. COOP.",
+  "sede_stabilimento": "VIA ROMA 108 - CAFASSE (TO)",
+  "scadenza": "17-07-2021",
+  "motivo_esteso": "A scopo precauzionale richiamiamo il prodotto per la possibile presenza di un corpo estraneo",
+  "avvertenze": "Restituire il prodotto al punto vendita per sostituzione Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "24/04/2019 Marchio del prodotto: ARC EN CIEL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 24/04/2019 Marchio del prodotto: ARC EN CIEL\nDenominazione di vendita:CREMA DI MARRONI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ARC EN CIEL SOC. AGR. COOP.\ncommercializzato:\nLotto di produzione: 17.07.21\nMarchio di identificazione dello stabilimento/del produttore: ARC EN CIEL\nNome del produttore: ARC EN CIEL SOC. AGR. COOP.\nSede dello stabilimento: VIA ROMA 108 - CAFASSE (TO)\nData di scadenza o termine minimo di conservazione: 17-07-2021\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nA scopo precauzionale richiamiamo il prodotto per la possibile presenza di un corpo estraneo\nAvvertenze:\nRestituire il prodotto al punto vendita per sostituzione\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:38:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:38:59+00:00"
+}
