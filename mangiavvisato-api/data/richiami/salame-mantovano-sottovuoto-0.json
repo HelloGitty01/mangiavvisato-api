@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sottovuoto-0/",
+ "titolo": "salame mantovano sottovuoto",
+ "data_pubblicazione": "2024-06-28",
+ "marca": "Cattini",
+ "denominazione": "salame mantovano sottovuoto",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamosalamemantovanosottovuoto%20_1__1761204370.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamosalamemantovanosottovuoto _1__1761204370.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamosalamemantovanosottovuoto%20_1__1761204370.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-mantovano-sottovuoto-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T07:08:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:01+00:00"
+}

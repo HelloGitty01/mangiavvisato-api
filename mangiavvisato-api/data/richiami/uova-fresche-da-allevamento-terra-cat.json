@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat/",
+ "titolo": "Uova fresche da allevamento a terra Cat A",
+ "data_pubblicazione": "2024-08-27",
+ "marca": "Cascina Italia",
+ "denominazione": "Uova fresche da allevamento a terra Cat A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Cascina%20Italia_Terra_M_%20L_1761205390.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO DI RICHIAMO_Cascina Italia_Terra_M_ L_1761205390.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Cascina%20Italia_Terra_M_%20L_1761205390.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-allevamento-terra-cat",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "6 UOVA FRESCHE DA ALLEVAMENTO A TERRA - CATEGORIA A",
+  "operatore": "CASCINA ITALIA SPA",
+  "lotti": [
+   "4700609926 - 4679409926 4736619926 - 4282789926"
+  ],
+  "marchio_identificazione": "IT016064",
+  "produttore": "CASCINA ITALIA SPA",
+  "sede_stabilimento": "VIA CAMPO ROMANO, SNC - 24050 SPIRANO (BG)",
+  "scadenza": "31 AGOSTO 07-09-12 SETTEMBRE",
+  "peso_volume": "6 UOVA DA ALLEVAMENTO A TERRA MEDIE - GRANDI",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA",
+  "avvertenze": "NON CONSUMARE LE UOVA RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/08/2024 Marchio del prodotto: CASCINA ITALIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto: CASCINA ITALIA\nDenominazione di vendita:6 UOVA FRESCHE DA ALLEVAMENTO A TERRA - CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASCINA ITALIA SPA\ncommercializzato:\nLotto di produzione: 4700609926 - 4679409926 4736619926 - 4282789926\nMarchio di identificazione dello stabilimento/del produttore: IT016064\nNome del produttore: CASCINA ITALIA SPA\nSede dello stabilimento: VIA CAMPO ROMANO, SNC - 24050 SPIRANO (BG)\nData di scadenza o termine minimo di conservazione: 31 AGOSTO 07-09-12 SETTEMBRE\nDescrizione peso/volume unità di vendita: 6 UOVA DA ALLEVAMENTO A TERRA MEDIE - GRANDI\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA\nAvvertenze:\nNON CONSUMARE LE UOVA\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:03:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:03:23+00:00"
+}

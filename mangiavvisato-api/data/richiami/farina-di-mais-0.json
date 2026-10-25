@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-0/",
+ "titolo": "Farina di mais",
+ "data_pubblicazione": "2023-11-03",
+ "marca": "Molino Riva S.r.l.",
+ "denominazione": "Farina di mais",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_Molino%20Riva%20Srl_1761197534.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_Molino Riva Srl_1761197534.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_Molino%20Riva%20Srl_1761197534.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:22:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:22:47+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-di-bosco/",
+ "titolo": "Misto di bosco",
+ "data_pubblicazione": "2024-04-07",
+ "marca": "Versilfood",
+ "denominazione": "Misto di bosco",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_1_1761199789.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di richiamo 5 formati_1_1761199789.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_1_1761199789.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "misto-di-bosco",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:14:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:14:35+00:00"
+}

@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-biologica/",
+ "titolo": "FARINA DI MAIS BIOLOGICA",
+ "data_pubblicazione": "2024-01-05",
+ "marca": "AZIENDA AGRICOLA BIO FLORIDDIA",
+ "denominazione": "FARINA DI MAIS BIOLOGICA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All6_RichiamofarinadimaisFloriddiaVarilotti_1761198741.pdf",
+ "allegati": [
+  {
+   "titolo": "All6_RichiamofarinadimaisFloriddiaVarilotti_1761198741.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All6_RichiamofarinadimaisFloriddiaVarilotti_1761198741.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais-biologica",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI MAIS BIOLOGICA",
+  "operatore": "FLORIDDIA ROSARIO",
+  "lotti": [
+   "01.06.2023",
+   "16.12.2022"
+  ],
+  "produttore": "AZIENDA AGRICOLA BIO FLORIDDIA",
+  "sede_stabilimento": "VIA DELLA BONIFICA 171 PECCIOLI (PI) Vari TMC-Vedi riquadro",
+  "peso_volume": "500 gr - 1 kg - 5 kg",
+  "motivo_esteso": "Presenza di aflatossine totali e B1 superiori ai limiti di legge. Pericolo diretto per la salute: non utilizzare il prodotto",
+  "campi_extra": {
+   "Data": "04/01/2024 Marchio del prodotto: AZIENDA AGRICOLA BIO FLORIDDIA"
+  },
+  "testo": "RICHIAMO\nData: 04/01/2024 Marchio del prodotto: AZIENDA AGRICOLA BIO FLORIDDIA\nDenominazione di vendita:FARINA DI MAIS BIOLOGICA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FLORIDDIA ROSARIO\ncommercializzato:\nLotto di produzione: 01.06.2023 e 16.12.2022\nMarchio di identificazione dello stabilimento/del produttore: --\nNome del produttore: AZIENDA AGRICOLA BIO FLORIDDIA\nSede dello stabilimento: VIA DELLA BONIFICA 171 PECCIOLI (PI)\nVari TMC-Vedi riquadro\nData di scadenza o termine minimo di conservazione:\navvertenze\nDescrizione peso/volume unità di vendita: 500 gr - 1 kg - 5 kg\nMotivo del richiamo:\nPresenza di aflatossine totali e B1 superiori ai limiti di legge. Pericolo diretto per la salute: non utilizzare il\nprodotto\nAvvertenze:\nLotti interessati: 01.06.2023 (TMC 01/12/2023); 16.12.2022 (TMC 16/06/2023)\nN.B. In caso di avvenuto utilizzo della farina per la produzione di alimenti trasformati e conservati (es.\nbiscotti, polenta, ecc.) questi non devono essere consumati e ingeriti."
+ },
+ "prima_rilevazione": "2026-10-25T07:20:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:22+00:00"
+}

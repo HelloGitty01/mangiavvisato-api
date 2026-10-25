@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-di-bovino-razza-piemontese-fior-fiore-coop/",
+ "titolo": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+ "data_pubblicazione": "2023-02-17",
+ "marca": "FIOR FIORE COOP",
+ "denominazione": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20FIOR%20FIORE_def_1761193845.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_o_revoca FIOR FIORE_def_1761193845.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20FIOR%20FIORE_def_1761193845.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "battuta-di-bovino-razza-piemontese-fior-fiore-coop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+  "operatore": "COOP ITALIA S.C.",
+  "lotti": [
+   "664592"
+  ],
+  "marchio_identificazione": "IT C716K CE",
+  "produttore": "FACCIA FRATELLI S.R.L.",
+  "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+  "scadenza": "25-03-2023",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+  "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine due: Inserire immagine uno",
+  "campi_extra": {
+   "Data": "16/02/2023 Marchio del prodotto: FIOR FIORE COOP"
+  },
+  "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: FIOR FIORE COOP\nDenominazione di vendita: BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP\nNome o ragione sociale dell'OSA COOP ITALIA S.C.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664592\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 25-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 25/03/2023\nData di scadenza CORRETTA 25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare\nil prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail\nall'indirizzo qualita@facciafratelli.com\nInserire immagine due:\nInserire immagine uno:"
+ },
+ "prima_rilevazione": "2026-10-25T07:38:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:31+00:00"
+}

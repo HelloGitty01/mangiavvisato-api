@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/affumicata/",
+ "titolo": "Affumicata",
+ "data_pubblicazione": "2024-03-27",
+ "marca": "Fermaggio®",
+ "denominazione": "Affumicata",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20Richiamo%20Affumicata%2022%2003%202024_1761199623.pdf",
+ "allegati": [
+  {
+   "titolo": "1 Richiamo Affumicata 22 03 2024_1761199623.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20Richiamo%20Affumicata%2022%2003%202024_1761199623.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "affumicata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Affumicata",
+  "operatore": "Rondina’s food srls L0000882 EXP 26/03/24 L0000893 EXP 01/04/24 L0000893D EXP 21/03/24 L0000901 EXP 08/04/24 L0000901D EXP 26/03/24",
+  "lotti": [
+   "L0000909 EXP 15/04/24 L0000919 EXP 23/04/24 L0000927 EXP 28/04/24 L0000927D EXP 16/04/24 L0000933 EXP 01/05/24 L0000933 EXP 11/05/24 L0000942 EXP 06/05/24 L0000945 EXP 29/04/24 L0000947 EXP 12/05/2024 L0000949 EXP 13/05/24 L0000958 EXP 16/05/24 L0000958D EXP 04/05/24"
+  ],
+  "marchio_identificazione": "Fermaggio®",
+  "produttore": "Rondina’s food srls",
+  "sede_stabilimento": "Via dell’artigianato 3 00033 Cave RM 26/03/24 01/04/24 08/04/24 15/04/24 23/04/24 28/04/24 16/04/24 01/05/24 11/05/24 06/05/24",
+  "scadenza": "29/04/24 12/05/24 13/05/24 16/05/24 04/05/24 150 g",
+  "motivo_esteso": "Presenza allergeni non dichiarati in etichetta: sesamo e senape",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a non consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: Fermaggio®",
+   "Presenza allergeni non dichiarati in etichetta": "sesamo e senape",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: Fermaggio®\nDenominazione di vendita: Affumicata\nNome o ragione sociale dell'OSA Rondina’s food srls\na nome del quale il prodotto è\ncommercializzato:\nL0000882 EXP 26/03/24 L0000893 EXP 01/04/24 L0000893D EXP 21/03/24 L0000901 EXP 08/04/24 L0000901D EXP 26/03/24\nLotto di produzione: L0000909 EXP 15/04/24 L0000919 EXP 23/04/24 L0000927 EXP 28/04/24 L0000927D EXP 16/04/24 L0000933 EXP 01/05/24 L0000933\nEXP 11/05/24 L0000942 EXP 06/05/24 L0000945 EXP 29/04/24 L0000947 EXP 12/05/2024 L0000949 EXP 13/05/24\nL0000958 EXP 16/05/24 L0000958D EXP 04/05/24\nMarchio di identificazione dello stabilimento/del produttore: Fermaggio®\nNome del produttore: Rondina’s food srls\nSede dello stabilimento: Via dell’artigianato 3 00033 Cave RM\n26/03/24 01/04/24 08/04/24 15/04/24 23/04/24\n28/04/24 16/04/24 01/05/24 11/05/24 06/05/24\nData di scadenza o termine minimo di conservazione:\n29/04/24 12/05/24 13/05/24 16/05/24 04/05/24\n150 g\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nPresenza allergeni non dichiarati in etichetta: sesamo e senape\nAvvertenze:\nProdotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a\nnon consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:54+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:54+00:00"
+}

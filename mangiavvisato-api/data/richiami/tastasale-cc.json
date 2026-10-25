@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tastasale-cc/",
+ "titolo": "Tastasale C/C",
+ "data_pubblicazione": "2024-05-29",
+ "marca": "Poltronieri Salumi SAS",
+ "denominazione": "Tastasale C/C",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20TASTASALE%20C.C%20250G%20E%201KG_1761202983.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO TASTASALE C.C 250G E 1KG_1761202983.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20TASTASALE%20C.C%20250G%20E%201KG_1761202983.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tastasale-cc",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:09:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:09:15+00:00"
+}

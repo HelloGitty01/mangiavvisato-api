@@ -1,0 +1,35 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/plain-halawa/",
+ "titolo": "Plain Halawa",
+ "data_pubblicazione": "2023-08-23",
+ "marca": "Halwani Bros",
+ "denominazione": "Plain Halawa",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20x%20Halawa_1761197442.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo x Halawa_1761197442.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20x%20Halawa_1761197442.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "plain-halawa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "motivo_esteso": "Si invitano i consumatori che avessero acquistato il prodotto",
+  "avvertenze": "a non consumarlo e a riportarlo al punto vendita Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nSi invitano i consumatori che avessero acquistato il prodotto\nAvvertenze a non consumarlo e a riportarlo al punto vendita\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T07:25:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:16+00:00"
+}

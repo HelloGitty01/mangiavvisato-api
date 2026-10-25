@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-cioccolato-1000/",
+ "titolo": "MUESLI CIOCCOLATO 1000",
+ "data_pubblicazione": "2023-08-08",
+ "marca": "VALE",
+ "denominazione": "MUESLI CIOCCOLATO 1000",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_VALE_Muesli%20crocc%20cioccolato_compilato_1761196839.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_RICHIAMO_VALE_Muesli crocc cioccolato_compilato_1761196839.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_VALE_Muesli%20crocc%20cioccolato_compilato_1761196839.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "muesli-cioccolato-1000",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MUESLI CROCCANTE CON CIOCCOLATO",
+  "operatore": "SELEX GRUPPO COMMERCIALE S.p.A.",
+  "lotti": [
+   "AL240413 - AL230523 - AL230601"
+  ],
+  "produttore": "LAMERI S.p.A.",
+  "sede_stabilimento": "VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)",
+  "peso_volume": "375g",
+  "motivo_esteso": "Possibile presenza di corpi estranei (piccoli sassi)",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "03/08/2023 Marchio del prodotto: VALE"
+  },
+  "testo": "RICHIAMO\nData: 03/08/2023 Marchio del prodotto: VALE\nDenominazione di vendita:MUESLI CROCCANTE CON CIOCCOLATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX GRUPPO COMMERCIALE S.p.A.\ncommercializzato:\nLotto di produzione: AL240413 - AL230523 - AL230601\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LAMERI S.p.A.\nSede dello stabilimento: VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 375g\nMotivo del richiamo:\nPossibile presenza di corpi estranei (piccoli sassi)\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:26:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:26:19+00:00"
+}

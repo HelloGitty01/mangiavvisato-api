@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-toscanello-trancio/",
+ "titolo": "Salamino Toscanello Trancio",
+ "data_pubblicazione": "2023-12-11",
+ "marca": "Salumificio Sandri s.r.l.",
+ "denominazione": "Salamino Toscanello Trancio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20Minesteriale%20Richiamo%20Salamino%20Toscanello%20Tranci_1761197683.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato Minesteriale Richiamo Salamino Toscanello Tranci_1761197683.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20Minesteriale%20Richiamo%20Salamino%20Toscanello%20Tranci_1761197683.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamino-toscanello-trancio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salamino Toscanello Trancio",
+  "operatore": "Salumificio Sandri di Sandri Roberto, Antonio & Umberto s.r.l.",
+  "lotti": [
+   "236 (prod.) - 271/276 (conf.)"
+  ],
+  "marchio_identificazione": "IT 2276P CE",
+  "produttore": "Salumificio Sandri s.r.l.",
+  "sede_stabilimento": "Via provinciale dei Tre Comuni snc, Montescudaio (PI)",
+  "scadenza": "27/01/24-31/01/24",
+  "peso_volume": "240.07 kg",
+  "motivo_esteso": "Presenza di Salmonella spp.",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di restituirlo al proprio punto vendita. Il lotto di confezionamento n.: 271 ha data di scadenza il giorno 27/01/2024. Il lotto di confezionamento n.: 276 ha data di scadenza il giorno 31/01/2024.",
+  "campi_extra": {
+   "Data": "01/12/2023 Marchio del prodotto: Salumificio Sandri s.r.l.",
+   "Il lotto di confezionamento n.": "271 ha data di scadenza il giorno 27/01/2024."
+  },
+  "testo": "RICHIAMO\nData: 01/12/2023 Marchio del prodotto: Salumificio Sandri s.r.l.\nDenominazione di vendita:Salamino Toscanello Trancio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Salumificio Sandri di Sandri Roberto, Antonio & Umberto s.r.l.\ncommercializzato:\nLotto di produzione: 236 (prod.) - 271/276 (conf.)\nMarchio di identificazione dello stabilimento/del produttore: IT 2276P CE\nNome del produttore: Salumificio Sandri s.r.l.\nSede dello stabilimento: Via provinciale dei Tre Comuni snc, Montescudaio (PI)\nData di scadenza o termine minimo di conservazione: 27/01/24-31/01/24\nDescrizione peso/volume unità di vendita: 240.07 kg\nMotivo del richiamo:\nPresenza di Salmonella spp.\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di restituirlo al proprio punto vendita.\nIl lotto di confezionamento n.: 271 ha data di scadenza il giorno 27/01/2024.\nIl lotto di confezionamento n.: 276 ha data di scadenza il giorno 31/01/2024."
+ },
+ "prima_rilevazione": "2026-10-25T07:20:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:52+00:00"
+}

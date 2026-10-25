@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-bovina-congelata/",
+ "titolo": "Trippa Bovina Congelata",
+ "data_pubblicazione": "2024-07-25",
+ "marca": "Caisa Alimentare",
+ "denominazione": "Trippa Bovina Congelata",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_Trippa%20congelata_1761205258.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_20171116_Trippa congelata_1761205258.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_Trippa%20congelata_1761205258.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trippa-bovina-congelata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Trippa Bovina Congelata",
+  "operatore": "Caisa Alimentare S.r.l. 30112025-03122025-04122025-05122025-06122025-12122025-24122025-25122025",
+  "lotti": [
+   "02012026-03012026"
+  ],
+  "marchio_identificazione": "ITS5L51",
+  "produttore": "Caisa Alimentare S.r.l.",
+  "sede_stabilimento": "Via Augusto Righi, 1 (PI) 30/11/2025-03/12/2025-04/12/2025-05/12/2025",
+  "scadenza": "06/12/2025-12/12/2025-24/12/2025-25/12/2025- 02/01/2026-03/01/2026",
+  "peso_volume": "Peso netto 500g",
+  "motivo_esteso": "Possibile pH maggiore di 11.",
+  "avvertenze": "Non ingerire il prodotto: rischio di gravi lesioni al sistema digerente. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/07/2024 Marchio del prodotto: Caisa Alimentare",
+   "Non ingerire il prodotto": "rischio di gravi lesioni al sistema digerente.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 25/07/2024 Marchio del prodotto: Caisa Alimentare\nDenominazione di vendita: Trippa Bovina Congelata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caisa Alimentare S.r.l.\ncommercializzato:\n30112025-03122025-04122025-05122025-06122025-12122025-24122025-25122025-\nLotto di produzione:\n02012026-03012026\nMarchio di identificazione dello stabilimento/del produttore: ITS5L51\nNome del produttore: Caisa Alimentare S.r.l.\nSede dello stabilimento: Via Augusto Righi, 1 (PI)\n30/11/2025-03/12/2025-04/12/2025-05/12/2025-\nData di scadenza o termine minimo di conservazione:\n06/12/2025-12/12/2025-24/12/2025-25/12/2025-\n02/01/2026-03/01/2026\nDescrizione peso/volume unità di vendita: Peso netto 500g\nMotivo del richiamo:\nPossibile pH maggiore di 11.\nAvvertenze:\nNon ingerire il prodotto: rischio di gravi lesioni al sistema digerente.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:17+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-pistacchi/",
+ "titolo": "FARINA DI PISTACCHI",
+ "data_pubblicazione": "2024-07-18",
+ "marca": "FRUIT'S BETTER",
+ "denominazione": "FARINA DI PISTACCHI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOFARINADIPISTACCHI_1761204545.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLORICHIAMOFARINADIPISTACCHI_1761204545.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOFARINADIPISTACCHI_1761204545.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-pistacchi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI PISTACCHI",
+  "operatore": "MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "lotti": [
+   "24074-24078-24080-24088-24094-24095-24106-24113"
+  ],
+  "marchio_identificazione": "FRUIT’S BETTER",
+  "produttore": "MOCERINO FRUTTA SECCA SRL",
+  "sede_stabilimento": "VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)",
+  "scadenza": "31/03/2025 – 30/04/2025",
+  "peso_volume": "200g",
+  "motivo_esteso": "Presenza di OCRATOSSINA A in valore superiore al valore previsto dal Reg. UE 2023/915 di 5 µg/kg.",
+  "avvertenze": "Possibili disturbi gastrointestinali dovuto all'ingestione dell'alimento contaminato da elevate concentrazioni di OTA.",
+  "campi_extra": {
+   "Data": "16/07/2024 Marchio del prodotto: FRUIT’S BETTER"
+  },
+  "testo": "RICHIAMO\nData: 16/07/2024 Marchio del prodotto: FRUIT’S BETTER\nDenominazione di vendita: FARINA DI PISTACCHI\nNome o ragione sociale dell'OSA MOCERINO FRUTTA SECCA SRL, VIA PIZZONE N.5-80049 SOMMA\na nome del quale il prodotto è\nVES.NA (NA)\ncommercializzato:\nLotto di produzione: 24074-24078-24080-24088-24094-24095-24106-24113\nMarchio di identificazione dello stabilimento/del produttore: FRUIT’S BETTER\nNome del produttore: MOCERINO FRUTTA SECCA SRL\nSede dello stabilimento: VIA PIZZONE N.5-80049 SOMMA VES.NA (NA)\nData di scadenza o termine minimo di conservazione: 31/03/2025 – 30/04/2025\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPresenza di OCRATOSSINA A in valore superiore al valore previsto dal Reg. UE 2023/915 di 5 µg/kg.\nAvvertenze:\nPossibili disturbi gastrointestinali dovuto all'ingestione dell'alimento contaminato da elevate concentrazioni\ndi OTA."
+ },
+ "prima_rilevazione": "2026-10-25T07:06:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:45+00:00"
+}

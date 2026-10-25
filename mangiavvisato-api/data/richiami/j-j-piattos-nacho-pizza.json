@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/j-j-piattos-nacho-pizza/",
+ "titolo": "J & J PIATTOS NACHO PIZZA",
+ "data_pubblicazione": "2024-03-22",
+ "marca": "JACK & JILL",
+ "denominazione": "J & J PIATTOS NACHO PIZZA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20J_J%20PIATTOS%20NACHO%20PIZZA%2050X85G_1761199604.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO DI RICHIAMO J_J PIATTOS NACHO PIZZA 50X85G_1761199604.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20J_J%20PIATTOS%20NACHO%20PIZZA%2050X85G_1761199604.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "j-j-piattos-nacho-pizza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "J&J PIATTOS NACHO PIZZA 50X85G",
+  "operatore": "FRESH TROPICAL SRL",
+  "lotti": [
+   "TUTTI"
+  ],
+  "marchio_identificazione": "JACK&JILL",
+  "produttore": "UNIVERSAL ROBINA CORPORATION",
+  "sede_stabilimento": "FILIPPINE",
+  "scadenza": "TUTTI",
+  "peso_volume": "J&J PIATTOS NACHO PIZZA 50X85G",
+  "motivo_esteso": "PRESENZA DI ADDITIVO NON AMMESSO PRESENCE OF ADDITIVE NOT ALLOWED",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO / PORTARE INDIETRO AL NEGOZIANTE DO NOT CONSUME THE PRODUCT / BRING BACK TO THE STORE.",
+  "campi_extra": {
+   "Data": "15/03/2024 Marchio del prodotto: JACK&JILL"
+  },
+  "testo": "RICHIAMO\nData: 15/03/2024 Marchio del prodotto: JACK&JILL\nDenominazione di vendita:J&J PIATTOS NACHO PIZZA 50X85G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL\ncommercializzato:\nLotto di produzione: TUTTI\nMarchio di identificazione dello stabilimento/del produttore: JACK&JILL\nNome del produttore: UNIVERSAL ROBINA CORPORATION\nSede dello stabilimento: FILIPPINE\nData di scadenza o termine minimo di conservazione: TUTTI\nDescrizione peso/volume unità di vendita: J&J PIATTOS NACHO PIZZA 50X85G\nMotivo del richiamo:\nPRESENZA DI ADDITIVO NON AMMESSO\nPRESENCE OF ADDITIVE NOT ALLOWED\nAvvertenze:\nNON CONSUMARE IL PRODOTTO / PORTARE INDIETRO AL NEGOZIANTE\nDO NOT CONSUME THE PRODUCT / BRING BACK TO THE STORE."
+ },
+ "prima_rilevazione": "2026-10-25T07:16:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:47+00:00"
+}

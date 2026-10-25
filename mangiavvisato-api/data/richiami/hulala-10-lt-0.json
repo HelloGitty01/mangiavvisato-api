@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-10-lt-0/",
+ "titolo": "Hulala 10 LT",
+ "data_pubblicazione": "2022-07-26",
+ "marca": "IFFCO ITALIA SRL",
+ "denominazione": "Hulala 10 LT",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%2010%20LT%20_2__1761192027.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLI DI RICHIAMO GISA E 60 S_ Hulala 10 LT _2__1761192027.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20Hulala%2010%20LT%20_2__1761192027.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hulala-10-lt-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Hulala 10 LT",
+  "lotti": [
+   "L22077G"
+  ],
+  "marchio_identificazione": "IT 15 13CE",
+  "produttore": "IFFCO ITALIA SRL",
+  "sede_stabilimento": "CONTRADA CASALE ZONA INDUSTRIALE 81025—MARCIANISE(CE)",
+  "scadenza": "0 termine minimo di conservazione: 18.03.2023",
+  "peso_volume": "10 LT Motivo dei richiamo: CONTIENE TRACCE DI ARACHIDE NON DICHIARATE IN ETICHE‘ITA",
+  "avvertenze": "RES'ITFUIRE IL PRODOTTO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22.07.2022 Marchio del prodotto: Hulala 10 LT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22.07.2022 Marchio del prodotto: Hulala 10 LT\nDenominazione di vendita: Hulala 10 LT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L22077G\nMarchio di identificazione dello stabilimento/del produttore: IT 15 13CE\nNome del produttore: IFFCO ITALIA SRL\nSede dello stabilimento: CONTRADA CASALE ZONA INDUSTRIALE 81025—MARCIANISE(CE)\nData di scadenza 0 termine minimo di conservazione: 18.03.2023\nDescrizione peso/volume unità di vendita: 10 LT\nMotivo dei richiamo:\nCONTIENE TRACCE DI ARACHIDE NON DICHIARATE IN ETICHE‘ITA\nAvvertenze:\nRES'ITFUIRE IL PRODOTTO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:48:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:48:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalate-di-pasta/",
+ "titolo": "CONDIMENTO PER INSALATE DI PASTA",
+ "data_pubblicazione": "2023-10-05",
+ "marca": "COOP",
+ "denominazione": "CONDIMENTO PER INSALATE DI PASTA",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coop%20cartello%20richiamo_1761197507.pdf",
+ "allegati": [
+  {
+   "titolo": "Coop cartello richiamo_1761197507.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coop%20cartello%20richiamo_1761197507.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "condimento-insalate-di-pasta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:23:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:28+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalata-di-pasta/",
+ "titolo": "CONDIMENTO PER INSALATA DI PASTA",
+ "data_pubblicazione": "2023-10-03",
+ "marca": "coop",
+ "denominazione": "CONDIMENTO PER INSALATA DI PASTA",
+ "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+ "categoria_rischio": "altro",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tafuro_Coop_Richiamo%20prodotto_1761197500.pdf",
+ "allegati": [
+  {
+   "titolo": "Tafuro_Coop_Richiamo prodotto_1761197500.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tafuro_Coop_Richiamo%20prodotto_1761197500.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "condimento-insalata-di-pasta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CONDIMENTO PER INSALATA DI PASTA",
+  "operatore": "COOP",
+  "lotti": [
+   "TF224 MFE173 / TF224 MFE177"
+  ],
+  "produttore": "FRATELLI TAFURO S.R.L",
+  "sede_stabilimento": "STARDA STATALE 18 KM 82.700 EBOLI (SA)",
+  "scadenza": "31/08/2025",
+  "peso_volume": "285 g netto",
+  "motivo_esteso": "POSSIBILE PRESENZA DI FRAMMENTI DI VETRO",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO",
+  "campi_extra": {
+   "Data": "25/08/2023 Marchio del prodotto: COOP"
+  },
+  "testo": "RICHIAMO\nData: 25/08/2023 Marchio del prodotto: COOP\nDenominazione di vendita: CONDIMENTO PER INSALATA DI PASTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP\ncommercializzato:\nLotto di produzione: TF224 MFE173 / TF224 MFE177\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: FRATELLI TAFURO S.R.L\nSede dello stabilimento: STARDA STATALE 18 KM 82.700 EBOLI (SA)\nData di scadenza o termine minimo di conservazione: 31/08/2025\nDescrizione peso/volume unità di vendita: 285 g netto\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI FRAMMENTI DI VETRO\nAvvertenze:\nNON CONSUMARE IL PRODOTTO"
+ },
+ "prima_rilevazione": "2026-10-25T07:23:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:35+00:00"
+}

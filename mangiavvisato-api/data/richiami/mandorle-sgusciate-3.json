@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-3/",
+ "titolo": "mandorle sgusciate",
+ "data_pubblicazione": "2023-02-14",
+ "marca": "I&D S.r.l.",
+ "denominazione": "mandorle sgusciate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20vaschette%20da%20200%20_%20400%20g_1_1761193822.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo vaschette da 200 _ 400 g_1_1761193822.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20vaschette%20da%20200%20_%20400%20g_1_1761193822.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mandorle-sgusciate-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mandorle sgusciate",
+  "operatore": "I&D srl",
+  "lotti": [
+   "279/22",
+   "280/22",
+   "295/22"
+  ],
+  "marchio_identificazione": "I&D srl",
+  "produttore": "Almendras Lopez",
+  "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+  "peso_volume": "vaschette compostabili da 200 - 400 g",
+  "motivo_esteso": "Possibile presenza di Aflatossine",
+  "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+  "campi_extra": {
+   "Data": "09/02/2023 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto:\nDenominazione di vendita:Mandorle sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 279/22; 280/22; 295/22\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: vaschette compostabili da 200 - 400 g\nMotivo del richiamo:\nPossibile presenza di Aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:39:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:08+00:00"
+}

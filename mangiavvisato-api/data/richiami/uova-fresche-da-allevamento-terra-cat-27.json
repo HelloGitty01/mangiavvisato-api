@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-27/",
+ "titolo": "Uova fresche da allevamento a terra Cat A",
+ "data_pubblicazione": "2024-08-27",
+ "marca": "Amadori",
+ "denominazione": "Uova fresche da allevamento a terra Cat A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/76025_1761205515.pdf",
+ "allegati": [
+  {
+   "titolo": "76025_1761205515.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/76025_1761205515.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-allevamento-terra-cat-27",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Uova fresche Cat. A, da allevamento a terra, XL Amadori",
+  "operatore": "GESCO S.C.A.",
+  "lotti": [
+   "4179019926"
+  ],
+  "marchio_identificazione": "IT016064",
+  "produttore": "CASCINA ITALIA S.p.A.",
+  "sede_stabilimento": "VIA CAMPO ROMANO - 47050 SPIRANO (BG)",
+  "scadenza": "14-09-2024",
+  "peso_volume": "CONFEZIONE DA 6",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+  "avvertenze": "NON CONSUMARE LE UOVA E RESTITUIRLE AL PUNTO VENDITA IN CUI SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/08/2024 Marchio del prodotto: AMADORI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto: AMADORI\nDenominazione di vendita:Uova fresche Cat. A, da allevamento a terra, XL Amadori\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GESCO S.C.A.\ncommercializzato:\nLotto di produzione: 4179019926\nMarchio di identificazione dello stabilimento/del produttore: IT016064\nNome del produttore: CASCINA ITALIA S.p.A.\nSede dello stabilimento: VIA CAMPO ROMANO - 47050 SPIRANO (BG)\nData di scadenza o termine minimo di conservazione: 14-09-2024\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 6\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nNON CONSUMARE LE UOVA E RESTITUIRLE AL PUNTO VENDITA IN CUI SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:04:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:04:36+00:00"
+}

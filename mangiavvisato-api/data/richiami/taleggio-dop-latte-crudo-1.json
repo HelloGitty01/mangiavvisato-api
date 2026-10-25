@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-1/",
+ "titolo": "TALEGGIO DOP A LATTE CRUDO",
+ "data_pubblicazione": "2022-10-27",
+ "marca": "PASCOLI DEL FATTORE",
+ "denominazione": "TALEGGIO DOP A LATTE CRUDO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20PASCOLI%20DEL%20FATTORE_1761192263.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO _ PASCOLI DEL FATTORE_1761192263.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20PASCOLI%20DEL%20FATTORE_1761192263.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "taleggio-dop-latte-crudo-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Taleggio DOP a latte crudo",
+  "operatore": "Casarrigoni Srl",
+  "lotti": [
+   "Lotti confezionamento 25272 – 25276 - 25277 I lotti di confezionamento sopraindicati sono stati ottenuti dal lotto di prodotto 04082A"
+  ],
+  "marchio_identificazione": "CE IT 03 278",
+  "produttore": "Casarrigoni Srl",
+  "sede_stabilimento": "Via A. Arnoldi, 575 – 24010 Taleggio (BG)",
+  "scadenza": "28/11/22 (L. 25272) – 02/12/22 (L. 25276) 03/12/22 (L. 25277)",
+  "peso_volume": "Taleggio forma intera",
+  "motivo_esteso": "Presenza di STEC gene eae sg O26 in 25 g di prodotto.",
+  "avvertenze": "Non consumare il prodotto.",
+  "campi_extra": {
+   "Data": "27/10/2022 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nPascoli del Fattore\nData: 27/10/2022 Marchio del prodotto:\nDenominazione di vendita: Taleggio DOP a latte crudo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Casarrigoni Srl\ncommercializzato:\nLotto di produzione: Lotti confezionamento 25272 – 25276 - 25277\nI lotti di confezionamento sopraindicati sono stati ottenuti dal lotto di prodotto\n04082A\nMarchio di identificazione dello stabilimento/del produttore: CE IT 03 278\nNome del produttore: Casarrigoni Srl\nSede dello stabilimento: Via A. Arnoldi, 575 – 24010 Taleggio (BG)\nData di scadenza o termine minimo di conservazione: 28/11/22 (L. 25272) – 02/12/22 (L. 25276)\n03/12/22 (L. 25277)\nDescrizione peso/volume unità di vendita: Taleggio forma intera\nMotivo del richiamo:\nPresenza di STEC gene eae sg O26 in 25 g di prodotto.\nAvvertenze:\nNon consumare il prodotto."
+ },
+ "prima_rilevazione": "2026-10-25T07:44:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:44:44+00:00"
+}

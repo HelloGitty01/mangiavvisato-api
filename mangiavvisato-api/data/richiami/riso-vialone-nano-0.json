@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-0/",
+ "titolo": "Riso Vialone Nano",
+ "data_pubblicazione": "2023-01-18",
+ "marca": "CURTIRISO",
+ "denominazione": "Riso Vialone Nano",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Volantino%20richiamo%20vialone%20nano%20CURTIRISO%208_10_2024%20lotto%20P22100472_1761193116.pdf",
+ "allegati": [
+  {
+   "titolo": "Volantino richiamo vialone nano CURTIRISO 8_10_2024 lotto P22100472_1761193116.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Volantino%20richiamo%20vialone%20nano%20CURTIRISO%208_10_2024%20lotto%20P22100472_1761193116.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-vialone-nano-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso Vialone Nano",
+  "operatore": "Curti S.r.l. con socio unico",
+  "lotti": [
+   "P22100472"
+  ],
+  "produttore": "Curti S.r.l. con socio unico",
+  "sede_stabilimento": "Via Stazione 113, Valle Lomellina (PV)",
+  "scadenza": "08-10-2024",
+  "peso_volume": "1 kg e",
+  "motivo_esteso": "Possibile presenza di Triciclazolo oltre il limite di legge",
+  "avvertenze": "Non consumare e riconsegnare le confezioni presso il punto vendita. L'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con lotto P22100472. Per ulteriori informazioni contattare il numero verde 800036457.",
+  "campi_extra": {
+   "Data": "18/01/2023 Marchio del prodotto: Curtiriso"
+  },
+  "testo": "RICHIAMO\nData: 18/01/2023 Marchio del prodotto: Curtiriso\nDenominazione di vendita:Riso Vialone Nano\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Curti S.r.l. con socio unico\ncommercializzato:\nLotto di produzione: P22100472\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Curti S.r.l. con socio unico\nSede dello stabilimento: Via Stazione 113, Valle Lomellina (PV)\nData di scadenza o termine minimo di conservazione: 08-10-2024\nDescrizione peso/volume unità di vendita: 1 kg e\nMotivo del richiamo:\nPossibile presenza di Triciclazolo oltre il limite di legge\nAvvertenze:\nNon consumare e riconsegnare le confezioni presso il punto vendita.\nL'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con lotto P22100472.\nPer ulteriori informazioni contattare il numero verde 800036457."
+ },
+ "prima_rilevazione": "2026-10-25T07:40:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:04+00:00"
+}

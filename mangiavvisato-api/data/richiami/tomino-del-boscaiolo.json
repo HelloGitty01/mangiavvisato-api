@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tomino-del-boscaiolo/",
+ "titolo": "TOMINO DEL BOSCAIOLO",
+ "data_pubblicazione": "2023-04-24",
+ "marca": "TERRE D'ITALIA",
+ "denominazione": "TOMINO DEL BOSCAIOLO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/44%20cartello%20RICHIAMO%20TOMINO%20DEL%20BOSCAIOLO%20TDI_1761194812.pdf",
+ "allegati": [
+  {
+   "titolo": "44 cartello RICHIAMO TOMINO DEL BOSCAIOLO TDI_1761194812.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/44%20cartello%20RICHIAMO%20TOMINO%20DEL%20BOSCAIOLO%20TDI_1761194812.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tomino-del-boscaiolo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "data fine affissione 30/04/2023"
+ },
+ "prima_rilevazione": "2026-10-25T07:31:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:34+00:00"
+}

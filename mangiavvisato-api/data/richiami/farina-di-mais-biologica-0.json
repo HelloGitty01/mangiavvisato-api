@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-biologica-0/",
+ "titolo": "FARINA DI MAIS BIOLOGICA",
+ "data_pubblicazione": "2024-01-12",
+ "marca": "AZIENDA AGRICOLA BIO FLORIDDIA",
+ "denominazione": "FARINA DI MAIS BIOLOGICA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FARINA%20DI%20MAIS%20BIO%20FLORIDDIA%20VARI%20LOTTI10.01.24%20ST2_1761198747.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO FARINA DI MAIS BIO FLORIDDIA VARI LOTTI10.01.24 ST2_1761198747.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FARINA%20DI%20MAIS%20BIO%20FLORIDDIA%20VARI%20LOTTI10.01.24%20ST2_1761198747.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais-biologica-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "interessati: dal Lotto 15.11.2023 (TMC 30/06/2024) al Lotto 15.12.2023 (TMC 31/07/2024) N.B. In caso di avvenuto utilizzo della farina per la produzione di alimenti trasformati",
+   "conservati (es. biscotti",
+   "polenta",
+   "ecc.) questi non devono essere consumati",
+   "ingeriti."
+  ],
+  "testo": "Vari TMC-Vedi riquadro\navvertenze\nLotti interessati: dal Lotto 15.11.2023 (TMC 30/06/2024) al Lotto 15.12.2023 (TMC 31/07/2024)\nN.B. In caso di avvenuto utilizzo della farina per la produzione di alimenti trasformati e conservati (es.\nbiscotti, polenta, ecc.) questi non devono essere consumati e ingeriti."
+ },
+ "prima_rilevazione": "2026-10-25T07:20:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:06+00:00"
+}

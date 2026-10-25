@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-mantovana-con-finocchio/",
+ "titolo": "Salsiccia mantovana con finocchio",
+ "data_pubblicazione": "2024-06-27",
+ "marca": "Cucina express",
+ "denominazione": "Salsiccia mantovana con finocchio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%20mantovana%20con%20finocchio%20lotto%206142440329__1761204340.pdf",
+ "allegati": [
+  {
+   "titolo": "salsiccia mantovana con finocchio lotto 6142440329__1761204340.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%20mantovana%20con%20finocchio%20lotto%206142440329__1761204340.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-mantovana-con-finocchio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSICCIA MANTOVANA CON FINOCCHIO",
+  "operatore": "Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano",
+  "lotti": [
+   "6142440329"
+  ],
+  "marchio_identificazione": "IT S1P24 CE",
+  "produttore": "Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano",
+  "sede_stabilimento": "Aspiag Service Srl, Strada Rovigana 58/1, 35043 Monselice (PD)",
+  "scadenza": "23-07-2024",
+  "peso_volume": "0,300 kg c.a",
+  "motivo_esteso": "Rischio per la salute dei consumatori per pericolo di potenziale tossinfezione dovuta alla presenza di Salmonella spp.",
+  "avvertenze": "I prodotti non idonei al consumo non devono essere consumati. Riportare il prodotto in punto vendita.",
+  "campi_extra": {
+   "Data": "26/06/2024 Marchio del prodotto: CUCINA EXPRESS"
+  },
+  "testo": "RICHIAMO\nData: 26/06/2024 Marchio del prodotto: CUCINA EXPRESS\nDenominazione di vendita:SALSICCIA MANTOVANA CON FINOCCHIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano\ncommercializzato:\nLotto di produzione: 6142440329\nMarchio di identificazione dello stabilimento/del produttore: IT S1P24 CE\nNome del produttore: Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano\nSede dello stabilimento: Aspiag Service Srl, Strada Rovigana 58/1, 35043 Monselice (PD)\nData di scadenza o termine minimo di conservazione: 23-07-2024\nDescrizione peso/volume unità di vendita: 0,300 kg c.a\nMotivo del richiamo:\nRischio per la salute dei consumatori per pericolo di potenziale tossinfezione dovuta alla presenza di\nSalmonella spp.\nAvvertenze:\nI prodotti non idonei al consumo non devono essere consumati.\nRiportare il prodotto in punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:08:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:04+00:00"
+}

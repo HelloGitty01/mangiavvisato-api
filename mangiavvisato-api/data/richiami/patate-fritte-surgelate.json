@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patate-fritte-surgelate/",
+ "titolo": "Patate fritte surgelate",
+ "data_pubblicazione": "2024-02-13",
+ "marca": "Buone e Croccanti",
+ "denominazione": "Patate fritte surgelate",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20richiamo%20belli%20e%20croccanti%2012022024_1761198874.pdf",
+ "allegati": [
+  {
+   "titolo": "richiesta richiamo belli e croccanti 12022024_1761198874.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20richiamo%20belli%20e%20croccanti%2012022024_1761198874.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "patate-fritte-surgelate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Patate fritte surgelate",
+  "operatore": "Pizzoli Spa Via Zenzalino Nord, 1 40054 Budrio (BO)",
+  "lotti": [
+   "AB23343"
+  ],
+  "marchio_identificazione": "//",
+  "produttore": "Pizzoli Spa",
+  "sede_stabilimento": "Via Zenzalino Nord, 1 40054 Budrio (BO)",
+  "scadenza": "12/2025",
+  "peso_volume": "1000 g",
+  "motivo_esteso": "Prodotto non conforme per sospetta presenza di residui di insetti",
+  "avvertenze": "SI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON CONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "12/02/2024 Marchio del prodotto: Buone e Croccanti"
+  },
+  "testo": "RICHIAMO\nData: 12/02/2024 Marchio del prodotto: Buone e Croccanti\nDenominazione di vendita:Patate fritte surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Pizzoli Spa Via Zenzalino Nord, 1 40054 Budrio (BO)\ncommercializzato:\nLotto di produzione: AB23343\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: Pizzoli Spa\nSede dello stabilimento: Via Zenzalino Nord, 1 40054 Budrio (BO)\nData di scadenza o termine minimo di conservazione: 12/2025\nDescrizione peso/volume unità di vendita: 1000 g\nMotivo del richiamo:\nProdotto non conforme per sospetta presenza di residui di insetti\nAvvertenze:\nSI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON\nCONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T07:18:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:38+00:00"
+}

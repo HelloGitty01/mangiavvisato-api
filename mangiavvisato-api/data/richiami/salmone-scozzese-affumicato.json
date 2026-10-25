@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato/",
+ "titolo": "Salmone Scozzese affumicato",
+ "data_pubblicazione": "2024-01-12",
+ "marca": "KV NORDIC",
+ "denominazione": "Salmone Scozzese affumicato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_1761198753.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_RICHIAMO_1761198753.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_1761198753.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salmone-scozzese-affumicato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:20:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:13+00:00"
+}

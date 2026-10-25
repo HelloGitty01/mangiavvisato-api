@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taralli-avena/",
+ "titolo": "TARALLI AVENA",
+ "data_pubblicazione": "2024-07-18",
+ "marca": "AGLUTEN",
+ "denominazione": "TARALLI AVENA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamotaralli241730_1761204540.pdf",
+ "allegati": [
+  {
+   "titolo": "modellorichiamotaralli241730_1761204540.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamotaralli241730_1761204540.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "taralli-avena",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TARALLI AVENA",
+  "operatore": "NOVE ALPI SRL",
+  "lotti": [
+   "241730"
+  ],
+  "produttore": "RE FOOD SRL",
+  "sede_stabilimento": "VIA VAN GOGH N.25, CONVERSANO (BA)",
+  "scadenza": "03-03-2025",
+  "peso_volume": "100g",
+  "motivo_esteso": "Presenza dell'allergene GLUTINE in prodotto dichiarato \"specificamente formulato per persone intolleranti al glutine\".",
+  "avvertenze": "Il prodotto non deve essere consumato da persone affette da CELIACHIA e sensibili all'allergene Glutine, e restituito al punto vendita",
+  "campi_extra": {
+   "Data": "12/07/2024 Marchio del prodotto: AGLUTEN"
+  },
+  "testo": "RICHIAMO\nData: 12/07/2024 Marchio del prodotto: AGLUTEN\nDenominazione di vendita:TARALLI AVENA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NOVE ALPI SRL\ncommercializzato:\nLotto di produzione: 241730\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: RE FOOD SRL\nSede dello stabilimento: VIA VAN GOGH N.25, CONVERSANO (BA)\nData di scadenza o termine minimo di conservazione: 03-03-2025\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPresenza dell'allergene GLUTINE in prodotto dichiarato \"specificamente formulato per persone intolleranti\nal glutine\".\nAvvertenze:\nIl prodotto non deve essere consumato da persone affette da CELIACHIA e sensibili all'allergene Glutine, e\nrestituito al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:42+00:00"
+}

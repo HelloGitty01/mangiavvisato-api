@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchio-sgusciato/",
+ "titolo": "Pistacchio sgusciato",
+ "data_pubblicazione": "2022-12-29",
+ "marca": "Aliments S.R.L.",
+ "denominazione": "Pistacchio sgusciato",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Aliments%20srl_locandina%20richiamo%20_1__1761193093.pdf",
+ "allegati": [
+  {
+   "titolo": "Aliments srl_locandina richiamo _1__1761193093.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Aliments%20srl_locandina%20richiamo%20_1__1761193093.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pistacchio-sgusciato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PISTACCHIO SGUSCIATO",
+  "operatore": "ALIMENTS S.R.L.",
+  "lotti": [
+   "F-258",
+   "F-293",
+   "F-314"
+  ],
+  "produttore": "ALIMENTS S.R.L.",
+  "sede_stabilimento": "Loc. Fosso Imperatore, 84014 Nocera Inferiore (SA)",
+  "scadenza": "15.06.23; 20.07.23; 10.08.23.",
+  "peso_volume": "Sacchetti da 1kge confezioni da 10kg",
+  "motivo_esteso": "Presenza di Aflatossina B1 e Aflatossine Totali oltre i limiti consentiti dal Reg. Ce 1881/06 e s.m.i.",
+  "avvertenze": "Si prega di non consumare e restituire al fornitore. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "27.12.2022 Marchio del prodotto: ALIMENTS S.R.L.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 27.12.2022 Marchio del prodotto: ALIMENTS S.R.L.\nDenominazione di vendita:PISTACCHIO SGUSCIATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALIMENTS S.R.L.\ncommercializzato:\nLotto di produzione: F-258, F-293, F-314\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ALIMENTS S.R.L.\nSede dello stabilimento: Loc. Fosso Imperatore, 84014 Nocera Inferiore (SA)\nData di scadenza o termine minimo di conservazione: 15.06.23; 20.07.23; 10.08.23.\nDescrizione peso/volume unità di vendita: Sacchetti da 1kge confezioni da 10kg\nMotivo del richiamo:\nPresenza di Aflatossina B1 e Aflatossine Totali oltre i limiti consentiti dal Reg. Ce 1881/06 e s.m.i.\nAvvertenze:\nSi prega di non consumare e restituire al fornitore.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:24+00:00"
+}

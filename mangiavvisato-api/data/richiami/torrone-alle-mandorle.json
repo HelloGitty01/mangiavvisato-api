@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torrone-alle-mandorle/",
+ "titolo": "Torrone alle mandorle",
+ "data_pubblicazione": "2023-02-27",
+ "marca": "Torrone marisa",
+ "denominazione": "Torrone alle mandorle",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo_1761193920.pdf",
+ "allegati": [
+  {
+   "titolo": "Scheda Richiamo_1761193920.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo_1761193920.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "torrone-alle-mandorle",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:36:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:49+00:00"
+}

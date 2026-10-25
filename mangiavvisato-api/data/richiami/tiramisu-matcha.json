@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-matcha/",
+ "titolo": "Tiramisù matcha",
+ "data_pubblicazione": "2023-02-23",
+ "marca": "Mascherpa",
+ "denominazione": "Tiramisù matcha",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20matcha_1761193900.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo tiramisu¿ matcha_1761193900.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20matcha_1761193900.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tiramisu-matcha",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:37:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:37:32+00:00"
+}

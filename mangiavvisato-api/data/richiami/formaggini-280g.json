@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggini-280g/",
+ "titolo": "FORMAGGINI 280G",
+ "data_pubblicazione": "2023-11-06",
+ "marca": "SAPOR DI CASCINA",
+ "denominazione": "FORMAGGINI 280G",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761197552.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_1761197552.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761197552.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggini-280g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGINI 280G",
+  "operatore": "PENNY MARKET SRL",
+  "lotti": [
+   "230727",
+   "230915"
+  ],
+  "marchio_identificazione": "IT 01 83 CE",
+  "produttore": "IN.AL.PI. S.P.A.",
+  "sede_stabilimento": "VIA CUNEO 38 - 12033 MORETTA (CN)",
+  "scadenza": "23/01 e 13/03/24",
+  "peso_volume": "280G (16 X 17,5G)",
+  "motivo_esteso": "Possibile contaminazione microbiologica (muffa).",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al Punto Vendita per la sostituzione o rimborso entro il 15/11/2023. Precisiamo che il richiamo interessa solo i lotti/scadenze sopra indicati. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "31/10/2023 Marchio del prodotto: SAPOR DI CASCINA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 31/10/2023 Marchio del prodotto: SAPOR DI CASCINA\nDenominazione di vendita:FORMAGGINI 280G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PENNY MARKET SRL\ncommercializzato:\nLotto di produzione: 230727 e 230915\nMarchio di identificazione dello stabilimento/del produttore: IT 01 83 CE\nNome del produttore: IN.AL.PI. S.P.A.\nSede dello stabilimento: VIA CUNEO 38 - 12033 MORETTA (CN)\nData di scadenza o termine minimo di conservazione: 23/01 e 13/03/24\nDescrizione peso/volume unità di vendita: 280G (16 X 17,5G)\nMotivo del richiamo:\nPossibile contaminazione microbiologica (muffa).\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al Punto Vendita\nper la sostituzione o rimborso entro il 15/11/2023.\nPrecisiamo che il richiamo interessa solo i lotti/scadenze sopra indicati.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:22:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:22:29+00:00"
+}

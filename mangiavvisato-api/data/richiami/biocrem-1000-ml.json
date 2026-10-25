@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biocrem-1000-ml/",
+ "titolo": "BIOCREM 1000 ML",
+ "data_pubblicazione": "2022-07-26",
+ "marca": "IFFCO ITALIA SRL",
+ "denominazione": "BIOCREM 1000 ML",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20BIOCREM%201000%20ML_1761192014.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLI DI RICHIAMO GISA E 60 S_ BIOCREM 1000 ML_1761192014.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20DI%20RICHIAMO%20GISA%20E%2060%20S_%20BIOCREM%201000%20ML_1761192014.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "biocrem-1000-ml",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BIOCREM 1000 ML",
+  "lotti": [
+   "L22080C"
+  ],
+  "marchio_identificazione": "IT 15 13CE",
+  "produttore": "IFFCO ITALIA SRL",
+  "sede_stabilimento": "CONTRADA CASALE ZONA INDUSTRIALE 81025-MARCIANISE(CE)",
+  "scadenza": "e termine minimo di conservazione: 21.03.2023",
+  "peso_volume": "1 LT",
+  "motivo_esteso": "CONTIENE TRACCE DI ARACHIDE NON DICHIARATE IN ETICHE'ITA",
+  "avvertenze": "RESÎTFUIRE IL PRODOTTO AL PUNTO VENDITA Inserire immagine uno: nserìre immagine due",
+  "campi_extra": {
+   "Data": "22.07.2022 Marchio del prodotto: BIOCREM 1000 ML",
+   "Inserire immagine uno": "nserìre immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22.07.2022 Marchio del prodotto: BIOCREM 1000 ML\nDenominazione di vendita: BIOCREM 1000 ML\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L22080C\nMarchio di identificazione dello stabilimento/del produttore: IT 15 13CE\nNome del produttore: IFFCO ITALIA SRL\nSede dello stabilimento: CONTRADA CASALE ZONA INDUSTRIALE 81025-MARCIANISE(CE)\nData di scadenza e termine minimo di conservazione: 21.03.2023\nDescrizione peso/volume unità di vendita: 1 LT\nMotivo del richiamo:\nCONTIENE TRACCE DI ARACHIDE NON DICHIARATE IN ETICHE'ITA\nAvvertenze:\nRESÎTFUIRE IL PRODOTTO AL PUNTO VENDITA\nInserire immagine uno: nserìre immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:48:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:48:04+00:00"
+}

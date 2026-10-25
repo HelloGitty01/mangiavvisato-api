@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr/",
+ "titolo": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+ "data_pubblicazione": "2024-09-04",
+ "marca": "MARINAI",
+ "denominazione": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_1_1761205667.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo NAI_Vongole del Pacifico cotte sgusciate surgelate_1_1761205667.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_1_1761205667.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE",
+  "operatore": "NAI PRODOTTI ITTICI s.r.l.",
+  "lotti": [
+   "VN166VI026"
+  ],
+  "marchio_identificazione": "DL 166",
+  "produttore": "Viet Long kien Giang Limited Company",
+  "sede_stabilimento": "Kiên Luong - Kien Giang Province",
+  "scadenza": "10-03-2026",
+  "peso_volume": "BUSTE TERMOSALDATE DA 800 g",
+  "motivo_esteso": "Presenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.",
+  "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "03/09/2024 Marchio del prodotto: MARINAI"
+  },
+  "testo": "RICHIAMO\nData: 03/09/2024 Marchio del prodotto: MARINAI\nDenominazione di vendita:VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NAI PRODOTTI ITTICI s.r.l.\ncommercializzato:\nLotto di produzione: VN166VI026\nMarchio di identificazione dello stabilimento/del produttore: DL 166\nNome del produttore: Viet Long kien Giang Limited Company\nSede dello stabilimento: Kiên Luong - Kien Giang Province\nData di scadenza o termine minimo di conservazione: 10-03-2026\nDescrizione peso/volume unità di vendita: BUSTE TERMOSALDATE DA 800 g\nMotivo del richiamo:\nPresenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T07:03:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:03:14+00:00"
+}

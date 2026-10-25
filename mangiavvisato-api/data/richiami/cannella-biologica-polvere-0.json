@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-biologica-polvere-0/",
+ "titolo": "Cannella biologica in polvere",
+ "data_pubblicazione": "2022-11-21",
+ "marca": "Artigiano del bio",
+ "denominazione": "Cannella biologica in polvere",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%202_1761192957.pdf",
+ "allegati": [
+  {
+   "titolo": "food for all cartello di richiamo 2_1761192957.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%202_1761192957.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cannella-biologica-polvere-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cannella biologica in polvere",
+  "operatore": "Food For All di Tonello Mario e c. snc",
+  "lotti": [
+   "220105",
+   "220207",
+   "220427",
+   "220704",
+   "220822"
+  ],
+  "marchio_identificazione": "Food For All",
+  "produttore": "Food For All snc",
+  "sede_stabilimento": "Via G. Galilei n. 6/8; Pescantina (VR)",
+  "scadenza": "30/04/2023; 30/04/2023; 30/04/2023; 04/07/2023; 22/08/2023",
+  "peso_volume": "1 kg",
+  "motivo_esteso": "la cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in etichetta",
+  "avvertenze": "si raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i numeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il prodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa.",
+  "campi_extra": {
+   "Data": "04/11/2022 Marchio del prodotto: Artigiano del Bio"
+  },
+  "testo": "RICHIAMO\nData: 04/11/2022 Marchio del prodotto: Artigiano del Bio\nDenominazione di vendita: Cannella biologica in polvere\nNome o ragione sociale dell'OSA Food For All di Tonello Mario e c. snc\na nome del quale il prodotto\nè commercializzato:\nLotto di produzione: 220105; 220207; 220427; 220704; 220822\nMarchio di identificazione dello stabilimento/del produttore: Food For All\nNome del produttore: Food For All snc\nSede dello stabilimento: Via G. Galilei n. 6/8; Pescantina (VR)\nData di scadenza o termine minimo di conservazione: 30/04/2023; 30/04/2023; 30/04/2023; 04/07/2023; 22/08/2023\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nla cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in\netichetta\nAvvertenze:\nsi raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i\nnumeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il\nprodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa."
+ },
+ "prima_rilevazione": "2026-10-25T07:43:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:01+00:00"
+}

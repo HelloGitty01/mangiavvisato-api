@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ajwain/",
+ "titolo": "AJWAIN",
+ "data_pubblicazione": "2024-04-26",
+ "marca": "Ali Baba",
+ "denominazione": "AJWAIN",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761202760.PDF",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_1761202760.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761202760.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ajwain",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "AJWAIN",
+  "operatore": "FRESH TROPICAL SRL BY JAWAD",
+  "lotti": [
+   "12.07.2025"
+  ],
+  "marchio_identificazione": "ALI BABA",
+  "produttore": "FRESH TROPICAL SRL BY JAWAD",
+  "sede_stabilimento": "Corbetta (MI)",
+  "scadenza": "12-07-2025",
+  "peso_volume": "100g - 300g - 1kg",
+  "motivo_esteso": "Presenza di pesticidi oltre i limiti di legge Presence of pesticides beyond legal limits",
+  "avvertenze": "NON CONSUMARE E RIPORTARE AL NEGOZIANTE DO NOT CONSUME AND RETURN TO THE STORE",
+  "campi_extra": {
+   "Data": "25/04/2024 Marchio del prodotto: ALI BABA"
+  },
+  "testo": "RICHIAMO\nData: 25/04/2024 Marchio del prodotto: ALI BABA\nDenominazione di vendita:AJWAIN\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD\ncommercializzato:\nLotto di produzione: 12.07.2025\nMarchio di identificazione dello stabilimento/del produttore: ALI BABA\nNome del produttore: FRESH TROPICAL SRL BY JAWAD\nSede dello stabilimento: Corbetta (MI)\nData di scadenza o termine minimo di conservazione: 12-07-2025\nDescrizione peso/volume unità di vendita: 100g - 300g - 1kg\nMotivo del richiamo:\nPresenza di pesticidi oltre i limiti di legge\nPresence of pesticides beyond legal limits\nAvvertenze:\nNON CONSUMARE E RIPORTARE AL NEGOZIANTE\nDO NOT CONSUME AND RETURN TO THE STORE"
+ },
+ "prima_rilevazione": "2026-10-25T07:11:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:11:07+00:00"
+}

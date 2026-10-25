@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-14/",
+ "titolo": "Uova fresche da allevamento a terra Cat A",
+ "data_pubblicazione": "2024-08-27",
+ "marca": "Gesco",
+ "denominazione": "Uova fresche da allevamento a terra Cat A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/12624_1761205450.pdf",
+ "allegati": [
+  {
+   "titolo": "12624_1761205450.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/12624_1761205450.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-allevamento-terra-cat-14",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Uova fresche Cat. A, da allevamento a terra, L",
+  "operatore": "GESCO S.C.A.",
+  "lotti": [
+   "VARI",
+   "VEDI AVVERTENZE"
+  ],
+  "marchio_identificazione": "IT016064",
+  "produttore": "CASCINA ITALIA S.p.A.",
+  "sede_stabilimento": "VIA CAMPO ROMANO - 47050 SPIRANO (BG)",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "UOVA SFUSE X 90",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+  "campi_extra": {
+   "Data": "26/08/2024 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto:\nDenominazione di vendita:Uova fresche Cat. A, da allevamento a terra, L\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GESCO S.C.A.\ncommercializzato:\nLotto di produzione: VARI, VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: IT016064\nNome del produttore: CASCINA ITALIA S.p.A.\nSede dello stabilimento: VIA CAMPO ROMANO - 47050 SPIRANO (BG)\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: UOVA SFUSE X 90\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nLOTTI - SCADENZE: 4832759926 - 01/09/2024; 4282789926 - 12/09/2024\nNON CONSUMARE LE UOVA E RESTITUIRLE AL PUNTO VENDITA IN CUI SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:04:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:04:02+00:00"
+}

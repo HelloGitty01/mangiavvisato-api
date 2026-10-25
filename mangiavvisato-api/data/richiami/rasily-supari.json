@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rasily-supari/",
+ "titolo": "Rasily Supari",
+ "data_pubblicazione": "2023-02-16",
+ "marca": "Shalimar",
+ "denominazione": "Rasily Supari",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761193823.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo_1761193823.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761193823.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "rasily-supari",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:38:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:39+00:00"
+}

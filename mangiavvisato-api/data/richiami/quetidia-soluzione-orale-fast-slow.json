@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quetidia-soluzione-orale-fast-slow/",
+ "titolo": "QUETIDIA soluzione orale FAST-SLOW",
+ "data_pubblicazione": "2022-09-20",
+ "marca": "QUETIDIA soluzione orale",
+ "denominazione": "QUETIDIA soluzione orale FAST-SLOW",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo%20lotti%20220342_220343%20_Quetidia%20Soluzione%20orale_1761192148.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_Richiamo lotti 220342_220343 _Quetidia Soluzione orale_1761192148.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo%20lotti%20220342_220343%20_Quetidia%20Soluzione%20orale_1761192148.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "quetidia-soluzione-orale-fast-slow",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "QUETIDIA soluzione orale FAST-SLOW",
+  "operatore": "NEURAXPHARM ITALY S.P.A.",
+  "lotti": [
+   "220342",
+   "220343"
+  ],
+  "produttore": "H.P.I. HUMANA PHARMA INTERNATIONAL SPA",
+  "sede_stabilimento": "via Enrico Mattei snc - 27022 - CASORATE PRIMO",
+  "scadenza": "29-02-2024",
+  "peso_volume": "flacone da 150 ml",
+  "motivo_esteso": "segnalata effervescenza inattesa e conseguente fuoriuscita del prodotto all'apertura del flacone",
+  "avvertenze": "Non assumere la soluzione dei lotti 220342 e 220343 a scopo precauzionale",
+  "campi_extra": {
+   "Data": "13/09/2022 Marchio del prodotto: QUETIDIA soluzione orale"
+  },
+  "testo": "RICHIAMO\nData: 13/09/2022 Marchio del prodotto: QUETIDIA soluzione orale\nDenominazione di vendita:QUETIDIA soluzione orale FAST-SLOW\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NEURAXPHARM ITALY S.P.A.\ncommercializzato:\nLotto di produzione: 220342; 220343\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: H.P.I. HUMANA PHARMA INTERNATIONAL SPA\nSede dello stabilimento: via Enrico Mattei snc - 27022 - CASORATE PRIMO\nData di scadenza o termine minimo di conservazione: 29-02-2024\nDescrizione peso/volume unità di vendita: flacone da 150 ml\nMotivo del richiamo:\nsegnalata effervescenza inattesa e conseguente fuoriuscita del prodotto all'apertura del flacone\nAvvertenze:\nNon assumere la soluzione dei lotti 220342 e 220343 a scopo precauzionale"
+ },
+ "prima_rilevazione": "2026-10-25T07:46:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:03+00:00"
+}

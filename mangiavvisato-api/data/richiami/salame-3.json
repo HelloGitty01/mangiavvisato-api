@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-3/",
+ "titolo": "SALAME",
+ "data_pubblicazione": "2023-11-24",
+ "marca": "TORESAN",
+ "denominazione": "SALAME",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOSALAME%20_1__1761197586.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMOSALAME _1__1761197586.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOSALAME%20_1__1761197586.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:21:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:46+00:00"
+}

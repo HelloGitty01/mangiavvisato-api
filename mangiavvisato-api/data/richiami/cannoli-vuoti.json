@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannoli-vuoti/",
+ "titolo": "Cannoli vuoti",
+ "data_pubblicazione": "2022-09-02",
+ "marca": "Italiamo",
+ "denominazione": "Cannoli vuoti",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cannoli-vuoti",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "Allegato 4\n26/08/22 Italiamo\nCannoli vuoti\nLidl Italia S.r.l. a socio unico\n166\n-\nBlanco S.r.l.s\nV.le M. Gori, 513 – 517, 93015 Niscemi (CL)\n12/11/2022\n250 g\nRilevata la presenza dell’allergene latte non riportato in etichetta\nProdotto non idoneo al consumo da parte di allergici al latte. Si invitano tali consumatori a non consumarlo e a\nriportarlo al punto vendita per il rimborso."
+ },
+ "prima_rilevazione": "2026-10-25T07:46:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:38+00:00"
+}

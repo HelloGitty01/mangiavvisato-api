@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-cocco-e-carruba/",
+ "titolo": "Riso cocco e carruba",
+ "data_pubblicazione": "2024-04-03",
+ "marca": "KORA DULCIS",
+ "denominazione": "Riso cocco e carruba",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20COCCO%20E%20CARRUBA_1761199717.pdf",
+ "allegati": [
+  {
+   "titolo": "RISO COCCO E CARRUBA_1761199717.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20COCCO%20E%20CARRUBA_1761199717.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-cocco-e-carruba",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso cocco e carruba",
+  "operatore": "KORA DULCIS SRL",
+  "lotti": [
+   "305 352 379/KD/2023 005 064/KD/2024"
+  ],
+  "marchio_identificazione": "Kora dulcis",
+  "produttore": "KORA DULCIS",
+  "sede_stabilimento": "Via Barbieri 15 36061 Bassano del Grappa",
+  "scadenza": "31/05 30/06 31/08 31/10/2024",
+  "peso_volume": "Sfuso ( kg 1) 200g",
+  "motivo_esteso": "Presenza di allergene sesamo e senape in un ingrediente coadiuvante: polvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl",
+  "avvertenze": "Prodotto non adatto al consumatore allergico a sesamo e senape",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: KORA DULCIS"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: KORA DULCIS\nDenominazione di vendita: Riso cocco e carruba\nNome o ragione sociale dell'OSA KORA DULCIS SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 305 352 379/KD/2023 005 064/KD/2024\nMarchio di identificazione dello stabilimento/del produttore: Kora dulcis\nNome del produttore: KORA DULCIS\nSede dello stabilimento: Via Barbieri 15 36061 Bassano del Grappa\nData di scadenza o termine minimo di conservazione: 31/05 30/06 31/08 31/10/2024\nDescrizione peso/volume unità di vendita: Sfuso ( kg 1) 200g\nMotivo del richiamo: Presenza di allergene sesamo e senape in un ingrediente coadiuvante:\npolvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl\nAvvertenze: Prodotto non adatto al consumatore allergico a sesamo e senape"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:13+00:00"
+}

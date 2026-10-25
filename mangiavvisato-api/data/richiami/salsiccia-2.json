@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-2/",
+ "titolo": "SALSICCIA",
+ "data_pubblicazione": "2023-11-24",
+ "marca": "Salumeria dell'Abbazia di Lucaioli Pacifico",
+ "denominazione": "SALSICCIA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023_11_23_CARTELLORICHIAMO%20lucaioli_1761197596.pdf",
+ "allegati": [
+  {
+   "titolo": "2023_11_23_CARTELLORICHIAMO lucaioli_1761197596.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023_11_23_CARTELLORICHIAMO%20lucaioli_1761197596.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSICCIA",
+  "operatore": "LUCAIOLI PACIFICO – sede legale ed operativa Via A. Volta 14/16 – Chiaravalle (AN)",
+  "lotti": [
+   "Lotto n. 311023",
+   "lotto n. 081123"
+  ],
+  "marchio_identificazione": "n. Riconoscimento CE IT 9 1808 L",
+  "produttore": "LUCAIOLI PACOIFICO",
+  "sede_stabilimento": "Via A. Volta 14/16 Chiaravalle (AN)",
+  "scadenza": "01/12/2023 e 09/12/2023",
+  "peso_volume": "93,3 Kg e 124,1 Kg",
+  "motivo_esteso": "Presenza di additivo E252 (nitrato di potassio) nei lotti n. 311023 e n. 081123 di salsiccia fresca commercializzati sottovuoto",
+  "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze 311023 TMC 01/12/2023 e 081123 TMC 09/12/2023)",
+  "campi_extra": {
+   "Data": "23/11/2023 Marchio del prodotto: Salumeria dell’Abbazia di Lucaioli Pacifico",
+   "commercializzato": "Chiaravalle (AN)"
+  },
+  "testo": "RICHIAMO\nData: 23/11/2023 Marchio del prodotto: Salumeria dell’Abbazia di Lucaioli Pacifico\nDenominazione di vendita: SALSICCIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUCAIOLI PACIFICO – sede legale ed operativa Via A. Volta 14/16 –\ncommercializzato: Chiaravalle (AN)\nLotto di produzione: Lotto n. 311023 e lotto n. 081123\nMarchio di identificazione dello stabilimento/del produttore: n. Riconoscimento CE IT 9 1808 L\nNome del produttore: LUCAIOLI PACOIFICO\nSede dello stabilimento: Via A. Volta 14/16 Chiaravalle (AN)\nData di scadenza o termine minimo di conservazione: 01/12/2023 e 09/12/2023\nDescrizione peso/volume unità di vendita: 93,3 Kg e 124,1 Kg\nMotivo del richiamo:\nPresenza di additivo E252 (nitrato di potassio) nei lotti n. 311023 e n. 081123 di salsiccia fresca\ncommercializzati sottovuoto\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata. (Lotti/scadenze 311023 TMC 01/12/2023 e 081123 TMC 09/12/2023)"
+ },
+ "prima_rilevazione": "2026-10-25T07:21:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:53+00:00"
+}

@@ -1,0 +1,30 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-6/",
+ "titolo": "Riso Carnaroli",
+ "data_pubblicazione": "2023-10-06",
+ "marca": "Lidl Italia srl",
+ "denominazione": "Riso Carnaroli",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197509.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 4 _ MODELLO_DI_RICHIAMO mod v2_1761197509.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197509.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-carnaroli-6",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "campi_extra": {
+   "Codice a barre del prodotto": "20505318"
+  },
+  "testo": "Allegato 4\n29/09/2023 Carosio\nRiso Carnaroli\nLidl Italia s.r.l.\nvedasi TMC\n///\nCurti S.r.l.\nViale Stazione, 113 - Valle Lomellina (PV)\nL 11/02/2025\n1kg\nRilevata la presenza di cadmio oltre il limite consentito\nProdotto non idoneo al consumo. Si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il\nrimborso.\nCodice a barre del prodotto: 20505318"
+ },
+ "prima_rilevazione": "2026-10-25T07:23:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:22+00:00"
+}

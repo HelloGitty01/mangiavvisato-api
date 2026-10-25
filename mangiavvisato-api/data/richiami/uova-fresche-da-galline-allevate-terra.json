@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-galline-allevate-terra/",
+ "titolo": "Uova fresche da galline allevate a terra",
+ "data_pubblicazione": "2024-08-27",
+ "marca": "Conad",
+ "denominazione": "Uova fresche da galline allevate a terra",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Conad_Terra%206%20M_L_1761205526.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO DI RICHIAMO_Conad_Terra 6 M_L_1761205526.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Conad_Terra%206%20M_L_1761205526.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-galline-allevate-terra",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE DA GALLINE ALLEVATE A TERRA",
+  "operatore": "CONAD SOC. COOP.",
+  "lotti": [
+   "V. ANNOTAZIONI"
+  ],
+  "marchio_identificazione": "IT016064",
+  "produttore": "CASCINA ITALIA SPA",
+  "sede_stabilimento": "VIA CAMPO ROMANO, SNC - 24050 SPIRANO (BG)",
+  "scadenza": "V. ANNOTAZIONI",
+  "peso_volume": "6 UOVA FRESCHE MEDIE - 6 UOVA FRESCHE GRANDI",
+  "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA",
+  "campi_extra": {
+   "Data": "26/08/2024 Marchio del prodotto: CONAD",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto: CONAD\nDenominazione di vendita:UOVA FRESCHE DA GALLINE ALLEVATE A TERRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD SOC. COOP.\ncommercializzato:\nLotto di produzione: V. ANNOTAZIONI\nMarchio di identificazione dello stabilimento/del produttore: IT016064\nNome del produttore: CASCINA ITALIA SPA\nSede dello stabilimento: VIA CAMPO ROMANO, SNC - 24050 SPIRANO (BG)\nData di scadenza o termine minimo di conservazione: V. ANNOTAZIONI\nDescrizione peso/volume unità di vendita: 6 UOVA FRESCHE MEDIE - 6 UOVA FRESCHE GRANDI\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE DA SALMONELLA\nAvvertenze:\nLOTTI - SCADENZE: 4700629926 - 31/08/2024; 4832759926 - 01/09/2024; 4501159926 - 05/09/2024;\n4679409926 - 07/09/2024; 4282789926 - 12/09/2024;\nNON CONSUMARE LE UOVA - RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:04:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:04:41+00:00"
+}

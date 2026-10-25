@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wrustel-con-pollo-e-tacchino-al-formaggio/",
+ "titolo": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+ "data_pubblicazione": "2022-09-05",
+ "marca": "TOBIAS",
+ "denominazione": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20Revoca%20di%20Richiamo%20Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g%20_1__1761192108.pdf",
+ "allegati": [
+  {
+   "titolo": "Avviso Revoca di Richiamo Wurstel pollo e tacchino con formaggio TOBIAS 150g _1__1761192108.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20Revoca%20di%20Richiamo%20Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g%20_1__1761192108.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wrustel-con-pollo-e-tacchino-al-formaggio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "operatore": "EUROSPIN ITALIA S.p.A",
+  "lotti": [
+   "1785417"
+  ],
+  "marchio_identificazione": "IT 04 M CE",
+  "produttore": "AGRICOLA TRE VALLI Soc. Coop",
+  "sede_stabilimento": "P.le Apollinare Veronesi 1, San Martino Buon Albergo",
+  "scadenza": "03.09.2022",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza Listeria Monocytogenes",
+  "avvertenze": "Richiamo revocato per prodotto giunto a scadenza Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05.0 9.2022 Marchio del prodotto: TOBIAS"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 05.0 9.2022 Marchio del prodotto: TOBIAS\nDenominazione di vendita: WURSTEL CON POLLO E TACCHINO AL FORMAGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.p.A\ncommercializzato:\nLotto di produzione: 1785417\nMarchio di identificazione dello stabilimento/del produttore: IT 04 M CE\nNome del produttore: AGRICOLA TRE VALLI Soc. Coop\nSede dello stabilimento: P.le Apollinare Veronesi 1, San Martino Buon Albergo\nData di scadenza o termine minimo di conservazione: 03.09.2022\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza Listeria Monocytogenes\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza\nInserire immagine uno:\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:46:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:35+00:00"
+}

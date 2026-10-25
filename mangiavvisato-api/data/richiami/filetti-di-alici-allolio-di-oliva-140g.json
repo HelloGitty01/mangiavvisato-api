@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-allolio-di-oliva-140g/",
+ "titolo": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+ "data_pubblicazione": "2022-09-09",
+ "marca": "SIPA",
+ "denominazione": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20MinSal%20Zarotti%20Spa_1761192122.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo MinSal Zarotti Spa_1761192122.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20MinSal%20Zarotti%20Spa_1761192122.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-alici-allolio-di-oliva-140g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+  "operatore": "Zarotti spa via Nuova di Coloreto 15 a Parma",
+  "lotti": [
+   "PA137"
+  ],
+  "marchio_identificazione": "AL 28 P.P.",
+  "produttore": "POSEIDON shpk",
+  "sede_stabilimento": "Shengjin (LEZHE) Albania",
+  "scadenza": "17-11-2023",
+  "peso_volume": "140g peso netto",
+  "motivo_esteso": "presenza istamina oltre limite di legge",
+  "campi_extra": {
+   "Data": "08/09/2022 Marchio del prodotto: SIPA"
+  },
+  "testo": "RICHIAMO\nData: 08/09/2022 Marchio del prodotto: SIPA\nDenominazione di vendita:FILETTI DI ALICI ALL'OLIO DI OLIVA 140G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Zarotti spa via Nuova di Coloreto 15 a Parma\ncommercializzato:\nLotto di produzione: PA137\nMarchio di identificazione dello stabilimento/del produttore: AL 28 P.P.\nNome del produttore: POSEIDON shpk\nSede dello stabilimento: Shengjin (LEZHE) Albania\nData di scadenza o termine minimo di conservazione: 17-11-2023\nDescrizione peso/volume unità di vendita: 140g peso netto\nMotivo del richiamo:\npresenza istamina oltre limite di legge\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:46:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:30+00:00"
+}

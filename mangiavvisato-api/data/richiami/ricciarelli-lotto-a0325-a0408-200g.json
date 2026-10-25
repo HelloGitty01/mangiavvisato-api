@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-lotto-a0325-a0408-200g/",
+ "titolo": "RICCIARELLI - LOTTO A0325, A0408 200G",
+ "data_pubblicazione": "2024-04-22",
+ "marca": "FIMARDOLCI SRL",
+ "denominazione": "RICCIARELLI - LOTTO A0325, A0408 200G",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICCIARELLI%20200G%20A0325%20A0408_1761202742.pdf",
+ "allegati": [
+  {
+   "titolo": "RICCIARELLI 200G A0325 A0408_1761202742.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICCIARELLI%20200G%20A0325%20A0408_1761202742.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ricciarelli-lotto-a0325-a0408-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RICCIARELLI",
+  "operatore": "FIMARDOLCI SRL",
+  "lotti": [
+   "A0325",
+   "A0408"
+  ],
+  "marchio_identificazione": "FIMARDOLCI SRL",
+  "produttore": "FIMARDOLCI SRL",
+  "sede_stabilimento": "STRADA SAN CARLO Z.I. MAZZOCCHIO, 1182, PONTINIA (LT), ITALIA",
+  "scadenza": "19-01-2025",
+  "peso_volume": "200 g - venduto a pezzo",
+  "motivo_esteso": "Possibile contaminazione da corpi estranei (metalli)",
+  "avvertenze": "In via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto. SCADENZE: A0325 - 19/01/2025; A0408 - 02/02/2025",
+  "campi_extra": {
+   "Data": "16/04/2024 Marchio del prodotto: FIMARDOLCI SRL",
+   "SCADENZE": "A0325 - 19/01/2025; A0408 - 02/02/2025"
+  },
+  "testo": "RICHIAMO\nData: 16/04/2024 Marchio del prodotto: FIMARDOLCI SRL\nDenominazione di vendita:RICCIARELLI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIMARDOLCI SRL\ncommercializzato:\nLotto di produzione: A0325, A0408\nMarchio di identificazione dello stabilimento/del produttore: FIMARDOLCI SRL\nNome del produttore: FIMARDOLCI SRL\nSede dello stabilimento: STRADA SAN CARLO Z.I. MAZZOCCHIO, 1182, PONTINIA (LT), ITALIA\nData di scadenza o termine minimo di conservazione: 19-01-2025\nDescrizione peso/volume unità di vendita: 200 g - venduto a pezzo\nMotivo del richiamo:\nPossibile contaminazione da corpi estranei (metalli)\nAvvertenze:\nIn via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto.\nSCADENZE: A0325 - 19/01/2025; A0408 - 02/02/2025"
+ },
+ "prima_rilevazione": "2026-10-25T07:13:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:13:31+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-aq-750g/",
+ "titolo": "Prosciutto cotto A.Q. 750g",
+ "data_pubblicazione": "2023-02-16",
+ "marca": "Sapor di cascina",
+ "denominazione": "Prosciutto cotto A.Q. 750g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20modello%20rev2%20scad%2021.02_1761193828.pdf",
+ "allegati": [
+  {
+   "titolo": "penny modello rev2 scad 21.02_1761193828.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20modello%20rev2%20scad%2021.02_1761193828.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-aq-750g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto cotto A.Q. 750g",
+  "operatore": "Penny market Italia s.r.l.",
+  "lotti": [
+   "L225139"
+  ],
+  "marchio_identificazione": "IT 679L CE",
+  "produttore": "Motta s.r.l.",
+  "sede_stabilimento": "via Capuana 44, 220825 Barlassina (MB), Italia",
+  "scadenza": "21-02-2023",
+  "peso_volume": "750g",
+  "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o rimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/02/2023 Marchio del prodotto: Sapor di cascina",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: Sapor di cascina\nDenominazione di vendita:Prosciutto cotto A.Q. 750g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Penny market Italia s.r.l.\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta s.r.l.\nSede dello stabilimento: via Capuana 44, 220825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 21-02-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o\nrimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:38:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:49+00:00"
+}

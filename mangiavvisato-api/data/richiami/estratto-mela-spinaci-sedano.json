@@ -1,0 +1,35 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-mela-spinaci-sedano/",
+ "titolo": "estratto mela spinaci sedano",
+ "data_pubblicazione": "2023-09-12",
+ "marca": "Orsero",
+ "denominazione": "estratto mela spinaci sedano",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Estratto%20Mela%20Sedano%20Spinacio%20rev1_1761197488.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Estratto Mela Sedano Spinacio rev1_1761197488.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Estratto%20Mela%20Sedano%20Spinacio%20rev1_1761197488.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "estratto-mela-spinaci-sedano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "motivo_esteso": "Attenzione il richiamo interessa solo la referenza sopra specificata che riporta l'etichetta",
+  "avvertenze": "con la denominazione \"ARANCIA\" Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAttenzione il richiamo interessa solo la referenza sopra specificata che riporta l'etichetta\nAvvertenze\ncon la denominazione \"ARANCIA\"\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T07:24:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:24:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-puro-suino-250g/",
+ "titolo": "Würstel puro suino 250g",
+ "data_pubblicazione": "2022-08-12",
+ "marca": "Conad",
+ "denominazione": "Würstel puro suino 250g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/220811_modulo%20richiami%20compilato_Conad250g_1761192070.pdf",
+ "allegati": [
+  {
+   "titolo": "220811_modulo richiami compilato_Conad250g_1761192070.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/220811_modulo%20richiami%20compilato_Conad250g_1761192070.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "wurstel-puro-suino-250g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:47:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:47:06+00:00"
+}

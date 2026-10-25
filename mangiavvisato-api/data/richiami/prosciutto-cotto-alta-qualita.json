@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita/",
+ "titolo": "Prosciutto cotto alta qualità",
+ "data_pubblicazione": "2023-02-16",
+ "marca": "La Bottega del Gusto",
+ "denominazione": "Prosciutto cotto alta qualità",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurospin%20cartello%20_1__1761193830.pdf",
+ "allegati": [
+  {
+   "titolo": "Eurospin cartello _1__1761193830.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurospin%20cartello%20_1__1761193830.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-alta-qualita",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto cotto alta qualità",
+  "operatore": "Eurospin Tirrenica spa",
+  "lotti": [
+   "L225139"
+  ],
+  "marchio_identificazione": "CE IT 679L",
+  "produttore": "Motta srl",
+  "sede_stabilimento": "Via Capuana 44, 20825 Barlassina (MB), Italia",
+  "scadenza": "07-03-2023",
+  "peso_volume": "750g",
+  "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/02/2023 Marchio del prodotto: La Bottega del Gusto",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: La Bottega del Gusto\nDenominazione di vendita:Prosciutto cotto alta qualità\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Tirrenica spa\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: Via Capuana 44, 20825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 07-03-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:38:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:52+00:00"
+}

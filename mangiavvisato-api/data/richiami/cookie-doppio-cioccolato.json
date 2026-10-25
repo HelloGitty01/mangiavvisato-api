@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-doppio-cioccolato/",
+ "titolo": "Cookie doppio cioccolato",
+ "data_pubblicazione": "2023-02-23",
+ "marca": "Mascherpa",
+ "denominazione": "Cookie doppio cioccolato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20doppio%20cioccolato_1761193880.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo cookie doppio cioccolato_1761193880.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20doppio%20cioccolato_1761193880.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cookie-doppio-cioccolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:37:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:37:08+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita-150-g/",
+ "titolo": "Prosciutto cotto alta qualità 150 g",
+ "data_pubblicazione": "2022-10-18",
+ "marca": "Sapori di cascina",
+ "denominazione": "Prosciutto cotto alta qualità 150 g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/113400_Cartello%20Richiamo_1761192231.pdf",
+ "allegati": [
+  {
+   "titolo": "113400_Cartello Richiamo_1761192231.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/113400_Cartello%20Richiamo_1761192231.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-alta-qualita-150-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto Cotto Alta Qualità 150g",
+  "operatore": "Penny Market s.r.l.",
+  "lotti": [
+   "223467"
+  ],
+  "marchio_identificazione": "IT679L CE",
+  "produttore": "Motta S.r.l.",
+  "sede_stabilimento": "Via Capuana n. 44 20825 Barlassina (MB)",
+  "scadenza": "20-10-2022",
+  "peso_volume": "150g",
+  "motivo_esteso": "Non conformità microbiologica: possibile presenza di Listeria Monocytogenes",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o rimborso entro il 20/10/2022 Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "13/10/2022 Marchio del prodotto: Sapor di Cascina",
+   "Non conformità microbiologica": "possibile presenza di Listeria Monocytogenes",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 13/10/2022 Marchio del prodotto: Sapor di Cascina\nDenominazione di vendita:Prosciutto Cotto Alta Qualità 150g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Penny Market s.r.l.\ncommercializzato:\nLotto di produzione: 223467\nMarchio di identificazione dello stabilimento/del produttore: IT679L CE\nNome del produttore: Motta S.r.l.\nSede dello stabilimento: Via Capuana n. 44 20825 Barlassina (MB)\nData di scadenza o termine minimo di conservazione: 20-10-2022\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nNon conformità microbiologica: possibile presenza di Listeria Monocytogenes\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al\nPunto Vendita per la sostituzione o rimborso entro il 20/10/2022\nPrecisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:45:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:17+00:00"
+}

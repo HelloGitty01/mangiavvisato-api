@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-1/",
+ "titolo": "trance di pesce spada",
+ "data_pubblicazione": "2024-03-22",
+ "marca": "Maravilla",
+ "denominazione": "trance di pesce spada",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761199593.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1761199593.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761199593.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trance-di-pesce-spada-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRANCE DI PESCE SPADA IRREGOLARI",
+  "operatore": "D.I.MAR. srl",
+  "lotti": [
+   "23505-4237/lotto interno 23099777 23508-4237/lotto interno 23099937"
+  ],
+  "produttore": "Congelados Maravilla",
+  "sede_stabilimento": "Puerto pesquero de lonja grandes peces y bajura, Ofic.15, 36202 Vigo, Pontevedra, Spagna",
+  "scadenza": "01/06/2026",
+  "peso_volume": "vendita sfusa",
+  "motivo_esteso": "presenza di mercurio superiore ai limiti di legge",
+  "avvertenze": "qualora aveste acquistato il prodotto sopra riportato avente il lotto 23099777 - 23099937 siete pregati di riportarlo in negozio.",
+  "testo": "RICHIAMO\nData 01/03/2024 Marchio del prodotto:\nDenominazione di vendita: TRANCE DI PESCE SPADA IRREGOLARI\nNome o ragione sociale dell'OSA D.I.MAR. srl\na nome del quale il prodotto è commercializzato:\nLotto di produzione: 23505-4237/lotto interno 23099777\n23508-4237/lotto interno 23099937\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Congelados Maravilla\nSede dello stabilimento: Puerto pesquero de lonja grandes peces y bajura, Ofic.15, 36202 Vigo, Pontevedra, Spagna\nData di scadenza o termine minimo di conservazione: 01/06/2026\nDescrizione peso/volume unità di vendita: vendita sfusa\nMotivo del richiamo:\npresenza di mercurio superiore ai limiti di legge\nAvvertenze:\nqualora aveste acquistato il prodotto sopra riportato avente il lotto 23099777 - 23099937 siete pregati di\nriportarlo in negozio."
+ },
+ "prima_rilevazione": "2026-10-25T07:16:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:35+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banane-chips-150-g/",
+ "titolo": "BANANE CHIPS 150 G",
+ "data_pubblicazione": "2023-08-29",
+ "marca": "BANANE CHIPS 150 G",
+ "denominazione": "BANANE CHIPS 150 G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BANANE%20CHIPS%20150%20g%20L230728003_1761197470.pdf",
+ "allegati": [
+  {
+   "titolo": "BANANE CHIPS 150 g L230728003_1761197470.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BANANE%20CHIPS%20150%20g%20L230728003_1761197470.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "banane-chips-150-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:25:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:00+00:00"
+}

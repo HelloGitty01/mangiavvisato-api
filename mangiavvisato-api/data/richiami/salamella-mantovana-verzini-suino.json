@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamella-mantovana-verzini-suino/",
+ "titolo": "Salamella Mantovana; Verzini Suino",
+ "data_pubblicazione": "2023-08-03",
+ "marca": "ESSELUNGA",
+ "denominazione": "Salamella Mantovana; Verzini Suino",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumi_Martelli_richiamo_MIN.SAL_1761196781.pdf",
+ "allegati": [
+  {
+   "titolo": "Salumi_Martelli_richiamo_MIN.SAL_1761196781.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumi_Martelli_richiamo_MIN.SAL_1761196781.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamella-mantovana-verzini-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMELLA MANTOVANA - VERZINI SUINO",
+  "operatore": "ESSELUNGA S.p.A",
+  "lotti": [
+   "230724 (LOTTO DI ORIGINE)"
+  ],
+  "marchio_identificazione": "IT 643M CE",
+  "produttore": "MARTELLI F.LLI S.p.A.",
+  "sede_stabilimento": "VIA FRATELLI MARTELLI 2/4, 46030, DOSOLO (MN)",
+  "peso_volume": "PESO VARIABILE",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI IN PLASTICA",
+  "avvertenze": "NON CONSUMARE I PRODOTTI E RIPORTARLI PRESSO IL PUNTO VENDITA IL RICHIAMO INTERESSA SOLO LE REFERENZE CON RINTRACCIABILITA' 23000230724408 PREIMBALLATE E VENDUTE DAL 25/07/2023 AL 01/08/2023",
+  "campi_extra": {
+   "Data": "02/08/2023 Marchio del prodotto: ESSELUNGA"
+  },
+  "testo": "RICHIAMO\nData: 02/08/2023 Marchio del prodotto: ESSELUNGA\nDenominazione di vendita:SALAMELLA MANTOVANA - VERZINI SUINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ESSELUNGA S.p.A\ncommercializzato:\nLotto di produzione: 230724 (LOTTO DI ORIGINE)\nMarchio di identificazione dello stabilimento/del produttore: IT 643M CE\nNome del produttore: MARTELLI F.LLI S.p.A.\nSede dello stabilimento: VIA FRATELLI MARTELLI 2/4, 46030, DOSOLO (MN)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: PESO VARIABILE\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI IN PLASTICA\nAvvertenze:\nNON CONSUMARE I PRODOTTI E RIPORTARLI PRESSO IL PUNTO VENDITA\nIL RICHIAMO INTERESSA SOLO LE REFERENZE CON RINTRACCIABILITA' 23000230724408 PREIMBALLATE\nE VENDUTE DAL 25/07/2023 AL 01/08/2023"
+ },
+ "prima_rilevazione": "2026-10-25T07:27:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:27:22+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-alla-tartara/",
+ "titolo": "Carne alla tartara",
+ "data_pubblicazione": "2023-09-22",
+ "marca": "Fiorani & C. S.p.a.",
+ "denominazione": "Carne alla tartara",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ritiro%20TARTARE%20EUROSPIN_1761197493.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello ritiro TARTARE EUROSPIN_1761197493.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ritiro%20TARTARE%20EUROSPIN_1761197493.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "carne-alla-tartara",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CARNE ALLA TARTARA",
+  "operatore": "FIORANI & C. S.P.A.",
+  "lotti": [
+   "36423TI"
+  ],
+  "marchio_identificazione": "IT 592 S CE",
+  "produttore": "FIORANI & C. S.P.A.",
+  "sede_stabilimento": "VIA COPPALATI, 52 PIACENZA 29122",
+  "scadenza": "23/09/2023",
+  "peso_volume": "210g",
+  "motivo_esteso": "POSSIBILE CONTAMINAZIONE DA SALMONELLA SPP",
+  "campi_extra": {
+   "Data": "22/09/2023 Marchio del prodotto: LE COLLINE DELLA BONTA’"
+  },
+  "testo": "RICHIAMO\nData: 22/09/2023 Marchio del prodotto: LE COLLINE DELLA BONTA’\nDenominazione di vendita: CARNE ALLA TARTARA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIORANI & C. S.P.A.\ncommercializzato:\nLotto di produzione: 36423TI\nMarchio di identificazione dello stabilimento/del produttore: IT 592 S CE\nNome del produttore: FIORANI & C. S.P.A.\nSede dello stabilimento: VIA COPPALATI, 52 PIACENZA 29122\nData di scadenza o termine minimo di conservazione: 23/09/2023\nDescrizione peso/volume unità di vendita: 210g\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE DA SALMONELLA SPP\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:23:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:47+00:00"
+}

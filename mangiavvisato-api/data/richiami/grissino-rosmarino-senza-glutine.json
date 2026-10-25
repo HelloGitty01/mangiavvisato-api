@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-rosmarino-senza-glutine/",
+ "titolo": "Grissino rosmarino senza glutine",
+ "data_pubblicazione": "2024-03-27",
+ "marca": "Grissino Opus Apis",
+ "denominazione": "Grissino rosmarino senza glutine",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_ROSMARINO_1761199651.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_GR_ROSMARINO_1761199651.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_GR_ROSMARINO_1761199651.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grissino-rosmarino-senza-glutine",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GRISSINO ROSMARINO, SENZA GLUTINE",
+  "operatore": "OPUS APIS SAS di Arianna Convertini e C.",
+  "lotti": [
+   "TUTTI I LOTTI CON SCADENZA DA 03/2024 FINO A 12/2024 COMPRESO E TUTTI I LOTTI CON SCADENZA 01/2025",
+   "02/2025",
+   "03/2025"
+  ],
+  "produttore": "OPUS APIS SAS di Arianna Convertini e C.",
+  "sede_stabilimento": "via Morelli 15 - 36061 Bassano del Grappa (VI)",
+  "scadenza": "dal 03/2024 al 03/2025",
+  "peso_volume": "vaso vetro 180g, monoporzione 25g",
+  "motivo_esteso": "Possibile presenza di allergene non dichiarato in etichetta: senape.",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici alla senape. Si invitano tali consumatori a non consumare il prodotto. Foto monoporzione",
+  "campi_extra": {
+   "Data": "25/03/2024 Marchio del prodotto: GRISSINO OPUS APIS",
+   "Possibile presenza di allergene non dichiarato in etichetta": "senape."
+  },
+  "testo": "RICHIAMO\nData: 25/03/2024 Marchio del prodotto: GRISSINO OPUS APIS\nDenominazione di vendita: GRISSINO ROSMARINO, SENZA GLUTINE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OPUS APIS SAS di Arianna Convertini e C.\ncommercializzato:\nLotto di produzione: TUTTI I LOTTI CON SCADENZA DA 03/2024 FINO A 12/2024 COMPRESO E TUTTI I LOTTI\nCON SCADENZA 01/2025, 02/2025, 03/2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: OPUS APIS SAS di Arianna Convertini e C.\nSede dello stabilimento: via Morelli 15 - 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione: dal 03/2024 al 03/2025\nDescrizione peso/volume unità di vendita: vaso vetro 180g, monoporzione 25g\nMotivo del richiamo:\nPossibile presenza di allergene non dichiarato in etichetta: senape.\nAvvertenze:\nProdotto non idoneo ai consumatori allergici alla senape. Si invitano tali consumatori a non consumare il\nprodotto.\nFoto monoporzione"
+ },
+ "prima_rilevazione": "2026-10-25T07:16:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:15+00:00"
+}

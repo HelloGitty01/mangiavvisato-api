@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissino-zafferano-e-papavero-bio-senza-glutine/",
+ "titolo": "Grissino zafferano e papavero bio senza glutine",
+ "data_pubblicazione": "2024-03-27",
+ "marca": "Opus apis grissino biologico senza glutine",
+ "denominazione": "Grissino zafferano e papavero bio senza glutine",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_%20GR_ZAFFERANO_1761199644.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_ GR_ZAFFERANO_1761199644.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_%20GR_ZAFFERANO_1761199644.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grissino-zafferano-e-papavero-bio-senza-glutine",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GRISSINO ZAFFERANO E PAPAVERO, BIO, SENZA GLUTINE",
+  "operatore": "OPUS APIS SAS di Arianna Convertini e C.",
+  "lotti": [
+   "TUTTI I LOTTI CON SCADENZA DA 03/2024 FINO A 12/2024 COMPRESO E TUTTI I LOTTI CON SCADENZA 01/2025",
+   "02/2025",
+   "03/2025"
+  ],
+  "produttore": "OPUS APIS SAS di Arianna Convertini e C.",
+  "sede_stabilimento": "via Morelli 15 - 36061 Bassano del Grappa (VI)",
+  "scadenza": "dal 03/2024 al 03/2025",
+  "peso_volume": "vaso vetro 180g,",
+  "motivo_esteso": "Possibile presenza di allergene non dichiarato in etichetta: senape.",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici alla senape. Si invitano tali consumatori a non consumare il prodotto. Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/03/2024 Marchio del prodotto: OPUS APIS GRISSINO BIOLOGICO SENZA GLUTINE",
+   "Possibile presenza di allergene non dichiarato in etichetta": "senape."
+  },
+  "testo": "RICHIAMO\nData: 25/03/2024 Marchio del prodotto: OPUS APIS GRISSINO BIOLOGICO SENZA GLUTINE\nDenominazione di vendita: GRISSINO ZAFFERANO E PAPAVERO, BIO, SENZA GLUTINE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OPUS APIS SAS di Arianna Convertini e C.\ncommercializzato:\nLotto di produzione: TUTTI I LOTTI CON SCADENZA DA 03/2024 FINO A 12/2024 COMPRESO E TUTTI I LOTTI\nCON SCADENZA 01/2025, 02/2025, 03/2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: OPUS APIS SAS di Arianna Convertini e C.\nSede dello stabilimento: via Morelli 15 - 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione: dal 03/2024 al 03/2025\nDescrizione peso/volume unità di vendita: vaso vetro 180g,\nMotivo del richiamo:\nPossibile presenza di allergene non dichiarato in etichetta: senape.\nAvvertenze:\nProdotto non idoneo ai consumatori allergici alla senape. Si invitano tali consumatori a non consumare il\nprodotto.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:16:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:09+00:00"
+}

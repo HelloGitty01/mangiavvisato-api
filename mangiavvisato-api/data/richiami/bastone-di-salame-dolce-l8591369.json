@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastone-di-salame-dolce-l8591369/",
+ "titolo": "BASTONE DI SALAME DOLCE L859(1369)",
+ "data_pubblicazione": "2023-05-15",
+ "marca": "SALUMFICIO COLOMBO LUIGI SRL",
+ "denominazione": "BASTONE DI SALAME DOLCE L859(1369)",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LIDL_1761194917.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_LIDL_1761194917.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LIDL_1761194917.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bastone-di-salame-dolce-l8591369",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BASTONE DI SALAME DOLCE",
+  "operatore": "SALUMIFICIO COLOMBO LUIGI SRL",
+  "lotti": [
+   "L859(1369)"
+  ],
+  "marchio_identificazione": "IT 1288 L C.E.E.",
+  "produttore": "SALUMIFICIO COLOMBO LUIGI SRL",
+  "sede_stabilimento": "VIA ROMA 21, PESCATE – 23855 - LC",
+  "scadenza": "18/07/23",
+  "peso_volume": "KG 0.250",
+  "motivo_esteso": "RILEVATA PRESENZA DI SALMONELLA SPP",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al punto vendita. Inserire immagine due",
+  "campi_extra": {
+   "Data": "11/05/23 Marchio del prodotto:BASTONE DI SALAME 250GR"
+  },
+  "testo": "RICHIAMO\nData: 11/05/23 Marchio del prodotto:BASTONE DI SALAME 250GR\nDenominazione di vendita: BASTONE DI SALAME DOLCE\nNome o ragione sociale dell'OSA\nSALUMIFICIO COLOMBO LUIGI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L859(1369)\nMarchio di identificazione dello stabilimento/del produttore: IT 1288 L C.E.E.\nNome del produttore: SALUMIFICIO COLOMBO LUIGI SRL\nSede dello stabilimento: VIA ROMA 21, PESCATE – 23855 - LC\nData di scadenza o termine minimo di conservazione: 18/07/23\nDescrizione peso/volume unità di vendita: KG 0.250\nMotivo del richiamo:\nRILEVATA PRESENZA DI SALMONELLA SPP\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al punto\nvendita.\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:31:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:07+00:00"
+}

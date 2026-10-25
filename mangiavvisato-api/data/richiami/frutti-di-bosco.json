@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frutti-di-bosco/",
+ "titolo": "Frutti di bosco",
+ "data_pubblicazione": "2024-04-07",
+ "marca": "Cuor di scelta",
+ "denominazione": "Frutti di bosco",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_3_1761199804.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di richiamo 5 formati_3_1761199804.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%205%20formati_3_1761199804.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "frutti-di-bosco",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:14:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:14:43+00:00"
+}

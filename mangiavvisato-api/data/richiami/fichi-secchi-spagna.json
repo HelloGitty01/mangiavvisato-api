@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-spagna/",
+ "titolo": "FICHI SECCHI SPAGNA",
+ "data_pubblicazione": "2023-12-13",
+ "marca": "LA TOCONA",
+ "denominazione": "FICHI SECCHI SPAGNA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20FICHI%20SECCHI_1761197706.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO FICHI SECCHI_1761197706.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20FICHI%20SECCHI_1761197706.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-secchi-spagna",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FICHI SECCHI SPAGNA",
+  "operatore": "EUROCEREALI SNC",
+  "lotti": [
+   "202300000206"
+  ],
+  "marchio_identificazione": "LA TOCONA",
+  "produttore": "REGADHIGOS",
+  "sede_stabilimento": "ALMOHARIN - CACERES -SPAGNA",
+  "scadenza": "FEBBRAIO 2024",
+  "peso_volume": "CARTONI DA 5/10 KG",
+  "motivo_esteso": "PRESENZA DI AFLATOSSINE",
+  "campi_extra": {
+   "Data": "13/12/23 Marchio del prodotto:",
+   "commercializzato": "EUROCEREALI SNC"
+  },
+  "testo": "RICHIAMO\nData: 13/12/23 Marchio del prodotto:\nDenominazione di vendita:FICHI SECCHI SPAGNA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: EUROCEREALI SNC\nLotto di produzione: 202300000206\nMarchio di identificazione dello stabilimento/del produttore: LA TOCONA\nNome del produttore: REGADHIGOS\nSede dello stabilimento: ALMOHARIN - CACERES -SPAGNA\nData di scadenza o termine minimo di conservazione: FEBBRAIO 2024\nDescrizione peso/volume unità di vendita: CARTONI DA 5/10 KG\nMotivo del richiamo:\nPRESENZA DI AFLATOSSINE\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:20:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:44+00:00"
+}

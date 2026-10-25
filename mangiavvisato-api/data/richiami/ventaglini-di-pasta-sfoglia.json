@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ventaglini-di-pasta-sfoglia/",
+ "titolo": "VENTAGLINI DI PASTA SFOGLIA",
+ "data_pubblicazione": "2024-06-20",
+ "marca": "EUROSPIN ITALIA SPA",
+ "denominazione": "VENTAGLINI DI PASTA SFOGLIA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20Ventaglini%20di%20pasta%20sfoglia_1761204312.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello RICHIAMO Ventaglini di pasta sfoglia_1761204312.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20RICHIAMO%20Ventaglini%20di%20pasta%20sfoglia_1761204312.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ventaglini-di-pasta-sfoglia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:08:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:25+00:00"
+}

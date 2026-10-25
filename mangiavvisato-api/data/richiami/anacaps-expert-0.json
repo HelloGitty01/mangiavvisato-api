@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert-0/",
+ "titolo": "ANACAPS EXPERT",
+ "data_pubblicazione": "2022-11-02",
+ "marca": "DUCRAY",
+ "denominazione": "ANACAPS EXPERT",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps___1761192282.pdf",
+ "allegati": [
+  {
+   "titolo": "ANACAPS EXPERT _ 2K1RF 2K1MD 2K1MC _ 30cps___1761192282.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps___1761192282.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "anacaps-expert-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ANACAPS EXPERT",
+  "operatore": "PIERRE FABRE ITALIA S.P.A.",
+  "lotti": [
+   "2K1RF",
+   "2K1MD",
+   "2K1MC"
+  ],
+  "marchio_identificazione": "Le Payrat, CAHORS, 46000, France",
+  "produttore": "PFDC Laboratoires Dermatologiques Ducray",
+  "sede_stabilimento": "Le Payrat, CAHORS, 46000, France",
+  "scadenza": "06/2024",
+  "peso_volume": "30 capsule; peso netto 17g",
+  "motivo_esteso": "RISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.",
+  "avvertenze": "GENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT APPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO VENDITA/FARMACIA IN CUI L’HA ACQUISTATA.",
+  "campi_extra": {
+   "Data": "24/10/2022 Marchio del prodotto: DUCRAY"
+  },
+  "testo": "RICHIAMO\nData: 24/10/2022 Marchio del prodotto: DUCRAY\nDenominazione di vendita:ANACAPS EXPERT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIERRE FABRE ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: 2K1RF, 2K1MD, 2K1MC\nMarchio di identificazione dello stabilimento/del produttore: Le Payrat, CAHORS, 46000, France\nNome del produttore: PFDC Laboratoires Dermatologiques Ducray\nSede dello stabilimento: Le Payrat, CAHORS, 46000, France\nData di scadenza o termine minimo di conservazione: 06/2024\nDescrizione peso/volume unità di vendita: 30 capsule; peso netto 17g\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.\nAvvertenze:\nGENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT\nAPPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO\nVENDITA/FARMACIA IN CUI L’HA ACQUISTATA."
+ },
+ "prima_rilevazione": "2026-10-25T07:44:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:44:30+00:00"
+}

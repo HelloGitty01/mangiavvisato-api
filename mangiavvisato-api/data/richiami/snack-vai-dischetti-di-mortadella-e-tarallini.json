@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-vai-dischetti-di-mortadella-e-tarallini/",
+ "titolo": "Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+ "data_pubblicazione": "2023-05-18",
+ "marca": "Casa Modena",
+ "denominazione": "Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Snack%20e%20Vai%20Dischetti%20di%20mortadella%20e%20tarallini_1761194940.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Snack e Vai Dischetti di mortadella e tarallini_1761194940.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Snack%20e%20Vai%20Dischetti%20di%20mortadella%20e%20tarallini_1761194940.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "snack-vai-dischetti-di-mortadella-e-tarallini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI",
+  "operatore": "CASA MODENA strada Gherbella 320 41126 Modena",
+  "lotti": [
+   "52L23228 B"
+  ],
+  "produttore": "Caseifici Granterre S.p.A.",
+  "sede_stabilimento": "Via Togliatti 34 AB, 42020 Montecavolo di Quattro Castella (RE)",
+  "scadenza": "15-10-2023",
+  "peso_volume": "50 g",
+  "motivo_esteso": "Errata indicazione del TMC sulla confezione in vendita al consumatore.",
+  "avvertenze": "Non consumare il prodotto e restituirlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "17/05/2023 Marchio del prodotto: CASA MODENA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 17/05/2023 Marchio del prodotto: CASA MODENA\nDenominazione di vendita:Snack & Vai DISCHETTI DI MORTADELLA E TARALLINI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASA MODENA strada Gherbella 320 41126 Modena\ncommercializzato:\nLotto di produzione: 52L23228 B\nMarchio di identificazione dello stabilimento/del produttore: -----\nNome del produttore: Caseifici Granterre S.p.A.\nSede dello stabilimento: Via Togliatti 34 AB, 42020 Montecavolo di Quattro Castella (RE)\nData di scadenza o termine minimo di conservazione: 15-10-2023\nDescrizione peso/volume unità di vendita: 50 g\nMotivo del richiamo:\nErrata indicazione del TMC sulla confezione in vendita al consumatore.\nAvvertenze:\nNon consumare il prodotto e restituirlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:30:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:56+00:00"
+}

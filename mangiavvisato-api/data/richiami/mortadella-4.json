@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-4/",
+ "titolo": "Mortadella",
+ "data_pubblicazione": "2023-05-22",
+ "marca": "Salumificio F.lli Riva SpA",
+ "denominazione": "Mortadella",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Unicom_1761195608.pdf",
+ "allegati": [
+  {
+   "titolo": "1741 all 4 richiamo_Unicom_1761195608.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1741%20all%204%20richiamo_Unicom_1761195608.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mortadella-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:30:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:53+00:00"
+}

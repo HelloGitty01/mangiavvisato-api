@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chocolate-cookies/",
+ "titolo": "Chocolate Cookies",
+ "data_pubblicazione": "2024-02-19",
+ "marca": "Merba B.V.",
+ "denominazione": "Chocolate Cookies",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Chocolate%20Cookies_1761198907.pdf",
+ "allegati": [
+  {
+   "titolo": "Chocolate Cookies_1761198907.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Chocolate%20Cookies_1761198907.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "chocolate-cookies",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:18:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:18+00:00"
+}

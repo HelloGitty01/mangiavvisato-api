@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-giganti-ventura-300g/",
+ "titolo": "FICHI GIGANTI VENTURA 300g",
+ "data_pubblicazione": "2023-12-29",
+ "marca": "MADI VENTURA",
+ "denominazione": "FICHI GIGANTI VENTURA 300g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6d%20Cartello%20Richiamo%20Fichi%20Giganti%20Ventura%20Lotto%20795_23_1761197729.PDF",
+ "allegati": [
+  {
+   "titolo": "6d Cartello Richiamo Fichi Giganti Ventura Lotto 795_23_1761197729.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/6d%20Cartello%20Richiamo%20Fichi%20Giganti%20Ventura%20Lotto%20795_23_1761197729.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fichi-giganti-ventura-300g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FICHI GIGANTI VENTURA 300g",
+  "operatore": "MADI VENTURA S.p.A.",
+  "lotti": [
+   "350020356/2-11-795-23"
+  ],
+  "marchio_identificazione": "N.A.",
+  "produttore": "OSMAN AKÇA A.Ş.",
+  "sede_stabilimento": "Çarş Mah. Osman Akça Sok. No:41Köşk, Aydn 09570 - TURCHIA",
+  "scadenza": "06/2024",
+  "peso_volume": "300 g",
+  "motivo_esteso": "Presenza di Aflatossina B1 alla concentrazione di 12,9 ± 5,7 µg/kg in quantità superiore al valore previsto dal Reg. UE 2023/915 che è di 6,0 µg/kg.",
+  "avvertenze": "I fichi non devono essere consumati ma le confezioni riconsegnate al punto vendita GRAN MERCATO.",
+  "campi_extra": {
+   "Data": "27/12/2023 Marchio del prodotto: VENTURA"
+  },
+  "testo": "RICHIAMO\nData: 27/12/2023 Marchio del prodotto: VENTURA\nDenominazione di vendita: FICHI GIGANTI VENTURA 300g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MADI VENTURA S.p.A.\ncommercializzato:\nLotto di produzione: 350020356/2-11-795-23\nMarchio di identificazione dello stabilimento/del produttore: N.A.\nNome del produttore: OSMAN AKÇA A.Ş.\nSede dello stabilimento: Çarş Mah. Osman Akça Sok. No:41Köşk, Aydn 09570 - TURCHIA\nData di scadenza o termine minimo di conservazione: 06/2024\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPresenza di Aflatossina B1 alla concentrazione di 12,9 ± 5,7 µg/kg in quantità superiore al valore previsto\ndal Reg. UE 2023/915 che è di 6,0 µg/kg.\nAvvertenze:\nI fichi non devono essere consumati ma le confezioni riconsegnate al punto vendita GRAN MERCATO."
+ },
+ "prima_rilevazione": "2026-10-25T07:20:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:34+00:00"
+}

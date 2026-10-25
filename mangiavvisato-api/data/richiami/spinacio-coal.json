@@ -1,0 +1,46 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-coal/",
+ "titolo": "SPINACIO COAL",
+ "data_pubblicazione": "2024-08-01",
+ "marca": "COAL",
+ "denominazione": "SPINACIO COAL",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20COAL%20500gr%20CON%20FOTO_1761205285.PDF",
+ "allegati": [
+  {
+   "titolo": "MODULO DI RICHIAMO SPINACIO COAL 500gr CON FOTO_1761205285.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20COAL%20500gr%20CON%20FOTO_1761205285.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spinacio-coal",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SPINACIO COAL COAL SOC. COOP. A.R.L. a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "L 204",
+   "L 205",
+   "L 206",
+   "L 207",
+   "L 208",
+   "L 210",
+   "L 211"
+  ],
+  "marchio_identificazione": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI",
+  "produttore": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI",
+  "sede_stabilimento": "VIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM) 30/07/2024, 31/07/2024, 1/08/2024, 2/08/2024,",
+  "scadenza": "3/08/2024, 5/08/2024, 6/08/2024",
+  "peso_volume": "500gr PRESUNTA PRESENZA DI INFESTANTI TOSSICI",
+  "avvertenze": "NON CONSUMARE E RIPORTARE PRESSO PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "30/07/2024 Marchio del prodotto: COAL"
+  },
+  "testo": "RICHIAMO\nData: 30/07/2024 Marchio del prodotto: COAL\nDenominazione di vendita: SPINACIO COAL\nCOAL SOC. COOP. A.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L 204, L 205, L 206, L 207, L 208, L 210, L 211\nMarchio di identificazione dello stabilimento/del produttore:\nAZIENDA AGRICOLA AMBRUOSI & VISCARDI\nNome del produttore: AZIENDA AGRICOLA AMBRUOSI & VISCARDI\nSede dello stabilimento: VIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM)\n30/07/2024, 31/07/2024, 1/08/2024, 2/08/2024,\nData di scadenza o termine minimo di conservazione:\n3/08/2024, 5/08/2024, 6/08/2024\nDescrizione peso/volume unità di vendita: 500gr\nPRESUNTA PRESENZA DI INFESTANTI TOSSICI\nAvvertenze:\nNON CONSUMARE E RIPORTARE PRESSO PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:05:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:05:21+00:00"
+}

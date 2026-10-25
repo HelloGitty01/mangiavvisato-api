@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mascobini-saraceno-e-mirtilli-vegano/",
+ "titolo": "Mascobini saraceno e mirtilli vegano",
+ "data_pubblicazione": "2024-04-03",
+ "marca": "KORA DULCIS",
+ "denominazione": "Mascobini saraceno e mirtilli vegano",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20SARACENO%20E%20MIRTILLI%20VEGANO_1761199712.pdf",
+ "allegati": [
+  {
+   "titolo": "MASCOBINI SARACENO E MIRTILLI VEGANO_1761199712.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20SARACENO%20E%20MIRTILLI%20VEGANO_1761199712.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mascobini-saraceno-e-mirtilli-vegano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mascobini saraceno e mirtilli vegano",
+  "operatore": "KORA DULCIS SRL",
+  "lotti": [
+   "318",
+   "452/KD/2023 011/KD/2024"
+  ],
+  "marchio_identificazione": "KORA DULCIS",
+  "produttore": "KORA DULCIS",
+  "sede_stabilimento": "VIA Barbieri , 15 36061 Bassano del Grappa (VI)",
+  "scadenza": "31/05 31/07 31/08/2024",
+  "peso_volume": "Sfuso ( kg1) 200g",
+  "motivo_esteso": "Presenza di allergene sesamo e senape in un ingrediente coadiuvante : Polvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl",
+  "avvertenze": "prodotto non idoneo ai consumatori allergici a sesamo e senape",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: KORA DULCIS"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: KORA DULCIS\nDenominazione di vendita:Mascobini saraceno e mirtilli vegano\nNome o ragione sociale dell'OSA KORA DULCIS SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 318, 452/KD/2023 011/KD/2024\nMarchio di identificazione dello stabilimento/del produttore: KORA DULCIS\nNome del produttore: KORA DULCIS\nSede dello stabilimento: VIA Barbieri , 15 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione: 31/05 31/07 31/08/2024\nDescrizione peso/volume unità di vendita: Sfuso ( kg1) 200g\nMotivo del richiamo: Presenza di allergene sesamo e senape in un ingrediente coadiuvante :\nPolvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl\nAvvertenze: prodotto non idoneo ai consumatori allergici a sesamo e senape"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:11+00:00"
+}

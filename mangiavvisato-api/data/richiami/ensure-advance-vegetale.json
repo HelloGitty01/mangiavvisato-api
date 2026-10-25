@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ensure-advance-vegetale/",
+ "titolo": "ENSURE ADVANCE VEGETALE",
+ "data_pubblicazione": "2024-06-18",
+ "marca": "ABBOTT Manufacturing Singapore",
+ "denominazione": "ENSURE ADVANCE VEGETALE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ensure%20Advance%20Vegetale_1761204303.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Ensure Advance Vegetale_1761204303.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ensure%20Advance%20Vegetale_1761204303.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ensure-advance-vegetale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ENSURE ADVANCE VEGETALE",
+  "operatore": "ABBOTT S.R.L 400g: lotto 1210475 - 21/08/2025; lotto 1195476- 09/07/2024",
+  "lotti": [
+   "850g: lotto 1210476 - 20/08/2025",
+   "lotto 1212907- 31/10/2025"
+  ],
+  "produttore": "ABBOTT Manufacturing Singapore",
+  "sede_stabilimento": "Tuas South Avenue 26 - 637437 -SINGAPORE",
+  "scadenza": "Vedi lotto",
+  "peso_volume": "400g; 850g",
+  "motivo_esteso": "Nel prodotto potrebbero essere presenti tracce di proteine del latte e l’etichetta dei lotti interessati non include la dicitura \"Non adatto ai consumatori con allergie al latte\"",
+  "avvertenze": "Le persone con allergie al latte potrebbero correre il rischio di reazioni avverse se consumano prodotti di questi lotti. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "11/06/2024 Marchio del prodotto: ENSURE ADVANCE VEGETALE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 11/06/2024 Marchio del prodotto: ENSURE ADVANCE VEGETALE\nDenominazione di vendita: ENSURE ADVANCE VEGETALE\nNome o ragione sociale dell'OSA ABBOTT S.R.L\na nome del quale il prodotto è\ncommercializzato:\n400g: lotto 1210475 - 21/08/2025; lotto 1195476- 09/07/2024\nLotto di produzione:\n850g: lotto 1210476 - 20/08/2025; lotto 1212907- 31/10/2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ABBOTT Manufacturing Singapore\nSede dello stabilimento: Tuas South Avenue 26 - 637437 -SINGAPORE\nData di scadenza o termine minimo di conservazione: Vedi lotto\nDescrizione peso/volume unità di vendita: 400g; 850g\nMotivo del richiamo:\nNel prodotto potrebbero essere presenti tracce di proteine del latte e l’etichetta dei lotti interessati non\ninclude la dicitura \"Non adatto ai consumatori con allergie al latte\"\nAvvertenze:\nLe persone con allergie al latte potrebbero correre il rischio di reazioni avverse se consumano prodotti di\nquesti lotti.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:08:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:28+00:00"
+}

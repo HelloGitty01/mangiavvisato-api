@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tofu-spinacia-200-gr/",
+ "titolo": "TOFU SPINACIA 200 gr",
+ "data_pubblicazione": "2023-06-05",
+ "marca": "TAIFUN",
+ "denominazione": "TOFU SPINACIA 200 gr",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20TOFU_1761196684.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo TOFU_1761196684.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20TOFU_1761196684.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tofu-spinacia-200-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TOFU SPINACIA 200 GR",
+  "operatore": "BIOSAPORI SRL",
+  "lotti": [
+   "267"
+  ],
+  "marchio_identificazione": "TAIFUN-TOFU GMBH",
+  "produttore": "TAIFUN-TOFU GMBH",
+  "sede_stabilimento": "79108 FREIBURG - BEBELSTR. 8",
+  "scadenza": "15-06-2023",
+  "peso_volume": "TOFU SPINACIA 200 GR. (TOFU CON SPINACI 200 GR)",
+  "motivo_esteso": "POSSIBILE PRESENZA DI PARTI METALLICHE",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/06/2023 Marchio del prodotto: TAIFUN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/06/2023 Marchio del prodotto: TAIFUN\nDenominazione di vendita:TOFU SPINACIA 200 GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BIOSAPORI SRL\ncommercializzato:\nLotto di produzione: 267\nMarchio di identificazione dello stabilimento/del produttore: TAIFUN-TOFU GMBH\nNome del produttore: TAIFUN-TOFU GMBH\nSede dello stabilimento: 79108 FREIBURG - BEBELSTR. 8\nData di scadenza o termine minimo di conservazione: 15-06-2023\nDescrizione peso/volume unità di vendita: TOFU SPINACIA 200 GR. (TOFU CON SPINACI 200 GR)\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI PARTI METALLICHE\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:29:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:35+00:00"
+}

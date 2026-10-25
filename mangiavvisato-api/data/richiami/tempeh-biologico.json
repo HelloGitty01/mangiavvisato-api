@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tempeh-biologico/",
+ "titolo": "TEMPEH BIOLOGICO",
+ "data_pubblicazione": "2023-10-19",
+ "marca": "VEGGIE DESPAR",
+ "denominazione": "TEMPEH BIOLOGICO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Ministeriale%20Tempeh%20Biologico_1761197520.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Ministeriale Tempeh Biologico_1761197520.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Ministeriale%20Tempeh%20Biologico_1761197520.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tempeh-biologico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:23:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:13+00:00"
+}

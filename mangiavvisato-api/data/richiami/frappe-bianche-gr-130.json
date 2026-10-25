@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/frappe-bianche-gr-130/",
+ "titolo": "Frappe Bianche gr 130",
+ "data_pubblicazione": "2024-01-24",
+ "marca": "Santangelo Group",
+ "denominazione": "Frappe Bianche gr 130",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20PRODOTTO%20frappe%20bianche%20gr%20130%20_2__1761198822.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO DI RICHIAMO PRODOTTO frappe bianche gr 130 _2__1761198822.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20PRODOTTO%20frappe%20bianche%20gr%20130%20_2__1761198822.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "frappe-bianche-gr-130",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Frappe Bianche gr 130",
+  "operatore": "Santangelo Group srl Via G. Natta, 22 - 05100 Terni",
+  "lotti": [
+   "L24006"
+  ],
+  "produttore": "Santangelo Group",
+  "sede_stabilimento": "Via G. Natta, 22 - 05100 Terni",
+  "scadenza": "20-05-2024",
+  "peso_volume": "confezione vaschetta flowpack da 130 gr",
+  "motivo_esteso": "Etichetta difettatta, rischio chimico per mancanza di indicazione dei seguenti allergeni: SOLFITI da vino, LATTE, SENAPE",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici a SOLFITI da vino, LATTE, SENAPE. Restituire al punto vendita.",
+  "campi_extra": {
+   "Data": "18/01/2024 Marchio del prodotto: Santangelo Group"
+  },
+  "testo": "RICHIAMO\nData: 18/01/2024 Marchio del prodotto: Santangelo Group\nDenominazione di vendita:Frappe Bianche gr 130\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Santangelo Group srl Via G. Natta, 22 - 05100 Terni\ncommercializzato:\nLotto di produzione: L24006\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Santangelo Group\nSede dello stabilimento: Via G. Natta, 22 - 05100 Terni\nData di scadenza o termine minimo di conservazione: 20-05-2024\nDescrizione peso/volume unità di vendita: confezione vaschetta flowpack da 130 gr\nMotivo del richiamo:\nEtichetta difettatta, rischio chimico per mancanza di indicazione dei seguenti allergeni:\nSOLFITI da vino, LATTE, SENAPE\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici a SOLFITI da vino, LATTE, SENAPE.\nRestituire al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:19:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:19:06+00:00"
+}

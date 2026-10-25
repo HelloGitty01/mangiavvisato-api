@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-xiphias-gladius-sashimi-5080-congelato-0/",
+ "titolo": "PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+ "data_pubblicazione": "2023-12-04",
+ "marca": "IT W689D CE",
+ "denominazione": "PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LODI%20SRL_Modulo_richiamo_1761197622.pdf",
+ "allegati": [
+  {
+   "titolo": "LODI SRL_Modulo_richiamo_1761197622.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LODI%20SRL_Modulo_richiamo_1761197622.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesce-spada-xiphias-gladius-sashimi-5080-congelato-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO",
+  "operatore": "LODI SRL",
+  "lotti": [
+   "L1299/2883G17-L1299/2883G18"
+  ],
+  "marchio_identificazione": "IT W689D CE",
+  "produttore": "LODI SRL",
+  "sede_stabilimento": "VIA BERTAZZOLO 1 - 46037 GOVERNOLO DI RONCOFERRARO (MN)",
+  "scadenza": "08-09-2025",
+  "peso_volume": "300 GR",
+  "motivo_esteso": "PRESENTE MERCURIO SUPERIORE AI LIMITI DI LEGGE",
+  "campi_extra": {
+   "Data": "28/11/2023 Marchio del prodotto: IT W689D CE"
+  },
+  "testo": "RICHIAMO\nData: 28/11/2023 Marchio del prodotto: IT W689D CE\nDenominazione di vendita:PESCE SPADA (XIPHIAS GLADIUS) SASHIMI 50/80 CONGELATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LODI SRL\ncommercializzato:\nLotto di produzione: L1299/2883G17-L1299/2883G18\nMarchio di identificazione dello stabilimento/del produttore: IT W689D CE\nNome del produttore: LODI SRL\nSede dello stabilimento: VIA BERTAZZOLO 1 - 46037 GOVERNOLO DI RONCOFERRARO (MN)\nData di scadenza o termine minimo di conservazione: 08-09-2025\nDescrizione peso/volume unità di vendita: 300 GR\nMotivo del richiamo:\nPRESENTE MERCURIO SUPERIORE AI LIMITI DI LEGGE\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:21:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:09+00:00"
+}

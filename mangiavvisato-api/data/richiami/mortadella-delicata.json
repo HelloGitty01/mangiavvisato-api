@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-delicata/",
+ "titolo": "MORTADELLA DELICATA",
+ "data_pubblicazione": "2023-06-23",
+ "marca": "FRESCHI PER TE",
+ "denominazione": "MORTADELLA DELICATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Mortadella%20Delicata%20Ditta%20JOMI%20spa._1761196713.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Mortadella Delicata Ditta JOMI spa._1761196713.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Mortadella%20Delicata%20Ditta%20JOMI%20spa._1761196713.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mortadella-delicata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mortadella Delicata",
+  "operatore": "Aldi S.r.L. via Sommacampagna 63/H, 37137 Verona Italia",
+  "lotti": [
+   "20.07.23 B"
+  ],
+  "marchio_identificazione": "IT 93260L CE",
+  "produttore": "Jomi S.p.A.",
+  "sede_stabilimento": "Via dell'Industria 95, 84092 Bellizzi (SA) Italia",
+  "scadenza": "20-07-2023",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes.",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "22/06/2023 Marchio del prodotto: Freschi per Te"
+  },
+  "testo": "RICHIAMO\nData: 22/06/2023 Marchio del prodotto: Freschi per Te\nDenominazione di vendita:Mortadella Delicata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aldi S.r.L. via Sommacampagna 63/H, 37137 Verona Italia\ncommercializzato:\nLotto di produzione: 20.07.23 B\nMarchio di identificazione dello stabilimento/del produttore: IT 93260L CE\nNome del produttore: Jomi S.p.A.\nSede dello stabilimento: Via dell'Industria 95, 84092 Bellizzi (SA) Italia\nData di scadenza o termine minimo di conservazione: 20-07-2023\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes.\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:28:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:39+00:00"
+}

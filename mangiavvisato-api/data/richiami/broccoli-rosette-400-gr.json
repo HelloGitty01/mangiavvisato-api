@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/broccoli-rosette-400-gr/",
+ "titolo": "BROCCOLI ROSETTE 400 Gr.",
+ "data_pubblicazione": "2023-10-28",
+ "marca": "CUOR DI GELO",
+ "denominazione": "BROCCOLI ROSETTE 400 Gr.",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20RICHIAMO_BROCCOLI%20ROSETTE%20400GR_1761197531.PDF",
+ "allegati": [
+  {
+   "titolo": "MODULO MINISTERIALE RICHIAMO_BROCCOLI ROSETTE 400GR_1761197531.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20RICHIAMO_BROCCOLI%20ROSETTE%20400GR_1761197531.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "broccoli-rosette-400-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BROCCOLI ROSETTE 400GR",
+  "operatore": "CUOR DI GELO SRL",
+  "lotti": [
+   "231928"
+  ],
+  "marchio_identificazione": "IT2325",
+  "produttore": "CUOR DI GELO SRL",
+  "sede_stabilimento": "ZONA INDUSTRIALE ASI 81030 GRICIGNANO DI AVERSA (CE)",
+  "scadenza": "30/04/2025",
+  "peso_volume": "CONFEZIONI DA 400GR",
+  "motivo_esteso": "SOSPETTA PRESENZA DI ALCALOIDI DEL TROPANO",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO QUALORA LA CONFEZIONE RECASSE IL LOTTO INDICATO",
+  "campi_extra": {
+   "Dat 27/10/2023 Marchio del prodotto": "CUOR DI GELO SRL"
+  },
+  "testo": "RICHIAMO\nDat 27/10/2023 Marchio del prodotto: CUOR DI GELO SRL\nDenominazione di vendita: BROCCOLI ROSETTE 400GR\nNome o ragione sociale dell'OSA CUOR DI GELO SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 231928\nMarchio di identificazione dello stabilimento/del produttore: IT2325\nNome del produttore: CUOR DI GELO SRL\nSede dello stabilimento ZONA INDUSTRIALE ASI 81030 GRICIGNANO DI AVERSA (CE)\nData di scadenza o termine minimo di conservazione 30/04/2025\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 400GR\nMotivo del richiamo:\nSOSPETTA PRESENZA DI ALCALOIDI DEL TROPANO\nAvvertenze:\nNON CONSUMARE IL PRODOTTO QUALORA LA CONFEZIONE RECASSE IL LOTTO INDICATO"
+ },
+ "prima_rilevazione": "2026-10-25T07:22:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:22:50+00:00"
+}

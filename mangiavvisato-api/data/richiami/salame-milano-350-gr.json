@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-milano-350-gr/",
+ "titolo": "Salame Milano 350 gr.",
+ "data_pubblicazione": "2022-12-21",
+ "marca": "Il Tagliere del Re",
+ "denominazione": "Salame Milano 350 gr.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20708226%20_%20Salame%20Milano%20350g_1761193050.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello _ 708226 _ Salame Milano 350g_1761193050.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20708226%20_%20Salame%20Milano%20350g_1761193050.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-milano-350-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame Milano 350g",
+  "operatore": "ALDI S.r.l",
+  "lotti": [
+   "L22D259"
+  ],
+  "marchio_identificazione": "IT 32 L CE",
+  "produttore": "E.Ga. S.r.l. Via Palmiro Togliatti 8, 20066 Melzo (MI), Italy",
+  "sede_stabilimento": "17/01/2023 Date di scadenza o termine minimo di conservazione",
+  "peso_volume": "350 g",
+  "motivo_esteso": "Possibile presenza di Salmonella",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "20/12/2 022 Marchio del prodotto: Il Tagliere del Re"
+  },
+  "testo": "RICHIAMO\nData: 20/12/2 022 Marchio del prodotto: Il Tagliere del Re\nDenominazione di vendita: Salame Milano 350g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: L22D259\nMarchio di identificazione dello stabilimento/del produttore: IT 32 L CE\nNome del produttore: E.Ga. S.r.l.\nVia Palmiro Togliatti 8, 20066 Melzo (MI), Italy\nSede dello stabilimento:\n17/01/2023\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 350 g\nMotivo del richiamo:\nPossibile presenza di Salmonella\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:58+00:00"
+}

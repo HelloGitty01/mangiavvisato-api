@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-bovina/",
+ "titolo": "Trippa Bovina",
+ "data_pubblicazione": "2024-07-25",
+ "marca": "Caisa Alimentare",
+ "denominazione": "Trippa Bovina",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_Trippa%20fresca_1761205261.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_20171116_Trippa fresca_1761205261.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116_Trippa%20fresca_1761205261.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trippa-bovina",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Trippa Bovina",
+  "operatore": "Caisa Alimentare S.r.l. 10072024-19072024-04082024",
+  "marchio_identificazione": "ITS5L51",
+  "produttore": "Caisa Alimentare S.r.l.",
+  "sede_stabilimento": "Via Augusto Righi, 1 (PI) 10/07/2024-19/07/2024-04/08/2024",
+  "peso_volume": "Peso lordo 700g, Peso netto 500g",
+  "motivo_esteso": "Possibile pH maggiore di 11.",
+  "avvertenze": "Non ingerire il prodotto: rischio di gravi lesioni al sistema digerente. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/07/2024 Marchio del prodotto: Caisa Alimentare",
+   "Non ingerire il prodotto": "rischio di gravi lesioni al sistema digerente.",
+   "Inserire immagine uno": "Inserire immagine due"
+  },
+  "testo": "RICHIAMO\nData: 25/07/2024 Marchio del prodotto: Caisa Alimentare\nDenominazione di vendita: Trippa Bovina\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caisa Alimentare S.r.l.\ncommercializzato:\n10072024-19072024-04082024\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: ITS5L51\nNome del produttore: Caisa Alimentare S.r.l.\nSede dello stabilimento: Via Augusto Righi, 1 (PI)\n10/07/2024-19/07/2024-04/08/2024\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Peso lordo 700g, Peso netto 500g\nMotivo del richiamo:\nPossibile pH maggiore di 11.\nAvvertenze:\nNon ingerire il prodotto: rischio di gravi lesioni al sistema digerente.\nInserire immagine uno: Inserire immagine due\n:"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:20+00:00"
+}

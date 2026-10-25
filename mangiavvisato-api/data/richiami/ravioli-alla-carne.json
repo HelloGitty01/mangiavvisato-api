@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ravioli-alla-carne/",
+ "titolo": "Ravioli alla carne",
+ "data_pubblicazione": "2023-05-27",
+ "marca": "Raviolificio Dei Cas",
+ "denominazione": "Ravioli alla carne",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20ravioli%20di%20carne%20cas_1761195627.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo prodotto ravioli di carne cas_1761195627.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20prodotto%20ravioli%20di%20carne%20cas_1761195627.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ravioli-alla-carne",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:30:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:05+00:00"
+}

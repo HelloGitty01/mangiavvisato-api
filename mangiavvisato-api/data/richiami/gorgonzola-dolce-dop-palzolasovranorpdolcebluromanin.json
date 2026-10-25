@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-dop-palzolasovranorpdolcebluromanin/",
+ "titolo": "GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+ "data_pubblicazione": "2024-02-05",
+ "marca": "GORGONZOLA DOLCE DOP",
+ "denominazione": "GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20L%20D16423A_1761198858.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO L D16423A_1761198858.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20L%20D16423A_1761198858.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dolce-dop-palzolasovranorpdolcebluromanin",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN",
+  "operatore": "Palzola Srl",
+  "lotti": [
+   "D16423A"
+  ],
+  "marchio_identificazione": "IT 0162CE",
+  "produttore": "Palzola Srl",
+  "sede_stabilimento": "VIA EUROPA 21, CAVALLIRIO (NO)",
+  "scadenza": "20.03.2024",
+  "peso_volume": "Forma intera 1/2-1/4-1/8 di forma",
+  "motivo_esteso": "Possibile rischio microbiologico per presenza di Listeria M. in crosta.",
+  "avvertenze": "NON CONSUMARE E RESTITUIRE IL PRODOTTO PRESSO PUNTO VENDITA Inserire immagine due",
+  "campi_extra": {
+   "Data": "02.02.2024 Marchio del prodotto: GORGONZOLA DOLCE DOP"
+  },
+  "testo": "RICHIAMO\nData: 02.02.2024 Marchio del prodotto: GORGONZOLA DOLCE DOP\nDenominazione di vendita: GORGONZOLA DOLCE DOP PALZOLA/SOVRANO/R.P./DOLCE&BLU/ROMANIN\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Palzola Srl\ncommercializzato:\nLotto di produzione: D16423A\nMarchio di identificazione dello stabilimento/del produttore: IT 0162CE\nNome del produttore: Palzola Srl\nSede dello stabilimento: VIA EUROPA 21, CAVALLIRIO (NO)\nData di scadenza o termine minimo di conservazione: 20.03.2024\nDescrizione peso/volume unità di vendita: Forma intera 1/2-1/4-1/8 di forma\nMotivo del richiamo:\nPossibile rischio microbiologico per presenza di Listeria M. in crosta.\nAvvertenze:\nNON CONSUMARE E RESTITUIRE IL PRODOTTO PRESSO PUNTO VENDITA\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:18:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:45+00:00"
+}

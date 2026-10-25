@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-gran-sapore-surgelato/",
+ "titolo": "Minestrone Gran sapore surgelato",
+ "data_pubblicazione": "2024-01-12",
+ "marca": "Esselunga",
+ "denominazione": "Minestrone Gran sapore surgelato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO%2011_01_2024_1761198749.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo RICHIAMO 11_01_2024_1761198749.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO%2011_01_2024_1761198749.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "minestrone-gran-sapore-surgelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "LM339A dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione LM339A\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto"
+ },
+ "prima_rilevazione": "2026-10-25T07:20:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:08+00:00"
+}

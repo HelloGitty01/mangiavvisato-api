@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-200g-0/",
+ "titolo": "Tronchetto di Capra 200g",
+ "data_pubblicazione": "2022-09-13",
+ "marca": "President",
+ "denominazione": "Tronchetto di Capra 200g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2006_10_1761192135.pdf",
+ "allegati": [
+  {
+   "titolo": "BIG_Richiamo_Tronchetto_Capra 200g 06_10_1761192135.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2006_10_1761192135.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tronchetto-di-capra-200g-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tronchetto di Capra",
+  "operatore": "biG S.r.l.",
+  "lotti": [
+   "227AD05320"
+  ],
+  "marchio_identificazione": "FR 79 299 001",
+  "produttore": "Société Fromagere De Riblaire",
+  "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+  "scadenza": "06-10-2022",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico",
+  "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 227AD05320\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 06-10-2022\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:46:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:09+00:00"
+}

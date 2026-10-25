@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-ice-cream-pot/",
+ "titolo": "Nutella Ice cream pot",
+ "data_pubblicazione": "2024-06-17",
+ "marca": "Ferrero",
+ "denominazione": "Nutella Ice cream pot",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20nutella%20ice%20cream%20pot_1761204290.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo nutella ice cream pot_1761204290.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20nutella%20ice%20cream%20pot_1761204290.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nutella-ice-cream-pot",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:08:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:33+00:00"
+}

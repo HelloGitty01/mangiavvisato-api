@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-lungo-b/",
+ "titolo": "Riso lungo B",
+ "data_pubblicazione": "2023-01-04",
+ "marca": "Smart",
+ "denominazione": "Riso lungo B",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Riso%20Smart%205%20kg_1761193108.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo Riso Smart 5 kg_1761193108.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Riso%20Smart%205%20kg_1761193108.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-lungo-b",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RISO LUNGO B",
+  "operatore": "ESSELUNGA S.P.A.",
+  "lotti": [
+   "vedi motivo del richiamo"
+  ],
+  "produttore": "PANIGADA T & F SNC",
+  "sede_stabilimento": "Via Corelli 32 - Milano",
+  "scadenza": "vedi motivo",
+  "peso_volume": "5 kg",
+  "motivo_esteso": "Possibile presenza di metalli pesanti (cadmio)",
+  "avvertenze": "Invitiamo il cliente qualora avesse acquistato il prodotto corrispondente ad una delle scadenze indicate a non consumarlo e a riconsegnarlo in negozio. Per informazioni contattare il numero verde 800.666.555 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "03/01/2023 Marchio del prodotto: SMART",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 03/01/2023 Marchio del prodotto: SMART\nDenominazione di vendita:RISO LUNGO B\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ESSELUNGA S.P.A.\ncommercializzato:\nLotto di produzione: vedi motivo del richiamo\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PANIGADA T & F SNC\nSede dello stabilimento: Via Corelli 32 - Milano\nData di scadenza o termine minimo di conservazione: vedi motivo\nDescrizione peso/volume unità di vendita: 5 kg\nMotivo del richiamo:\nPossibile presenza di metalli pesanti (cadmio)\nLotti / termine minimo di conservazione: 06.10.23 - 07.10.23 - 10.10.23 - 19.10.23 - 20.10.23 - 11.11.23\n- 12.11.23 - 15.11.23 - 16.11.23 - 17.11.23 - 18.11.23 - 19.11.23 - 25.11.23\nAvvertenze:\nInvitiamo il cliente qualora avesse acquistato il prodotto corrispondente ad una delle scadenze indicate a\nnon consumarlo e a riconsegnarlo in negozio.\nPer informazioni contattare il numero verde 800.666.555\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:11+00:00"
+}

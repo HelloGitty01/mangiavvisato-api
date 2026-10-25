@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-della-val-di-scalve/",
+ "titolo": "Formaggella della Val di Scalve",
+ "data_pubblicazione": "2023-08-16",
+ "marca": "Latteria Sociale Montana di Scalve Soc. Agr. Coop.",
+ "denominazione": "Formaggella della Val di Scalve",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FORMAGGELLA%20DELLA%20VALLE%20DI%20SCALVE%20LOTTO%20150523_1761196918.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO FORMAGGELLA DELLA VALLE DI SCALVE LOTTO 150523_1761196918.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FORMAGGELLA%20DELLA%20VALLE%20DI%20SCALVE%20LOTTO%20150523_1761196918.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggella-della-val-di-scalve",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGELLA DELLA VALLE DI SCALVE",
+  "operatore": "LATTERIA SOCIALE MONTANA DI SCALVE SOC AGR COOP VIA PROVINCIALE- FRAZ VILMAGGIORE- VILMINORE DI SCALVE (BG)",
+  "lotti": [
+   "150523 IT CE 03 304"
+  ],
+  "marchio_identificazione": "LATTERIA SOCIALE MONTANA DI SCALVE SOC AGR COOP",
+  "produttore": "VIA PROVINCIALE- FRAZ VILMAGGIORE- VILMINORE DI SCALVE (BG)",
+  "sede_stabilimento": "15/11/2023",
+  "scadenza": "FORMA SINGOLA DA 1,3 KG DI PESO",
+  "motivo_esteso": "PRESENZA DI ESCHERICHIA COLI PRODUTTORI DI SHIGA TOSSINA (STEC) IN 25 GR",
+  "avvertenze": "SI INVITA IL CONSUMATORE A RESTITUIRE IL LOTTO DI PRODOTTO 150523 SUINDICATO PRESSO IL PUNTO DI ACQUISTO O PRESSO IL NOSTRO PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "16/08/2023 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 16/08/2023 Marchio del prodotto:\nSCALVE\nDenominazione di vendita:FORMAGGELLA DELLA VALLE DI SCALVE\nNome o ragione sociale dell'OSA LATTERIA SOCIALE MONTANA DI SCALVE SOC AGR COOP\na nome del quale il prodotto è VIA PROVINCIALE- FRAZ VILMAGGIORE- VILMINORE DI SCALVE (BG)\ncommercializzato:\nLotto di produzione: 150523\nIT CE 03 304\nMarchio di identificazione dello stabilimento/del produttore:\nLATTERIA SOCIALE MONTANA DI SCALVE SOC AGR COOP\nNome del produttore:\nVIA PROVINCIALE- FRAZ VILMAGGIORE- VILMINORE DI SCALVE (BG)\nSede dello stabilimento:\n15/11/2023\nData di scadenza o termine minimo di conservazione:\nFORMA SINGOLA DA 1,3 KG DI PESO\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo: PRESENZA DI ESCHERICHIA COLI PRODUTTORI DI SHIGA TOSSINA (STEC)\nIN 25 GR\nAvvertenze: SI INVITA IL CONSUMATORE A RESTITUIRE IL LOTTO DI PRODOTTO 150523 SUINDICATO\nPRESSO IL PUNTO DI ACQUISTO O PRESSO IL NOSTRO PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:25:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:26+00:00"
+}

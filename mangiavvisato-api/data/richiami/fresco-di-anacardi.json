@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fresco-di-anacardi/",
+ "titolo": "FRESCO DI ANACARDI",
+ "data_pubblicazione": "2024-03-26",
+ "marca": "VEGELUNA",
+ "denominazione": "FRESCO DI ANACARDI",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Frescodianacardi_1761199620.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_Richiamo_Frescodianacardi_1761199620.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Frescodianacardi_1761199620.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fresco-di-anacardi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Fresco di Anacardi",
+  "operatore": "La Fermenteria S.r.l.",
+  "lotti": [
+   "Data di scadenza o termine minimo di conservazione: S235152 20/04/2024 S240919 25/06/2024 S240949 28/06/2024"
+  ],
+  "produttore": "La Fermenteria S.r.l.",
+  "sede_stabilimento": "via corradi, 4 Traversetolo PR 43029",
+  "peso_volume": "160 g",
+  "motivo_esteso": "Presenza allergeni non dichiarati in etichetta: senape",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici a senape. Si invitano tali consumatori a non consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso. Immagine del prodotto",
+  "campi_extra": {
+   "Data": "1295/03/2024 Marchio del prodotto VEGELUNA"
+  },
+  "testo": "RICHIAMO\nData: 1295/03/2024 Marchio del prodotto VEGELUNA\nDenominazione di vendita: Fresco di Anacardi\nNome o ragione sociale dell'OSA a\nnome del quale il prodotto è La Fermenteria S.r.l.\ncommercializzato:\nLotti: Data di scadenza o termine minimo di conservazione:\nS235152 20/04/2024\nS240919 25/06/2024\nS240949 28/06/2024\nNome del produttore La Fermenteria S.r.l.\nSede dello stabilimento: via corradi, 4 Traversetolo PR 43029\nDescrizione peso / volume unità di vendita 160 g\nMotivo del richiamo: Presenza allergeni non dichiarati in etichetta: senape\nAvvertenze:\nProdotto non idoneo ai consumatori allergici a senape.\nSi invitano tali consumatori a non consumare il\nprodotto e riportarlo presso il punto vendita di\nacquisto, per sostituzione o rimborso.\nImmagine del prodotto:"
+ },
+ "prima_rilevazione": "2026-10-25T07:16:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:25+00:00"
+}

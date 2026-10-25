@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-arabica-100-gr250-moka/",
+ "titolo": "CAFFE' ARABICA 100% GR.250 MOKA",
+ "data_pubblicazione": "2023-05-25",
+ "marca": "FILICORI ZECCHINI",
+ "denominazione": "CAFFE' ARABICA 100% GR.250 MOKA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/30575%20CAFFE_%20ARABICA%20100_%20GR.250%20MOKA%20pdf_1761195617.pdf",
+ "allegati": [
+  {
+   "titolo": "30575 CAFFE_ ARABICA 100_ GR.250 MOKA pdf_1761195617.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/30575%20CAFFE_%20ARABICA%20100_%20GR.250%20MOKA%20pdf_1761195617.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "caffe-arabica-100-gr250-moka",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAFFE' ARABICA 100% GR.250 MOKA",
+  "operatore": "G.I.Fi.Ze. Spa, Via Lombardia 55, 40024 Osteria Grande (Bo)",
+  "lotti": [
+   "LA7129",
+   "LA7069",
+   "LA7214"
+  ],
+  "marchio_identificazione": "G.I.Fi.Ze. Spa",
+  "produttore": "G.I.Fi.Ze. Spa",
+  "sede_stabilimento": "Via Lombardia 55, 40024 Osteria Grande (Bo)",
+  "scadenza": "24 mesi",
+  "peso_volume": "Confezioni da 250gr.",
+  "motivo_esteso": "Superamento della dose di riferimento di ocratossina.",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "24/05/2023 Marchio del prodotto: FILICORI ZECCHINI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 24/05/2023 Marchio del prodotto: FILICORI ZECCHINI\nDenominazione di vendita: CAFFE' ARABICA 100% GR.250 MOKA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.I.Fi.Ze. Spa, Via Lombardia 55, 40024 Osteria Grande (Bo)\ncommercializzato:\nLotto di produzione: LA7129, LA7069, LA7214\nMarchio di identificazione dello stabilimento/del produttore: G.I.Fi.Ze. Spa\nNome del produttore: G.I.Fi.Ze. Spa\nSede dello stabilimento: Via Lombardia 55, 40024 Osteria Grande (Bo)\nData di scadenza o termine minimo di conservazione: 24 mesi\nDescrizione peso/volume unità di vendita: Confezioni da 250gr.\nMotivo del richiamo:\nSuperamento della dose di riferimento di ocratossina.\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:30:12+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:12+00:00"
+}

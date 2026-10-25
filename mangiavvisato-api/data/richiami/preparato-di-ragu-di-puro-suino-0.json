@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-di-ragu-di-puro-suino-0/",
+ "titolo": "PREPARATO DI RAGU' DI PURO SUINO",
+ "data_pubblicazione": "2023-03-09",
+ "marca": "IL MAIALE",
+ "denominazione": "PREPARATO DI RAGU' DI PURO SUINO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Prix%20Quality_1761193995.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca richiamo Prix Quality_1761193995.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20Prix%20Quality_1761193995.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-di-ragu-di-puro-suino-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PREPARATO DI RAGU' DI PURO SUINO",
+  "operatore": "PRIX QUALITY SPA",
+  "lotti": [
+   "4749185"
+  ],
+  "marchio_identificazione": "IT2726P - CE",
+  "produttore": "COOPERATIVA PRODUTTORI SUINI PRO SUS SOCIETA' COOPERATIVA AGRICOLA",
+  "sede_stabilimento": "VIA DELL'ARTIGIANATO 6, CASTEL D'ARIO (MN)",
+  "scadenza": "08-03-2023",
+  "peso_volume": "350",
+  "motivo_esteso": "REVOCA PER SUPERAMENTO DATA DI SCADENZA",
+  "campi_extra": {
+   "Data": "09/03/2023 Marchio del prodotto: IL MAIALE"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 09/03/2023 Marchio del prodotto: IL MAIALE\nDenominazione di vendita:PREPARATO DI RAGU' DI PURO SUINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PRIX QUALITY SPA\ncommercializzato:\nLotto di produzione: 4749185\nMarchio di identificazione dello stabilimento/del produttore: IT2726P - CE\nNome del produttore: COOPERATIVA PRODUTTORI SUINI PRO SUS SOCIETA' COOPERATIVA AGRICOLA\nSede dello stabilimento: VIA DELL'ARTIGIANATO 6, CASTEL D'ARIO (MN)\nData di scadenza o termine minimo di conservazione: 08-03-2023\nDescrizione peso/volume unità di vendita: 350\nMotivo del richiamo:\nREVOCA PER SUPERAMENTO DATA DI SCADENZA\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:35:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:35:48+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/parmigiano-reggiano-dop-24-mesi/",
+ "titolo": "PARMIGIANO REGGIANO DOP 24 mesi",
+ "data_pubblicazione": "2022-11-23",
+ "marca": "TRENTIN SpA",
+ "denominazione": "PARMIGIANO REGGIANO DOP 24 mesi",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761192967.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_Richiamo_1761192967.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761192967.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "parmigiano-reggiano-dop-24-mesi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PARMIGIANO REGGIANO DOP 24 mesi",
+  "operatore": "TRENTIN SpA",
+  "lotti": [
+   "P1843"
+  ],
+  "marchio_identificazione": "IT M2016 CE",
+  "produttore": "TRENTIN SpA",
+  "sede_stabilimento": "Via Vittorio Foa 1, Pegognaga (MN) 46020",
+  "scadenza": "01-04-2023",
+  "peso_volume": "Porzione sottovuoto da 800-900g circa",
+  "motivo_esteso": "Alcune confezioni etichettate come Parmigiano Reggiano potrebbero contenere Grana Padano che ha come ingrediente il lisozima, un conservante, derivante dall'UOVO (allergene).",
+  "avvertenze": "Si precisa che il Parmigiano Reggiano è facilmente distinguibile dal Grana Padano per i marchi del consorzio nello scalzo e per il film utilizzato per confezionare i prodotti in quanto quello per il Parmigiano Reggiano ha i due loghi del consorzio, il film del Grana Padano è completamente neutro senza loghi. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "16/11/2022 Marchio del prodotto: TRENTIN SpA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 16/11/2022 Marchio del prodotto: TRENTIN SpA\nDenominazione di vendita:PARMIGIANO REGGIANO DOP 24 mesi\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRENTIN SpA\ncommercializzato:\nLotto di produzione: P1843\nMarchio di identificazione dello stabilimento/del produttore: IT M2016 CE\nNome del produttore: TRENTIN SpA\nSede dello stabilimento: Via Vittorio Foa 1, Pegognaga (MN) 46020\nData di scadenza o termine minimo di conservazione: 01-04-2023\nDescrizione peso/volume unità di vendita: Porzione sottovuoto da 800-900g circa\nMotivo del richiamo:\nAlcune confezioni etichettate come Parmigiano Reggiano potrebbero contenere Grana Padano che ha come\ningrediente il lisozima, un conservante, derivante dall'UOVO (allergene).\nAvvertenze:\nSi precisa che il Parmigiano Reggiano è facilmente distinguibile dal Grana Padano per i marchi del\nconsorzio nello scalzo e per il film utilizzato per confezionare i prodotti in quanto quello per il Parmigiano\nReggiano ha i due loghi del consorzio, il film del Grana Padano è completamente neutro senza loghi.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:42:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:31+00:00"
+}

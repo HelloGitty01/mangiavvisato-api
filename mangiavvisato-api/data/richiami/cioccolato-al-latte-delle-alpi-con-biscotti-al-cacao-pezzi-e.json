@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-al-latte-delle-alpi-con-biscotti-al-cacao-pezzi-e/",
+ "titolo": "Cioccolato al latte delle Alpi con biscotti al cacao in pezzi e ripieno di crema al latte",
+ "data_pubblicazione": "2024-03-14",
+ "marca": "Milka Oreo 37 g",
+ "denominazione": "Cioccolato al latte delle Alpi con biscotti al cacao in pezzi e ripieno di crema al latte",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761199035.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_1761199035.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761199035.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cioccolato-al-latte-delle-alpi-con-biscotti-al-cacao-pezzi-e",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "Mondelez Italia srl",
+  "lotti": [
+   "OSK0934422"
+  ],
+  "sede_stabilimento": "Mondelez Polska Production sp. z o.o. Fabryka Wyrobów Czekoladowych w Skarbimierzu",
+  "peso_volume": "37g",
+  "motivo_esteso": "possibile presenza di corpi estranei in plastica",
+  "avvertenze": "Si invitano i consumatori che hanno acquistato il prodotto a non consumarlo e a contattare il servizio consumatori al numero verde 800-055200 in caso di domande",
+  "campi_extra": {
+   "Data": "16/02/2024 Marchio del prodotto: MILKA OREO 37g"
+  },
+  "testo": "RICHIAMO\nData: 16/02/2024 Marchio del prodotto: MILKA OREO 37g\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Mondelez Italia srl\ncommercializzato:\nLotto di produzione: OSK0934422\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento: Mondelez Polska Production sp. z o.o. Fabryka Wyrobów Czekoladowych w Skarbimierzu\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 37g\nMotivo del richiamo:\npossibile presenza di corpi estranei in plastica\nAvvertenze:\nSi invitano i consumatori che hanno acquistato il prodotto a non consumarlo e a contattare il servizio\nconsumatori al numero verde 800-055200 in caso di domande"
+ },
+ "prima_rilevazione": "2026-10-25T07:17:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:17:05+00:00"
+}

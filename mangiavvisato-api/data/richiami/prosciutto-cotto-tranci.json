@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-tranci/",
+ "titolo": "Prosciutto cotto a tranci",
+ "data_pubblicazione": "2023-02-16",
+ "marca": "Motta",
+ "denominazione": "Prosciutto cotto a tranci",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maxid%C3%AC%20Motta_1761193832.pdf",
+ "allegati": [
+  {
+   "titolo": "Maxidì Motta_1761193832.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maxid%C3%AC%20Motta_1761193832.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-tranci",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto cotto a tranci",
+  "operatore": "Maxi Di s.r.l.",
+  "lotti": [
+   "L225139"
+  ],
+  "marchio_identificazione": "IT 679L CE",
+  "produttore": "Motta s.r.l.",
+  "sede_stabilimento": "Via Capuana 44, 20825 Barlassina (MB), Italia",
+  "scadenza": "21-02-2023",
+  "peso_volume": "1.3 kg circa, peso variabile",
+  "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà",
+  "campi_extra": {
+   "Data": "07/02/2023 Marchio del prodotto: Motta"
+  },
+  "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: Motta\nDenominazione di vendita: Prosciutto cotto a tranci\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Maxi Di s.r.l.\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore:\nMotta s.r.l.\nSede dello stabilimento: Via Capuana 44, 20825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 21-02-2023\nDescrizione peso/volume unità di vendita: 1.3 kg circa, peso variabile\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. Precisiamo che il richiamo interessa\nsolo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti\ndalla nostra volontà"
+ },
+ "prima_rilevazione": "2026-10-25T07:38:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:57+00:00"
+}

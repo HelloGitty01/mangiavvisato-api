@@ -1,0 +1,37 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crisantello/",
+ "titolo": "CRISANTELLO",
+ "data_pubblicazione": "2023-03-21",
+ "marca": "ARCANGEA",
+ "denominazione": "CRISANTELLO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo%20F016C%20Crisantello%2060%20OPR%20da%20500%20MG_1761194105.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di Richiamo F016C Crisantello 60 OPR da 500 MG_1761194105.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo%20F016C%20Crisantello%2060%20OPR%20da%20500%20MG_1761194105.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "crisantello",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "con cui ARCANGEA Srl il prodotto è commercializzato",
+  "lotti": [
+   "23051 ARCANGEA Srl dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume 02/2026 Flacone 60 capsule da 500 mg",
+  "motivo_esteso": "Non utilizzare il prodotto con il lotto segnalato e se possibile renderlo al venditore",
+  "avvertenze": "Fotografia del prodotto CRISANTELLO 60 CPR 500 MG(cid:30) Immagine1 Immagine2",
+  "campi_extra": {
+   "Fotografia del prodotto CRISANTELLO 60 CPR 500 MG(cid": "30)"
+  },
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nCRISANTELLO Marchio del prodotto ARCANGEA\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nARCANGEA Srl\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 23051 ARCANGEA Srl\ndello stabilimento\nData di scadenza o Descrizione peso/volume\n02/2026 Flacone 60 capsule da 500 mg\ntermine minimo di conservazione unità di vendita\nMotivo dl richiamo:\nSegnalazione da parte del fornitore di presenza di Chlorpyrifos\nnella materia prima Crisantello parti aeree polvere.\nMotivo del richiamo\nNon utilizzare il prodotto con il lotto segnalato e se possibile renderlo al venditore\nAvvertenze\nFotografia del prodotto CRISANTELLO 60 CPR 500 MG(cid:30)\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T07:34:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:34:36+00:00"
+}

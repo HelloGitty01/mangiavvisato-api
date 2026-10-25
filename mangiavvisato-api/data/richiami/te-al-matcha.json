@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/te-al-matcha/",
+ "titolo": "Tè al Matcha",
+ "data_pubblicazione": "2024-04-16",
+ "marca": "Shan Wai Shan",
+ "denominazione": "Tè al Matcha",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20tea%20matcha_1761201142.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo tea matcha_1761201142.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20tea%20matcha_1761201142.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "te-al-matcha",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TE' AL MATCHA",
+  "operatore": "INTERNATIONAL TRADING SRL- VIA FALZAREGO 26, 20021 BARANZATE (MI)",
+  "lotti": [
+   "30/06/2026"
+  ],
+  "marchio_identificazione": "SHAN WAI SHAN",
+  "produttore": "SHAN WAI SHAN",
+  "sede_stabilimento": "CINA",
+  "scadenza": "30/06/2026",
+  "peso_volume": "12X 80G",
+  "motivo_esteso": "IL CONTENUTO DI ALLUMINIO E' TROPPO ALTO",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO/ PORTARE INDIETRO AL NEGOZIANTE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/04/2024 Marchio del prodotto: SHAN WAI SHAN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: 05/04/2024 Marchio del prodotto: SHAN WAI SHAN\nDenominazione di vendita: TE' AL MATCHA\nNome o ragione sociale dell'OSA INTERNATIONAL TRADING SRL- VIA FALZAREGO 26, 20021\na nome del quale il prodotto è\nBARANZATE (MI)\ncommercializzato:\nLotto di produzione: 30/06/2026\nMarchio di identificazione dello stabilimento/del produttore: SHAN WAI SHAN\nNome del produttore: SHAN WAI SHAN\nSede dello stabilimento: CINA\nData di scadenza o termine minimo di conservazione: 30/06/2026\nDescrizione peso/volume unità di vendita: 12X 80G\nMotivo del richiamo:\nIL CONTENUTO DI ALLUMINIO E' TROPPO ALTO\nAvvertenze:\nNON CONSUMARE IL PRODOTTO/ PORTARE INDIETRO AL NEGOZIANTE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:14:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:14:01+00:00"
+}

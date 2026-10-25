@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mascobini-riso-e-cioccolato/",
+ "titolo": "Mascobini riso e cioccolato",
+ "data_pubblicazione": "2024-04-03",
+ "marca": "KORA DULCIS",
+ "denominazione": "Mascobini riso e cioccolato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20RISO%20E%20CIOCCOLATO_1761199733.pdf",
+ "allegati": [
+  {
+   "titolo": "MASCOBINI RISO E CIOCCOLATO_1761199733.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MASCOBINI%20RISO%20E%20CIOCCOLATO_1761199733.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mascobini-riso-e-cioccolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mascobini riso e cioccolato",
+  "operatore": "KORA DULCIS SRL",
+  "lotti": [
+   "252 309 368 446/KD/2023 013 031 055/KD/2024"
+  ],
+  "marchio_identificazione": "Kora Dulcis",
+  "produttore": "Kora Dulcis",
+  "sede_stabilimento": "via Barbieri, 15 36061 Bassano del Grappa (VI)",
+  "scadenza": "30/04 31/05 30/06 31/07 31/08 31/10/2024",
+  "peso_volume": "Sfuso ( kg 1) 200g",
+  "motivo_esteso": "Presenza di Allergene sesamo e senape in un ingrediente coadiuvante: Polvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl",
+  "avvertenze": "Prodotto non idoneo al consumatore allergico al sesamo e senape",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: Kora Dulcis"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: Kora Dulcis\nDenominazione di vendita: Mascobini riso e cioccolato\nNome o ragione sociale dell'OSA KORA DULCIS SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 252 309 368 446/KD/2023 013 031 055/KD/2024\nMarchio di identificazione dello stabilimento/del produttore: Kora Dulcis\nNome del produttore: Kora Dulcis\nSede dello stabilimento: via Barbieri, 15 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione: 30/04 31/05 30/06 31/07 31/08 31/10/2024\nDescrizione peso/volume unità di vendita: Sfuso ( kg 1) 200g\nMotivo del richiamo: Presenza di Allergene sesamo e senape in un ingrediente coadiuvante:\nPolvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl\nAvvertenze: Prodotto non idoneo al consumatore allergico al sesamo e senape"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:20+00:00"
+}

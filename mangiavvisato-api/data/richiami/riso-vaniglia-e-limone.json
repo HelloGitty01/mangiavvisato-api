@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vaniglia-e-limone/",
+ "titolo": "Riso vaniglia e limone",
+ "data_pubblicazione": "2024-04-03",
+ "marca": "KORA DULCIS",
+ "denominazione": "Riso vaniglia e limone",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20VANIGLIA%20E%20LIMONE_1761199739.pdf",
+ "allegati": [
+  {
+   "titolo": "RISO VANIGLIA E LIMONE_1761199739.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20VANIGLIA%20E%20LIMONE_1761199739.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-vaniglia-e-limone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso vaniglia e limone",
+  "operatore": "KORA DULCIS SRL",
+  "lotti": [
+   "228 280 281 302 428 456/KD/2023 066/KD /2024"
+  ],
+  "marchio_identificazione": "Kora Dulcis",
+  "produttore": "Kora Dulcis",
+  "sede_stabilimento": "Via Barbieri 15 36061 Bassano del Grappa (VI)",
+  "scadenza": "30/04 31/05 31/07 31/08/2024",
+  "peso_volume": "sfuso (kg1) 200g",
+  "motivo_esteso": "Presenza di allergene sesamo e senape in un ingrediente coadiuvante: Polvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: KORA DULCIS"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: KORA DULCIS\nDenominazione di vendita: Riso vaniglia e limone\nNome o ragione sociale dell'OSA KORA DULCIS SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 228 280 281 302 428 456/KD/2023 066/KD /2024\nMarchio di identificazione dello stabilimento/del produttore: Kora Dulcis\nNome del produttore: Kora Dulcis\nSede dello stabilimento: Via Barbieri 15 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione: 30/04 31/05 31/07 31/08/2024\nDescrizione peso/volume unità di vendita: sfuso (kg1) 200g\nMotivo del richiamo: Presenza di allergene sesamo e senape in un ingrediente coadiuvante:\nPolvere di psillium non dichiarato in etichetta dal fornitore Padovana Macinazione srl\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:23+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-secca/",
+ "titolo": "Salsiccia secca",
+ "data_pubblicazione": "2024-09-11",
+ "marca": "Il Baroncino",
+ "denominazione": "Salsiccia secca",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20%20E2%20pdf%20_1__1761205673.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo  E2 pdf _1__1761205673.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20%20E2%20pdf%20_1__1761205673.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-secca",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:02:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:02:45+00:00"
+}

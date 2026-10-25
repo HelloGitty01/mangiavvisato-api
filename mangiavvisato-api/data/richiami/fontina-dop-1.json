@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop-1/",
+ "titolo": "Fontina DOP",
+ "data_pubblicazione": "2023-03-10",
+ "marca": "Fontina DOP 250 G Pascoli Italiani - scadenza 10/04/2023",
+ "denominazione": "Fontina DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_fontina%20DOP_pascoli%20italiani_10.03.2023_1761194038.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_fontina DOP_pascoli italiani_10.03.2023_1761194038.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_fontina%20DOP_pascoli%20italiani_10.03.2023_1761194038.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fontina-dop-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FONTINA DOP 250g Pascoli Italiani",
+  "operatore": "Eurospin Italia spa",
+  "lotti": [
+   "C037105286"
+  ],
+  "marchio_identificazione": "IT 02 2 CE",
+  "produttore": "Cooperativa Produttori Latte e Fontina",
+  "sede_stabilimento": "Località La Croix Noire - Rue Croix Noire, 19 - 11020 Saint Christophe (Aosta)",
+  "scadenza": "10/04/2023",
+  "peso_volume": "Confezioni di porzionato da 250 gr",
+  "motivo_esteso": "Presenza di E. coli STEC",
+  "avvertenze": "Restituire al punto vendita",
+  "campi_extra": {
+   "Data": "Marchio del prodotto: FONTINA DOP"
+  },
+  "testo": "RICHIAMO\nData: Marchio del prodotto: FONTINA DOP\nDenominazione di vendita:FONTINA DOP 250g Pascoli Italiani\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia spa\ncommercializzato:\nLotto di produzione: C037105286\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina\nSede dello stabilimento: Località La Croix Noire - Rue Croix Noire, 19 - 11020 Saint Christophe (Aosta)\nData di scadenza o termine minimo di conservazione: 10/04/2023\nDescrizione peso/volume unità di vendita: Confezioni di porzionato da 250 gr\nMotivo del richiamo:\nPresenza di E. coli STEC\nAvvertenze:\nRestituire al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:35:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:35:46+00:00"
+}

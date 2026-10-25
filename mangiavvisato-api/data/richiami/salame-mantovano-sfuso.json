@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mantovano-sfuso/",
+ "titolo": "SALAME MANTOVANO SFUSO",
+ "data_pubblicazione": "2024-05-15",
+ "marca": "SALUMIFIICO CATTINI SRL",
+ "denominazione": "SALAME MANTOVANO SFUSO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_salame%20Cattini_sfuso_1761202872.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_salame Cattini_sfuso_1761202872.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_salame%20Cattini_sfuso_1761202872.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-mantovano-sfuso",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "salame mantovano con aglio",
+  "operatore": "Salumificio Cattini Srl",
+  "lotti": [
+   "Lotto 11 04 24 - 28 03 24"
+  ],
+  "marchio_identificazione": "IT 1254 LOA CE",
+  "produttore": "Cattini srl,",
+  "sede_stabilimento": "Via S. Zonta, 43/a Suzzara (MN)",
+  "peso_volume": "1 - 1,5 kg",
+  "motivo_esteso": "Ritiro precauzionale per pericolo microbiologico: sospetta presenza microrganismo patogeno (Salmonella).",
+  "avvertenze": "Restituire il prodotto",
+  "campi_extra": {
+   "Data": "15/05/24 Marchio del prodotto: salame mantovano con aglio / senz'aglio",
+   "Ritiro precauzionale per pericolo microbiologico": "sospetta presenza microrganismo patogeno"
+  },
+  "testo": "RICHIAMO\nData: 15/05/24 Marchio del prodotto: salame mantovano con aglio / senz'aglio\nDenominazione di vendita:salame mantovano con aglio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Salumificio Cattini Srl\ncommercializzato:\nLotto di produzione: Lotto 11 04 24 - 28 03 24\nMarchio di identificazione dello stabilimento/del produttore: IT 1254 LOA CE\nNome del produttore: Cattini srl,\nSede dello stabilimento: Via S. Zonta, 43/a Suzzara (MN)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 1 - 1,5 kg\nMotivo del richiamo:\nRitiro precauzionale per pericolo microbiologico: sospetta presenza microrganismo patogeno\n(Salmonella).\nAvvertenze:\nRestituire il prodotto"
+ },
+ "prima_rilevazione": "2026-10-25T07:10:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:10:26+00:00"
+}

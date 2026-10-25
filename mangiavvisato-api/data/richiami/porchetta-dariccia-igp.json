@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-dariccia-igp/",
+ "titolo": "PORCHETTA D'ARICCIA IGP",
+ "data_pubblicazione": "2022-10-13",
+ "marca": "SUPERMERCATI IPERAL S.p.A",
+ "denominazione": "PORCHETTA D'ARICCIA IGP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761192201.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1761192201.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761192201.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "porchetta-dariccia-igp",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:45:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:25+00:00"
+}

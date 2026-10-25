@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido-0/",
+ "titolo": "Salame morbido",
+ "data_pubblicazione": "2022-11-30",
+ "marca": "SA.MO. srl",
+ "denominazione": "Salame morbido",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.CARTELLORICHIAMO_1761192989.pdf",
+ "allegati": [
+  {
+   "titolo": "1.CARTELLORICHIAMO_1761192989.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.CARTELLORICHIAMO_1761192989.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-morbido-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:41:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:41:58+00:00"
+}

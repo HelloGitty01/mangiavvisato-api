@@ -1,0 +1,48 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-natura-chiama-selex/",
+ "titolo": "SPINACIO NATURA CHIAMA SELEX",
+ "data_pubblicazione": "2024-08-01",
+ "marca": "NATURA CHIAMA SELEX",
+ "denominazione": "SPINACIO NATURA CHIAMA SELEX",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20SELEX%20500GR%20CON%20FOTO_1761205317.PDF",
+ "allegati": [
+  {
+   "titolo": "MODULO DI RICHIAMO SPINACIO SELEX 500GR CON FOTO_1761205317.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO%20SPINACIO%20SELEX%20500GR%20CON%20FOTO_1761205317.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spinacio-natura-chiama-selex",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SPINACIO NATURA CHIAMA SELEX SELEX Gruppo Commerciale S.p.A. a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "L 204",
+   "L 205",
+   "L 206",
+   "L 207",
+   "L 208",
+   "L 209",
+   "L 210",
+   "L 211",
+   "L 212"
+  ],
+  "marchio_identificazione": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI",
+  "produttore": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI",
+  "sede_stabilimento": "VIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM) 29/07/2024, 30/07/2024, 31/07/2024, 1/08/2024,",
+  "scadenza": "2/08/2024, 3/08/2024, 4/08/2024, 5/08/2024, 6/08/2024",
+  "peso_volume": "500gr PRESUNTA PRESENZA DI INFESTANTI TOSSICI",
+  "avvertenze": "NON CONSUMARE E RIPORTARE PRESSO PUNTO VENIDITA",
+  "campi_extra": {
+   "Data": "30/07/2024 Marchio del prodotto: NATURA CHIAMA SELEX"
+  },
+  "testo": "RICHIAMO\nData: 30/07/2024 Marchio del prodotto: NATURA CHIAMA SELEX\nDenominazione di vendita: SPINACIO NATURA CHIAMA SELEX\nSELEX Gruppo Commerciale S.p.A.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: L 204, L 205, L 206, L 207, L 208, L 209, L 210, L 211, L 212\nMarchio di identificazione dello stabilimento/del produttore:\nAZIENDA AGRICOLA AMBRUOSI & VISCARDI\nNome del produttore: AZIENDA AGRICOLA AMBRUOSI & VISCARDI\nSede dello stabilimento: VIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM)\n29/07/2024, 30/07/2024, 31/07/2024, 1/08/2024,\nData di scadenza o termine minimo di conservazione:\n2/08/2024, 3/08/2024, 4/08/2024, 5/08/2024,\n6/08/2024\nDescrizione peso/volume unità di vendita: 500gr\nPRESUNTA PRESENZA DI INFESTANTI TOSSICI\nAvvertenze:\nNON CONSUMARE E RIPORTARE PRESSO PUNTO VENIDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:05:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:05:45+00:00"
+}

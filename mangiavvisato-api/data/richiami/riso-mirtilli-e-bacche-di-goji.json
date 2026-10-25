@@ -1,0 +1,47 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-mirtilli-e-bacche-di-goji/",
+ "titolo": "Riso mirtilli e bacche di goji",
+ "data_pubblicazione": "2024-04-03",
+ "marca": "KORA DULCIS",
+ "denominazione": "Riso mirtilli e bacche di goji",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20MIRTILLI%20E%20BACCHE%20GOJI_1761199722.pdf",
+ "allegati": [
+  {
+   "titolo": "RISO MIRTILLI E BACCHE GOJI_1761199722.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RISO%20MIRTILLI%20E%20BACCHE%20GOJI_1761199722.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-mirtilli-e-bacche-di-goji",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso mirtilli e bacche di goji",
+  "operatore": "Kora Dulcis srl",
+  "lotti": [
+   "2 6 3",
+   "3 0 1",
+   "3 5 1",
+   "4 4 5 / k d / 2 0 2 3 0 0 3",
+   "0 6 0",
+   "0 80/KD/2024"
+  ],
+  "marchio_identificazione": "KORA DULCIS",
+  "produttore": "KORA DULCIS",
+  "sede_stabilimento": "Via Barbieri,15 36061 Bassano del Grappa (VI)",
+  "scadenza": "31/05 30/06 31/07 31/08 31/10/2024",
+  "peso_volume": "Sfuso ( kg1) 200g",
+  "motivo_esteso": "Presenza di allergene Sesamo e Senape in un ingrediente coadiuvante : farina di Psillium non dichiarato in etichetta",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici a sesamo e senape",
+  "campi_extra": {
+   "Data": "21/03/2024 Marchio del prodotto: KORA DULCIS"
+  },
+  "testo": "RICHIAMO\nData: 21/03/2024 Marchio del prodotto: KORA DULCIS\nDenominazione di vendita: Riso mirtilli e bacche di goji\nNome o ragione sociale dell'OSA Kora Dulcis srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 2 6 3 , 3 0 1 , 3 5 1 , 4 4 5 / k d / 2 0 2 3 0 0 3 , 0 6 0 , 0 80/KD/2024\nMarchio di identificazione dello stabilimento/del produttore: KORA DULCIS\nNome del produttore: KORA DULCIS\nSede dello stabilimento: Via Barbieri,15 36061 Bassano del Grappa (VI)\nData di scadenza o termine minimo di conservazione 31/05 30/06 31/07 31/08 31/10/2024\nDescrizione peso/volume unità di vendita: Sfuso ( kg1) 200g\nMotivo del richiamo: Presenza di allergene Sesamo e Senape in un ingrediente coadiuvante :\nfarina di Psillium non dichiarato in etichetta\nAvvertenze: Prodotto non idoneo ai consumatori allergici a sesamo e senape"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:16+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-base-di-cannella-polvere/",
+ "titolo": "MIX A BASE DI CANNELLA IN POLVERE",
+ "data_pubblicazione": "2022-11-10",
+ "marca": "LO CONTE",
+ "denominazione": "MIX A BASE DI CANNELLA IN POLVERE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO%20CANNELLA%20COMPILATO_1761192930.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO_RICHIAMO CANNELLA COMPILATO_1761192930.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO%20CANNELLA%20COMPILATO_1761192930.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mix-base-di-cannella-polvere",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MIX A BASE DI CANNELLA IN POLVERE",
+  "operatore": "IPAFOOD SRL",
+  "lotti": [
+   "21343 - 22157"
+  ],
+  "marchio_identificazione": "IPAFOOD",
+  "produttore": "IPAFOOD SRL",
+  "sede_stabilimento": "FRIGENTO,Via Taverna Di Annibale 23 - 83040 Frigento (AV)",
+  "scadenza": "31/12/2024-30/06/2025",
+  "peso_volume": "10 g",
+  "motivo_esteso": "PRESENZA DI ALLERGENE ANIDRIDE SOLFOROSA",
+  "avvertenze": "NON UTILIZZARE IL PRODOTTO E RESTITUILO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "07/11/2022 Marchio del prodotto: LO CONTE"
+  },
+  "testo": "RICHIAMO\nData: 07/11/2022 Marchio del prodotto: LO CONTE\nDenominazione di vendita: MIX A BASE DI CANNELLA IN POLVERE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPAFOOD SRL\ncommercializzato:\nLotto di produzione: 21343 - 22157\nMarchio di identificazione dello stabilimento/del produttore: IPAFOOD\nNome del produttore: IPAFOOD SRL\nSede dello stabilimento: FRIGENTO,Via Taverna Di Annibale 23 - 83040 Frigento (AV)\nData di scadenza o termine minimo di conservazione: 31/12/2024-30/06/2025\nDescrizione peso/volume unità di vendita: 10 g\nMotivo del richiamo:\nPRESENZA DI ALLERGENE ANIDRIDE SOLFOROSA\nAvvertenze:\nNON UTILIZZARE IL PRODOTTO E RESTITUILO AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:43:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:47+00:00"
+}

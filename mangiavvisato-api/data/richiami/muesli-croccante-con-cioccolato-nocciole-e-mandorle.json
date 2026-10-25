@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-croccante-con-cioccolato-nocciole-e-mandorle/",
+ "titolo": "MUESLI CROCCANTE CON CIOCCOLATO, NOCCIOLE E MANDORLE",
+ "data_pubblicazione": "2023-08-08",
+ "marca": "BENNET",
+ "denominazione": "MUESLI CROCCANTE CON CIOCCOLATO, NOCCIOLE E MANDORLE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO_Bennet_Muesli%20croccante%20cioccolato_compilato_1761196787.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo RICHIAMO_Bennet_Muesli croccante cioccolato_compilato_1761196787.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20RICHIAMO_Bennet_Muesli%20croccante%20cioccolato_compilato_1761196787.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "muesli-croccante-con-cioccolato-nocciole-e-mandorle",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MUESLI CROCCANTE CON CIOCCOLATO, NOCCIOLE E MANDORLE",
+  "operatore": "BENNET S.p.A.",
+  "lotti": [
+   "AL230522 - AL230620"
+  ],
+  "produttore": "LAMERI S.p.A.",
+  "sede_stabilimento": "VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)",
+  "peso_volume": "325g",
+  "motivo_esteso": "Possibile presenza di corpi estranei (piccoli sassi)",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "03/08/2023 Marchio del prodotto: BENNET"
+  },
+  "testo": "RICHIAMO\nData: 03/08/2023 Marchio del prodotto: BENNET\nDenominazione di vendita:MUESLI CROCCANTE CON CIOCCOLATO, NOCCIOLE E MANDORLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BENNET S.p.A.\ncommercializzato:\nLotto di produzione: AL230522 - AL230620\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LAMERI S.p.A.\nSede dello stabilimento: VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 325g\nMotivo del richiamo:\nPossibile presenza di corpi estranei (piccoli sassi)\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:25:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:32+00:00"
+}

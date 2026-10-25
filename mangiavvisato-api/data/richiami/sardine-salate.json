@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardine-salate/",
+ "titolo": "Sardine Salate",
+ "data_pubblicazione": "2023-07-04",
+ "marca": "STELLA",
+ "denominazione": "Sardine Salate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_sardine_STELLA_1761196735.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_sardine_STELLA_1761196735.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_sardine_STELLA_1761196735.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sardine-salate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:28:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:16+00:00"
+}

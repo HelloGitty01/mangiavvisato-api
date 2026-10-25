@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-con-carne-di-cinghiale/",
+ "titolo": "RAGU' CON CARNE DI CINGHIALE",
+ "data_pubblicazione": "2023-05-11",
+ "marca": "TERRE D'ITALIA",
+ "denominazione": "RAGU' CON CARNE DI CINGHIALE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/48%20CARTELLO%20RICHIAMO%20RAGU_%20CINGHIALE%20_1761194891.pdf",
+ "allegati": [
+  {
+   "titolo": "48 CARTELLO RICHIAMO RAGU_ CINGHIALE _1761194891.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/48%20CARTELLO%20RICHIAMO%20RAGU_%20CINGHIALE%20_1761194891.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ragu-con-carne-di-cinghiale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RAGU' CON CARNE DI CINGHIALE",
+  "operatore": "GS S.p.A.",
+  "lotti": [
+   "vedi TMC"
+  ],
+  "marchio_identificazione": "IT 9 1575 L CE",
+  "produttore": "TRIGLIA s.r.l",
+  "sede_stabilimento": "VIA SALCETTI 39 56010 NODICA (PI)",
+  "scadenza": "30.03.2024",
+  "peso_volume": "200g",
+  "motivo_esteso": "MISURA PRECAUZIONALE A SEGUITO DI UNA SEGNALAZIONE PER CORPO ESTRANEO (VETRO)",
+  "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato vasetti appartenenti al lotto sopra descritto di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800 650 650",
+  "campi_extra": {
+   "Data": "11/05/2023 Marchio del prodotto: TERRE D'ITALIA"
+  },
+  "testo": "RICHIAMO\nData: 11/05/2023 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:RAGU' CON CARNE DI CINGHIALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GS S.p.A.\ncommercializzato:\nLotto di produzione: vedi TMC\nMarchio di identificazione dello stabilimento/del produttore: IT 9 1575 L CE\nNome del produttore: TRIGLIA s.r.l\nSede dello stabilimento: VIA SALCETTI 39 56010 NODICA (PI)\nData di scadenza o termine minimo di conservazione: 30.03.2024\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nMISURA PRECAUZIONALE A SEGUITO DI UNA SEGNALAZIONE PER CORPO ESTRANEO (VETRO)\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato vasetti appartenenti al lotto\nsopra descritto di non consumarli e restituirli al punto vendita.\nI consumatori possono contattare il numero verde al numero 800 650 650"
+ },
+ "prima_rilevazione": "2026-10-25T07:31:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:14+00:00"
+}

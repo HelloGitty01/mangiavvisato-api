@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-semicotta/",
+ "titolo": "FORMAGGIO A PASTA SEMICOTTA",
+ "data_pubblicazione": "2023-08-03",
+ "marca": "CACIO DEL CASARO CHEESTA'",
+ "denominazione": "FORMAGGIO A PASTA SEMICOTTA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo__RICHIAMO_CACIO_DEL_CASARO__1761196778.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo__RICHIAMO_CACIO_DEL_CASARO__1761196778.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo__RICHIAMO_CACIO_DEL_CASARO__1761196778.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-pasta-semicotta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO A PASTA SEMICOTTA",
+  "operatore": "RIVALTAFOOD SPA",
+  "lotti": [
+   "322812- 342822- 332916- 343013"
+  ],
+  "marchio_identificazione": "RIVALTAFOOD",
+  "produttore": "RIVALTAFOOD",
+  "sede_stabilimento": "STRADA SAVONESA 15, 15057 TORTONA (AL)",
+  "scadenza": "VEDI SOTTO",
+  "peso_volume": "PESO VARIABILE 250G",
+  "motivo_esteso": "PRODOTTO NON CONFORME PER PRESENZA DI LISTERIA MONOCYTOGENES, RILEVATA DA ANALISI MICROBIOLOGICA DI AUTOCONTROLLO. SCADENZE: 10/08/2023-12/08/2023-18/08/2023-26/08/2023",
+  "avvertenze": "Si invitano i consumatori che abbiano acquistato e siano in possesso dei lotti oggetto di richiamo, a non consumare il prodotto e riportarlo presso il punto vendita dove è stato acquistato. Per eventuali informazioni potete contattarci al numero 0131/8720781, mail coge.rivaltafood@pec.it",
+  "campi_extra": {
+   "Data": "01/08/2023 Marchio del prodotto: CACIO DEL CASARO CHEESTA'",
+   "SCADENZE": "10/08/2023-12/08/2023-18/08/2023-26/08/2023"
+  },
+  "testo": "RICHIAMO\nData: 01/08/2023 Marchio del prodotto: CACIO DEL CASARO CHEESTA'\nDenominazione di vendita:FORMAGGIO A PASTA SEMICOTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RIVALTAFOOD SPA\ncommercializzato:\nLotto di produzione: 322812- 342822- 332916- 343013\nMarchio di identificazione dello stabilimento/del produttore: RIVALTAFOOD\nNome del produttore: RIVALTAFOOD\nSede dello stabilimento: STRADA SAVONESA 15, 15057 TORTONA (AL)\nData di scadenza o termine minimo di conservazione: VEDI SOTTO\nDescrizione peso/volume unità di vendita: PESO VARIABILE 250G\nMotivo del richiamo:\nPRODOTTO NON CONFORME PER PRESENZA DI LISTERIA MONOCYTOGENES, RILEVATA DA ANALISI\nMICROBIOLOGICA DI AUTOCONTROLLO.\nSCADENZE: 10/08/2023-12/08/2023-18/08/2023-26/08/2023\nAvvertenze:\nSi invitano i consumatori che abbiano acquistato e siano in possesso dei lotti oggetto di richiamo, a non\nconsumare il prodotto e riportarlo presso il punto vendita dove è stato acquistato.\nPer eventuali informazioni potete contattarci al numero 0131/8720781, mail coge.rivaltafood@pec.it"
+ },
+ "prima_rilevazione": "2026-10-25T07:27:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:27:19+00:00"
+}

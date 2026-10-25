@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie/",
+ "titolo": "Brownie",
+ "data_pubblicazione": "2023-02-23",
+ "marca": "Mascherpa",
+ "denominazione": "Brownie",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20brownie%20_1__1761193869.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo brownie _1__1761193869.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20brownie%20_1__1761193869.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "brownie",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:36:54+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:54+00:00"
+}

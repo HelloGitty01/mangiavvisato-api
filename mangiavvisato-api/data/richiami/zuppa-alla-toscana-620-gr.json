@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-alla-toscana-620-gr/",
+ "titolo": "Zuppa alla Toscana 620 gr",
+ "data_pubblicazione": "2024-02-09",
+ "marca": "GOOD CHOICE",
+ "denominazione": "Zuppa alla Toscana 620 gr",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Zuppaallatoscana_1761198863.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_Zuppaallatoscana_1761198863.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Zuppaallatoscana_1761198863.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zuppa-alla-toscana-620-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Zuppa alla toscana 620g",
+  "operatore": "ALDI S.r.l",
+  "lotti": [
+   "237022"
+  ],
+  "produttore": "Euroverde soc. agr. S.r.l. Via Quinzano 1, 25020 Azzano Mella (BS), Italia",
+  "sede_stabilimento": "25/02/2024 Date di scadenza o termine minimo di conservazione",
+  "peso_volume": "620g",
+  "motivo_esteso": "Presenza dell’allergene glutine (grano) non dichiarato in etichetta.",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici al glutine e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "07/02/2 024 Marchio del prodotto: Good Choice"
+  },
+  "testo": "RICHIAMO\nData: 07/02/2 024 Marchio del prodotto: Good Choice\nDenominazione di vendita: Zuppa alla toscana 620g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: 237022\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Euroverde soc. agr. S.r.l.\nVia Quinzano 1, 25020 Azzano Mella (BS), Italia\nSede dello stabilimento:\n25/02/2024\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 620g\nMotivo del richiamo:\nPresenza dell’allergene glutine (grano) non dichiarato in etichetta.\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici al glutine e può essere restituito in tutte le\nfiliali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T07:18:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:40+00:00"
+}

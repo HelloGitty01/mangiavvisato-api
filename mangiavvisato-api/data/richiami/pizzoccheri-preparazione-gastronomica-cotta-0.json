@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta-0/",
+ "titolo": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+ "data_pubblicazione": "2022-09-28",
+ "marca": "VIVA LA MAMMA",
+ "denominazione": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R672_1761192162.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO R672_1761192162.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R672_1761192162.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pizzoccheri-preparazione-gastronomica-cotta-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA",
+  "operatore": "PIATTI FRESCHI ITALIA SPA",
+  "lotti": [
+   "R672221005"
+  ],
+  "marchio_identificazione": "IT 1784 L CE",
+  "produttore": "PIATTI FRESCHI ITALIA SPA",
+  "sede_stabilimento": "VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)",
+  "scadenza": "05-10-2022",
+  "peso_volume": "300 g",
+  "motivo_esteso": "PRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA",
+  "avvertenze": "SI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN ETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE ALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA ALCUN PERICOLO PER LA SALUTE.",
+  "campi_extra": {
+   "Data": "16/09/2022 Marchio del prodotto: VIVA LA MAMMA"
+  },
+  "testo": "RICHIAMO\nData: 16/09/2022 Marchio del prodotto: VIVA LA MAMMA\nDenominazione di vendita:PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIATTI FRESCHI ITALIA SPA\ncommercializzato:\nLotto di produzione: R672221005\nMarchio di identificazione dello stabilimento/del produttore: IT 1784 L CE\nNome del produttore: PIATTI FRESCHI ITALIA SPA\nSede dello stabilimento: VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)\nData di scadenza o termine minimo di conservazione: 05-10-2022\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA\nAvvertenze:\nSI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN\nETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE\nALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA\nALCUN PERICOLO PER LA SALUTE."
+ },
+ "prima_rilevazione": "2026-10-25T07:45:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:56+00:00"
+}

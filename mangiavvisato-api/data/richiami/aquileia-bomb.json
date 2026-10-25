@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aquileia-bomb/",
+ "titolo": "Aquileia Bomb",
+ "data_pubblicazione": "2023-01-03",
+ "marca": "Uriach Italy",
+ "denominazione": "Aquileia Bomb",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761193104.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo_1761193104.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761193104.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "aquileia-bomb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Aquilea Bomb",
+  "operatore": "Uriach Italy",
+  "lotti": [
+   "S02"
+  ],
+  "marchio_identificazione": "Laboratorios Anur Sl",
+  "produttore": "Laboratorios Anur Sl",
+  "sede_stabilimento": "Pol. Ind. La Pajarilla 13100 Piedrabuena (Ciudad Real)",
+  "scadenza": "31/03/2023",
+  "peso_volume": "41,5 g (60 capsule)",
+  "motivo_esteso": "Presenza di emodina",
+  "avvertenze": "si prega di riportare il lotto del prodotto, oggetto di richiamo, presso il punto vendita. Per maggiori informazioni contattare: info@uriachitaly.com",
+  "campi_extra": {
+   "Data": "02/01/2023 Marchio del prodotto: Aquilea",
+   "Per maggiori informazioni contattare": "info@uriachitaly.com"
+  },
+  "testo": "RICHIAMO\nData: 02/01/2023 Marchio del prodotto: Aquilea\nDenominazione di vendita:Aquilea Bomb\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Uriach Italy\ncommercializzato:\nLotto di produzione: S02\nMarchio di identificazione dello stabilimento/del produttore: Laboratorios Anur Sl\nNome del produttore: Laboratorios Anur Sl\nSede dello stabilimento: Pol. Ind. La Pajarilla 13100 Piedrabuena (Ciudad Real)\nData di scadenza o termine minimo di conservazione: 31/03/2023\nDescrizione peso/volume unità di vendita: 41,5 g (60 capsule)\nMotivo del richiamo:\nPresenza di emodina\nAvvertenze:si prega di riportare il lotto del prodotto, oggetto di richiamo, presso il punto vendita.\nPer maggiori informazioni contattare: info@uriachitaly.com"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:14+00:00"
+}

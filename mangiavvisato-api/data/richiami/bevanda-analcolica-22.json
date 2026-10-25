@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-22/",
+ "titolo": "Bevanda analcolica",
+ "data_pubblicazione": "2022-08-19",
+ "marca": "Coca-Cola Original taste",
+ "denominazione": "Bevanda analcolica",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_All.3%20Modulo%20Ministero%201_1761192086.pdf",
+ "allegati": [
+  {
+   "titolo": "1_All.3 Modulo Ministero 1_1761192086.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_All.3%20Modulo%20Ministero%201_1761192086.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bevanda-analcolica-22",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bevanda analcolica",
+  "operatore": "Coca-Cola HBC Italia s.r.l.",
+  "lotti": [
+   "L2207077N (vedi Avvertenze)"
+  ],
+  "produttore": "Coca-Cola HBC Italia SRL",
+  "sede_stabilimento": "Nogara (VR)",
+  "scadenza": "07-07-2023",
+  "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+  "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+  "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Soli lotti orari coinvolti: 93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N Codice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+   "Soli lotti orari coinvolti": "93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N",
+   "Codice EAN bottiglia": "5449000000057, Codice EAN cassa:5449000132512",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207077N (vedi Avvertenze)\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 07-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nSoli lotti orari coinvolti: 93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N\nCodice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:46:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:46+00:00"
+}

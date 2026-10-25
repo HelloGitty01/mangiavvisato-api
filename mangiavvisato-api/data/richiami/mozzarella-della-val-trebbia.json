@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-della-val-trebbia/",
+ "titolo": "Mozzarella della Val Trebbia",
+ "data_pubblicazione": "2023-05-23",
+ "marca": "Cascina Bosco Gerolo",
+ "denominazione": "Mozzarella della Val Trebbia",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamopdf_1761195609.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamopdf_1761195609.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamopdf_1761195609.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-della-val-trebbia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mozzarella della Val Trebbia",
+  "operatore": "Cascina Bosco Gerolo Soc. Agr. srl",
+  "lotti": [
+   "10-05-2023"
+  ],
+  "marchio_identificazione": "IT 081115 CE",
+  "produttore": "|Cascina Bosco Gerolo Soc. Agr. srl",
+  "sede_stabilimento": "Loc. Gerolo 29029 Rivergaro (PC)",
+  "scadenza": "30-05-2023",
+  "peso_volume": "100g/200g/1 kg",
+  "motivo_esteso": "Presenza di Listeria Monocytogenes su 3 di 5 campioni di Mozzarella lotto 10-05-2023",
+  "avvertenze": "Lud-Averga(rPoO Aovele L.tuaYa TMC 60x50mm diPater FiordiLa A te Taccinaosioizza Daconsumienro 100ge MecacloenendlaticSOZACONSEVANT vsloi ntziovimadper100gEnerga918J-22 kca Grass17g•ácucdgasssar12gcrtodaa0g aucchnvghotee¢SeQ47g nuevaralerperahurama4C 200ge pess9o0ncocmioinlaalteo8 Inserire immagineuno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/05/2023 Marchio del prodotto: Val Trebbia",
+   "Inserire immagineuno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/05/2023 Marchio del prodotto: Val Trebbia\nDenominazione di vendita: Mozzarella della Val Trebbia\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cascina Bosco Gerolo Soc. Agr. srl\ncommercializzato:\nLotto di produzione: 10-05-2023\nMarchio di identificazione dello stabilimento/del produttore: IT 081115 CE\nNome del produttore: |Cascina Bosco Gerolo Soc. Agr. srl\nSede dello stabilimento:Loc. Gerolo 29029 Rivergaro (PC)\nData di scadenza o termine minimo di conservazione: 30-05-2023\nDescrizione peso/volume unità di vendita: 100g/200g/1 kg\nMotivo del richiamo:\nPresenza di Listeria Monocytogenes su 3 di 5 campioni di Mozzarella lotto 10-05-2023\nAvvertenze:\nLud-Averga(rPoO\nAovele\nL.tuaYa\nTMC\n60x50mm\ndiPater FiordiLa A te Taccinaosioizza Daconsumienro\n100ge MecacloenendlaticSOZACONSEVANT\nvsloi ntziovimadper100gEnerga918J-22 kca\nGrass17g•ácucdgasssar12gcrtodaa0g\naucchnvghotee¢SeQ47g\nnuevaralerperahurama4C\n200ge\npess9o0ncocmioinlaalteo8\nInserire immagineuno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:30:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:30+00:00"
+}

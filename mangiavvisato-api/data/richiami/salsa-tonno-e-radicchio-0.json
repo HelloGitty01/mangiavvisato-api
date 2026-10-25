@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-tonno-e-radicchio-0/",
+ "titolo": "Salsa tonno e radicchio",
+ "data_pubblicazione": "2023-06-09",
+ "marca": "Cucina Nostrana",
+ "denominazione": "Salsa tonno e radicchio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloufficialeRichiamo_Cucina_Nostrana%20_1__1761196691.pdf",
+ "allegati": [
+  {
+   "titolo": "ModuloufficialeRichiamo_Cucina_Nostrana _1__1761196691.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloufficialeRichiamo_Cucina_Nostrana%20_1__1761196691.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsa-tonno-e-radicchio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salsa tonno e radicchio",
+  "operatore": "Cucina Nostrana srl Unipersonale",
+  "lotti": [
+   "23213 23214 23215"
+  ],
+  "marchio_identificazione": "CE IT 2340",
+  "produttore": "Cucina Nostrana S.r.l. Unipersonale",
+  "sede_stabilimento": "Via Sergio Toniolo n.3 Maerne di Martellago VE",
+  "scadenza": "23 24 25 06/2023",
+  "peso_volume": "250 gr circa",
+  "motivo_esteso": "Possibile presenza del batterio Listeria monocytogenes.",
+  "avvertenze": "Invitiamo a non consumare il prodotto e di riportarlo in punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/06/2023 Marchio del prodotto: Cucina Nostrana",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/06/2023 Marchio del prodotto: Cucina Nostrana\nDenominazione di vendita:Salsa tonno e radicchio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cucina Nostrana srl Unipersonale\ncommercializzato:\nLotto di produzione: 23213 23214 23215\nMarchio di identificazione dello stabilimento/del produttore: CE IT 2340\nNome del produttore: Cucina Nostrana S.r.l. Unipersonale\nSede dello stabilimento: Via Sergio Toniolo n.3 Maerne di Martellago VE\nData di scadenza o termine minimo di conservazione: 23 24 25 06/2023\nDescrizione peso/volume unità di vendita: 250 gr circa\nMotivo del richiamo:\nPossibile presenza del batterio Listeria monocytogenes.\nAvvertenze:\nInvitiamo a non consumare il prodotto e di riportarlo in punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:29:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:28+00:00"
+}

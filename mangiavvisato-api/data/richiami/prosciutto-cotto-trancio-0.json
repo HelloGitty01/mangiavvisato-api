@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-trancio-0/",
+ "titolo": "Prosciutto cotto a trancio",
+ "data_pubblicazione": "2023-02-28",
+ "marca": "Il Mercato",
+ "denominazione": "Prosciutto cotto a trancio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20GS_1761193930.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello GS_1761193930.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20GS_1761193930.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-trancio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto cotto a trancio",
+  "operatore": "G.S. S.p.A",
+  "lotti": [
+   "L230559"
+  ],
+  "marchio_identificazione": "CE IT 679L",
+  "produttore": "Motta srl",
+  "sede_stabilimento": "via Capuana 44, 20825 Barlassina (MB)",
+  "scadenza": "11-04-2023",
+  "peso_volume": "750g peso variabile",
+  "motivo_esteso": "Presenza di soia non dichiarata in etichetta",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "23/02/2023 Marchio del prodotto: Il Mercato",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 23/02/2023 Marchio del prodotto: Il Mercato\nDenominazione di vendita:Prosciutto cotto a trancio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.S. S.p.A\ncommercializzato:\nLotto di produzione: L230559\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: via Capuana 44, 20825 Barlassina (MB)\nData di scadenza o termine minimo di conservazione: 11-04-2023\nDescrizione peso/volume unità di vendita: 750g peso variabile\nMotivo del richiamo:\nPresenza di soia non dichiarata in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:36:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:44+00:00"
+}

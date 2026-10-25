@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/castelmagno-dop-3/",
+ "titolo": "CASTELMAGNO DOP",
+ "data_pubblicazione": "2024-03-01",
+ "marca": "Beppino Occelli",
+ "denominazione": "CASTELMAGNO DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20Modulo%20di%20Richiamo%20Beppino%20Occelli%20rev_1761198942.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 2 _ Modulo di Richiamo Beppino Occelli rev_1761198942.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20Modulo%20di%20Richiamo%20Beppino%20Occelli%20rev_1761198942.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "castelmagno-dop-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:17:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:17:52+00:00"
+}

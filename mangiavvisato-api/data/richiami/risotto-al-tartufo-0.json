@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/risotto-al-tartufo-0/",
+ "titolo": "Risotto al tartufo",
+ "data_pubblicazione": "2023-03-10",
+ "marca": "Arconatura",
+ "denominazione": "Risotto al tartufo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Tartufo_1761194021.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo Risotto Tartufo_1761194021.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Risotto%20Tartufo_1761194021.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "risotto-al-tartufo-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:35:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:35:34+00:00"
+}

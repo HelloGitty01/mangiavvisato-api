@@ -1,0 +1,47 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/copav-2/",
+ "titolo": "COPAV",
+ "data_pubblicazione": "2022-11-16",
+ "marca": "AURORA S.R.L.",
+ "denominazione": "COPAV",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_16%20CARTELLO%20RICHIAMO%20ULTIMISSIMO_1761192947.pdf",
+ "allegati": [
+  {
+   "titolo": "2022_11_16 CARTELLO RICHIAMO ULTIMISSIMO_1761192947.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_16%20CARTELLO%20RICHIAMO%20ULTIMISSIMO_1761192947.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "copav-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "COPAV",
+  "operatore": "AURORA S.R.L - COPAV",
+  "lotti": [
+   "22420650AVI",
+   "22420655AVI",
+   "22430669AVI",
+   "22440674AVI",
+   "22420634AVI",
+   "22420648AVI"
+  ],
+  "marchio_identificazione": "AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80",
+  "produttore": "AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80 FALCONARA MARITTIMA (AN), Sede operativa: Via del lavoro, 21",
+  "scadenza": "27/11/2022",
+  "peso_volume": "n.180 uova; n.90 uova",
+  "motivo_esteso": "Positività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da ASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22",
+  "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022 L22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)",
+  "campi_extra": {
+   "Data": "09/11/2022 Marchio del prodotto:",
+   "FALCONARA MARITTIMA (AN), Sede operativa": "Via del lavoro, 21"
+  },
+  "testo": "RICHIAMO\nData: 09/11/2022 Marchio del prodotto:\nDenominazione di vendita: COPAV\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AURORA S.R.L - COPAV\ncommercializzato:\nLotto di produzione: 22420650AVI; 22420655AVI; 22430669AVI; 22440674AVI; 22420634AVI; 22420648AVI\nMarchio di identificazione dello stabilimento/del produttore: AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80\nNome del produttore: AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80\nFALCONARA MARITTIMA (AN), Sede operativa: Via del lavoro, 21\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\n27/11/2022;\nDescrizione peso/volume unità di vendita: n.180 uova; n.90 uova\nMotivo del richiamo:\nPositività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da\nASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022\nL22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)"
+ },
+ "prima_rilevazione": "2026-10-25T07:43:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:11+00:00"
+}

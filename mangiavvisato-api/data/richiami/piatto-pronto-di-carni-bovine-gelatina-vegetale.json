@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatto-pronto-di-carni-bovine-gelatina-vegetale/",
+ "titolo": "Piatto pronto di carni bovine in gelatina vegetale",
+ "data_pubblicazione": "2024-09-04",
+ "marca": "Simmenthal",
+ "denominazione": "Piatto pronto di carni bovine in gelatina vegetale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Simmenthal%20140G%20_%20Lotto%20G156_1761205664.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Simmenthal 140G _ Lotto G156_1761205664.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Simmenthal%20140G%20_%20Lotto%20G156_1761205664.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "piatto-pronto-di-carni-bovine-gelatina-vegetale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Piatto pronto di carni bovine in gelatina vegetale",
+  "operatore": "Bolton Food S.p.A.",
+  "lotti": [
+   "G156"
+  ],
+  "marchio_identificazione": "IT 14 L CE",
+  "produttore": "Bolton Food S.p.A.",
+  "sede_stabilimento": "Via Matteotti, 2 Aprilia (LT)",
+  "scadenza": "31-12-2028",
+  "peso_volume": "3 x 140 g",
+  "motivo_esteso": "Eventuale presenza di scatole con difetto di chiusura.",
+  "avvertenze": "A scopo precauzionale, al fine di evitare un eventuale rischio per la salute, si raccomanda di non consumare il prodotto con il lotto sopra indicato e di restituirlo al punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "129/08/2024 Marchio del prodotto: Simmenthal"
+  },
+  "testo": "RICHIAMO\nData: 129/08/2024 Marchio del prodotto: Simmenthal\nDenominazione di vendita:Piatto pronto di carni bovine in gelatina vegetale\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Bolton Food S.p.A.\ncommercializzato:\nLotto di produzione: G156\nMarchio di identificazione dello stabilimento/del produttore: IT 14 L CE\nNome del produttore: Bolton Food S.p.A.\nSede dello stabilimento: Via Matteotti, 2 Aprilia (LT)\nData di scadenza o termine minimo di conservazione: 31-12-2028\nDescrizione peso/volume unità di vendita: 3 x 140 g\nMotivo del richiamo:\nEventuale presenza di scatole con difetto di chiusura.\nAvvertenze:\nA scopo precauzionale, al fine di evitare un eventuale rischio per la salute, si raccomanda di non\nconsumare il prodotto con il lotto sopra indicato e di restituirlo al punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-25T07:03:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:03:08+00:00"
+}

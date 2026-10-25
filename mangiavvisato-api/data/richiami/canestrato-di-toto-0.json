@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/canestrato-di-toto-0/",
+ "titolo": "CANESTRATO DI TOTO'",
+ "data_pubblicazione": "2023-07-05",
+ "marca": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+ "denominazione": "CANESTRATO DI TOTO'",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023__1761196742.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CANESTRATO DI TOTO_06042023__1761196742.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023__1761196742.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "canestrato-di-toto-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:28:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:14+00:00"
+}

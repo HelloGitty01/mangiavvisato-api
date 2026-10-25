@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-pollo-100g-atm/",
+ "titolo": "Sfilaccio di pollo 100g atm",
+ "data_pubblicazione": "2023-03-17",
+ "marca": "Coppiello Giovanni srl",
+ "denominazione": "Sfilaccio di pollo 100g atm",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20pollo%20_3__1761194077.pdf",
+ "allegati": [
+  {
+   "titolo": "ritiro precauz sfilaccio pollo _3__1761194077.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ritiro%20precauz%20sfilaccio%20pollo%20_3__1761194077.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sfilaccio-di-pollo-100g-atm",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:34:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:34:47+00:00"
+}

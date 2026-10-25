@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fucuslinea-le-erbe/",
+ "titolo": "FUCUS_LINEA LE ERBE",
+ "data_pubblicazione": "2023-11-24",
+ "marca": "SPECCHIASOL SRL",
+ "denominazione": "FUCUS_LINEA LE ERBE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FUCUS%201%20_2_1761197600.pdf",
+ "allegati": [
+  {
+   "titolo": "FUCUS 1 _2_1761197600.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FUCUS%201%20_2_1761197600.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fucuslinea-le-erbe",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:21:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:55+00:00"
+}

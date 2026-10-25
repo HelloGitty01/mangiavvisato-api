@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-al-caffe-bonta-divina/",
+ "titolo": "Tiramisu al Caffe' Bontà Divina",
+ "data_pubblicazione": "2022-08-12",
+ "marca": "Bontà Divina",
+ "denominazione": "Tiramisu al Caffe' Bontà Divina",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20Emmi%20Dessert%20Tiramis%C3%B9%20BD_1761192073.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_20171116 Emmi Dessert Tiramisù BD_1761192073.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20Emmi%20Dessert%20Tiramis%C3%B9%20BD_1761192073.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tiramisu-al-caffe-bonta-divina",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tiramisu al Caffe' Bontà Divina",
+  "operatore": "Emmi Dessert Italia S.p.A. – Via Cassina 5 22030",
+  "lotti": [
+   "C27922 – D04922"
+  ],
+  "marchio_identificazione": "IT 03 258 CE",
+  "produttore": "Emmi Dessert Italia S.p.A.",
+  "sede_stabilimento": "Via Cassina, 5 - 22030 Lasnigo (CO) 31/08/2022 - 08/09/2022",
+  "peso_volume": "1 Confezione da 85g",
+  "motivo_esteso": "RICHIAMO VOLONTARIO Possibile presenza frammento di vetro nel prodotto",
+  "avvertenze": "Il prodotto non deve essere consumato e deve essere restituito al punto vendita",
+  "campi_extra": {
+   "Data": "11/08/2022 Marchio del prodotto: Bontà Divina"
+  },
+  "testo": "RICHIAMO\nData: 11/08/2022 Marchio del prodotto: Bontà Divina\nDenominazione di vendita: Tiramisu al Caffe' Bontà Divina\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Emmi Dessert Italia S.p.A. – Via Cassina 5 22030\ncommercializzato:\nLotto di produzione: C27922 – D04922\nMarchio di identificazione dello stabilimento/del produttore: IT 03 258 CE\nNome del produttore: Emmi Dessert Italia S.p.A.\nSede dello stabilimento: Via Cassina, 5 - 22030 Lasnigo (CO)\n31/08/2022 - 08/09/2022\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 1 Confezione da 85g\nMotivo del richiamo:\nRICHIAMO VOLONTARIO\nPossibile presenza frammento di vetro nel prodotto\nAvvertenze:\nIl prodotto non deve essere consumato e deve essere\nrestituito al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:47:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:47:09+00:00"
+}

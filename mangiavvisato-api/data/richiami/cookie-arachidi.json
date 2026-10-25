@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-arachidi/",
+ "titolo": "Cookie arachidi",
+ "data_pubblicazione": "2023-02-23",
+ "marca": "Mascherpa",
+ "denominazione": "Cookie arachidi",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20arachidi_1761193877.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo cookie arachidi_1761193877.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20arachidi_1761193877.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cookie-arachidi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:37:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:37:05+00:00"
+}

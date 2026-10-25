@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio-di-oliva/",
+ "titolo": "Filetti di Alici in olio di oliva",
+ "data_pubblicazione": "2024-07-31",
+ "marca": "Decò",
+ "denominazione": "Filetti di Alici in olio di oliva",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Zarotti_Cartello%20Filetti%20di%20Alici%2080g_1761205274.pdf",
+ "allegati": [
+  {
+   "titolo": "Zarotti_Cartello Filetti di Alici 80g_1761205274.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Zarotti_Cartello%20Filetti%20di%20Alici%2080g_1761205274.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-alici-olio-di-oliva",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Filetti di Alici in olio di oliva",
+  "operatore": "Decò Italia S.c.a.r.l.",
+  "lotti": [
+   "LTC 116"
+  ],
+  "marchio_identificazione": "AL 28 P.P.",
+  "produttore": "Poseidon SHPK",
+  "sede_stabilimento": "Albania",
+  "scadenza": "25-10-2025",
+  "peso_volume": "80g",
+  "motivo_esteso": "Valori di Istamina rilevati in autocontrollo superiori ai limiti di legge.",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "29/07/2024 Marchio del prodotto: Decò"
+  },
+  "testo": "RICHIAMO\nData: 29/07/2024 Marchio del prodotto: Decò\nDenominazione di vendita:Filetti di Alici in olio di oliva\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Decò Italia S.c.a.r.l.\ncommercializzato:\nLotto di produzione: LTC 116\nMarchio di identificazione dello stabilimento/del produttore: AL 28 P.P.\nNome del produttore: Poseidon SHPK\nSede dello stabilimento: Albania\nData di scadenza o termine minimo di conservazione: 25-10-2025\nDescrizione peso/volume unità di vendita: 80g\nMotivo del richiamo:\nValori di Istamina rilevati in autocontrollo superiori ai limiti di legge.\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:06:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:01+00:00"
+}

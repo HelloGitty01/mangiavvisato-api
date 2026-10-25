@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wolfs-menu-essential-wm001/",
+ "titolo": "WOLF'S MENU ESSENTIAL WM001",
+ "data_pubblicazione": "2022-12-14",
+ "marca": "ECOCLAVIS NV",
+ "denominazione": "WOLF'S MENU ESSENTIAL WM001",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20VEMA_1761193034.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO VEMA_1761193034.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20VEMA_1761193034.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wolfs-menu-essential-wm001",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "WOLF’S MENU ESSENTIAL WM001",
+  "operatore": "VEMA PETFOOD&CARE SRL",
+  "lotti": [
+   "20221014004"
+  ],
+  "marchio_identificazione": "FAAV-AFSCA PET 102535",
+  "produttore": "ECOCLAVIS NV",
+  "sede_stabilimento": "RUE DU MONT GALLOIS 56, 7700 MOESKROEN",
+  "scadenza": "14-04-2024",
+  "peso_volume": "800GR",
+  "motivo_esteso": "Numero Protocollo: 0202688/22 Data Protocollo: 06/12/2022 A seguito di un campionamento svolto dalla ATS, il prodotto con il lotto 20221014004 risulta non conforme alla vendita",
+  "avvertenze": "Si prega di comunicare per iscritto via e-mail a info@vemapetfood.it le quantità da ritirare o l’eventuale esaurimento del lotto.",
+  "campi_extra": {
+   "Data": "06/12/2022 Marchio del prodotto: ECOCLAVIS NV",
+   "Numero Protocollo": "0202688/22 Data Protocollo: 06/12/2022"
+  },
+  "testo": "RICHIAMO\nData: 06/12/2022 Marchio del prodotto: ECOCLAVIS NV\nDenominazione di vendita:WOLF’S MENU ESSENTIAL WM001\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VEMA PETFOOD&CARE SRL\ncommercializzato:\nLotto di produzione: 20221014004\nMarchio di identificazione dello stabilimento/del produttore: FAAV-AFSCA PET 102535\nNome del produttore: ECOCLAVIS NV\nSede dello stabilimento: RUE DU MONT GALLOIS 56, 7700 MOESKROEN\nData di scadenza o termine minimo di conservazione: 14-04-2024\nDescrizione peso/volume unità di vendita: 800GR\nMotivo del richiamo:\nNumero Protocollo: 0202688/22 Data Protocollo: 06/12/2022\nA seguito di un campionamento svolto dalla ATS, il prodotto con il lotto 20221014004 risulta non conforme\nalla vendita\nAvvertenze:\nSi prega di comunicare per iscritto via e-mail a info@vemapetfood.it le quantità da ritirare o l’eventuale\nesaurimento del lotto."
+ },
+ "prima_rilevazione": "2026-10-25T07:41:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:41:13+00:00"
+}

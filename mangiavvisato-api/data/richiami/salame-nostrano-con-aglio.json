@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-con-aglio/",
+ "titolo": "Salame nostrano con aglio",
+ "data_pubblicazione": "2024-04-13",
+ "marca": "Salumificio Flli Scapocchin S.R.L",
+ "denominazione": "Salame nostrano con aglio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALAME%20NOSTRANO%20CON%20AGLIO%20165_1761199883.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO SALAME NOSTRANO CON AGLIO 165_1761199883.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALAME%20NOSTRANO%20CON%20AGLIO%20165_1761199883.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-nostrano-con-aglio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame Nostrano con Aglio",
+  "operatore": "Salumificio F.lli Scapocchin S.R.L.",
+  "lotti": [
+   "165/24"
+  ],
+  "marchio_identificazione": "Salumificio F.lli Scapocchin S.R.L.",
+  "produttore": "Salumificio F.lli Scapocchin S.R.L.",
+  "sede_stabilimento": "Via Giorgio La Pira 14, Camposampiero (PD)",
+  "peso_volume": "da 600 g a 800 g – venduto a peso",
+  "motivo_esteso": "Presenza di Listeria Monocytogenes",
+  "avvertenze": "Si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto.",
+  "campi_extra": {
+   "Data": "13/04/2024 Marchio del prodotto: Salumificio F.lli Scapocchin S.R.L."
+  },
+  "testo": "RICHIAMO\nData: 13/04/2024 Marchio del prodotto: Salumificio F.lli Scapocchin S.R.L.\nDenominazione di vendita: Salame Nostrano con Aglio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Salumificio F.lli Scapocchin S.R.L.\ncommercializzato:\nLotto di produzione: 165/24\nMarchio di identificazione dello stabilimento/del produttore: Salumificio F.lli Scapocchin S.R.L.\nNome del produttore: Salumificio F.lli Scapocchin S.R.L.\nSede dello stabilimento: Via Giorgio La Pira 14, Camposampiero (PD)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: da 600 g a 800 g – venduto a peso\nMotivo del richiamo: Presenza di Listeria Monocytogenes\nAvvertenze: Si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto."
+ },
+ "prima_rilevazione": "2026-10-25T07:14:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:14:05+00:00"
+}

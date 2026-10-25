@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/primia-acqua-naturale-primia-acqua-frizzante/",
+ "titolo": "PRIMIA Acqua Naturale - PRIMIA Acqua frizzante",
+ "data_pubblicazione": "2023-04-19",
+ "marca": "PRIMIA",
+ "denominazione": "PRIMIA Acqua Naturale - PRIMIA Acqua frizzante",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Piano%20della%20Mussa%201_1761194792.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Piano della Mussa 1_1761194792.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Piano%20della%20Mussa%201_1761194792.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "primia-acqua-naturale-primia-acqua-frizzante",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PRIMIA ACQUA NATURALE - PRIMIA ACQUA FRIZZANTE",
+  "operatore": "AGORA' NETWORK S.c.ar.l",
+  "lotti": [
+   "TUTTI I LOTTI E SCADENZE"
+  ],
+  "produttore": "PIAN DELLA MUSSA SRL",
+  "sede_stabilimento": "VILLAGGIO ALBARON 10070 BALME TO",
+  "peso_volume": "Formati: 1.5l - 1.5l x6 e Formati 0.5l – 0.5l x8",
+  "motivo_esteso": "Analisi Chimiche non Conformi",
+  "avvertenze": "In via cautelativa, si avvisano i consumatori che avessero acquistato il prodotto, di non consumarlo e restituire le confezioni al punto vendita per la sostituzione.",
+  "campi_extra": {
+   "Data": "17/04/2023 Marchio del prodotto: PRIMIA"
+  },
+  "testo": "RICHIAMO\nData: 17/04/2023 Marchio del prodotto: PRIMIA\nDenominazione di vendita: PRIMIA ACQUA NATURALE - PRIMIA ACQUA FRIZZANTE\nNome o ragione sociale dell'OSA AGORA' NETWORK S.c.ar.l\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: TUTTI I LOTTI E SCADENZE\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PIAN DELLA MUSSA SRL\nSede dello stabilimento: VILLAGGIO ALBARON 10070 BALME TO\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Formati: 1.5l - 1.5l x6 e Formati 0.5l – 0.5l x8\nMotivo del richiamo:\nAnalisi Chimiche non Conformi\nAvvertenze:\nIn via cautelativa, si avvisano i consumatori che avessero acquistato il prodotto, di non consumarlo e\nrestituire le confezioni al punto vendita per la sostituzione."
+ },
+ "prima_rilevazione": "2026-10-25T07:32:12+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:12+00:00"
+}

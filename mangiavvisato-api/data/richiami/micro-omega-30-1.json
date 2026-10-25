@@ -1,0 +1,31 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/micro-omega-30-1/",
+ "titolo": "MICRO OMEGA 3.0",
+ "data_pubblicazione": "2022-10-25",
+ "marca": "MYCLI SUPLUS H24 MICRO OMEGA 3.0",
+ "denominazione": "MICRO OMEGA 3.0",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Micro%20Omega%20Viola%20aggiornato_1761192245.pdf",
+ "allegati": [
+  {
+   "titolo": "Micro Omega Viola aggiornato_1761192245.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Micro%20Omega%20Viola%20aggiornato_1761192245.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "micro-omega-30-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "U149371",
+   "U149370 scadenza 05/2024"
+  ],
+  "testo": "17/10/2022\nLotti U149371 e U149370 scadenza 05/2024\nLotto 22P0068 scadenza 02/2025"
+ },
+ "prima_rilevazione": "2026-10-25T07:44:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:44:52+00:00"
+}

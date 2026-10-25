@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sweet-peppers-140-gr/",
+ "titolo": "Sweet Peppers 140 gr",
+ "data_pubblicazione": "2023-06-01",
+ "marca": "Vipa Chips",
+ "denominazione": "Sweet Peppers 140 gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/patatine_piccolo_1761195631.pdf",
+ "allegati": [
+  {
+   "titolo": "patatine_piccolo_1761195631.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/patatine_piccolo_1761195631.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sweet-peppers-140-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Sweet Peppers 140 gr",
+  "operatore": "Vipa",
+  "lotti": [
+   "SP2/23"
+  ],
+  "marchio_identificazione": "Vipa",
+  "produttore": "Pestova SHPK",
+  "sede_stabilimento": "Pestove - Vushtrri 42000 Kosovo",
+  "scadenza": "25-12-2023",
+  "peso_volume": "140 grammi",
+  "motivo_esteso": "Elevato livello di acrillamide.",
+  "avvertenze": "Non consumare il prodotto e riportarlo in negozio. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "30/05/2023 Marchio del prodotto: Vipa Chips",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 30/05/2023 Marchio del prodotto: Vipa Chips\nDenominazione di vendita:Sweet Peppers 140 gr\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Vipa\ncommercializzato:\nLotto di produzione: SP2/23\nMarchio di identificazione dello stabilimento/del produttore: Vipa\nNome del produttore: Pestova SHPK\nSede dello stabilimento: Pestove - Vushtrri 42000 Kosovo\nData di scadenza o termine minimo di conservazione: 25-12-2023\nDescrizione peso/volume unità di vendita: 140 grammi\nMotivo del richiamo:\nElevato livello di acrillamide.\nAvvertenze:\nNon consumare il prodotto e riportarlo in negozio.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:29:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:45+00:00"
+}

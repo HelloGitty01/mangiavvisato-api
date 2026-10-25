@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-ossolano-dop/",
+ "titolo": "FORMAGGIO OSSOLANO D.O.P.",
+ "data_pubblicazione": "2022-08-10",
+ "marca": "OSSOLANO D.O.P.",
+ "denominazione": "FORMAGGIO OSSOLANO D.O.P.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20formaggio%20stagionato%20ossolano%20Dop_1761192068.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo formaggio stagionato ossolano Dop_1761192068.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20formaggio%20stagionato%20ossolano%20Dop_1761192068.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-ossolano-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO OSSOLANO D.O.P.",
+  "operatore": "BERTOLINO S.N.C. di Alessandro, Stefano e Andrea Bertolino",
+  "lotti": [
+   "00054-34381 / ns. L 2186"
+  ],
+  "marchio_identificazione": "01/769",
+  "produttore": "LATTERIA SOCIALE ANTIGORIANA COOP S.A.C.",
+  "sede_stabilimento": "OIRA DI CREVOLADOSSOLA (VB)",
+  "scadenza": "60 GG",
+  "peso_volume": "A PESO VARIABILE FORME DI 5/7 KG CIRCA",
+  "motivo_esteso": "POSITIVITA' A ESCHERICHIA COLI VEROCITOTOSSICI (STEC)",
+  "avvertenze": "PER I CONSUMATORI: RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL RIVENDITORE DA CUI E' STATO ACQUISTATO. PER CONTATTI: BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/08/2022 Marchio del prodotto: OSSOLANO D.O.P.",
+   "PER I CONSUMATORI": "RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL",
+   "PER CONTATTI": "BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "6\nRICHIAMO\nData: 09/08/2022 Marchio del prodotto: OSSOLANO D.O.P.\nDenominazione di vendita: FORMAGGIO OSSOLANO D.O.P.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BERTOLINO S.N.C. di Alessandro, Stefano e Andrea Bertolino\ncommercializzato:\nLotto di produzione: 00054-34381 / ns. L 2186\nMarchio di identificazione dello stabilimento/del produttore: 01/769\nNome del produttore: LATTERIA SOCIALE ANTIGORIANA COOP S.A.C.\nSede dello stabilimento: OIRA DI CREVOLADOSSOLA (VB)\nData di scadenza o termine minimo di conservazione: 60 GG\nDescrizione peso/volume unità di vendita: A PESO VARIABILE FORME DI 5/7 KG CIRCA\nMotivo del richiamo:\nPOSITIVITA' A ESCHERICHIA COLI VEROCITOTOSSICI (STEC)\nAvvertenze:\nPER I CONSUMATORI: RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL\nRIVENDITORE DA CUI E' STATO ACQUISTATO.\nPER CONTATTI: BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:47:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:47:30+00:00"
+}

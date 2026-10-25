@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grappa-elegant/",
+ "titolo": "Grappa Elegant",
+ "data_pubblicazione": "2024-08-08",
+ "marca": "Gielledi srl",
+ "denominazione": "Grappa Elegant",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GRAPPA%20ELEGANT%20ALLEGATO1_1761205351.pdf",
+ "allegati": [
+  {
+   "titolo": "GRAPPA ELEGANT ALLEGATO1_1761205351.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/GRAPPA%20ELEGANT%20ALLEGATO1_1761205351.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grappa-elegant",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:04:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:04:57+00:00"
+}

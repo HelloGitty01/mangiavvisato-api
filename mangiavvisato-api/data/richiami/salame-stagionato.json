@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stagionato/",
+ "titolo": "SALAME STAGIONATO",
+ "data_pubblicazione": "2022-12-01",
+ "marca": "SALUMIFICIO COLLI",
+ "denominazione": "SALAME STAGIONATO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20SALAME%20LOTTO%2013092022_1761192997.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo SALAME LOTTO 13092022_1761192997.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20SALAME%20LOTTO%2013092022_1761192997.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "salame-stagionato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME STAGIONATO",
+  "operatore": "SALUMIFICIO COLLI di Colli Carlo & C. snc",
+  "lotti": [
+   "13092022"
+  ],
+  "marchio_identificazione": "IT 9 729 L CE",
+  "produttore": "SALUMIFICIO COLLI di Colli Carlo & C. snc",
+  "sede_stabilimento": "VIA FRATTA 10/A - 42020 SAN POLO D'ENZA (RE)",
+  "peso_volume": "400/600 GRAMMI - 800/1000 GRAMMI",
+  "motivo_esteso": "POSITIVITA' PER SALMONELLA TYPHIMURIUM IN SALAME STAGIONATO",
+  "avvertenze": "PRODOTTO DA NON CONSUMARE E RIPORTARE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "01/12/2022 Marchio del prodotto: SALUMIFICIO COLLI"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 01/12/2022 Marchio del prodotto: SALUMIFICIO COLLI\nDenominazione di vendita:SALAME STAGIONATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO COLLI di Colli Carlo & C. snc\ncommercializzato:\nLotto di produzione: 13092022\nMarchio di identificazione dello stabilimento/del produttore: IT 9 729 L CE\nNome del produttore: SALUMIFICIO COLLI di Colli Carlo & C. snc\nSede dello stabilimento: VIA FRATTA 10/A - 42020 SAN POLO D'ENZA (RE)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 400/600 GRAMMI - 800/1000 GRAMMI\nMotivo del richiamo:\nPOSITIVITA' PER SALMONELLA TYPHIMURIUM IN SALAME STAGIONATO\nAvvertenze:\nPRODOTTO DA NON CONSUMARE E RIPORTARE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:41:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:41:50+00:00"
+}

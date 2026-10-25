@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/specialita-integrale-di-farro-da-agricoltura-biologica/",
+ "titolo": "SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+ "data_pubblicazione": "2023-03-27",
+ "marca": "LUZI",
+ "denominazione": "SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20modulo%20richiamo_1761194696.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 2 _ modulo richiamo_1761194696.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_%20modulo%20richiamo_1761194696.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "specialita-integrale-di-farro-da-agricoltura-biologica",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA",
+  "operatore": "LUZI SRL - FRAZ. MONTEROSSO 108, 60041 SASSOFERRATO (AN)",
+  "lotti": [
+   "008822V"
+  ],
+  "marchio_identificazione": "LUZI",
+  "produttore": "NUOVO PASTIFICIO VIETRI SpA",
+  "sede_stabilimento": "AREA PIP LEONE 5/7, 83025 MONTORO (AV)",
+  "scadenza": "29-03-2025",
+  "peso_volume": "500G",
+  "motivo_esteso": "A SCOPO PRECAUZIONALE RICHIAMIAMO IL PRODOTTO PER POSSIBILE PRESENZA DI UN CORPO ESTRANEO",
+  "avvertenze": "RESTITUIRE IL PRODOTTO AL PUNTO VENDITA PER SOSTITUZIONE",
+  "campi_extra": {
+   "Data": "24/03/2023 Marchio del prodotto: LUZI SRL"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 24/03/2023 Marchio del prodotto: LUZI SRL\nDenominazione di vendita:SPECIALITA' INTEGRALE DI FARRO DA AGRICOLTURA BIOLOGICA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUZI SRL - FRAZ. MONTEROSSO 108, 60041 SASSOFERRATO (AN)\ncommercializzato:\nLotto di produzione: 008822V\nMarchio di identificazione dello stabilimento/del produttore: LUZI\nNome del produttore: NUOVO PASTIFICIO VIETRI SpA\nSede dello stabilimento: AREA PIP LEONE 5/7, 83025 MONTORO (AV)\nData di scadenza o termine minimo di conservazione: 29-03-2025\nDescrizione peso/volume unità di vendita: 500G\nMotivo del richiamo:\nA SCOPO PRECAUZIONALE RICHIAMIAMO IL PRODOTTO PER POSSIBILE PRESENZA DI UN CORPO\nESTRANEO\nAvvertenze:\nRESTITUIRE IL PRODOTTO AL PUNTO VENDITA PER SOSTITUZIONE"
+ },
+ "prima_rilevazione": "2026-10-25T07:34:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:34:11+00:00"
+}

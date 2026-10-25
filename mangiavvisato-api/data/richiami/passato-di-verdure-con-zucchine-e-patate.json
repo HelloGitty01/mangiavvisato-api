@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passato-di-verdure-con-zucchine-e-patate/",
+ "titolo": "Passato di verdure con zucchine e patate",
+ "data_pubblicazione": "2023-04-28",
+ "marca": "Il Viaggiator Goloso",
+ "denominazione": "Passato di verdure con zucchine e patate",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761194873.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_1761194873.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761194873.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "passato-di-verdure-con-zucchine-e-patate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Passato di verdure con zucchine e patate",
+  "operatore": "UNES MAXI S.p.A.",
+  "lotti": [
+   "220103COD"
+  ],
+  "marchio_identificazione": "Euroverde",
+  "produttore": "Euroverde Soc. Agr. S.r.l.",
+  "sede_stabilimento": "Via Quinzano, 1 - 25020 Azzano Mella (BS)",
+  "scadenza": "19-05-2023",
+  "peso_volume": "620g",
+  "motivo_esteso": "Presenza di allergene non dichiarato (glutine)",
+  "campi_extra": {
+   "Data": "28/04/2023 Marchio del prodotto: Il Viaggiator Goloso"
+  },
+  "testo": "RICHIAMO\nData: 28/04/2023 Marchio del prodotto: Il Viaggiator Goloso\nDenominazione di vendita:Passato di verdure con zucchine e patate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UNES MAXI S.p.A.\ncommercializzato:\nLotto di produzione: 220103COD\nMarchio di identificazione dello stabilimento/del produttore: Euroverde\nNome del produttore: Euroverde Soc. Agr. S.r.l.\nSede dello stabilimento: Via Quinzano, 1 - 25020 Azzano Mella (BS)\nData di scadenza o termine minimo di conservazione: 19-05-2023\nDescrizione peso/volume unità di vendita: 620g\nMotivo del richiamo:\nPresenza di allergene non dichiarato (glutine)\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:31:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:31+00:00"
+}

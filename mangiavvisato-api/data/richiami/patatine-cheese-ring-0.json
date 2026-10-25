@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/patatine-cheese-ring-0/",
+ "titolo": "Patatine Cheese ring",
+ "data_pubblicazione": "2024-04-04",
+ "marca": "Regent",
+ "denominazione": "Patatine Cheese ring",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CHEESE%20RING_1761199762.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CHEESE RING_1761199762.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CHEESE%20RING_1761199762.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "patatine-cheese-ring-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PATATINE CHEESE RING",
+  "operatore": "REGENT CHEESE RING",
+  "lotti": [
+   "109228/108381"
+  ],
+  "marchio_identificazione": "REGENT",
+  "produttore": "REGENT COMPANY",
+  "sede_stabilimento": "FILIPPINE",
+  "scadenza": "TUTTI LOTTI",
+  "peso_volume": "60GR",
+  "motivo_esteso": "PRESENZA D'ADDITTIVO NON AUTORIZZATO",
+  "avvertenze": "IMPORTATO DA BEAGLEY COPPERMAN Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/04/2024 Marchio del prodotto: REGENT CHEESE RING",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: 02/04/2024 Marchio del prodotto: REGENT CHEESE RING\nDenominazione di vendita: PATATINE CHEESE RING\nNome o ragione sociale dell'OSA\nREGENT CHEESE RING\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 109228/108381\nMarchio di identificazione dello stabilimento/del produttore: REGENT\nNome del produttore: REGENT COMPANY\nSede dello stabilimento: FILIPPINE\nData di scadenza o termine minimo di conservazione: TUTTI LOTTI\nDescrizione peso/volume unità di vendita: 60GR\nMotivo del richiamo:\nPRESENZA D'ADDITTIVO NON AUTORIZZATO\nAvvertenze:\nIMPORTATO DA BEAGLEY COPPERMAN\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:07+00:00"
+}

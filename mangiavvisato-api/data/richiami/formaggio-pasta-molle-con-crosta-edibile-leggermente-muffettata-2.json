@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-2/",
+ "titolo": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+ "data_pubblicazione": "2023-04-24",
+ "marca": "CASEIFICIO LONGO",
+ "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20COMPILATO%201%20kg%20foglie%20marroni_1761194823.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO COMPILATO 1 kg foglie marroni_1761194823.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20COMPILATO%201%20kg%20foglie%20marroni_1761194823.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+  "operatore": "CASEIFICIO LONGO SRL",
+  "lotti": [
+   "1074"
+  ],
+  "marchio_identificazione": "IT L7A1WCE",
+  "produttore": "CASEIFICIO LONGO SRL",
+  "sede_stabilimento": "VIA LEONARDO DA VINCI 43 - 10083 RIVAROLO CANAVESE (TO)",
+  "scadenza": "27-04-2023",
+  "peso_volume": "1 KG circa",
+  "motivo_esteso": "presenza di salmonella",
+  "avvertenze": "I clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e di restituirlo al punto vendita. In caso di necessità contattare: 0124/428247 e/o info@caseificiolongo.it Precisiamo che il richiamo interessa solo il lotto/ scadenza sopra indicato Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "18/04/2023 Marchio del prodotto: CASEIFICIO LONGO",
+   "In caso di necessità contattare": "0124/428247 e/o info@caseificiolongo.it",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 18/04/2023 Marchio del prodotto: CASEIFICIO LONGO\nDenominazione di vendita:FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO LONGO SRL\ncommercializzato:\nLotto di produzione: 1074\nMarchio di identificazione dello stabilimento/del produttore: IT L7A1WCE\nNome del produttore: CASEIFICIO LONGO SRL\nSede dello stabilimento: VIA LEONARDO DA VINCI 43 - 10083 RIVAROLO CANAVESE (TO)\nData di scadenza o termine minimo di conservazione: 27-04-2023\nDescrizione peso/volume unità di vendita: 1 KG circa\nMotivo del richiamo:\npresenza di salmonella\nAvvertenze:\nI clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e di restituirlo al\npunto vendita.\nIn caso di necessità contattare: 0124/428247 e/o info@caseificiolongo.it\nPrecisiamo che il richiamo interessa solo il lotto/ scadenza sopra indicato\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:31:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:43+00:00"
+}

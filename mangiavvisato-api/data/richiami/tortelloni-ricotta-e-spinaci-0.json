@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-ricotta-e-spinaci-0/",
+ "titolo": "TORTELLONI RICOTTA E SPINACI",
+ "data_pubblicazione": "2024-06-05",
+ "marca": "REGGIANA GOURMET SRL",
+ "denominazione": "TORTELLONI RICOTTA E SPINACI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20corretto_1761204257.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo corretto_1761204257.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20corretto_1761204257.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tortelloni-ricotta-e-spinaci-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TORTELLONI RICOTTA E SPINACI",
+  "operatore": "REGGIANA GOURMET SRL",
+  "lotti": [
+   "24123"
+  ],
+  "marchio_identificazione": "IT H2R2H CE",
+  "produttore": "REGGIANA GOURMET SRL",
+  "sede_stabilimento": "VIA CADUTI DEL LAVORO 30 43058 SORBOLO MEZZANI (PR)",
+  "scadenza": "01/07/2027",
+  "peso_volume": "VASCHETTA DA 250 G",
+  "motivo_esteso": "Indicazione di una data di scadenza superiore a quella reale, per un errore di stampa: la data di scadenza corretta del prodotto è 01/07/2024, anzichè 01/07/2027. A scopo precauzionale, al fine di scongiurare il consumo del prodotto oltre la durabilità dello stesso, si invitano consumatrici e consumatori eventualmente in possesso del prodotto sopra indicato a riportarlo al punto vendita dove è stata acquistato.",
+  "avvertenze": "Non consumare il prodotto oltre il 01/07/2024",
+  "campi_extra": {
+   "Data": "24/05/24 Marchio del prodotto: PRIMIA"
+  },
+  "testo": "RICHIAMO\nData: 24/05/24 Marchio del prodotto: PRIMIA\nDenominazione di vendita: TORTELLONI RICOTTA E SPINACI\nNome o ragione sociale dell'OSA REGGIANA GOURMET SRL\na nome del quale il prodotto\nè\ncommercializzato:\nLotto di produzione: 24123\nMarchio di identificazione dello stabilimento/del produttore: IT H2R2H CE\nNome del produttore: REGGIANA GOURMET SRL\nSede dello stabilimento: VIA CADUTI DEL LAVORO 30 43058 SORBOLO MEZZANI (PR)\nData di scadenza o termine minimo di conservazione: 01/07/2027\nDescrizione peso/volume unità di vendita: VASCHETTA DA 250 G\nMotivo del richiamo:\nIndicazione di una data di scadenza superiore a quella reale, per un errore di stampa: la data di scadenza\ncorretta del prodotto è 01/07/2024, anzichè 01/07/2027.\nA scopo precauzionale, al fine di scongiurare il consumo del prodotto oltre la durabilità dello stesso, si\ninvitano consumatrici e consumatori eventualmente in possesso del prodotto sopra indicato a riportarlo al\npunto vendita dove è stata acquistato.\nAvvertenze:\nNon consumare il prodotto oltre il 01/07/2024"
+ },
+ "prima_rilevazione": "2026-10-25T07:09:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:09:00+00:00"
+}

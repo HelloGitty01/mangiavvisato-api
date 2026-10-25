@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/energy-mix-80-g-0/",
+ "titolo": "ENERGY MIX 80 G",
+ "data_pubblicazione": "2023-08-29",
+ "marca": "ENERGY MIX 80 G",
+ "denominazione": "ENERGY MIX 80 G",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ENERGY%20MIX%2080%20g%20L%20230718007_1761197472.pdf",
+ "allegati": [
+  {
+   "titolo": "ENERGY MIX 80 g L 230718007_1761197472.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ENERGY%20MIX%2080%20g%20L%20230718007_1761197472.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "energy-mix-80-g-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:25:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:03+00:00"
+}

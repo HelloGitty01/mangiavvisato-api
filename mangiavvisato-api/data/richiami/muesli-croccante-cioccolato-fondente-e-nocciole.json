@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-croccante-cioccolato-fondente-e-nocciole/",
+ "titolo": "MUESLI CROCCANTE CIOCCOLATO FONDENTE E NOCCIOLE",
+ "data_pubblicazione": "2023-08-08",
+ "marca": "DESPAR",
+ "denominazione": "MUESLI CROCCANTE CIOCCOLATO FONDENTE E NOCCIOLE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Despar_Muesli%20croccante%20cioccolato%20e%20nocciole_compilato_1761196804.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_RICHIAMO_Despar_Muesli croccante cioccolato e nocciole_compilato_1761196804.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Despar_Muesli%20croccante%20cioccolato%20e%20nocciole_compilato_1761196804.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "muesli-croccante-cioccolato-fondente-e-nocciole",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MUESLI CROCCANTE CIOCCOLATO FONDENTE E NOCCIOLE",
+  "operatore": "DESPAR ITALIA S.C.A.R.L.",
+  "lotti": [
+   "AL230503 - AL230530 - AL230627"
+  ],
+  "produttore": "LAMERI S.p.A.",
+  "sede_stabilimento": "VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)",
+  "scadenza": "03/05/2024",
+  "peso_volume": "375g",
+  "motivo_esteso": "Possibile presenza di corpi estranei (piccoli sassi)",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "03/08/2023 Marchio del prodotto: DESPAR"
+  },
+  "testo": "RICHIAMO\nData: 03/08/2023 Marchio del prodotto: DESPAR\nDenominazione di vendita:MUESLI CROCCANTE CIOCCOLATO FONDENTE E NOCCIOLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DESPAR ITALIA S.C.A.R.L.\ncommercializzato:\nLotto di produzione: AL230503 - AL230530 - AL230627\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LAMERI S.p.A.\nSede dello stabilimento: VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)\nData di scadenza o termine minimo di conservazione: 03/05/2024 -\nDescrizione peso/volume unità di vendita: 375g\nMotivo del richiamo:\nPossibile presenza di corpi estranei (piccoli sassi)\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:25:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:46+00:00"
+}

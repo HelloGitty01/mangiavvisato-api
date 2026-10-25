@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-pollo/",
+ "titolo": "Sigaro di Pollo",
+ "data_pubblicazione": "2024-04-22",
+ "marca": "Soc Agr La Vallata SAS",
+ "denominazione": "Sigaro di Pollo",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodipollo_1761201193.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamosigarodipollo_1761201193.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodipollo_1761201193.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "sigaro-di-pollo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:11:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:11:29+00:00"
+}

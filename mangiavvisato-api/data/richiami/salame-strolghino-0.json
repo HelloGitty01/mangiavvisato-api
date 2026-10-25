@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-strolghino-0/",
+ "titolo": "SALAME STROLGHINO",
+ "data_pubblicazione": "2024-02-23",
+ "marca": "RIALTO S.P.A.",
+ "denominazione": "SALAME STROLGHINO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20revoca%20richiamo%20Salame%20Strolghino%20_%20RIALTO_1761198910.pdf",
+ "allegati": [
+  {
+   "titolo": "richiesta revoca richiamo Salame Strolghino _ RIALTO_1761198910.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiesta%20revoca%20richiamo%20Salame%20Strolghino%20_%20RIALTO_1761198910.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-strolghino-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME STROLGHINO",
+  "operatore": "RIALTO S.P.A. VIA CLERICI, 342 - BRESSO (MI)",
+  "lotti": [
+   "L348"
+  ],
+  "marchio_identificazione": "IT Z8P23 CE",
+  "produttore": "ALL FOOD SRL",
+  "sede_stabilimento": "VIA PARTIGIANI D'ITALIA, 5 - 43029 TRAVERSETOLO (PR)",
+  "scadenza": "18-01-2024",
+  "peso_volume": "80g",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO PER PRESENZA DI LISTERIA MONOCYTOGENES",
+  "avvertenze": "SI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON CONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "23/02/2024 Marchio del prodotto: ASSAGGI E PAESAGGI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 23/02/2024 Marchio del prodotto: ASSAGGI E PAESAGGI\nDenominazione di vendita:SALAME STROLGHINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RIALTO S.P.A. VIA CLERICI, 342 - BRESSO (MI)\ncommercializzato:\nLotto di produzione: L348\nMarchio di identificazione dello stabilimento/del produttore: IT Z8P23 CE\nNome del produttore: ALL FOOD SRL\nSede dello stabilimento: VIA PARTIGIANI D'ITALIA, 5 - 43029 TRAVERSETOLO (PR)\nData di scadenza o termine minimo di conservazione: 18-01-2024\nDescrizione peso/volume unità di vendita: 80g\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO PER PRESENZA DI LISTERIA MONOCYTOGENES\nAvvertenze:\nSI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON\nCONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:18:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:13+00:00"
+}

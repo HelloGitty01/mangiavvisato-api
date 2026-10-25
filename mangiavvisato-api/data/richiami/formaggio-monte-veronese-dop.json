@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monte-veronese-dop/",
+ "titolo": "FORMAGGIO MONTE VERONESE DOP",
+ "data_pubblicazione": "2024-07-12",
+ "marca": "ITALIAMO",
+ "denominazione": "FORMAGGIO MONTE VERONESE DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Latterie%20venete_1761204486.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Latterie venete_1761204486.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Latterie%20venete_1761204486.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-monte-veronese-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO MONTE VERONESE DOP",
+  "lotti": [
+   "55Q24"
+  ],
+  "marchio_identificazione": "IT 05 104 CE",
+  "produttore": "Latterie Venete s.p.a.",
+  "sede_stabilimento": "via Bassanese 2, Vedelago (TV) 31050",
+  "scadenza": "22/09/2024",
+  "peso_volume": "Confezione da 250 grammi in atmosfera protettiva",
+  "motivo_esteso": "possibile contaminazione microbiologica da Listeria monocytogenes",
+  "avvertenze": "Non consumare. Riportare al punto vendita di acquisto. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "10/07/2024 Marchio del prodotto: ITALIAMO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 10/07/2024 Marchio del prodotto: ITALIAMO\nDenominazione di vendita: FORMAGGIO MONTE VERONESE DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 55Q24\nMarchio di identificazione dello stabilimento/del produttore: IT 05 104 CE\nNome del produttore: Latterie Venete s.p.a.\nSede dello stabilimento: via Bassanese 2, Vedelago (TV) 31050\nData di scadenza o termine minimo di conservazione: 22/09/2024\nDescrizione peso/volume unità di vendita: Confezione da 250 grammi in atmosfera protettiva\nMotivo del richiamo: possibile contaminazione microbiologica da Listeria monocytogenes\nAvvertenze: Non consumare. Riportare al punto vendita di acquisto.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:07:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:07:02+00:00"
+}

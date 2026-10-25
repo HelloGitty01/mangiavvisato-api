@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quinoa-bianca-3/",
+ "titolo": "QUINOA BIANCA",
+ "data_pubblicazione": "2023-04-11",
+ "marca": "CALLERIS - LINEA PIU'",
+ "denominazione": "QUINOA BIANCA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761194745.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_1761194745.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761194745.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "quinoa-bianca-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "QUINOA BIANCA",
+  "operatore": "CALLERIS SNC",
+  "lotti": [
+   "222159QU-222193QU-222207QU"
+  ],
+  "produttore": "AGRITRADE S.A.C.",
+  "sede_stabilimento": "PERU'",
+  "scadenza": "vedi Motivo del richiamo",
+  "peso_volume": "gr 500",
+  "motivo_esteso": "Rilevata presenza di Chloropyros e Chlorate all'interno dei lotti:222159QU TMC 08/12/23 - 222193QU TMC 12/01/24 - 222207QU TMC 26/01/24 - 222252QU TMC 09/03/24 - 222269QU TMC 26/03/24 - 222278QU TMC 05/04/24 - 222318QU TMC 14/05/24 - 223009QU TMC 09/07/24 - 223037QU TMC 06/08/24",
+  "avvertenze": "Non consumare il prodotto. Bloccarlo e identificarlo come non vendibile. - Attivare la procedura di richiamo dal mercato.",
+  "campi_extra": {
+   "Data": "03/04/2023 Marchio del prodotto: CALLERIS - LINEA PIU'"
+  },
+  "testo": "RICHIAMO\nData: 03/04/2023 Marchio del prodotto: CALLERIS - LINEA PIU'\nDenominazione di vendita:QUINOA BIANCA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CALLERIS SNC\ncommercializzato:\nLotto di produzione: 222159QU-222193QU-222207QU\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: AGRITRADE S.A.C.\nSede dello stabilimento: PERU'\nData di scadenza o termine minimo di conservazione: vedi Motivo del richiamo\nDescrizione peso/volume unità di vendita: gr 500\nMotivo del richiamo:\nRilevata presenza di Chloropyros e Chlorate all'interno dei lotti:222159QU TMC 08/12/23 - 222193QU TMC\n12/01/24 - 222207QU TMC 26/01/24 - 222252QU TMC 09/03/24 - 222269QU TMC 26/03/24 - 222278QU\nTMC 05/04/24 - 222318QU TMC 14/05/24 - 223009QU TMC 09/07/24 - 223037QU TMC 06/08/24\nAvvertenze:\n- Non consumare il prodotto. Bloccarlo e identificarlo come non vendibile.\n- Attivare la procedura di richiamo dal mercato."
+ },
+ "prima_rilevazione": "2026-10-25T07:32:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:51+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita-750g/",
+ "titolo": "Prosciutto cotto Alta Qualità 750g",
+ "data_pubblicazione": "2023-02-07",
+ "marca": "Il tagliere del Re",
+ "denominazione": "Prosciutto cotto Alta Qualità 750g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Prosciutto%20cotto%20AQ%20750g_1761193155.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_Prosciutto cotto AQ 750g_1761193155.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Prosciutto%20cotto%20AQ%20750g_1761193155.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "prosciutto-cotto-alta-qualita-750g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Prosciutto cotto Alta Qualità 750g",
+  "operatore": "ALDI S.r.l",
+  "lotti": [
+   "L225139"
+  ],
+  "marchio_identificazione": "IT 679L CE",
+  "produttore": "Motta S.R.L. Via Capuana 44, 20825 Barlassina (MB), Italia",
+  "sede_stabilimento": "21/02/2023 Date di scadenza o termine minimo di conservazione",
+  "peso_volume": "750 g",
+  "motivo_esteso": "Presenza dell’allergene soia non dichiarato in etichetta.",
+  "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "03/02/2 023 Marchio del prodotto: Il Tagliere del Re"
+  },
+  "testo": "RICHIAMO\nData: 03/02/2 023 Marchio del prodotto: Il Tagliere del Re\nDenominazione di vendita: Prosciutto cotto Alta Qualità 750g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta S.R.L.\nVia Capuana 44, 20825 Barlassina (MB), Italia\nSede dello stabilimento:\n21/02/2023\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 750 g\nMotivo del richiamo:\nPresenza dell’allergene soia non dichiarato in etichetta.\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali\nALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T07:39:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:43+00:00"
+}

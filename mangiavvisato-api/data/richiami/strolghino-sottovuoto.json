@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/strolghino-sottovuoto/",
+ "titolo": "STROLGHINO SOTTOVUOTO",
+ "data_pubblicazione": "2023-02-20",
+ "marca": "SALUMIFICIO GALLI REMO SRL IT 1212L CE",
+ "denominazione": "STROLGHINO SOTTOVUOTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLI%20REMO_Cartello%20Richiamo_1761193853.pdf",
+ "allegati": [
+  {
+   "titolo": "GALLI REMO_Cartello Richiamo_1761193853.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLI%20REMO_Cartello%20Richiamo_1761193853.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "strolghino-sottovuoto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:38:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:38:01+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maccagno/",
+ "titolo": "Maccagno",
+ "data_pubblicazione": "2022-09-09",
+ "marca": "Antoniotti Michela",
+ "denominazione": "Maccagno",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggio%20Maccagno_1761192118.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo formaggio Maccagno_1761192118.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggio%20Maccagno_1761192118.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "maccagno",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:46:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:46:28+00:00"
+}

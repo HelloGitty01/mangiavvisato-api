@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-dop/",
+ "titolo": "Gorgonzola Dolce DOP",
+ "data_pubblicazione": "2022-10-14",
+ "marca": "Pascoli Italiani",
+ "denominazione": "Gorgonzola Dolce DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.10.14%20_%20gorgonzola%20dolce%20300g%20_%20GELMINI%20_1__1761192209.pdf",
+ "allegati": [
+  {
+   "titolo": "2022.10.14 _ gorgonzola dolce 300g _ GELMINI _1__1761192209.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.10.14%20_%20gorgonzola%20dolce%20300g%20_%20GELMINI%20_1__1761192209.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dolce-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Gorgonzola Dolce DOP",
+  "operatore": "Eurospin Italia SpA",
+  "lotti": [
+   "218246252"
+  ],
+  "marchio_identificazione": "IT 03 39 CE",
+  "produttore": "Gelmini Carlo Srl",
+  "sede_stabilimento": "Via Papa Giovanni XXIII, 15 - 20080 Besate (Milano)",
+  "scadenza": "08.11.2022",
+  "peso_volume": "300 g",
+  "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14.10.2022 Marchio del prodotto: Pascoli Italiani",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14.10.2022 Marchio del prodotto: Pascoli Italiani\nDenominazione di vendita:Gorgonzola Dolce DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia SpA\ncommercializzato:\nLotto di produzione: 218246252\nMarchio di identificazione dello stabilimento/del produttore: IT 03 39 CE\nNome del produttore: Gelmini Carlo Srl\nSede dello stabilimento: Via Papa Giovanni XXIII, 15 - 20080 Besate (Milano)\nData di scadenza o termine minimo di conservazione: 08.11.2022\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:45:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:23+00:00"
+}

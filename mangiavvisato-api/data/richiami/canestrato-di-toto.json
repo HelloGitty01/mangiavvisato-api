@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/canestrato-di-toto/",
+ "titolo": "CANESTRATO DI TOTO'",
+ "data_pubblicazione": "2023-06-30",
+ "marca": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+ "denominazione": "CANESTRATO DI TOTO'",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023_1761196730.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO CANESTRATO DI TOTO_06042023_1761196730.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20CANESTRATO%20DI%20TOTO_06042023_1761196730.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "canestrato-di-toto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CANESTRATO DI TOTO'",
+  "operatore": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+  "lotti": [
+   "06/04/2023"
+  ],
+  "marchio_identificazione": "CE ITD6L2N",
+  "produttore": "C.P.F. SOC. COOP. PRODUTTORI FORMAGGI",
+  "sede_stabilimento": "VIA DEGLI ARTIGIANI 4 VETRALLA 01019 (VT)",
+  "scadenza": "06-12-2023",
+  "peso_volume": "FORMA 1,8 - 2 KG",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO",
+  "avvertenze": "NON VENDERE E RESTITUIRE AL FORNITORE CON BOLLA DI RESO",
+  "campi_extra": {
+   "Data": "27/06/2023 Marchio del prodotto: C.P.F. SOC. COOP. PRODUTTORI FORMAGGI"
+  },
+  "testo": "RICHIAMO\nData: 27/06/2023 Marchio del prodotto: C.P.F. SOC. COOP. PRODUTTORI FORMAGGI\nDenominazione di vendita:CANESTRATO DI TOTO'\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è C.P.F. SOC. COOP. PRODUTTORI FORMAGGI\ncommercializzato:\nLotto di produzione: 06/04/2023\nMarchio di identificazione dello stabilimento/del produttore: CE ITD6L2N\nNome del produttore: C.P.F. SOC. COOP. PRODUTTORI FORMAGGI\nSede dello stabilimento: VIA DEGLI ARTIGIANI 4 VETRALLA 01019 (VT)\nData di scadenza o termine minimo di conservazione: 06-12-2023\nDescrizione peso/volume unità di vendita: FORMA 1,8 - 2 KG\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO\nAvvertenze:\nNON VENDERE E RESTITUIRE AL FORNITORE CON BOLLA DI RESO"
+ },
+ "prima_rilevazione": "2026-10-25T07:28:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:21+00:00"
+}

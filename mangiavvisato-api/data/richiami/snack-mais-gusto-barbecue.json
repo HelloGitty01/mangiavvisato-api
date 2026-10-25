@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-mais-gusto-barbecue/",
+ "titolo": "Snack Mais gusto barbecue",
+ "data_pubblicazione": "2024-06-05",
+ "marca": "Clover chips",
+ "denominazione": "Snack Mais gusto barbecue",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761204261.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1761204261.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761204261.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "snack-mais-gusto-barbecue",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CLOVER CHIPS BBQ",
+  "operatore": "BEAGLEY COPPERMAN",
+  "lotti": [
+   "TUTTI"
+  ],
+  "produttore": "LESLIE'S FILIPPINE",
+  "scadenza": "TUTTI",
+  "peso_volume": "85G E 145G",
+  "motivo_esteso": "Nel prodotto e' presente GLUTINE non dichiarato in etichetta.",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/04/2024 Marchio del prodotto: CLOVER CHIPS BBQ",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: 22/04/2024 Marchio del prodotto: CLOVER CHIPS BBQ\nDenominazione di vendita: CLOVER CHIPS BBQ\nNome o ragione sociale dell'OSA\nBEAGLEY COPPERMAN\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: TUTTI\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LESLIE'S\nFILIPPINE\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: TUTTI\nDescrizione peso/volume unità di vendita: 85G E 145G\nMotivo del richiamo:\nNel prodotto e' presente GLUTINE non dichiarato in etichetta.\nAvvertenze:\nNON CONSUMARE IL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:09:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:09:03+00:00"
+}

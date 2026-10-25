@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/chocolate-cookies-25-150g/",
+ "titolo": "CHOCOLATE COOKIES 25% - 150G",
+ "data_pubblicazione": "2023-05-15",
+ "marca": "MERBA",
+ "denominazione": "CHOCOLATE COOKIES 25% - 150G",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Merba%20Chocolate%20Cookies_1761194905.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo_Merba Chocolate Cookies_1761194905.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo_Merba%20Chocolate%20Cookies_1761194905.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "chocolate-cookies-25-150g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:31:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:00+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg/",
+ "titolo": "CUORI DI ICEBERG",
+ "data_pubblicazione": "2023-01-26",
+ "marca": "DESPAR",
+ "denominazione": "CUORI DI ICEBERG",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMOCUORIDIICEBERG%20_1__1761193128.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLORICHIAMOCUORIDIICEBERG _1__1761193128.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMOCUORIDIICEBERG%20_1__1761193128.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cuori-di-iceberg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:39:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:59+00:00"
+}

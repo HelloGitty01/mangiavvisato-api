@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano/",
+ "titolo": "Riso Vialone Nano",
+ "data_pubblicazione": "2022-12-30",
+ "marca": "PRIX",
+ "denominazione": "Riso Vialone Nano",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4520_401%20Cartello%20richiamo%20PRIX%20vialone%20nano_1761193097.pdf",
+ "allegati": [
+  {
+   "titolo": "4520_401 Cartello richiamo PRIX vialone nano_1761193097.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/4520_401%20Cartello%20richiamo%20PRIX%20vialone%20nano_1761193097.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "riso-vialone-nano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Riso Vialone Nano",
+  "operatore": "Prix Quality S.p.A.",
+  "lotti": [
+   "L 14/11/2024"
+  ],
+  "marchio_identificazione": "A",
+  "produttore": "Curti S.r.l. con socio unico",
+  "sede_stabilimento": "Via Stazione 113, Valle Lomellina (PV)",
+  "scadenza": "14-11-2024",
+  "peso_volume": "1 kg e",
+  "motivo_esteso": "possibile presenza di Triciclazolo oltre i limiti di legge",
+  "avvertenze": "Non consumare e riconsegnare le confezioni presso il punto vendita. L'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con il termine minimo di conservazione 14/11/2024",
+  "campi_extra": {
+   "Data": "28/12/2022 Marchio del prodotto: PRIX"
+  },
+  "testo": "RICHIAMO\nData: 28/12/2022 Marchio del prodotto: PRIX\nDenominazione di vendita:Riso Vialone Nano\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Prix Quality S.p.A.\ncommercializzato:\nLotto di produzione: L 14/11/2024\nMarchio di identificazione dello stabilimento/del produttore: A\nNome del produttore: Curti S.r.l. con socio unico\nSede dello stabilimento: Via Stazione 113, Valle Lomellina (PV)\nData di scadenza o termine minimo di conservazione: 14-11-2024\nDescrizione peso/volume unità di vendita: 1 kg e\nMotivo del richiamo:\npossibile presenza di Triciclazolo oltre i limiti di legge\nAvvertenze:\nNon consumare e riconsegnare le confezioni presso il punto vendita.\nL'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con il termine minimo di\nconservazione 14/11/2024"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:18+00:00"
+}

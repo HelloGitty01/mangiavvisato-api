@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-baguette-0/",
+ "titolo": "SALAME BAGUETTE",
+ "data_pubblicazione": "2023-04-19",
+ "marca": "SALUMIFICIO COLOMBO LUIGI SRL",
+ "denominazione": "SALAME BAGUETTE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALUMIFICIO%20COLOMBO%2017%2004%202023_1761194788.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO SALUMIFICIO COLOMBO 17 04 2023_1761194788.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALUMIFICIO%20COLOMBO%2017%2004%202023_1761194788.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-baguette-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME BAGUETTE",
+  "operatore": "SALUMIFICIO COLOMBO LUIGI SRL",
+  "lotti": [
+   "667L07128 / 668L07128"
+  ],
+  "marchio_identificazione": "IT 1288 L CE",
+  "produttore": "SALUMIFICIO COLOMBO LUIGI SRL",
+  "sede_stabilimento": "PESCATE (LC), VIA ROMA 21 – 23855",
+  "scadenza": "11-06-2023",
+  "peso_volume": "KG 0.250",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al punto vendita",
+  "campi_extra": {
+   "Data": "17/04/2023 Marchio del prodotto: SALAME BAGUETTE"
+  },
+  "testo": "RICHIAMO\nData: 17/04/2023 Marchio del prodotto: SALAME BAGUETTE\nDenominazione di vendita:SALAME BAGUETTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO COLOMBO LUIGI SRL\ncommercializzato:\nLotto di produzione: 667L07128 / 668L07128\nMarchio di identificazione dello stabilimento/del produttore: IT 1288 L CE\nNome del produttore: SALUMIFICIO COLOMBO LUIGI SRL\nSede dello stabilimento: PESCATE (LC), VIA ROMA 21 – 23855\nData di scadenza o termine minimo di conservazione: 11-06-2023\nDescrizione peso/volume unità di vendita: KG 0.250\nMotivo del richiamo:\nMotivo del richiamo: RILEVATA PRESENZA DI SALMONELLA SPP\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e restituirlo al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:32:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:10+00:00"
+}

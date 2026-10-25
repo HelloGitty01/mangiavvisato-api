@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-carne-di-scottona-bovino-adulto/",
+ "titolo": "TARTARE – CARNE DI SCOTTONA – BOVINO ADULTO",
+ "data_pubblicazione": "2024-07-11",
+ "marca": "LIDL",
+ "denominazione": "TARTARE – CARNE DI SCOTTONA – BOVINO ADULTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761204479.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1761204479.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761204479.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tartare-carne-di-scottona-bovino-adulto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TARTARE – CARNE DI SCOTTONA – BOVINO ADULTO",
+  "operatore": "FIORANI & C. S.R.L.",
+  "lotti": [
+   "26324TK"
+  ],
+  "marchio_identificazione": "IT 592 S CE",
+  "produttore": "FIORANI & C. S.R.L.",
+  "sede_stabilimento": "VIA COPPALATI, 52 PIACENZA 29122",
+  "scadenza": "11/07/2024",
+  "peso_volume": "200g",
+  "motivo_esteso": "POSSIBILE CONTAMINAZIONE DA SALMONELLA",
+  "campi_extra": {
+   "Data": "10/07/2024 Marchio del prodotto: LIDL"
+  },
+  "testo": "RICHIAMO\nData: 10/07/2024 Marchio del prodotto: LIDL\nDenominazione di vendita: TARTARE – CARNE DI SCOTTONA – BOVINO ADULTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIORANI & C. S.R.L.\ncommercializzato:\nLotto di produzione: 26324TK\nMarchio di identificazione dello stabilimento/del produttore: IT 592 S CE\nNome del produttore: FIORANI & C. S.R.L.\nSede dello stabilimento: VIA COPPALATI, 52 PIACENZA 29122\nData di scadenza o termine minimo di conservazione: 11/07/2024\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE DA SALMONELLA\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:07:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:07:10+00:00"
+}

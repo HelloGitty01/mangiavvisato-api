@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/6-pancakes-al-cioccolato/",
+ "titolo": "6 Pancakes al cioccolato",
+ "data_pubblicazione": "2022-10-10",
+ "marca": "Bernard Jarnoux Crepier",
+ "denominazione": "6 Pancakes al cioccolato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192181.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1761192181.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192181.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "6-pancakes-al-cioccolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "data fine affissione 11/10/2022"
+ },
+ "prima_rilevazione": "2026-10-25T07:45:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:37+00:00"
+}

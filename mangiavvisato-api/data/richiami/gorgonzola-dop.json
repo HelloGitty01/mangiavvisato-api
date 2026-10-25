@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop/",
+ "titolo": "Gorgonzola DOP",
+ "data_pubblicazione": "2023-12-16",
+ "marca": "Caseificio Latini",
+ "denominazione": "Gorgonzola DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_latini%20GORGONZOLA%20DOP_1761197710.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo_latini GORGONZOLA DOP_1761197710.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_latini%20GORGONZOLA%20DOP_1761197710.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:20:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:41+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-pane-e-pizza/",
+ "titolo": "PREPARATO PANE E PIZZA",
+ "data_pubblicazione": "2024-04-09",
+ "marca": "TRE MULINI",
+ "denominazione": "PREPARATO PANE E PIZZA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20TRE%20MULINI%20LV23005666_1761199820.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo TRE MULINI LV23005666_1761199820.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20TRE%20MULINI%20LV23005666_1761199820.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-pane-e-pizza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:14:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:14:19+00:00"
+}

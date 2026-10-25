@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata/",
+ "titolo": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+ "data_pubblicazione": "2023-04-18",
+ "marca": "TOMINO DEL CANAVESE NONNO CASARO",
+ "denominazione": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tomino%20del%20Canavese%20nonno%20casaro_1761194782.pdf",
+ "allegati": [
+  {
+   "titolo": "Tomino del Canavese nonno casaro_1761194782.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tomino%20del%20Canavese%20nonno%20casaro_1761194782.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-pasta-molle-con-crosta-edibile-leggermente-muffettata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA",
+  "operatore": "CASEIFICIO LONGO SRL",
+  "lotti": [
+   "1074"
+  ],
+  "marchio_identificazione": "IT L7A1W CE",
+  "produttore": "CASEIFICIO LONGO SRL",
+  "sede_stabilimento": "VIA LEONARDO DA VINCI 43 - 10086 RIVAROLO (TO)",
+  "scadenza": "29-04-2023",
+  "peso_volume": "180 g",
+  "motivo_esteso": "Possibile presenza di Salmonella spp",
+  "avvertenze": "Non consumare e riportare presso il punto vendita dove è stato acquistato Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "17/04/2023 Marchio del prodotto: TOMINO DEL CANAVESE NONNO CASARO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 17/04/2023 Marchio del prodotto: TOMINO DEL CANAVESE NONNO CASARO\nDenominazione di vendita:FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE MUFFETTATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO LONGO SRL\ncommercializzato:\nLotto di produzione: 1074\nMarchio di identificazione dello stabilimento/del produttore: IT L7A1W CE\nNome del produttore: CASEIFICIO LONGO SRL\nSede dello stabilimento: VIA LEONARDO DA VINCI 43 - 10086 RIVAROLO (TO)\nData di scadenza o termine minimo di conservazione: 29-04-2023\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\nPossibile presenza di Salmonella spp\nAvvertenze:\nNon consumare e riportare presso il punto vendita dove è stato acquistato\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:32:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:21+00:00"
+}

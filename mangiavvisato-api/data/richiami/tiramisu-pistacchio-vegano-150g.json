@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-150g/",
+ "titolo": "Tiramisù pistacchio vegano 150g",
+ "data_pubblicazione": "2023-02-08",
+ "marca": "Mascherpa tiramisù",
+ "denominazione": "Tiramisù pistacchio vegano 150g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20150g_1761193177.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo tiramisu¿ pistacchio vegano 150g_1761193177.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20150g_1761193177.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tiramisu-pistacchio-vegano-150g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tiramisù pistacchio vegano",
+  "operatore": "GLG srl",
+  "lotti": [
+   "tutti i lotti"
+  ],
+  "marchio_identificazione": "GLG srl",
+  "produttore": "GLG srl",
+  "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+  "scadenza": "tutte le scadenze",
+  "peso_volume": "150g",
+  "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisù pistacchio vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:39:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:26+00:00"
+}

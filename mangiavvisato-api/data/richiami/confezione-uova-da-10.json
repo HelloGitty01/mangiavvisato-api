@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-uova-da-10/",
+ "titolo": "CONFEZIONE UOVA DA 10",
+ "data_pubblicazione": "2024-06-23",
+ "marca": "AZIENDA AGRICOLA VANZELLI GINO",
+ "denominazione": "CONFEZIONE UOVA DA 10",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%202_1761204322.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello 2_1761204322.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%202_1761204322.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "confezione-uova-da-10",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:08:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:18+00:00"
+}

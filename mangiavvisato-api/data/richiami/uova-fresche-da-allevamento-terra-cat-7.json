@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-terra-cat-7/",
+ "titolo": "Uova fresche da allevamento a terra Cat A",
+ "data_pubblicazione": "2024-08-27",
+ "marca": "Delizie del Sole",
+ "denominazione": "Uova fresche da allevamento a terra Cat A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Uova%20medie%20all%20terra%2010pz%20_%20CASCINA%20ITALIA%20_%20LA%20SPESA%20INTELLIGENTE_1761205422.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO DI RICHIAMO_Uova medie all terra 10pz _ CASCINA ITALIA _ LA SPESA INTELLIGENTE_1761205422.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20DI%20RICHIAMO_Uova%20medie%20all%20terra%2010pz%20_%20CASCINA%20ITALIA%20_%20LA%20SPESA%20INTELLIGENTE_1761205422.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-da-allevamento-terra-cat-7",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA MEDIE DA ALLEVAMENTO A TERRA 10 PEZZI",
+  "operatore": "Eurospin Italia SpA",
+  "lotti": [
+   "L:4700629926",
+   "L:4832759926",
+   "L:4282789926"
+  ],
+  "marchio_identificazione": "C.I. N° IT016064",
+  "produttore": "Cascina Italia SpA",
+  "sede_stabilimento": "Via Campo Romano, snc - Spirano (Bergamo)",
+  "scadenza": "31/08/2024; 01/09/2024; 12/09/2024",
+  "peso_volume": "10 pezzi",
+  "motivo_esteso": "Possibile presenza di Salmonella",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso.",
+  "campi_extra": {
+   "Data": "26/08/2024 Marchio del prodotto: DELIZIE DAL SOLE"
+  },
+  "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto: DELIZIE DAL SOLE\nDenominazione di vendita:UOVA MEDIE DA ALLEVAMENTO A TERRA 10 PEZZI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia SpA\ncommercializzato:\nLotto di produzione: L:4700629926; L:4832759926; L:4282789926\nMarchio di identificazione dello stabilimento/del produttore: C.I. N° IT016064\nNome del produttore: Cascina Italia SpA\nSede dello stabilimento: Via Campo Romano, snc - Spirano (Bergamo)\nData di scadenza o termine minimo di conservazione: 31/08/2024; 01/09/2024; 12/09/2024\nDescrizione peso/volume unità di vendita: 10 pezzi\nMotivo del richiamo:\nPossibile presenza di Salmonella\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso."
+ },
+ "prima_rilevazione": "2026-10-25T07:03:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:03:45+00:00"
+}

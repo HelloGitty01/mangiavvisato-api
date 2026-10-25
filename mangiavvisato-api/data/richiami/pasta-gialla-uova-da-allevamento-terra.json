@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-gialla-uova-da-allevamento-terra/",
+ "titolo": "Pasta Gialla Uova da allevamento a terra",
+ "data_pubblicazione": "2023-05-02",
+ "marca": "Pasta Gialla",
+ "denominazione": "Pasta Gialla Uova da allevamento a terra",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloRichiamoaggiornato_1761194883.pdf",
+ "allegati": [
+  {
+   "titolo": "CartelloRichiamoaggiornato_1761194883.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloRichiamoaggiornato_1761194883.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-gialla-uova-da-allevamento-terra",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:31:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:31:19+00:00"
+}

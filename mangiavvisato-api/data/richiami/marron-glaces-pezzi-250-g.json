@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marron-glaces-pezzi-250-g/",
+ "titolo": "Marron Glacés in pezzi - 250 g",
+ "data_pubblicazione": "2023-11-23",
+ "marca": "Esselunga TOP",
+ "denominazione": "Marron Glacés in pezzi - 250 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761197583.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_1761197583.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761197583.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "marron-glaces-pezzi-250-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Marrons Glacés in pezzi - 250 g",
+  "operatore": "Esselunga SpA",
+  "lotti": [
+   "vedi motivo richiamo"
+  ],
+  "produttore": "Raffael S.r.l.",
+  "sede_stabilimento": "Via Leone 4 - Montoro (AV)",
+  "scadenza": "03/2024",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Possibile presenza di anidride solforosa non dichiarato in etichetta sui lotti L3O10-C084, L3O18-C094 e L3O27-C101.",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "23/11/2023 Marchio del prodotto: Esselunga TOP",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 23/11/2023 Marchio del prodotto: Esselunga TOP\nDenominazione di vendita:Marrons Glacés in pezzi - 250 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Esselunga SpA\ncommercializzato:\nLotto di produzione: vedi motivo richiamo\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Raffael S.r.l.\nSede dello stabilimento: Via Leone 4 - Montoro (AV)\nData di scadenza o termine minimo di conservazione: 03/2024\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPossibile presenza di anidride solforosa non dichiarato in etichetta sui lotti L3O10-C084, L3O18-C094 e\nL3O27-C101.\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:22:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:22:01+00:00"
+}

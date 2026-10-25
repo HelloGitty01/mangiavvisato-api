@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cheesecake-mango/",
+ "titolo": "Cheesecake mango",
+ "data_pubblicazione": "2023-02-23",
+ "marca": "Mascherpa",
+ "denominazione": "Cheesecake mango",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20mango_1761193875.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo cheesecake mango_1761193875.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20mango_1761193875.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cheesecake-mango",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:37:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:37:02+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-suino/",
+ "titolo": "Sigaro di Suino",
+ "data_pubblicazione": "2024-04-22",
+ "marca": "Soc Agr La Vallata SAS",
+ "denominazione": "Sigaro di Suino",
+ "motivo": "Altro motivo di revoca",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodisuino_1761201188.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamosigarodisuino_1761201188.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodisuino_1761201188.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "sigaro-di-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:11:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:11:27+00:00"
+}

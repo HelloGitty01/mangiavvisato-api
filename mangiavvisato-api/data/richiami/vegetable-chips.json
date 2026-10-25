@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vegetable-chips/",
+ "titolo": "VEGETABLE CHIPS",
+ "data_pubblicazione": "2023-03-06",
+ "marca": "AMICA CHIPS",
+ "denominazione": "VEGETABLE CHIPS",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_AMICA_CHIPS_1761193953.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_AMICA_CHIPS_1761193953.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_AMICA_CHIPS_1761193953.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vegetable-chips",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ORTOLANA",
+  "operatore": "AMICA CHIPS S.P.A.",
+  "lotti": [
+   "080587"
+  ],
+  "marchio_identificazione": "YELLOW CHIPS B.V.",
+  "produttore": "YELLOW CHIPS B.V.",
+  "sede_stabilimento": "PAESI BASSI",
+  "scadenza": "25/03/23",
+  "peso_volume": "100g",
+  "motivo_esteso": "LIVELLI ALTI DI ACRILAMMIDE",
+  "avvertenze": "SI PREGA DI RIPORTARE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "03/03/2023 Marchio del prodotto: AMICA CHIPS"
+  },
+  "testo": "RICHIAMO\nData: 03/03/2023 Marchio del prodotto: AMICA CHIPS\nDenominazione di vendita:ORTOLANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AMICA CHIPS S.P.A.\ncommercializzato:\nLotto di produzione: 080587\nMarchio di identificazione dello stabilimento/del produttore: YELLOW CHIPS B.V.\nNome del produttore: YELLOW CHIPS B.V.\nSede dello stabilimento: PAESI BASSI\nData di scadenza o termine minimo di conservazione: 25/03/23\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nLIVELLI ALTI DI ACRILAMMIDE\nAvvertenze:\nSI PREGA DI RIPORTARE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:36:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:17+00:00"
+}

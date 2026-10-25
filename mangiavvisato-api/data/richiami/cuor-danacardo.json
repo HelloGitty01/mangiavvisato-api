@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-danacardo/",
+ "titolo": "Cuor d'anacardo",
+ "data_pubblicazione": "2024-03-27",
+ "marca": "Fermaggio®",
+ "denominazione": "Cuor d'anacardo",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Richiamo%20Cuor%20d_anacardo%2022%2003%202024_1761199630.pdf",
+ "allegati": [
+  {
+   "titolo": "3 Richiamo Cuor d_anacardo 22 03 2024_1761199630.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Richiamo%20Cuor%20d_anacardo%2022%2003%202024_1761199630.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cuor-danacardo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cuor d’anacardo",
+  "operatore": "Rondina’s food srls L0000895 EXP 21/03/24 L0000895D EXP 26/03/24 L0000910 EXP 03/04/24",
+  "lotti": [
+   "L0000920 EXP 11/04/24 L0000928 EXP 16/04/24 L0000934 EXP 19/04/24 L0000943 EXP 24/04/24 L0000945 EXP 29/04/24 L0000950 EXP 01/05/24 L0000959 EXP 04/05/24 L0000968 EXP 11/05/24"
+  ],
+  "marchio_identificazione": "Fermaggio®",
+  "produttore": "Rondina’s food srls",
+  "sede_stabilimento": "Via dell’artigianato 3 00033 Cave RM 21/03/24 26/03/24 03/04/24 11/04/24 16/04/24 19/04/24 24/04/24 29/04/24 01/05/24 04/05/24 11/05/24",
+  "scadenza": "140 g",
+  "motivo_esteso": "Presenza allergeni non dichiarati in etichetta sesamo e senape",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a non consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: Fermaggio®",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: Fermaggio®\nDenominazione di vendita: Cuor d’anacardo\nNome o ragione sociale dell'OSA Rondina’s food srls\na nome del quale il prodotto è\ncommercializzato:\nL0000895 EXP 21/03/24 L0000895D EXP 26/03/24 L0000910 EXP 03/04/24\nLotto di produzione: L0000920 EXP 11/04/24 L0000928 EXP 16/04/24 L0000934 EXP 19/04/24\nL0000943 EXP 24/04/24 L0000945 EXP 29/04/24\nL0000950 EXP 01/05/24 L0000959 EXP 04/05/24\nL0000968 EXP 11/05/24\nMarchio di identificazione dello stabilimento/del produttore: Fermaggio®\nNome del produttore: Rondina’s food srls\nSede dello stabilimento: Via dell’artigianato 3 00033 Cave RM\n21/03/24 26/03/24 03/04/24 11/04/24 16/04/24 19/04/24\n24/04/24 29/04/24 01/05/24 04/05/24 11/05/24\nData di scadenza o termine minimo di conservazione:\n140 g\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nPresenza allergeni non dichiarati in etichetta sesamo e senape\nAvvertenze:\nProdotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a\nnon consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:16:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:00+00:00"
+}

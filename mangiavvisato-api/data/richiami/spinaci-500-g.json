@@ -1,0 +1,49 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-500-g/",
+ "titolo": "SPINACI 500 g",
+ "data_pubblicazione": "2024-08-05",
+ "marca": "I Colori del sapore",
+ "denominazione": "SPINACI 500 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Spinaci%20500g%20_1__1761205341.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello _ Spinaci 500g _1__1761205341.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Spinaci%20500g%20_1__1761205341.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "spinaci-500-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Spinaci 500g",
+  "operatore": "ALDI S.r.l",
+  "lotti": [
+   "L 204",
+   "L 205",
+   "L 206",
+   "L 207",
+   "L 208",
+   "L 209",
+   "L 210",
+   "L 211",
+   "L 212"
+  ],
+  "marchio_identificazione": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI",
+  "produttore": "AZIENDA AGRICOLA AMBRUOSI & VISCARDI VIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM)",
+  "sede_stabilimento": "28/07/2024, 29/07/2024, 30/07/2024, Date di scadenza o termine minimo di conservazione: 31/07/2024, 1/08/2024, 2/08/2024, 3/08/2024, 4/08/2024, 5/08/2024",
+  "peso_volume": "500g",
+  "motivo_esteso": "Possibile presenza di erba infestante tossica (Datura stramonium L.)",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "01/08/2 024 Marchio del prodotto: I Colori del Sapore"
+  },
+  "testo": "RICHIAMO\nData: 01/08/2 024 Marchio del prodotto: I Colori del Sapore\nDenominazione di vendita: Spinaci 500g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: L 204, L 205, L 206, L 207, L 208, L 209, L 210, L 211, L 212\nMarchio di identificazione dello stabilimento/del produttore: AZIENDA AGRICOLA AMBRUOSI & VISCARDI\nNome del produttore: AZIENDA AGRICOLA AMBRUOSI & VISCARDI\nVIA GABBIE, 345, 63811, SANT'ELPIDIO A MARE (FM)\nSede dello stabilimento:\n28/07/2024, 29/07/2024, 30/07/2024,\nDate di scadenza o termine minimo di conservazione:\n31/07/2024, 1/08/2024, 2/08/2024, 3/08/2024,\n4/08/2024, 5/08/2024\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPossibile presenza di erba infestante tossica (Datura stramonium L.)\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T07:05:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:05:09+00:00"
+}

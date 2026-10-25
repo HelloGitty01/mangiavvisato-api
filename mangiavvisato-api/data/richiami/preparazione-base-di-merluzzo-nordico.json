@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-base-di-merluzzo-nordico/",
+ "titolo": "Preparazione a base di merluzzo nordico.",
+ "data_pubblicazione": "2022-11-14",
+ "marca": "Sødergården",
+ "denominazione": "Preparazione a base di merluzzo nordico.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/torta_PESCE_Allegato%204%20_%20MODELLO_DI_RICHIAMO_1761192943.pdf",
+ "allegati": [
+  {
+   "titolo": "torta_PESCE_Allegato 4 _ MODELLO_DI_RICHIAMO_1761192943.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/torta_PESCE_Allegato%204%20_%20MODELLO_DI_RICHIAMO_1761192943.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparazione-base-di-merluzzo-nordico",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "non indicato DK 4047 EF Jeka Fish A/S Havnen 70",
+   "DK-7620 Lemvig 06.12.2022 340g Rischio microbiologico (Listeria). Prodotto da consumarsi previa cottura. Richiamo precauzionale. Si invitano i consumatori a non consumare il prodotto",
+   "a riportarlo al punto vendita per il rimborso."
+  ],
+  "testo": "Allegato 4\n11.11.2022 Sødergården\nPreparazione a base di merluzzo nordico.\nJeka Fish A/S\nLotto non indicato\nDK 4047 EF\nJeka Fish A/S\nHavnen 70, DK-7620 Lemvig\n06.12.2022\n340g\nRischio microbiologico (Listeria).\nProdotto da consumarsi previa cottura. Richiamo precauzionale. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso."
+ },
+ "prima_rilevazione": "2026-10-25T07:43:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:29+00:00"
+}

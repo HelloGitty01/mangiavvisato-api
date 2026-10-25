@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/macedonia-stagionale-200-g/",
+ "titolo": "Macedonia Stagionale 200 g",
+ "data_pubblicazione": "2024-02-28",
+ "marca": "Arandis",
+ "denominazione": "Macedonia Stagionale 200 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761198918.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo_1761198918.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761198918.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "macedonia-stagionale-200-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MACEDONIA STAGIONALE 200g",
+  "operatore": "ARANDIS SOCIETA' AGRICOLA SRL",
+  "lotti": [
+   "12259 - 12306 - 12951 - 13008"
+  ],
+  "produttore": "CONSORZIO AGRIBOLOGNA SOC. COOP. AGR. - VIA DELLE VITI, 7 BOLOGNA (BO)",
+  "sede_stabilimento": "VIA FERRARA, 6 - 40018 SAN PIETRO IN CASALE (BO)",
+  "scadenza": "22/02/2024, 24/02/2024, 25/02/2024, 26/02/2024",
+  "peso_volume": "200g",
+  "motivo_esteso": "Etichettatura errata per mancata evidenza dell'allergene NOCI all'interno della lista ingredienti",
+  "avvertenze": "Evitare il consumo del prodotto se il soggetto è allergico all'ingrediente NOCI Si raccomanda al consumatore che ha acquistato il prodotto avente il lotto indicato sulla confezione di restituirlo al punto vendita.",
+  "campi_extra": {
+   "Data": "21/02/2024 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 21/02/2024 Marchio del prodotto:\nDenominazione di vendita:MACEDONIA STAGIONALE 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ARANDIS SOCIETA' AGRICOLA SRL\ncommercializzato:\nLotto di produzione: 12259 - 12306 - 12951 - 13008\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: CONSORZIO AGRIBOLOGNA SOC. COOP. AGR. - VIA DELLE VITI, 7 BOLOGNA (BO)\nSede dello stabilimento: VIA FERRARA, 6 - 40018 SAN PIETRO IN CASALE (BO)\nData di scadenza o termine minimo di conservazione: 22/02/2024, 24/02/2024, 25/02/2024, 26/02/2024\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nEtichettatura errata per mancata evidenza dell'allergene NOCI all'interno della lista ingredienti\nAvvertenze:\nEvitare il consumo del prodotto se il soggetto è allergico all'ingrediente NOCI\nSi raccomanda al consumatore che ha acquistato il prodotto avente il lotto indicato sulla confezione di\nrestituirlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:18:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:10+00:00"
+}

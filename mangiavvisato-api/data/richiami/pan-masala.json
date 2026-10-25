@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pan-masala/",
+ "titolo": "Pan Masala",
+ "data_pubblicazione": "2023-12-05",
+ "marca": "Pan Parag",
+ "denominazione": "Pan Masala",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%205_12_23_1761197666.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo 5_12_23_1761197666.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%205_12_23_1761197666.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pan-masala",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:21:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:07+00:00"
+}

@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bistecche-di-pesce-spada-sashimi/",
+ "titolo": "BISTECCHE DI PESCE SPADA SASHIMI",
+ "data_pubblicazione": "2024-07-24",
+ "marca": "URBIS FOOD SRL,",
+ "denominazione": "BISTECCHE DI PESCE SPADA SASHIMI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20COMPLETO%20URBIS%20FOOD_1761205246.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO DI RICHIAMO COMPLETO URBIS FOOD_1761205246.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20COMPLETO%20URBIS%20FOOD_1761205246.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bistecche-di-pesce-spada-sashimi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:22+00:00"
+}

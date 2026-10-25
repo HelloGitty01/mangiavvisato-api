@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-alla-genovese/",
+ "titolo": "Pesto alla Genovese",
+ "data_pubblicazione": "2023-12-21",
+ "marca": "COOP",
+ "denominazione": "Pesto alla Genovese",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20I_1_1761197720.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato I_1_1761197720.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20I_1_1761197720.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-alla-genovese",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:20:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:36+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-molle-tomino-piemontese/",
+ "titolo": "Formaggio a pasta molle \"Tomino piemontese\"",
+ "data_pubblicazione": "2023-04-17",
+ "marca": "Caseificio Longo Srl",
+ "denominazione": "Formaggio a pasta molle \"Tomino piemontese\"",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/721408_Cartello%20Richiamo_1761194773.pdf",
+ "allegati": [
+  {
+   "titolo": "721408_Cartello Richiamo_1761194773.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/721408_Cartello%20Richiamo_1761194773.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-pasta-molle-tomino-piemontese",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE FIORITA",
+  "operatore": "CASEIFICIO LONGO SRL",
+  "lotti": [
+   "1074"
+  ],
+  "marchio_identificazione": "IT L7A1W CE",
+  "produttore": "CASEIFICIO LONGO SRL",
+  "sede_stabilimento": "VIA LEONARDO DA VINCI 43 -10086 RIVAROLO CANAVESE (TO)",
+  "scadenza": "27-04-2023",
+  "peso_volume": "180 GRAMMI",
+  "motivo_esteso": "Possibile presenza di Salmonella.",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 29/04/2023. In caso di necessità contattare: 0124/428247 e/o info@caseificiolongo.it Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "13/04/2023 Marchio del prodotto: CUOR DI TERRA",
+   "In caso di necessità contattare": "0124/428247 e/o info@caseificiolongo.it",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 13/04/2023 Marchio del prodotto: CUOR DI TERRA\nDenominazione di vendita:FORMAGGIO A PASTA MOLLE CON CROSTA EDIBILE LEGGERMENTE FIORITA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO LONGO SRL\ncommercializzato:\nLotto di produzione: 1074\nMarchio di identificazione dello stabilimento/del produttore: IT L7A1W CE\nNome del produttore: CASEIFICIO LONGO SRL\nSede dello stabilimento: VIA LEONARDO DA VINCI 43 -10086 RIVAROLO CANAVESE (TO)\nData di scadenza o termine minimo di conservazione: 27-04-2023\nDescrizione peso/volume unità di vendita: 180 GRAMMI\nMotivo del richiamo:\nPossibile presenza di Salmonella.\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al\npunto vendita per la sostituzione o rimborso entro il 29/04/2023.\nIn caso di necessità contattare: 0124/428247 e/o info@caseificiolongo.it\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:32:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:24+00:00"
+}

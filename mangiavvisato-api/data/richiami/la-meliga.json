@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-meliga/",
+ "titolo": "LA MELIGA",
+ "data_pubblicazione": "2023-07-20",
+ "marca": "MARIO SENZA GLUTINE",
+ "denominazione": "LA MELIGA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_RICHIAMO_1761196766.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_RICHIAMO_1761196766.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_RICHIAMO_1761196766.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "la-meliga",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:27:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:27:36+00:00"
+}

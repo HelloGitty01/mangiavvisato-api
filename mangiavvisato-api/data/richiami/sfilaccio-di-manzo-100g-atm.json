@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilaccio-di-manzo-100g-atm/",
+ "titolo": "sfilaccio di manzo 100g atm",
+ "data_pubblicazione": "2023-03-18",
+ "marca": "Coppiello Giovanni srl",
+ "denominazione": "sfilaccio di manzo 100g atm",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20bovino%20100%20g%20_1__1761194100.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo sfilacci di bovino 100 g _1__1761194100.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20sfilacci%20di%20bovino%20100%20g%20_1__1761194100.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sfilaccio-di-manzo-100g-atm",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:34:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:34:42+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brillo-di-treviso-gr-380/",
+ "titolo": "Brillo di TREVISO gr. 380",
+ "data_pubblicazione": "2022-12-23",
+ "marca": "ACCADEMIA DEL FORMAGGIO",
+ "denominazione": "Brillo di TREVISO gr. 380",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOBRILLOLOTTO08162J22_1761193081.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLODIRICHIAMOBRILLOLOTTO08162J22_1761193081.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLODIRICHIAMOBRILLOLOTTO08162J22_1761193081.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "brillo-di-treviso-gr-380",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Brillo di TREVISO gr.380",
+  "operatore": "LA CASEARIA CARPENEDO SRL",
+  "lotti": [
+   "08162J22"
+  ],
+  "marchio_identificazione": "IT 05 294 CE",
+  "produttore": "LA CASEARIA CARPENEDO SRL",
+  "sede_stabilimento": "VIA SANTANDRA' N.17 POVEGLIANO (TV)",
+  "scadenza": "04/2023*",
+  "peso_volume": "forma intera da gr 380 c.ca sottovuoto e incarto",
+  "motivo_esteso": "RILEVATA NON CONFORMITA' MICROBIOLOGICA (PRESENZA DI LISTERIA)",
+  "avvertenze": "Prodotto non idoneo al consumo. Si invita il consumatore a riportare il prodotto presso il punto vendita. Si invita a verificare il lotto per capire se il prodotto è coinvolto. Gli altri prodotti a marchio non sono coinvolti. *il prodotto riporta le seguenti scadenze:13/03/23 - 16/03/23 - 05/04/23 - 09/04/23 -12/04/23 - 13/04/23",
+  "campi_extra": {
+   "Data": "22/12/2022 Marchio del prodotto: ACCADEMIA DEL FORMAGGIO"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 22/12/2022 Marchio del prodotto: ACCADEMIA DEL FORMAGGIO\nDenominazione di vendita:Brillo di TREVISO gr.380\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA CASEARIA CARPENEDO SRL\ncommercializzato:\nLotto di produzione: 08162J22\nMarchio di identificazione dello stabilimento/del produttore: IT 05 294 CE\nNome del produttore: LA CASEARIA CARPENEDO SRL\nSede dello stabilimento: VIA SANTANDRA' N.17 POVEGLIANO (TV)\nData di scadenza o termine minimo di conservazione: 04/2023*\nDescrizione peso/volume unità di vendita: forma intera da gr 380 c.ca sottovuoto e incarto\nMotivo del richiamo:\nRILEVATA NON CONFORMITA' MICROBIOLOGICA (PRESENZA DI LISTERIA)\nAvvertenze:\nProdotto non idoneo al consumo. Si invita il consumatore a riportare il prodotto presso il punto vendita.\nSi invita a verificare il lotto per capire se il prodotto è coinvolto.\nGli altri prodotti a marchio non sono coinvolti.\n*il prodotto riporta le seguenti scadenze:13/03/23 - 16/03/23 - 05/04/23 - 09/04/23 -12/04/23 - 13/04/23"
+ },
+ "prima_rilevazione": "2026-10-25T07:40:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:40:50+00:00"
+}

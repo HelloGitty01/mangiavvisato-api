@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-cock-di-pollo-e-tacchino/",
+ "titolo": "LE COCK DI POLLO E TACCHINO",
+ "data_pubblicazione": "2022-11-18",
+ "marca": "SALUMIFICIO SCARLINO SRL",
+ "denominazione": "LE COCK DI POLLO E TACCHINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20LeCock%20PT%20020323L1_1761192953.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo LeCock PT 020323L1_1761192953.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20LeCock%20PT%20020323L1_1761192953.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "le-cock-di-pollo-e-tacchino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "SALUMIFICIO SCARLINO SRL c ommercializzato",
+  "lotti": [
+   "02/03/23L1 M archio di identificazione de llo stabilimento/del produttore: IT1253L"
+  ],
+  "produttore": "SALUMIFICIO SCARLINO SRL S ede dello stabilimento: SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE) D ata di scadenza o termine minimo di conservazione: 02-03-2023 D escrizione peso/volume unità di vendita: 10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)",
+  "motivo_esteso": "RISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER RILEVATA PRESENZA DI SALMONELLA SPP",
+  "avvertenze": "IL PRODOTTO NON DEVE ESSERE CONSUMATO MA RIPORTATO NEL LUOGO DI ACQUIST O 1 3 2",
+  "campi_extra": {
+   "D ata": "14/11/2022 Marchio del prodotto: SCARLINO",
+   "D enominazione di vendita": "LE C OCK DI POLLO E TACCHINO",
+   "S ede dello stabilimento": "SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE)",
+   "D ata di scadenza o termine minimo di conservazione": "02-03-2023",
+   "D escrizione peso/volume unità di vendita": "10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)"
+  },
+  "testo": "RICHIAMO\nD ata: 14/11/2022 Marchio del prodotto: SCARLINO\nD enominazione di vendita: LE C OCK DI POLLO E TACCHINO\nNome o ragione sociale dell'OSA a\nnome del quale il prodotto è SALUMIFICIO SCARLINO SRL\nc ommercializzato:\nLotto di produzione: 02/03/23L1\nM archio di identificazione de llo stabilimento/del produttore: IT1253L\nNome del produttore: SALUMIFICIO SCARLINO SRL\nS ede dello stabilimento: SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE)\nD ata di scadenza o termine minimo di conservazione: 02-03-2023\nD escrizione peso/volume unità di vendita: 10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)\nMotivo del richiamo:\nRISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER RILEVATA PRESENZA DI SALMONELLA SPP\nAvvertenze:\nIL PRODOTTO NON DEVE ESSERE CONSUMATO MA RIPORTATO NEL LUOGO DI ACQUIST O\n1 3\n2"
+ },
+ "prima_rilevazione": "2026-10-25T07:43:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:04+00:00"
+}

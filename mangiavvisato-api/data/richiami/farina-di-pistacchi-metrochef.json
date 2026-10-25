@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-pistacchi-metrochef/",
+ "titolo": "FARINA DI PISTACCHI METROCHEF",
+ "data_pubblicazione": "2024-08-14",
+ "marca": "METROCHEF",
+ "denominazione": "FARINA DI PISTACCHI METROCHEF",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_farina%20pistacchio_1761205376.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_farina pistacchio_1761205376.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_farina%20pistacchio_1761205376.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-pistacchi-metrochef",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARINA DI PISTACCHI METROCHEF",
+  "operatore": "MCC Trading Deutschland GmbH",
+  "lotti": [
+   "L002414105031"
+  ],
+  "produttore": "Importaco Food Service",
+  "sede_stabilimento": "Ctra. Real de Madrid, 85-89, 46469 Beniparrell (Valencia),SPAIN",
+  "scadenza": "20-05-2025",
+  "peso_volume": "SACCHETTO in plastica DA 500 grammi",
+  "motivo_esteso": "richiamo cautelativo per presenza alto livello di ocratossine",
+  "avvertenze": " ",
+  "campi_extra": {
+   "Data": "12/08/2024 Marchio del prodotto: METROCHEF"
+  },
+  "testo": "RICHIAMO\nData: 12/08/2024 Marchio del prodotto: METROCHEF\nDenominazione di vendita:FARINA DI PISTACCHI METROCHEF\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MCC Trading Deutschland GmbH\ncommercializzato:\nLotto di produzione: L002414105031\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Importaco Food Service\nSede dello stabilimento: Ctra. Real de Madrid, 85-89, 46469 Beniparrell (Valencia),SPAIN\nData di scadenza o termine minimo di conservazione: 20-05-2025\nDescrizione peso/volume unità di vendita: SACCHETTO in plastica DA 500 grammi\nMotivo del richiamo:\nrichiamo cautelativo per presenza alto livello di ocratossine\nAvvertenze:\n "
+ },
+ "prima_rilevazione": "2026-10-25T07:04:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:04:49+00:00"
+}

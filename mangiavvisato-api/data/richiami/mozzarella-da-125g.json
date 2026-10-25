@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-da-125g/",
+ "titolo": "Mozzarella da 125g",
+ "data_pubblicazione": "2024-02-29",
+ "marca": "Merivio",
+ "denominazione": "Mozzarella da 125g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Mozzarella%20125g%20Merivio_1761198922.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo Mozzarella 125g Merivio_1761198922.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Mozzarella%20125g%20Merivio_1761198922.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mozzarella-da-125g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:18:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:03+00:00"
+}

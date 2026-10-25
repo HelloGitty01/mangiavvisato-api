@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-suino/",
+ "titolo": "Coppa di Suino",
+ "data_pubblicazione": "2022-11-25",
+ "marca": "Freschi per te",
+ "denominazione": "Coppa di Suino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%2065946%20Coppa%20di%20suino%20DEF_1761192977.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello 65946 Coppa di suino DEF_1761192977.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%2065946%20Coppa%20di%20suino%20DEF_1761192977.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "coppa-di-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:42:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:15+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-mantovano-fette-0/",
+ "titolo": "PESTO MANTOVANO A FETTE",
+ "data_pubblicazione": "2024-06-04",
+ "marca": "CUCINA EXPRESS",
+ "denominazione": "PESTO MANTOVANO A FETTE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20per%20Pesto%20mantovano%20a%20fette%206142110785_1761203009.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo di richiamo per Pesto mantovano a fette 6142110785_1761203009.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20per%20Pesto%20mantovano%20a%20fette%206142110785_1761203009.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-mantovano-fette-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PESTO MANTOVANO A FETTE",
+  "operatore": "Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano",
+  "lotti": [
+   "6142110785"
+  ],
+  "marchio_identificazione": "IT S1P24 CE",
+  "produttore": "Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano",
+  "sede_stabilimento": "Aspiag Service Srl, Strada Rovigana 58/1, 35043 Monselice (PD)",
+  "scadenza": "29-06-2024",
+  "peso_volume": "0,200 kg c.a",
+  "motivo_esteso": "Rischio per la salute dei consumatori per pericolo di potenziale tossinfezione dovuta alla presenza di Salmonella spp.",
+  "avvertenze": "I prodotti non idonei al consumo non devono essere consumati. Riportare il prodotto in punto vendita.",
+  "campi_extra": {
+   "Data": "04/06/2024 Marchio del prodotto: CUCINA EXPRESS"
+  },
+  "testo": "RICHIAMO\nData: 04/06/2024 Marchio del prodotto: CUCINA EXPRESS\nDenominazione di vendita:PESTO MANTOVANO A FETTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano\ncommercializzato:\nLotto di produzione: 6142110785\nMarchio di identificazione dello stabilimento/del produttore: IT S1P24 CE\nNome del produttore: Aspiag Service Srl, Via B. Buozzi, 30, 39100, Bolzano\nSede dello stabilimento: Aspiag Service Srl, Strada Rovigana 58/1, 35043 Monselice (PD)\nData di scadenza o termine minimo di conservazione: 29-06-2024\nDescrizione peso/volume unità di vendita: 0,200 kg c.a\nMotivo del richiamo:\nRischio per la salute dei consumatori per pericolo di potenziale tossinfezione dovuta alla presenza di\nSalmonella spp.\nAvvertenze:\nI prodotti non idonei al consumo non devono essere consumati.\nRiportare il prodotto in punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:09:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:09:07+00:00"
+}

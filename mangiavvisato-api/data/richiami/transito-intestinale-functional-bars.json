@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/transito-intestinale-functional-bars/",
+ "titolo": "Transito Intestinale Functional Bars",
+ "data_pubblicazione": "2024-03-28",
+ "marca": "Apoteca Natura",
+ "denominazione": "Transito Intestinale Functional Bars",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%203600_transito_intestinale_1761199683.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo 3600_transito_intestinale_1761199683.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%203600_transito_intestinale_1761199683.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "transito-intestinale-functional-bars",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Transito Intestinale Functional Bars",
+  "operatore": "Apoteca Natura Spa",
+  "lotti": [
+   "100724B",
+   "090824A",
+   "200125C",
+   "220825B"
+  ],
+  "produttore": "Meraviglie srl",
+  "sede_stabilimento": "Via del Commercio 16, 37066, Sommacampagna (VR) 10/07/2024, 09/08/2024/",
+  "scadenza": "20/01/2025, 22/08/2025",
+  "peso_volume": "7x18g",
+  "motivo_esteso": "Presenza allergene senape non dichiarato",
+  "avvertenze": "Prodotto non adatto a soggetti allergici a Senape, si invitano tali consumatori a non utilizzare il prodotto Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "27/03/2024 Marchio del prodotto: Apoteca Natura",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 27/03/2024 Marchio del prodotto: Apoteca Natura\nDenominazione di vendita:Transito Intestinale Functional Bars\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Apoteca Natura Spa\ncommercializzato:\nLotto di produzione: 100724B, 090824A, 200125C, 220825B\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Meraviglie srl\nSede dello stabilimento: Via del Commercio 16, 37066, Sommacampagna (VR)\n10/07/2024, 09/08/2024/\nData di scadenza o termine minimo di conservazione: 20/01/2025, 22/08/2025\nDescrizione peso/volume unità di vendita: 7x18g\nMotivo del richiamo:\nPresenza allergene senape non dichiarato\nAvvertenze:\nProdotto non adatto a soggetti allergici a Senape, si invitano tali consumatori a non utilizzare il prodotto\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:15:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:15:48+00:00"
+}

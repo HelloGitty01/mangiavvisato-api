@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soppressa-nostrana-con-aglio/",
+ "titolo": "SOPPRESSA NOSTRANA CON AGLIO",
+ "data_pubblicazione": "2024-04-16",
+ "marca": "MACELLERIA MARTINI MARIO",
+ "denominazione": "SOPPRESSA NOSTRANA CON AGLIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20sopressa%20con%20filetto%20martini_1761201133.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo sopressa con filetto martini_1761201133.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20sopressa%20con%20filetto%20martini_1761201133.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "soppressa-nostrana-con-aglio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Soppressa nostrana con aglio con filetto",
+  "operatore": "Macelleria Martini Mario",
+  "lotti": [
+   "166/24"
+  ],
+  "marchio_identificazione": "Salumificio F.lli Scapocchin S.R.L.",
+  "produttore": "Salumificio F.lli Scapocchin S.R.L.",
+  "sede_stabilimento": "Via Giorgio La Pira 14, Camposampiero (PD)",
+  "peso_volume": "da 1 a 2 kg – venduto a peso",
+  "motivo_esteso": "Presenza di Listeria Monocytogenes",
+  "avvertenze": "Si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto. e",
+  "campi_extra": {
+   "Data": "15/04/2024 Marchio del prodotto: Macelleria Martini Mario"
+  },
+  "testo": "RICHIAMO\nData: 15/04/2024 Marchio del prodotto: Macelleria Martini Mario\nDenominazione di vendita: Soppressa nostrana con aglio con filetto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Macelleria Martini Mario\ncommercializzato:\nLotto di produzione: 166/24\nMarchio di identificazione dello stabilimento/del produttore: Salumificio F.lli Scapocchin S.R.L.\nNome del produttore: Salumificio F.lli Scapocchin S.R.L.\nSede dello stabilimento: Via Giorgio La Pira 14, Camposampiero (PD)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: da 1 a 2 kg – venduto a peso\nMotivo del richiamo: Presenza di Listeria Monocytogenes\nAvvertenze: Si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto.\ne:"
+ },
+ "prima_rilevazione": "2026-10-25T07:13:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:13:50+00:00"
+}

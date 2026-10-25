@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/muesli-uvetta-nocciole-0/",
+ "titolo": "MUESLI UVETTA NOCCIOLE",
+ "data_pubblicazione": "2023-08-08",
+ "marca": "DECO'",
+ "denominazione": "MUESLI UVETTA NOCCIOLE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Dec%C3%B2_Muesli%20croccante%20uvetta%20e%20nocciole_compilato_1761196801.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_RICHIAMO_Decò_Muesli croccante uvetta e nocciole_compilato_1761196801.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_RICHIAMO_Dec%C3%B2_Muesli%20croccante%20uvetta%20e%20nocciole_compilato_1761196801.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "muesli-uvetta-nocciole-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MUESLI CROCCANTE CON UVETTA E NOCCIOLE",
+  "operatore": "DECO'",
+  "lotti": [
+   "AL230525"
+  ],
+  "produttore": "LAMERI S.p.A.",
+  "sede_stabilimento": "VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)",
+  "scadenza": "25-05-2024",
+  "peso_volume": "375g",
+  "motivo_esteso": "Possibile presenza di corpi estranei (piccoli sassi)",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "03/08/2023 Marchio del prodotto: DECO'"
+  },
+  "testo": "RICHIAMO\nData: 03/08/2023 Marchio del prodotto: DECO'\nDenominazione di vendita:MUESLI CROCCANTE CON UVETTA E NOCCIOLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DECO'\ncommercializzato:\nLotto di produzione: AL230525\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LAMERI S.p.A.\nSede dello stabilimento: VIA D.F. CATTANEO 28/30 - 26020 SAN BASSANO (CR)\nData di scadenza o termine minimo di conservazione: 25-05-2024\nDescrizione peso/volume unità di vendita: 375g\nMotivo del richiamo:\nPossibile presenza di corpi estranei (piccoli sassi)\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:25:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:25:44+00:00"
+}

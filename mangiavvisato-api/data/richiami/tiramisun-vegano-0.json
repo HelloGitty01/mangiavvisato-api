@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisun-vegano-0/",
+ "titolo": "tiramisun vegano",
+ "data_pubblicazione": "2023-02-08",
+ "marca": "mascherpa tiramisù",
+ "denominazione": "tiramisun vegano",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20822023_1761193159.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di richiamo 822023_1761193159.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20822023_1761193159.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tiramisun-vegano-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tiramisun vegano",
+  "operatore": "GLG srl",
+  "lotti": [
+   "tutti i lotti di produzione"
+  ],
+  "marchio_identificazione": "GLG srl",
+  "produttore": "GLG srl",
+  "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+  "scadenza": "tutte le date di scadenza",
+  "peso_volume": "100g",
+  "motivo_esteso": "Presenza di allergene: proteine del latte Avvertenza: Prodotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+   "Presenza di allergene": "proteine del latte",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisun vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti di produzione\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le date di scadenza\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPresenza di allergene: proteine del latte\nAvvertenza:\nProdotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:39:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:32+00:00"
+}

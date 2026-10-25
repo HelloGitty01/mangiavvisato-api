@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-filiera-di-scottona/",
+ "titolo": "Hamburger di filiera di scottona",
+ "data_pubblicazione": "2023-02-28",
+ "marca": "Tigros S.p.A.",
+ "denominazione": "Hamburger di filiera di scottona",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Faccia_modello_di_richiamo%20Fassona_1761193924.pdf",
+ "allegati": [
+  {
+   "titolo": "Faccia_modello_di_richiamo Fassona_1761193924.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Faccia_modello_di_richiamo%20Fassona_1761193924.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hamburger-di-filiera-di-scottona",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Hamburger di filiera di scottona",
+  "operatore": "Tigros S.p.A.",
+  "lotti": [
+   "664258"
+  ],
+  "marchio_identificazione": "IT C716K CE",
+  "produttore": "Faccia Fratelli s.r.l.",
+  "sede_stabilimento": "Via Luigi Einaudi 28, Ceva (CN)",
+  "scadenza": "02-04-2023",
+  "peso_volume": "250g",
+  "motivo_esteso": "Attribuzione errata data di scadenza in fase di etichettatura",
+  "avvertenze": "il prodotto non presenta rischi se consumato entro la data di scadenza reale (02/03/2023), non consumare oltre la data di scadenza reale (02/03/2023). Il prodotto può essere reso al punto vendita di riferimento. Per chiarimenti si può contattare il numero 0174 721957/8 o inviare mail a qualita@facciafratelli.com",
+  "campi_extra": {
+   "Data": "27/02/2023 Marchio del prodotto: Tigros S.p.A."
+  },
+  "testo": "RICHIAMO\nData: 27/02/2023 Marchio del prodotto: Tigros S.p.A.\nDenominazione di vendita:Hamburger di filiera di scottona\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Tigros S.p.A.\ncommercializzato:\nLotto di produzione: 664258\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: Faccia Fratelli s.r.l.\nSede dello stabilimento: Via Luigi Einaudi 28, Ceva (CN)\nData di scadenza o termine minimo di conservazione: 02-04-2023\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nAttribuzione errata data di scadenza in fase di etichettatura:\ndata di scadenza CORRETTA: 02/03/2023\ndata di scadenza ERRATA: 02/04/2023\nAvvertenze:\nil prodotto non presenta rischi se consumato entro la data di scadenza reale (02/03/2023), non consumare\noltre la data di scadenza reale (02/03/2023). Il prodotto può essere reso al punto vendita di riferimento.\nPer chiarimenti si può contattare il numero 0174 721957/8 o inviare mail a qualita@facciafratelli.com"
+ },
+ "prima_rilevazione": "2026-10-25T07:36:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:38+00:00"
+}

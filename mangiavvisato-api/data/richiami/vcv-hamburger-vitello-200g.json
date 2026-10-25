@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-vitello-200g/",
+ "titolo": "VCV HAMBURGER VITELLO 200g",
+ "data_pubblicazione": "2022-08-08",
+ "marca": "Vitello Casa Vercelli",
+ "denominazione": "VCV HAMBURGER VITELLO 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Hamburger_Vercelli_1761192042.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo_Hamburger_Vercelli_1761192042.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Hamburger_Vercelli_1761192042.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "vcv-hamburger-vitello-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:47:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:47:47+00:00"
+}

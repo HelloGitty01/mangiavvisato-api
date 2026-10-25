@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-0/",
+ "titolo": "SALAME CAMPAGNOLO",
+ "data_pubblicazione": "2022-11-25",
+ "marca": "SMAPP",
+ "denominazione": "SALAME CAMPAGNOLO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_SPA_richiamo_1761192979.pdf",
+ "allegati": [
+  {
+   "titolo": "SMAPP_SPA_richiamo_1761192979.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_SPA_richiamo_1761192979.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-campagnolo-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME CAMPAGNOLO",
+  "operatore": "SMAPP S.P.A.",
+  "lotti": [
+   "3568"
+  ],
+  "marchio_identificazione": "IT 1031L CE",
+  "produttore": "SMAPP S.P.A.",
+  "sede_stabilimento": "VIA CIRCONVALLAZIONE, 7 - 20090 TREZZANO SUL NAVIGLIO - MILANO",
+  "scadenza": "VARI",
+  "peso_volume": "270 g.",
+  "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP",
+  "avvertenze": "SI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO",
+  "campi_extra": {
+   "Data": "24/11/2022 Marchio del prodotto: SMAPP"
+  },
+  "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: SMAPP\nDenominazione di vendita:SALAME CAMPAGNOLO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMAPP S.P.A.\ncommercializzato:\nLotto di produzione: 3568\nMarchio di identificazione dello stabilimento/del produttore: IT 1031L CE\nNome del produttore: SMAPP S.P.A.\nSede dello stabilimento: VIA CIRCONVALLAZIONE, 7 - 20090 TREZZANO SUL NAVIGLIO - MILANO\nData di scadenza o termine minimo di conservazione: VARI\nDescrizione peso/volume unità di vendita: 270 g.\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nAvvertenze:\nSI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO"
+ },
+ "prima_rilevazione": "2026-10-25T07:42:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:18+00:00"
+}

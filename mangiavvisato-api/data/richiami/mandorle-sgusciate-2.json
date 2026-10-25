@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-2/",
+ "titolo": "mandorle sgusciate",
+ "data_pubblicazione": "2023-02-14",
+ "marca": "Movida catering",
+ "denominazione": "mandorle sgusciate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello.%201000g_1761193821.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo secchiello. 1000g_1761193821.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello.%201000g_1761193821.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mandorle-sgusciate-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mandorle sgusciate",
+  "operatore": "I&D srl",
+  "lotti": [
+   "277/22",
+   "291/22"
+  ],
+  "marchio_identificazione": "I&D srl",
+  "produttore": "Almendras Lopez",
+  "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+  "peso_volume": "secchiello plastica da 1000 g",
+  "motivo_esteso": "Possibile presenza di aflatossine",
+  "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+  "campi_extra": {
+   "Data": "09/02/2023 Marchio del prodotto: Movida catering"
+  },
+  "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto: Movida catering\nDenominazione di vendita:Mandorle sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 277/22; 291/22;\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: secchiello plastica da 1000 g\nMotivo del richiamo:\nPossibile presenza di aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:39:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:39:05+00:00"
+}

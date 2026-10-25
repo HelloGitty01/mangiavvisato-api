@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/straccella/",
+ "titolo": "Straccella",
+ "data_pubblicazione": "2024-03-27",
+ "marca": "Fermaggio®",
+ "denominazione": "Straccella",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/4%20Richiamo%20straccella%2022%2003%202024_1761199633.pdf",
+ "allegati": [
+  {
+   "titolo": "4 Richiamo straccella 22 03 2024_1761199633.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/4%20Richiamo%20straccella%2022%2003%202024_1761199633.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "straccella",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Straccella",
+  "operatore": "Rondina’s food srls L0000911 EXP 22/03/24 L0000921 EXP 29/03/24 L0000930 EXP 04/04/24",
+  "lotti": [
+   "L0000944 EXP 12/04/24 L0000951EXP 19/04/24 L0000960 EXP 25/04/24"
+  ],
+  "marchio_identificazione": "Fermaggio®",
+  "produttore": "Rondina’s food srls",
+  "sede_stabilimento": "Via dell’artigianato 3 00033 Cave RM 22/03/24 29/03/24 04/04/24 12/04/24 19/04/24 25/04/24",
+  "scadenza": "140 g",
+  "motivo_esteso": "Presenza allergeni non dichiarati in etichetta sesamo e senape",
+  "avvertenze": "Prodotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a non consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/03/2024 Marchio del prodotto: Fermaggio®",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/03/2024 Marchio del prodotto: Fermaggio®\nDenominazione di vendita: Straccella\nNome o ragione sociale dell'OSA Rondina’s food srls\na nome del quale il prodotto è\ncommercializzato:\nL0000911 EXP 22/03/24 L0000921 EXP 29/03/24 L0000930 EXP 04/04/24\nLotto di produzione: L0000944 EXP 12/04/24 L0000951EXP 19/04/24 L0000960 EXP 25/04/24\nMarchio di identificazione dello stabilimento/del produttore: Fermaggio®\nNome del produttore: Rondina’s food srls\nSede dello stabilimento: Via dell’artigianato 3 00033 Cave RM\n22/03/24 29/03/24 04/04/24\n12/04/24 19/04/24 25/04/24\nData di scadenza o termine minimo di conservazione:\n140 g\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nPresenza allergeni non dichiarati in etichetta\nsesamo e senape\nAvvertenze:\nProdotto non idoneo ai consumatori allergici a sesamo e senape Si invitano tali consumatori a\nnon consumare il prodotto e riportarlo presso il punto vendita di acquisto, per sostituzione o rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:16:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:16:02+00:00"
+}

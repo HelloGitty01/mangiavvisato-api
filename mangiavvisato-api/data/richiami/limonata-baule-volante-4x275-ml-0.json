@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/limonata-baule-volante-4x275-ml-0/",
+ "titolo": "Limonata Baule Volante 4x275 ml",
+ "data_pubblicazione": "2024-07-24",
+ "marca": "Biotobio s.r.l.",
+ "denominazione": "Limonata Baule Volante 4x275 ml",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20Compilato%20SB%20new_1761205248.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Ministero Compilato SB new_1761205248.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20Compilato%20SB%20new_1761205248.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "limonata-baule-volante-4x275-ml-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LIMONATA BAULE VOLANTE 4X275 ml",
+  "operatore": "BIOTOBIO S.r.l.",
+  "lotti": [
+   "L23349OF"
+  ],
+  "produttore": "San Bernardo Spa Via Ottavio Rovere 41 12075 Garessio (CN) Italia",
+  "sede_stabilimento": "San Bernardo Spa Località Crescione 12078 Ormea (CN) Italia",
+  "scadenza": "15/12/24",
+  "peso_volume": "Cluster 4X275 ml",
+  "motivo_esteso": "Problema di mancata corretta sigillatura dei tappi e fuoriuscita di liquido",
+  "avvertenze": "Si raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenente alla scadenza richiamata di maneggiare con cura: NON APRIRLO, NON CONSUMARLO, TENERLO LONTANO DA FONTI DI CALORE e di RIPORTARLO al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.",
+  "campi_extra": {
+   "Data": "19/07/2024 Marchio del prodotto: BAULE VOLANTE",
+   "alla scadenza richiamata di maneggiare con cura": "NON APRIRLO, NON CONSUMARLO, TENERLO LONTANO"
+  },
+  "testo": "RICHIAMO\nData: 19/07/2024 Marchio del prodotto: BAULE VOLANTE\nDenominazione di vendita:LIMONATA BAULE VOLANTE 4X275 ml\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BIOTOBIO S.r.l.\ncommercializzato:\nLotto di produzione: L23349OF\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: San Bernardo Spa Via Ottavio Rovere 41 12075 Garessio (CN) Italia\nSede dello stabilimento: San Bernardo Spa Località Crescione 12078 Ormea (CN) Italia\nData di scadenza o termine minimo di conservazione: 15/12/24\nDescrizione peso/volume unità di vendita: Cluster 4X275 ml\nMotivo del richiamo:\nProblema di mancata corretta sigillatura dei tappi e fuoriuscita di liquido\nAvvertenze:\nSi raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenente\nalla scadenza richiamata di maneggiare con cura: NON APRIRLO, NON CONSUMARLO, TENERLO LONTANO\nDA FONTI DI CALORE e di RIPORTARLO al proprio negoziante che provvederà a sostituirlo o rimborsarlo\noltre che a chiarire eventuali dubbi."
+ },
+ "prima_rilevazione": "2026-10-25T07:06:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:25+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop-0/",
+ "titolo": "Fontina DOP",
+ "data_pubblicazione": "2022-10-18",
+ "marca": "Pascoli Italiani",
+ "denominazione": "Fontina DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellopersitoMinSalnotifica575286_1761192222.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellopersitoMinSalnotifica575286_1761192222.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellopersitoMinSalnotifica575286_1761192222.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fontina-dop-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Fontina DOP",
+  "operatore": "Eurospin Italia SpA",
+  "lotti": [
+   "C252105286"
+  ],
+  "marchio_identificazione": "IT 02 2 CE",
+  "produttore": "Cooperativa Produttori Latte e Fontina soc. coop. a r.l.",
+  "sede_stabilimento": "Località La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint Christophe (Aosta)",
+  "scadenza": "11.11.2022",
+  "peso_volume": "250 grammi",
+  "motivo_esteso": "Possibile presenza di Escherichia Coli produttori di shiga tossina (STEC)",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14.10.2022 Marchio del prodotto: Pascoli Italiani",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14.10.2022 Marchio del prodotto: Pascoli Italiani\nDenominazione di vendita:Fontina DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia SpA\ncommercializzato:\nLotto di produzione: C252105286\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina soc. coop. a r.l.\nSede dello stabilimento: Località La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint Christophe (Aosta)\nData di scadenza o termine minimo di conservazione: 11.11.2022\nDescrizione peso/volume unità di vendita: 250 grammi\nMotivo del richiamo:\nPossibile presenza di Escherichia Coli produttori di shiga tossina (STEC)\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:45:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:11+00:00"
+}

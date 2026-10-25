@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/light-lunch-low-carb-0/",
+ "titolo": "Light lunch low carb",
+ "data_pubblicazione": "2024-09-09",
+ "marca": "Integra",
+ "denominazione": "Light lunch low carb",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205671.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo_1761205671.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205671.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "light-lunch-low-carb-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:02:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:02:53+00:00"
+}

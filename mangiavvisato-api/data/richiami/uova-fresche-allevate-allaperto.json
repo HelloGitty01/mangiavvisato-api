@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-allevate-allaperto/",
+ "titolo": "Uova fresche allevate all'aperto",
+ "data_pubblicazione": "2023-12-04",
+ "marca": "Avicola Valle Santa",
+ "denominazione": "Uova fresche allevate all'aperto",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_uova_1761197661.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_uova_1761197661.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_uova_1761197661.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fresche-allevate-allaperto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:21:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:21:33+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparto-crema-catalana/",
+ "titolo": "Preparto per crema catalana",
+ "data_pubblicazione": "2023-05-31",
+ "marca": "San Martino",
+ "denominazione": "Preparto per crema catalana",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20CLECA%20MODULO%20RICHIAMO%20MINISTERO%20SALUTE_1761195629.pdf",
+ "allegati": [
+  {
+   "titolo": "DITTA CLECA MODULO RICHIAMO MINISTERO SALUTE_1761195629.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DITTA%20CLECA%20MODULO%20RICHIAMO%20MINISTERO%20SALUTE_1761195629.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparto-crema-catalana",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato per crema catalana",
+  "operatore": "CLECA S.p.A.",
+  "lotti": [
+   "L230201"
+  ],
+  "marchio_identificazione": "S.MARTINO",
+  "produttore": "CLECA S.p.A.",
+  "sede_stabilimento": "Viale Dante Alighieri, 30 - San Martino dall'Argine (MN)",
+  "scadenza": "01-02-2026",
+  "peso_volume": "97 g",
+  "motivo_esteso": "Presenza dell'allergene lupino e mandorla non dichiarato in etichetta.",
+  "avvertenze": "Prodotto non idoneo al consumo da parte dei soggetti allergici al lupino e alla mandorla. Si invitano tali consumatori a non consumare il prodotto e a riportarlo presso i punti vendita in cui è stato acquistato, per la sostituzione o il rimborso.",
+  "campi_extra": {
+   "Data": "30/05/2023 Marchio del prodotto: S.MARTINO"
+  },
+  "testo": "RICHIAMO\nData: 30/05/2023 Marchio del prodotto: S.MARTINO\nDenominazione di vendita:Preparato per crema catalana\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CLECA S.p.A.\ncommercializzato:\nLotto di produzione: L230201\nMarchio di identificazione dello stabilimento/del produttore: S.MARTINO\nNome del produttore: CLECA S.p.A.\nSede dello stabilimento: Viale Dante Alighieri, 30 - San Martino dall'Argine (MN)\nData di scadenza o termine minimo di conservazione: 01-02-2026\nDescrizione peso/volume unità di vendita: 97 g\nMotivo del richiamo:\nPresenza dell'allergene lupino e mandorla non dichiarato in etichetta.\nAvvertenze:\nProdotto non idoneo al consumo da parte dei soggetti allergici al lupino e alla mandorla. Si invitano tali\nconsumatori a non consumare il prodotto e a riportarlo presso i punti vendita in cui è stato acquistato, per\nla sostituzione o il rimborso."
+ },
+ "prima_rilevazione": "2026-10-25T07:29:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:52+00:00"
+}

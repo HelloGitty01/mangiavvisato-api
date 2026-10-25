@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-madras-hot-curry-powder/",
+ "titolo": "TRS Madras Hot Curry Powder",
+ "data_pubblicazione": "2022-08-10",
+ "marca": "TRS",
+ "denominazione": "TRS Madras Hot Curry Powder",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_3__1761192055.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo _3__1761192055.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_3__1761192055.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trs-madras-hot-curry-powder",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRS MADRAS HOT CURRY POWDER",
+  "operatore": "TRS ASIAN FINEST FOODS",
+  "lotti": [
+   "TUTTI"
+  ],
+  "marchio_identificazione": "TRS",
+  "produttore": "TRS ASIAN FINEST FOODS",
+  "scadenza": "06/2023",
+  "peso_volume": "100G E 400G",
+  "motivo_esteso": "PRESENZA DI SALMONELLA",
+  "campi_extra": {
+   "Data": "22/07/2022 Marchio del prodotto: TRS"
+  },
+  "testo": "RICHIAMO\nData: 22/07/2022 Marchio del prodotto: TRS\nDenominazione di vendita:TRS MADRAS HOT CURRY POWDER\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRS ASIAN FINEST FOODS\ncommercializzato:\nLotto di produzione: TUTTI\nMarchio di identificazione dello stabilimento/del produttore: TRS\nNome del produttore: TRS ASIAN FINEST FOODS\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 06/2023\nDescrizione peso/volume unità di vendita: 100G E 400G\nMotivo del richiamo:\nPRESENZA DI SALMONELLA\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T07:47:12+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:47:12+00:00"
+}

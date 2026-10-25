@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/viva-la-mamma/",
+ "titolo": "VIVA LA MAMMA",
+ "data_pubblicazione": "2023-06-03",
+ "marca": "Vitel Tonnè Viva La Mamma 180g S12",
+ "denominazione": "VIVA LA MAMMA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Piatti_freschi_richiamo_Vitel_tonne_Viva_la_Mamma_1761196682.pdf",
+ "allegati": [
+  {
+   "titolo": "Piatti_freschi_richiamo_Vitel_tonne_Viva_la_Mamma_1761196682.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Piatti_freschi_richiamo_Vitel_tonne_Viva_la_Mamma_1761196682.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "viva-la-mamma",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Vitel Tonnè Viva la Mamma 180g S12",
+  "operatore": "PIATTI FRESCHI ITALIA S.p.A.",
+  "lotti": [
+   "L018314203"
+  ],
+  "marchio_identificazione": "IT 1101 L CE",
+  "produttore": "PIATTI FRESCHI ITALIA S.p.A.",
+  "sede_stabilimento": "VIA VERCELLI, 59 - 13030 CARESANABLOT (VC)",
+  "scadenza": "21-07-2023",
+  "peso_volume": "180 g",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO PER PRESENZA DI LISTERIA MONOCYTOGENES",
+  "avvertenze": "SI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON CONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "01/06/2023 Marchio del prodotto: VIVA LA MAMMA"
+  },
+  "testo": "RICHIAMO\nData: 01/06/2023 Marchio del prodotto: VIVA LA MAMMA\nDenominazione di vendita:Vitel Tonnè Viva la Mamma 180g S12\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIATTI FRESCHI ITALIA S.p.A.\ncommercializzato:\nLotto di produzione: L018314203\nMarchio di identificazione dello stabilimento/del produttore: IT 1101 L CE\nNome del produttore: PIATTI FRESCHI ITALIA S.p.A.\nSede dello stabilimento: VIA VERCELLI, 59 - 13030 CARESANABLOT (VC)\nData di scadenza o termine minimo di conservazione: 21-07-2023\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO PER PRESENZA DI LISTERIA MONOCYTOGENES\nAvvertenze:\nSI RACCOMANDA A COLORO CHE HANNO ACQUISTATO IL PRODOTTO CON IL MEDESIMO LOTTO, DI NON\nCONSUMARLO E DI RIPORTARLO AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T07:29:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:42+00:00"
+}

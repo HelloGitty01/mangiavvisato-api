@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-di-ragu-di-puro-suino/",
+ "titolo": "PREPARATO DI RAGU' DI PURO SUINO",
+ "data_pubblicazione": "2023-03-08",
+ "marca": "IL MAIALE",
+ "denominazione": "PREPARATO DI RAGU' DI PURO SUINO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Prix%20Quality_1761193991.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Prix Quality_1761193991.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Prix%20Quality_1761193991.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "preparato-di-ragu-di-puro-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PREPARATO DI RAGU' DI PURO SUINO",
+  "operatore": "PRIX QUALITY SPA",
+  "lotti": [
+   "4749185"
+  ],
+  "marchio_identificazione": "IT 2726P - CE",
+  "produttore": "COOPERATIVA PRODUTTORI SUINI PRO SUS SOCIETA' COOPERATIVA AGRICOLA",
+  "sede_stabilimento": "VIA DELL'ARTIGIANATO 6, CASTEL D'ARIO (MN)",
+  "scadenza": "08-03-2023",
+  "peso_volume": "350 G",
+  "motivo_esteso": "PROBABILE PRESENZA DI SALMONELLA SPP.",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita.",
+  "campi_extra": {
+   "Data": "07/03/2023 Marchio del prodotto: IL MAIALE"
+  },
+  "testo": "RICHIAMO\nData: 07/03/2023 Marchio del prodotto: IL MAIALE\nDenominazione di vendita:PREPARATO DI RAGU' DI PURO SUINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PRIX QUALITY SPA\ncommercializzato:\nLotto di produzione: 4749185\nMarchio di identificazione dello stabilimento/del produttore: IT 2726P - CE\nNome del produttore: COOPERATIVA PRODUTTORI SUINI PRO SUS SOCIETA' COOPERATIVA AGRICOLA\nSede dello stabilimento: VIA DELL'ARTIGIANATO 6, CASTEL D'ARIO (MN)\nData di scadenza o termine minimo di conservazione: 08-03-2023\nDescrizione peso/volume unità di vendita: 350 G\nMotivo del richiamo:\nPROBABILE PRESENZA DI SALMONELLA SPP.\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:36:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:36:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wasabi-peas-coated-gt/",
+ "titolo": "Wasabi peas coated GT",
+ "data_pubblicazione": "2023-09-29",
+ "marca": "Golden Turtle",
+ "denominazione": "Wasabi peas coated GT",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761197497.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1761197497.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761197497.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wasabi-peas-coated-gt",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:23:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:23:40+00:00"
+}

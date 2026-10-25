@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mirtilli-giganti-americani-prodotto-surgelato/",
+ "titolo": "Mirtilli giganti americani - prodotto surgelato",
+ "data_pubblicazione": "2024-02-02",
+ "marca": "Freshona",
+ "denominazione": "Mirtilli giganti americani - prodotto surgelato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_mirtilli_giganti_americani_1761198853.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_mirtilli_giganti_americani_1761198853.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_mirtilli_giganti_americani_1761198853.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mirtilli-giganti-americani-prodotto-surgelato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mirtilli giganti americani - prodotto surgelato",
+  "operatore": "LIDL ITALIA S.p.A.",
+  "lotti": [
+   "LP3144DL7"
+  ],
+  "marchio_identificazione": "N.D.",
+  "produttore": "Greenyard Frozen Poland Sp. z o.o.",
+  "sede_stabilimento": "ul. Wojska Polskiego 12 - Lipno - 87-600 - Poland",
+  "scadenza": "31-05-2025",
+  "peso_volume": "Confezione in plastica da 500 g",
+  "motivo_esteso": "Rischio microbiologico. Presenza di Norovirus in Mirtilli Giganti Americani Freshona senza indicazione in etichetta del consumo previa cottura.",
+  "avvertenze": "Consumare previa cottura. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/02/2024 Marchio del prodotto: Freshona",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 02/02/2024 Marchio del prodotto: Freshona\nDenominazione di vendita:Mirtilli giganti americani - prodotto surgelato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LIDL ITALIA S.p.A.\ncommercializzato:\nLotto di produzione: LP3144DL7\nMarchio di identificazione dello stabilimento/del produttore: N.D.\nNome del produttore: Greenyard Frozen Poland Sp. z o.o.\nSede dello stabilimento: ul. Wojska Polskiego 12 - Lipno - 87-600 - Poland\nData di scadenza o termine minimo di conservazione: 31-05-2025\nDescrizione peso/volume unità di vendita: Confezione in plastica da 500 g\nMotivo del richiamo:\nRischio microbiologico. Presenza di Norovirus in Mirtilli Giganti Americani Freshona senza indicazione in\netichetta del consumo previa cottura.\nAvvertenze:\nConsumare previa cottura.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:18:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:48+00:00"
+}

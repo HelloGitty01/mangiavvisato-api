@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitolife-mix-2b/",
+ "titolo": "MITOLIFE MIX 2B",
+ "data_pubblicazione": "2024-01-22",
+ "marca": "MITOLIFE",
+ "denominazione": "MITOLIFE MIX 2B",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20RICHIAMO%20MITOLIFE_9_1761198792.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLI RICHIAMO MITOLIFE_9_1761198792.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLI%20RICHIAMO%20MITOLIFE_9_1761198792.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mitolife-mix-2b",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MITOLIFE MIX 2B",
+  "operatore": "MITOLIFE SRLS e MITOLIFE DISTRIBUZIONE SRLS",
+  "lotti": [
+   "221030"
+  ],
+  "marchio_identificazione": "MITOLIFE",
+  "produttore": "MITOLIFE SRLS",
+  "sede_stabilimento": "VIA DEI PICCARDI, 8/A - 34141 TRIESTE",
+  "scadenza": "01/2025",
+  "peso_volume": "FLACONE 30 ML",
+  "motivo_esteso": "Procedura di cui al Prot. - GENASUGI-GEN-2024-0004261-A dd 16/01/2024. Motivo: giustificazione delle materie prime risultata emessa senza titolo.",
+  "avvertenze": "Non consumare il prodotto. Rendere il prodotto al mittente per motivi precauzionali",
+  "campi_extra": {
+   "Data": "18/01/2024 Marchio del prodotto: MITOLIFE",
+   "Motivo": "giustificazione delle materie prime risultata emessa senza titolo."
+  },
+  "testo": "RICHIAMO\nData: 18/01/2024 Marchio del prodotto: MITOLIFE\nDenominazione di vendita:MITOLIFE MIX 2B\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MITOLIFE SRLS e MITOLIFE DISTRIBUZIONE SRLS\ncommercializzato:\nLotto di produzione: 221030\nMarchio di identificazione dello stabilimento/del produttore: MITOLIFE\nNome del produttore: MITOLIFE SRLS\nSede dello stabilimento: VIA DEI PICCARDI, 8/A - 34141 TRIESTE\nData di scadenza o termine minimo di conservazione: 01/2025\nDescrizione peso/volume unità di vendita: FLACONE 30 ML\nMotivo del richiamo:\nProcedura di cui al Prot. - GENASUGI-GEN-2024-0004261-A dd 16/01/2024.\nMotivo: giustificazione delle materie prime risultata emessa senza titolo.\nAvvertenze:\nNon consumare il prodotto. Rendere il prodotto al mittente per motivi precauzionali"
+ },
+ "prima_rilevazione": "2026-10-25T07:19:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:19:33+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-gourmet/",
+ "titolo": "SALAME CAMPAGNOLO GOURMET",
+ "data_pubblicazione": "2022-11-25",
+ "marca": "SMAPP",
+ "denominazione": "SALAME CAMPAGNOLO GOURMET",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_ALDI_richiamo_1761192982.pdf",
+ "allegati": [
+  {
+   "titolo": "SMAPP_per_ALDI_richiamo_1761192982.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_ALDI_richiamo_1761192982.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-campagnolo-gourmet",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME CAMPAGNOLO GOURMET",
+  "operatore": "SMAPP S.P.A. (nei Punti Vendita ALDI Srl)",
+  "lotti": [
+   "3568"
+  ],
+  "marchio_identificazione": "IT 1031L CE",
+  "produttore": "SALUMIFICIO SMAPP S.P.A.",
+  "sede_stabilimento": "VIA CIRCONVALLAZIONE, 7 - TREZZANO SUL NAVIGLIO (MI)",
+  "scadenza": "VARI",
+  "peso_volume": "270g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP.",
+  "avvertenze": "SI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO NEL LUOGO DI ACQUISTO",
+  "campi_extra": {
+   "Data": "24/11/2022 Marchio del prodotto: SMAPP"
+  },
+  "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: SMAPP\nDenominazione di vendita:SALAME CAMPAGNOLO GOURMET\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMAPP S.P.A. (nei Punti Vendita ALDI Srl)\ncommercializzato:\nLotto di produzione: 3568\nMarchio di identificazione dello stabilimento/del produttore: IT 1031L CE\nNome del produttore: SALUMIFICIO SMAPP S.P.A.\nSede dello stabilimento: VIA CIRCONVALLAZIONE, 7 - TREZZANO SUL NAVIGLIO (MI)\nData di scadenza o termine minimo di conservazione: VARI\nDescrizione peso/volume unità di vendita: 270g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP.\nAvvertenze:\nSI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO NEL LUOGO DI ACQUISTO"
+ },
+ "prima_rilevazione": "2026-10-25T07:42:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:21+00:00"
+}

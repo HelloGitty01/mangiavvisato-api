@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/glucerna-select/",
+ "titolo": "Glucerna Select",
+ "data_pubblicazione": "2024-01-30",
+ "marca": "Glucerna",
+ "denominazione": "Glucerna Select",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Glucerna%20Select%20500%20ml%2054469NR_1761198844.pdf",
+ "allegati": [
+  {
+   "titolo": "Glucerna Select 500 ml 54469NR_1761198844.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Glucerna%20Select%20500%20ml%2054469NR_1761198844.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "glucerna-select",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Glucerna Select",
+  "operatore": "ABBOTT S.R.L",
+  "lotti": [
+   "54469NR"
+  ],
+  "produttore": "ABBOTT LABORATORIES B.V",
+  "sede_stabilimento": "Rieteweg 21 - 8041 AJ - ZWOLLE - OLANDA",
+  "scadenza": "30-09-2024",
+  "peso_volume": "8 bottiglia 500 ml",
+  "motivo_esteso": "Potenziale deterioramento del prodotto a seguito di un evento di produzione isolato.",
+  "avvertenze": "Interrompere l'uso del prodotto di questo lotto. Abbott ritirerà tutte le unità del lotto di prodotto inpattati.",
+  "campi_extra": {
+   "Data": "18/12/2023 Marchio del prodotto: Glucerna"
+  },
+  "testo": "0048520-19/12/2023-DGISAN-MDS-A - Allegato Utente 2 (A02)\nRICHIAMO\nData: 18/12/2023 Marchio del prodotto: Glucerna\nDenominazione di vendita:Glucerna Select\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ABBOTT S.R.L\ncommercializzato:\nLotto di produzione: 54469NR\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ABBOTT LABORATORIES B.V\nSede dello stabilimento: Rieteweg 21 - 8041 AJ - ZWOLLE - OLANDA\nData di scadenza o termine minimo di conservazione: 30-09-2024\nDescrizione peso/volume unità di vendita: 8 bottiglia 500 ml\nMotivo del richiamo:\nPotenziale deterioramento del prodotto a seguito di un evento di produzione isolato.\nAvvertenze:\nInterrompere l'uso del prodotto di questo lotto. Abbott ritirerà tutte le unità del lotto di prodotto inpattati."
+ },
+ "prima_rilevazione": "2026-10-25T07:18:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:51+00:00"
+}

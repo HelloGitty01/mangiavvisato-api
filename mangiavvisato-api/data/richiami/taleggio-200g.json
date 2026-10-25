@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-200g/",
+ "titolo": "Taleggio 200g",
+ "data_pubblicazione": "2023-07-10",
+ "marca": "Emilio Mauri - Pasturo",
+ "denominazione": "Taleggio 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761196744.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1761196744.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761196744.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "taleggio-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:28:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:04+00:00"
+}

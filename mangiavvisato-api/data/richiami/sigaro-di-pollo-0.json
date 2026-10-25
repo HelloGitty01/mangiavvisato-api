@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sigaro-di-pollo-0/",
+ "titolo": "Sigaro di pollo",
+ "data_pubblicazione": "2024-04-29",
+ "marca": "SOC AGR LA VALLATA SAS",
+ "denominazione": "Sigaro di pollo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodipollo_1761202778.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamosigarodipollo_1761202778.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamosigarodipollo_1761202778.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "sigaro-di-pollo-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:10:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:10:57+00:00"
+}

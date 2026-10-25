@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-veraci/",
+ "titolo": "VONGOLE VERACI",
+ "data_pubblicazione": "2023-11-20",
+ "marca": "CAM srl",
+ "denominazione": "VONGOLE VERACI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellodirichiamovongoleveraci_1761197576.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartellodirichiamovongoleveraci_1761197576.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartellodirichiamovongoleveraci_1761197576.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vongole-veraci",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:22:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:22:07+00:00"
+}

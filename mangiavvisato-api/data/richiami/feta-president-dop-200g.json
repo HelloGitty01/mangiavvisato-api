@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/feta-president-dop-200g/",
+ "titolo": "Feta President DOP 200g",
+ "data_pubblicazione": "2023-12-29",
+ "marca": "PRESIDENT",
+ "denominazione": "Feta President DOP 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Feta_DOP_President_01_03_24_1761197724.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_Feta_DOP_President_01_03_24_1761197724.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Feta_DOP_President_01_03_24_1761197724.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "feta-president-dop-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Feta President DOP 200g",
+  "operatore": "biG S.r.l.",
+  "lotti": [
+   "0116 PD 18/05/2023"
+  ],
+  "marchio_identificazione": "GR35.1026 CE",
+  "produttore": "SHM HELLAS-PILION S.A.",
+  "sede_stabilimento": "2nd Industrial Area 37500 Volos (Grecia)",
+  "scadenza": "01-03-2024",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di Salmonella spp.",
+  "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina",
+  "campi_extra": {
+   "Data": "27/12/2023 Marchio del prodotto: PRESIDENT"
+  },
+  "testo": "RICHIAMO\nData: 27/12/2023 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Feta President DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 0116 PD 18/05/2023\nMarchio di identificazione dello stabilimento/del produttore: GR35.1026 CE\nNome del produttore: SHM HELLAS-PILION S.A.\nSede dello stabilimento: 2nd Industrial Area 37500 Volos (Grecia)\nData di scadenza o termine minimo di conservazione: 01-03-2024\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di Salmonella spp.\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina"
+ },
+ "prima_rilevazione": "2026-10-25T07:20:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:20:31+00:00"
+}

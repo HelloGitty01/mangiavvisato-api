@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-di-mais/",
+ "titolo": "Polenta di mais",
+ "data_pubblicazione": "2024-01-26",
+ "marca": "Polenta di mais",
+ "denominazione": "Polenta di mais",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_RR%2002%20IAN%20aflatossina%20in%20mais_1761198835.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_RR 02 IAN aflatossina in mais_1761198835.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_RR%2002%20IAN%20aflatossina%20in%20mais_1761198835.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polenta-di-mais",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:18:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:18:58+00:00"
+}

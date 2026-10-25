@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere/",
+ "titolo": "Cannella polvere",
+ "data_pubblicazione": "2022-11-22",
+ "marca": "Principio attivo",
+ "denominazione": "Cannella polvere",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761192965.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo_1761192965.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761192965.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cannella-polvere",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:42:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:55+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crema-al-gusto-cioccolato/",
+ "titolo": "Preparato per crema al gusto cioccolato",
+ "data_pubblicazione": "2022-07-19",
+ "marca": "Cameo",
+ "denominazione": "Preparato per crema al gusto cioccolato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Ministero_Cartello%20richiamo%20Crema%20Cioccolato%20PA_14.07.2022_1761192007.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello Ministero_Cartello richiamo Crema Cioccolato PA_14.07.2022_1761192007.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Ministero_Cartello%20richiamo%20Crema%20Cioccolato%20PA_14.07.2022_1761192007.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-crema-al-gusto-cioccolato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato per crema al gusto cioccolato",
+  "operatore": "cameo s.p.a.",
+  "lotti": [
+   "19.09.23 D L376507"
+  ],
+  "marchio_identificazione": "cameo",
+  "produttore": "cameo s.p.a.",
+  "sede_stabilimento": "Via Ugo La Malfa 60 - Desenzano del Garda (BS)",
+  "scadenza": "19-09-2023",
+  "peso_volume": "172 g",
+  "motivo_esteso": "Presenza di proteine di lupino (allergene non dichiarato in etichetta)",
+  "avvertenze": "I consumatori che fossero in possesso del lotto specificato di questo prodotto sono invitati a riportarlo al punto vendita che provvederà al rimborso. Il richiamo è stato disposto per proteggere da possibili rischi i soggetti allergici alle proteine di lupino. Per tutti gli altri consumatori il prodotto sopraindicato non comporta alcun pericolo per la salute.",
+  "campi_extra": {
+   "Data": "14.07.2022 Marchio del prodotto: Paneangeli"
+  },
+  "testo": "RICHIAMO\nData: 14.07.2022 Marchio del prodotto: Paneangeli\nDenominazione di vendita:Preparato per crema al gusto cioccolato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è cameo s.p.a.\ncommercializzato:\nLotto di produzione: 19.09.23 D L376507\nMarchio di identificazione dello stabilimento/del produttore: cameo\nNome del produttore: cameo s.p.a.\nSede dello stabilimento: Via Ugo La Malfa 60 - Desenzano del Garda (BS)\nData di scadenza o termine minimo di conservazione: 19-09-2023\nDescrizione peso/volume unità di vendita: 172 g\nMotivo del richiamo:\nPresenza di proteine di lupino (allergene non dichiarato in etichetta)\nAvvertenze:\nI consumatori che fossero in possesso del lotto specificato di questo prodotto sono invitati a riportarlo al\npunto vendita che provvederà al rimborso.\nIl richiamo è stato disposto per proteggere da possibili rischi i soggetti allergici alle proteine di lupino.\nPer tutti gli altri consumatori il prodotto sopraindicato non comporta alcun pericolo per la salute."
+ },
+ "prima_rilevazione": "2026-10-25T07:48:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:48:36+00:00"
+}

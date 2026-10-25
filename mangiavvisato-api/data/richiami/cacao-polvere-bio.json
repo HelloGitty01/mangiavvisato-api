@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacao-polvere-bio/",
+ "titolo": "CACAO IN POLVERE BIO",
+ "data_pubblicazione": "2023-06-01",
+ "marca": "BAULE VOLANTE",
+ "denominazione": "CACAO IN POLVERE BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cacao%20in%20polvere_1761195633.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Cacao in polvere_1761195633.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Cacao%20in%20polvere_1761195633.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cacao-polvere-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CACAO IN POLVERE BIO",
+  "operatore": "Biotobio S.r.l.",
+  "lotti": [
+   "L.22209"
+  ],
+  "produttore": "La Dolciaria S.r.l.",
+  "sede_stabilimento": "Via Collodi 6, Barberino Tavarnelle (FI) - Italia",
+  "scadenza": "05/2024",
+  "peso_volume": "100 g",
+  "motivo_esteso": "Analisi chimiche non conformi.",
+  "avvertenze": "Si raccamanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenenti alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.",
+  "campi_extra": {
+   "Data": "25/05/2023 Marchio del prodotto: BAULE VOLANTE"
+  },
+  "testo": "RICHIAMO\nData: 25/05/2023 Marchio del prodotto: BAULE VOLANTE\nDenominazione di vendita:CACAO IN POLVERE BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Biotobio S.r.l.\ncommercializzato:\nLotto di produzione: L.22209\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: La Dolciaria S.r.l.\nSede dello stabilimento: Via Collodi 6, Barberino Tavarnelle (FI) - Italia\nData di scadenza o termine minimo di conservazione: 05/2024\nDescrizione peso/volume unità di vendita: 100 g\nMotivo del richiamo:\nAnalisi chimiche non conformi.\nAvvertenze:\nSi raccamanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenenti alla\nscadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a\nsostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi."
+ },
+ "prima_rilevazione": "2026-10-25T07:29:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:29:48+00:00"
+}

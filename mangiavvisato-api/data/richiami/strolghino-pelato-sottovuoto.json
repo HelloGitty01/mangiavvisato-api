@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/strolghino-pelato-sottovuoto/",
+ "titolo": "STROLGHINO PELATO SOTTOVUOTO",
+ "data_pubblicazione": "2024-07-31",
+ "marca": "CAV. UMBERTO BOSCHI S.P.A.",
+ "denominazione": "STROLGHINO PELATO SOTTOVUOTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20compilato%20_1_%20_1__1761205271.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo compilato _1_ _1__1761205271.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20compilato%20_1_%20_1__1761205271.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "strolghino-pelato-sottovuoto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "STROLGHINO PELATO SOTTOVUOTO",
+  "operatore": "CAV. UMBERTO BOSCHI S.P.A.",
+  "lotti": [
+   "PF2418501"
+  ],
+  "marchio_identificazione": "CE IT 1150 L",
+  "produttore": "CAV. UMBERTO BOSCHI S.P.A.",
+  "sede_stabilimento": "VIA ALDO MORO 3/A 43035 FELINO PR ITALY",
+  "scadenza": "31-10-2024",
+  "peso_volume": "200 GRAMMI PESO FISSO",
+  "motivo_esteso": "presenza di Listeria monocytogenes, in quantità < 10 u.f.c./g ma con possibilità di crescita avendo aw 0,95",
+  "avvertenze": "Al fine di scongiurare eventuali rischi per la salute, i clienti che fossero in possesso di confezioni appartenenti al lotto di produzione sopra indicato sono invitati a riportarle nel punto vendita dove l'hanno acquistato",
+  "campi_extra": {
+   "Data": "30/07/2024 Marchio del prodotto: SAPORI & DINTORNI CONAD"
+  },
+  "testo": "RICHIAMO\nData: 30/07/2024 Marchio del prodotto: SAPORI & DINTORNI CONAD\nDenominazione di vendita: STROLGHINO PELATO SOTTOVUOTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAV. UMBERTO BOSCHI S.P.A.\ncommercializzato:\nLotto di produzione: PF2418501\nMarchio di identificazione dello stabilimento/del produttore: CE IT 1150 L\nNome del produttore: CAV. UMBERTO BOSCHI S.P.A.\nSede dello stabilimento: VIA ALDO MORO 3/A 43035 FELINO PR ITALY\nData di scadenza o termine minimo di conservazione: 31-10-2024\nDescrizione peso/volume unità di vendita: 200 GRAMMI PESO FISSO\nMotivo del richiamo:\npresenza di Listeria monocytogenes, in quantità < 10 u.f.c./g ma con possibilità di crescita avendo aw\n0,95\nAvvertenze:\nAl fine di scongiurare eventuali rischi per la salute, i clienti che fossero in possesso di confezioni\nappartenenti al lotto di produzione sopra indicato sono invitati a riportarle nel punto vendita dove l'hanno\nacquistato"
+ },
+ "prima_rilevazione": "2026-10-25T07:05:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:05:59+00:00"
+}

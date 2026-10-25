@@ -1,0 +1,38 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-2/",
+ "titolo": "trance di pesce spada",
+ "data_pubblicazione": "2024-07-05",
+ "marca": "DIMAR",
+ "denominazione": "trance di pesce spada",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo1_1761204465.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo1_1761204465.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo1_1761204465.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trance-di-pesce-spada-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRANCE DI PESCE SPADA IRREGOLARI",
+  "operatore": "D.I.MAR. srl",
+  "lotti": [
+   "24132-585 lotto interno 24025560"
+  ],
+  "produttore": "Congelados Maravilla",
+  "sede_stabilimento": "Puerto pesquero de lonja grandes peces y bajura, Ofic.15, 36202 Vigo, Pontevedra, Spagna",
+  "scadenza": "01/10/2026",
+  "peso_volume": "vendita sfusa",
+  "motivo_esteso": "presenza di mercurio superiore ai limiti di legge",
+  "avvertenze": "qualora aveste acquistato il prodotto sopra riportato avente il lotto interno 24025560 siete pregati di riportarlo in negozio.",
+  "testo": "RICHIAMO\nData 03/07/2024 Marchio del prodotto:\nDenominazione di vendita: TRANCE DI PESCE SPADA IRREGOLARI\nNome o ragione sociale dell'OSA D.I.MAR. srl\na nome del quale il prodotto è commercializzato:\nLotto di produzione: 24132-585 lotto interno 24025560\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Congelados Maravilla\nSede dello stabilimento: Puerto pesquero de lonja grandes peces y bajura, Ofic.15, 36202 Vigo, Pontevedra, Spagna\nData di scadenza o termine minimo di conservazione: 01/10/2026\nDescrizione peso/volume unità di vendita: vendita sfusa\nMotivo del richiamo:\npresenza di mercurio superiore ai limiti di legge\nAvvertenze:\nqualora aveste acquistato il prodotto sopra riportato avente il lotto interno 24025560 siete pregati di\nriportarlo in negozio."
+ },
+ "prima_rilevazione": "2026-10-25T07:07:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:07:20+00:00"
+}

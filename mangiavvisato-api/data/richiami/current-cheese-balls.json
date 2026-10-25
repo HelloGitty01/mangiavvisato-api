@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/current-cheese-balls/",
+ "titolo": "Current Cheese Balls",
+ "data_pubblicazione": "2024-03-01",
+ "marca": "Yashoda Foods PVT LTD",
+ "denominazione": "Current Cheese Balls",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Yashoda%20Foods%201_1761198951.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo Yashoda Foods 1_1761198951.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Yashoda%20Foods%201_1761198951.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "current-cheese-balls",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "AUTORIZZATO"
+ },
+ "prima_rilevazione": "2026-10-25T07:17:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:17:58+00:00"
+}

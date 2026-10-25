@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/2-tartare-gustose/",
+ "titolo": "2 TARTARE GUSTOSE",
+ "data_pubblicazione": "2024-05-27",
+ "marca": "FIORANI C. S. R L. \n(IT 592 S CE)",
+ "denominazione": "2 TARTARE GUSTOSE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761202968.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo_1761202968.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo_1761202968.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "2-tartare-gustose",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "2 TARTARE GUSTOSE",
+  "operatore": "FIORANI & C. S.R.L.",
+  "lotti": [
+   "20124TG"
+  ],
+  "marchio_identificazione": "IT 592 S CE",
+  "produttore": "FIORANI & C. S.R.L.",
+  "sede_stabilimento": "VIA COPPALATI, 52 PIACENZA 29122",
+  "scadenza": "28/05/2024",
+  "peso_volume": "210g",
+  "motivo_esteso": "POSSIBILE CONTAMINAZIONE DA E.COLI STEC",
+  "avvertenze": "Per qualsiasi informazione, rivolgersi al servizio clienti Fiorani: Numero verde 800-494977 Sito internet: https://www.fioraniec.com/contatti/",
+  "campi_extra": {
+   "Data": "24/05/2024 Marchio del prodotto: FIORANI",
+   "Sito internet": "https://www.fioraniec.com/contatti/"
+  },
+  "testo": "RICHIAMO\nData: 24/05/2024 Marchio del prodotto: FIORANI\nDenominazione di vendita:2 TARTARE GUSTOSE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIORANI & C. S.R.L.\ncommercializzato:\nLotto di produzione: 20124TG\nMarchio di identificazione dello stabilimento/del produttore: IT 592 S CE\nNome del produttore: FIORANI & C. S.R.L.\nSede dello stabilimento: VIA COPPALATI, 52 PIACENZA 29122\nData di scadenza o termine minimo di conservazione: 28/05/2024\nDescrizione peso/volume unità di vendita: 210g\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE DA E.COLI STEC\nAvvertenze:\nPer qualsiasi informazione, rivolgersi al servizio clienti Fiorani:\nNumero verde 800-494977\nSito internet: https://www.fioraniec.com/contatti/"
+ },
+ "prima_rilevazione": "2026-10-25T07:09:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:09:22+00:00"
+}

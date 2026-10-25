@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zuppa-con-farro-e-verdure/",
+ "titolo": "Zuppa con farro e verdure",
+ "data_pubblicazione": "2024-05-02",
+ "marca": "Foglia verde",
+ "denominazione": "Zuppa con farro e verdure",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_1__1761202819.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello richiamo _1__1761202819.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_1__1761202819.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zuppa-con-farro-e-verdure",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Zuppa con farro e verdure",
+  "operatore": "Eurospin Italia SpA",
+  "lotti": [
+   "L124110"
+  ],
+  "produttore": "Ortomad - La Linea Verde SpA",
+  "sede_stabilimento": "Manerbio (Brescia) - Via Artigianale, 49",
+  "scadenza": "09/05/2024",
+  "peso_volume": "620 grammi",
+  "motivo_esteso": "Presenza di Clostridi produttori di tossine botuliniche",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "30/04/2024 Marchio del prodotto: Foglia Verde",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 30/04/2024 Marchio del prodotto: Foglia Verde\nDenominazione di vendita:Zuppa con farro e verdure\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Italia SpA\ncommercializzato:\nLotto di produzione: L124110\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Ortomad - La Linea Verde SpA\nSede dello stabilimento: Manerbio (Brescia) - Via Artigianale, 49\nData di scadenza o termine minimo di conservazione: 09/05/2024\nDescrizione peso/volume unità di vendita: 620 grammi\nMotivo del richiamo:\nPresenza di Clostridi produttori di tossine botuliniche\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per la sostituzione o il rimborso.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:10:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:10:47+00:00"
+}

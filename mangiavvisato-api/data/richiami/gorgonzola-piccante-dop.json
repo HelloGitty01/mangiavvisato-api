@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-piccante-dop/",
+ "titolo": "GORGONZOLA PICCANTE DOP",
+ "data_pubblicazione": "2024-07-23",
+ "marca": "AURICCHIO",
+ "denominazione": "GORGONZOLA PICCANTE DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MARCHIO%20AURICCHIO_1761205243.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO MARCHIO AURICCHIO_1761205243.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MARCHIO%20AURICCHIO_1761205243.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-piccante-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GORGONZOLA PICCANTE DOP marchio AURICCHIO",
+  "operatore": "Gennaro Auricchio S.p.A",
+  "lotti": [
+   "259404601"
+  ],
+  "marchio_identificazione": "IT 03 194 CE",
+  "produttore": "Gennaro Auricchio S.p.A",
+  "sede_stabilimento": "via Alessandria 1, 27051 Cava Manara (PV)",
+  "peso_volume": "Forma intera, 1/8, 1/16, 200 g",
+  "motivo_esteso": "Possibile rischio microbiologico per sospetta presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare e restituire il prodotto al punto di vendita",
+  "campi_extra": {
+   "Data": "22/07/2024 Marchio del prodotto: GORGONZOLA PICCANTE DOP"
+  },
+  "testo": "RICHIAMO\nData: 22/07/2024 Marchio del prodotto: GORGONZOLA PICCANTE DOP\nDenominazione di vendita:GORGONZOLA PICCANTE DOP marchio AURICCHIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Gennaro Auricchio S.p.A\ncommercializzato:\nLotto di produzione: 259404601\nMarchio di identificazione dello stabilimento/del produttore: IT 03 194 CE\nNome del produttore: Gennaro Auricchio S.p.A\nSede dello stabilimento: via Alessandria 1, 27051 Cava Manara (PV)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Forma intera, 1/8, 1/16, 200 g\nMotivo del richiamo:\nPossibile rischio microbiologico per sospetta presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare e restituire il prodotto al punto di vendita"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:32+00:00"
+}

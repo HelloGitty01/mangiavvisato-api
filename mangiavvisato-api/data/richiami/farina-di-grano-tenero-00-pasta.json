@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-00-pasta/",
+ "titolo": "Farina di grano tenero 00 per pasta",
+ "data_pubblicazione": "2024-05-08",
+ "marca": "Molino Soncini Cesare s.r.l.",
+ "denominazione": "Farina di grano tenero 00 per pasta",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Molino%20Soncini_1761202839.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Molino Soncini_1761202839.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Molino%20Soncini_1761202839.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "farina-di-grano-tenero-00-pasta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Farina 00 di grano tenero Pasta",
+  "operatore": "Molino Soncini Cesare srl-Strada Bassa dei Folli 141/A PR-PI:00163970346",
+  "lotti": [
+   "L 7"
+  ],
+  "marchio_identificazione": "Confezionato Monte Cremasco Eredi Fontanella",
+  "produttore": "Molino Soncini Cesare srl",
+  "sede_stabilimento": "Confezionato in conto lavorazione da Eredi Fontanella Vittorino a Monte Cremasco",
+  "scadenza": "tmc 20.02.2025",
+  "peso_volume": "1 kg per confezione",
+  "motivo_esteso": "Rischio per la salute in quanto non è stato stampato in fase di confezionamento da 1 kg gli allergeni Senape e Lupino.",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/05/2024 Marchio del prodotto: Molino Soncini Cesare srl",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/05/2024 Marchio del prodotto: Molino Soncini Cesare srl\nDenominazione di vendita:Farina 00 di grano tenero Pasta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino Soncini Cesare srl-Strada Bassa dei Folli 141/A PR-PI:00163970346\ncommercializzato:\nLotto di produzione: L 7\nMarchio di identificazione dello stabilimento/del produttore: Confezionato Monte Cremasco Eredi Fontanella\nNome del produttore: Molino Soncini Cesare srl\nSede dello stabilimento: Confezionato in conto lavorazione da Eredi Fontanella Vittorino a Monte Cremasco\nData di scadenza o termine minimo di conservazione: tmc 20.02.2025\nDescrizione peso/volume unità di vendita: 1 kg per confezione\nMotivo del richiamo:\nRischio per la salute in quanto non è stato stampato in fase di confezionamento da 1 kg gli allergeni\nSenape e Lupino.\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:10:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:10:37+00:00"
+}

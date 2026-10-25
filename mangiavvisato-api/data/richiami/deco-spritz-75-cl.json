@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-spritz-75-cl/",
+ "titolo": "Decò Spritz 75 cl",
+ "data_pubblicazione": "2024-05-14",
+ "marca": "Decò",
+ "denominazione": "Decò Spritz 75 cl",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SPRITZ_1761202859.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO SPRITZ_1761202859.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SPRITZ_1761202859.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "deco-spritz-75-cl",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:10:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:10:31+00:00"
+}

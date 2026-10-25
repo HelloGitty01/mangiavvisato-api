@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/porchetta-di-ariccia/",
+ "titolo": "PORCHETTA DI ARICCIA",
+ "data_pubblicazione": "2022-10-04",
+ "marca": "SUPERMERCATI IPERAL S.p.A",
+ "denominazione": "PORCHETTA DI ARICCIA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Porchetta%20di%20Ariccia%20____%20_1__1761192174.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo Porchetta di Ariccia ____ _1__1761192174.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Porchetta%20di%20Ariccia%20____%20_1__1761192174.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "porchetta-di-ariccia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PORCHETTA DI ARICCIA",
+  "operatore": "SUPERMERCATI IPERAL S.p.A",
+  "lotti": [
+   "V233557"
+  ],
+  "marchio_identificazione": "CE IT 1019L",
+  "produttore": "PROSCIUTTIFICIO SAN MICHELE SRL",
+  "sede_stabilimento": "LESIGNANO DE’ BAGNI (PR)",
+  "scadenza": "14-10-2022",
+  "peso_volume": "90 gr",
+  "motivo_esteso": "Non Conformità Microbiologia",
+  "avvertenze": "In via cautelativa, si avvisano i consumatori che avessero acquistato il prodotto, di non consumarlo e restituire le confezioni al punto vendita per la sostituzione. Inserireimmagineuno: Inserireimmaginedue",
+  "campi_extra": {
+   "Data": "30/09/2022 Marchio del prodotto: SELEZIONI ALTA QUALITA’ IPERAL",
+   "Inserireimmagineuno": "Inserireimmaginedue:"
+  },
+  "testo": "RICHIAMO\nData: 30/09/2022 Marchio del prodotto: SELEZIONI ALTA QUALITA’ IPERAL\nDenominazione di vendita:PORCHETTA DI ARICCIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUPERMERCATI IPERAL S.p.A\ncommercializzato:\nLotto di produzione: V233557\nMarchio di identificazione dello stabilimento/del produttore: CE IT 1019L\nNome del produttore: PROSCIUTTIFICIO SAN MICHELE SRL\nSede dello stabilimento: LESIGNANO DE’ BAGNI (PR)\nData di scadenza o termine minimo di conservazione: 14-10-2022\nDescrizione peso/volume unità di vendita: 90 gr\nMotivo del richiamo:\nNon Conformità Microbiologia\nAvvertenze:\nIn via cautelativa, si avvisano i consumatori che avessero acquistato il prodotto, di non\nconsumarlo e restituire le confezioni al punto vendita per la sostituzione.\nInserireimmagineuno: Inserireimmaginedue:"
+ },
+ "prima_rilevazione": "2026-10-25T07:45:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:45:43+00:00"
+}

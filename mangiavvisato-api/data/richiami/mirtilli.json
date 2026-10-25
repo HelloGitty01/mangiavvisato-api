@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mirtilli/",
+ "titolo": "MIRTILLI",
+ "data_pubblicazione": "2024-03-11",
+ "marca": "PRIMA VOGLIA",
+ "denominazione": "MIRTILLI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartelloi%20Richiamo%20Mirtilli_In_s_1761199019.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartelloi Richiamo Mirtilli_In_s_1761199019.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartelloi%20Richiamo%20Mirtilli_In_s_1761199019.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mirtilli",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MIRTILLI",
+  "operatore": "IN'S MERCATO S.P.A.",
+  "lotti": [
+   "L030823"
+  ],
+  "produttore": "I. SCHROEDER KG",
+  "sede_stabilimento": "AM SANDTORKAI 37, 20457 HAMBURG (DE)",
+  "scadenza": "02-08-2025",
+  "peso_volume": "300 g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI NOROVIRUS.",
+  "avvertenze": "I CLIENTI CHE AVESSERO ACQUISTATO TALE PRODOTTO SONO PREGATI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA PER LA SOSTITUZIONE O RIMBORSO ENTRO IL 23/03/2024. SIAMO SPIACENTI PER IL DISAGIO ARRECATO.",
+  "campi_extra": {
+   "Data": "06/03/2024 Marchio del prodotto: PRIMA VOGLIA"
+  },
+  "testo": "RICHIAMO\nData: 06/03/2024 Marchio del prodotto: PRIMA VOGLIA\nDenominazione di vendita:MIRTILLI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IN'S MERCATO S.P.A.\ncommercializzato:\nLotto di produzione: L030823\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: I. SCHROEDER KG\nSede dello stabilimento: AM SANDTORKAI 37, 20457 HAMBURG (DE)\nData di scadenza o termine minimo di conservazione: 02-08-2025\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI NOROVIRUS.\nAvvertenze:\nI CLIENTI CHE AVESSERO ACQUISTATO TALE PRODOTTO SONO PREGATI DI NON CONSUMARE IL\nPRODOTTO E RESTITUIRLO AL PUNTO VENDITA PER LA SOSTITUZIONE O RIMBORSO ENTRO IL\n23/03/2024.\nSIAMO SPIACENTI PER IL DISAGIO ARRECATO."
+ },
+ "prima_rilevazione": "2026-10-25T07:17:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:17:18+00:00"
+}

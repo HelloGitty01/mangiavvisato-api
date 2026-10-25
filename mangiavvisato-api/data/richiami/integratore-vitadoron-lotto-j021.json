@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratore-vitadoron-lotto-j021/",
+ "titolo": "Integratore Vitadoron - lotto J021",
+ "data_pubblicazione": "2023-04-21",
+ "marca": "Weleda",
+ "denominazione": "Integratore Vitadoron - lotto J021",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J021_1761194803.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO VITADORON WELEDA_J021_1761194803.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20VITADORON%20WELEDA_J021_1761194803.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "integratore-vitadoron-lotto-j021",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VITADORON",
+  "operatore": "Weleda Italia S.r.l.",
+  "lotti": [
+   "J021"
+  ],
+  "produttore": "WELEDA AG",
+  "sede_stabilimento": "Weleda AG Möhlerstrasse 3-5 D-73525 - Schwäbisch Gmünd - Germany",
+  "scadenza": "31-12-2026",
+  "peso_volume": "200 pastiglie da 250 mg",
+  "motivo_esteso": "Rilevata presenza di corpi estranei metallici nel semilavorato",
+  "avvertenze": "Non utilizzare il prodotto con il lotto segnalato e se possibile renderlo al venditore Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "20/04/2023 Marchio del prodotto: Weleda",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 20/04/2023 Marchio del prodotto: Weleda\nDenominazione di vendita:VITADORON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Weleda Italia S.r.l.\ncommercializzato:\nLotto di produzione: J021\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: WELEDA AG\nSede dello stabilimento: Weleda AG Möhlerstrasse 3-5 D-73525 - Schwäbisch Gmünd - Germany\nData di scadenza o termine minimo di conservazione: 31-12-2026\nDescrizione peso/volume unità di vendita: 200 pastiglie da 250 mg\nMotivo del richiamo:\nRilevata presenza di corpi estranei metallici nel semilavorato\nAvvertenze:\nNon utilizzare il prodotto con il lotto segnalato e se possibile renderlo al venditore\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:32:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:32:00+00:00"
+}

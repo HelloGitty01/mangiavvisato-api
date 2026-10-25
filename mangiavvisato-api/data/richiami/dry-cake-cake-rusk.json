@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dry-cake-cake-rusk/",
+ "titolo": "Dry Cake Cake Rusk",
+ "data_pubblicazione": "2024-06-12",
+ "marca": "Banoful",
+ "denominazione": "Dry Cake Cake Rusk",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DRYCAKE__cartellorichiamo_1761204282.pdf",
+ "allegati": [
+  {
+   "titolo": "DRYCAKE__cartellorichiamo_1761204282.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DRYCAKE__cartellorichiamo_1761204282.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "dry-cake-cake-rusk",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "DRY CAKE CAKE RUSK",
+  "operatore": "ASIA FOOD SRL E COMMERCIALIZZATO : VIA DEL MAGGIOLINO 169 - ROMA",
+  "marchio_identificazione": "Banoful",
+  "produttore": "Banoful",
+  "sede_stabilimento": "BANGLADESH",
+  "peso_volume": "unita di vendita : 300 G BN0224 LOTTO 14/23 SCD 13/10/25 BN0124 LOTTO 15/23 SCD 29/10/25 motivi del richiamo : ERRORE DELLA ETICHETTA CON PRESENZA DI UOVO NON DICHIARATO IN ETICHETTA ITALIANA ALLERGENE : UOVA STICKER ERROR. ALLERGY : EGG",
+  "avvertenze": "NON CONSUMARE E RIPORTARE AL NEGOZIANTE DO NOT CONSUME AND RETURN TO THE STORE",
+  "campi_extra": {
+   "DATA": "29/05/2024 MARCHIO DEL PRODOTTO : Banoful",
+   "SCD 29/10/25 motivi del richiamo": "ERRORE DELLA ETICHETTA",
+   "ALLERGENE": "UOVA STICKER ERROR. ALLERGY : EGG"
+  },
+  "testo": "RICHIAMO\nDATA : 29/05/2024 MARCHIO DEL PRODOTTO : Banoful\nDENOMINAZIONE DI VENDITA : DRY\nCAKE CAKE RUSK\nNOME O RAGIONE SOCIALE DELL'OSA ASIA FOOD SRL\nA NOME DEL QUALE IL PRODOTTO E\nCOMMERCIALIZZATO :\nVIA DEL MAGGIOLINO 169 - ROMA\nMARCHIO DI IDENTIFICAZIONE DELLO STABILIMENTO / DEL PRODUTTORE : Banoful\nNome del produttore : Banoful\nsede dello stabilimento : BANGLADESH\ndescrizione peso / volume unita di vendita : 300 G\nBN0224 LOTTO 14/23 SCD 13/10/25 BN0124 LOTTO 15/23\nSCD 29/10/25 motivi del richiamo : ERRORE DELLA ETICHETTA\nCON PRESENZA DI UOVO NON DICHIARATO IN ETICHETTA ITALIANA\nALLERGENE : UOVA STICKER ERROR. ALLERGY : EGG\nAvvertenze :\nNON CONSUMARE E RIPORTARE AL NEGOZIANTE\nDO NOT CONSUME AND RETURN TO THE STORE"
+ },
+ "prima_rilevazione": "2026-10-25T07:08:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:43+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-dolce-lettere-dallitalia/",
+ "titolo": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+ "data_pubblicazione": "2023-05-24",
+ "marca": "LETTERE DALL'ITALIA",
+ "denominazione": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20_%20Gorgonzola%20DOP%20Dolce%20Lettere%20dall_Italia%20L10427001_1761195610.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo _ Gorgonzola DOP Dolce Lettere dall_Italia L10427001_1761195610.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20_%20Gorgonzola%20DOP%20Dolce%20Lettere%20dall_Italia%20L10427001_1761195610.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gorgonzola-dop-dolce-lettere-dallitalia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA",
+  "operatore": "MD S.p.A",
+  "lotti": [
+   "10427001"
+  ],
+  "marchio_identificazione": "IT 01 124 CE",
+  "produttore": "IGOR S.R.L",
+  "sede_stabilimento": "Strada Natale Leonardi 32, 28062 Cameri (NO)",
+  "scadenza": "24-05-2023",
+  "peso_volume": "PESO VARIABILE",
+  "motivo_esteso": "POSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES",
+  "avvertenze": "I clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al punto vendita.",
+  "campi_extra": {
+   "Data": "19/05/2023 Marchio del prodotto: LETTERE DALL'ITALIA"
+  },
+  "testo": "RICHIAMO\nData: 19/05/2023 Marchio del prodotto: LETTERE DALL'ITALIA\nDenominazione di vendita:GORGONZOLA DOP DOLCE LETTERE DALL'ITALIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MD S.p.A\ncommercializzato:\nLotto di produzione: 10427001\nMarchio di identificazione dello stabilimento/del produttore: IT 01 124 CE\nNome del produttore: IGOR S.R.L\nSede dello stabilimento: Strada Natale Leonardi 32, 28062 Cameri (NO)\nData di scadenza o termine minimo di conservazione: 24-05-2023\nDescrizione peso/volume unità di vendita: PESO VARIABILE\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES\nAvvertenze:\nI clienti che avessero acquistato tale prodotto sono pregati di non consumarlo e di restituirlo al\npunto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T07:30:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:30:20+00:00"
+}

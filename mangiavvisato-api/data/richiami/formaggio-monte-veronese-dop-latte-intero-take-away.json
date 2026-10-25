@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-monte-veronese-dop-latte-intero-take-away/",
+ "titolo": "FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+ "data_pubblicazione": "2024-06-26",
+ "marca": "SUPERMERCATO TOSANO CEREA SRL",
+ "denominazione": "FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_1__1761204335.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 2 _1__1761204335.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20_1__1761204335.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-monte-veronese-dop-latte-intero-take-away",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY",
+  "operatore": "SUPERMERCATI TOSANO CEREA S.R.L.",
+  "marchio_identificazione": "PUNTO VENDITA DI RIFERIMENTO",
+  "produttore": "SUPERMERCATI TOSANO CEREA S.R.L.",
+  "sede_stabilimento": "PUNTO VENDITA INDICATO IN CONFEZIONE",
+  "scadenza": "25-26/06/2024",
+  "peso_volume": "FORMAGGIO PORZIONATO A PESO VARIABILE",
+  "motivo_esteso": "POSSIBILE CONTAMINAZIONE MICROBIOLOGICA DA LISTERIA MONOCYTOGENES",
+  "avvertenze": "NON CONSUMARE. RIPORTARE AL PUNTO VENDITA D'ACQUISTO.",
+  "campi_extra": {
+   "Data": "25/06/2024 Marchio del prodotto: SUPERMERCATI TOSANO CEREA S.R.L."
+  },
+  "testo": "RICHIAMO\nData: 25/06/2024 Marchio del prodotto: SUPERMERCATI TOSANO CEREA S.R.L.\nDenominazione di vendita:FORMAGGIO MONTE VERONESE DOP LATTE INTERO TAKE AWAY\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUPERMERCATI TOSANO CEREA S.R.L.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PUNTO VENDITA DI RIFERIMENTO\nNome del produttore: SUPERMERCATI TOSANO CEREA S.R.L.\nSede dello stabilimento: PUNTO VENDITA INDICATO IN CONFEZIONE\nData di scadenza o termine minimo di conservazione: 25-26/06/2024\nDescrizione peso/volume unità di vendita: FORMAGGIO PORZIONATO A PESO VARIABILE\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE MICROBIOLOGICA DA LISTERIA MONOCYTOGENES\nAvvertenze:\nNON CONSUMARE. RIPORTARE AL PUNTO VENDITA D'ACQUISTO."
+ },
+ "prima_rilevazione": "2026-10-25T07:08:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:13+00:00"
+}

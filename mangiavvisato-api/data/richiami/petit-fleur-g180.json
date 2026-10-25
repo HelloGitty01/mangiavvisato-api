@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petit-fleur-g180/",
+ "titolo": "PETIT FLEUR G.180",
+ "data_pubblicazione": "2024-04-26",
+ "marca": "TREVISAN SRL",
+ "denominazione": "PETIT FLEUR G.180",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello__Richiamo_PETIT%20FLEUR%20TREVISAN__1761202767.pdf",
+ "allegati": [
+  {
+   "titolo": "modello__Richiamo_PETIT FLEUR TREVISAN__1761202767.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello__Richiamo_PETIT%20FLEUR%20TREVISAN__1761202767.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "petit-fleur-g180",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PETIT FLEUR G.180",
+  "operatore": "TREVISAN SRL",
+  "lotti": [
+   "T0219"
+  ],
+  "marchio_identificazione": "TREVISAN",
+  "produttore": "FIMARDOLCI SRL",
+  "sede_stabilimento": "STRADA SAN CARLO Z.I.MAZZOCCHIO - 1182 PONTINA LT ITALIA",
+  "scadenza": "15-12-2024",
+  "peso_volume": "180 GR",
+  "motivo_esteso": "Possibile contaminazione da corpi estranei (metalli)",
+  "avvertenze": "In via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "17/04/2024 Marchio del prodotto: TREVISAN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 17/04/2024 Marchio del prodotto: TREVISAN\nDenominazione di vendita:PETIT FLEUR G.180\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TREVISAN SRL\ncommercializzato:\nLotto di produzione: T0219\nMarchio di identificazione dello stabilimento/del produttore: TREVISAN\nNome del produttore: FIMARDOLCI SRL\nSede dello stabilimento: STRADA SAN CARLO Z.I.MAZZOCCHIO - 1182 PONTINA LT ITALIA\nData di scadenza o termine minimo di conservazione: 15-12-2024\nDescrizione peso/volume unità di vendita: 180 GR\nMotivo del richiamo:\nPossibile contaminazione da corpi estranei (metalli)\nAvvertenze:\nIn via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:11:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:11:09+00:00"
+}

@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-e-salatino/",
+ "titolo": "Biscotti e salatino",
+ "data_pubblicazione": "2024-07-17",
+ "marca": "Elachi, First Choice, Lexus, Saltes, Chanachur",
+ "denominazione": "Biscotti e salatino",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_1761204534.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di Richiamo_1761204534.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_1761204534.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "biscotti-e-salatino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine 2 Immagine 3 Immagine 4 Immagine 6 Immagine 5",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine 2 Immagine 3\nImmagine 4\nImmagine 6\nImmagine 5"
+ },
+ "prima_rilevazione": "2026-10-25T07:06:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:06:47+00:00"
+}

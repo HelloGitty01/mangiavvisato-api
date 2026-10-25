@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/humana-3/",
+ "titolo": "HUMANA 3",
+ "data_pubblicazione": "2022-11-24",
+ "marca": "Humana Italia SPA",
+ "denominazione": "HUMANA 3",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20Humana%203_1761192970.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di Richiamo Humana 3_1761192970.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20Humana%203_1761192970.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "humana-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:42:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:42:28+00:00"
+}

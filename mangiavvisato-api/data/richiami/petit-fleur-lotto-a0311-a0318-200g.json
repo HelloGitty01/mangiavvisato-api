@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/petit-fleur-lotto-a0311-a0318-200g/",
+ "titolo": "PETIT FLEUR - LOTTO A0311, A0318 200G",
+ "data_pubblicazione": "2024-04-22",
+ "marca": "FIMARDOLCI SRL",
+ "denominazione": "PETIT FLEUR - LOTTO A0311, A0318 200G",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PETIT%20FLEUR%20200G%20A0311%20A0318_1761202726.pdf",
+ "allegati": [
+  {
+   "titolo": "PETIT FLEUR 200G A0311 A0318_1761202726.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PETIT%20FLEUR%20200G%20A0311%20A0318_1761202726.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "petit-fleur-lotto-a0311-a0318-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PETIT FLEUR",
+  "operatore": "FIMARDOLCI SRL",
+  "lotti": [
+   "A0311",
+   "A0318"
+  ],
+  "marchio_identificazione": "FIMARDOLCI SRL",
+  "produttore": "FIMARDOLCI SRL",
+  "sede_stabilimento": "STRADA SAN CARLO Z.I. MAZZOCCHIO, 1182, PONTINIA (LT), ITALIA",
+  "peso_volume": "200 g - venduto a pezzo",
+  "motivo_esteso": "Possibile contaminazione da corpi estranei (metalli)",
+  "avvertenze": "In via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto. SCADENZE: A0311 - 05/01/2025; A0318 - 12/01/2025",
+  "campi_extra": {
+   "Data": "16/04/2024 Marchio del prodotto: FIMARDOLCI SRL",
+   "SCADENZE": "A0311 - 05/01/2025; A0318 - 12/01/2025"
+  },
+  "testo": "RICHIAMO\nData: 16/04/2024 Marchio del prodotto: FIMARDOLCI SRL\nDenominazione di vendita:PETIT FLEUR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIMARDOLCI SRL\ncommercializzato:\nLotto di produzione: A0311, A0318\nMarchio di identificazione dello stabilimento/del produttore: FIMARDOLCI SRL\nNome del produttore: FIMARDOLCI SRL\nSede dello stabilimento: STRADA SAN CARLO Z.I. MAZZOCCHIO, 1182, PONTINIA (LT), ITALIA\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 200 g - venduto a pezzo\nMotivo del richiamo:\nPossibile contaminazione da corpi estranei (metalli)\nAvvertenze:\nIn via cautelativa si chiede di non consumare il prodotto e riportare la merce presso il punto di acquisto.\nSCADENZE: A0311 - 05/01/2025; A0318 - 12/01/2025"
+ },
+ "prima_rilevazione": "2026-10-25T07:13:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:13:23+00:00"
+}

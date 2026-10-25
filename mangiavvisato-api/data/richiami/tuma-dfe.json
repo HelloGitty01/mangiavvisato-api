@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tuma-dfe/",
+ "titolo": "TUMA D'FE",
+ "data_pubblicazione": "2023-02-22",
+ "marca": "Az. Agr. Christine Draps",
+ "denominazione": "TUMA D'FE",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Tuma%20d%20fe%20DRAPS%20_1__1761193864.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello Richiamo Tuma d fe DRAPS _1__1761193864.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Tuma%20d%20fe%20DRAPS%20_1__1761193864.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tuma-dfe",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:37:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:37:51+00:00"
+}

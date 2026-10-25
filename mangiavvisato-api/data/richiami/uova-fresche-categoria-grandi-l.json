@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria-grandi-l/",
+ "titolo": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+ "data_pubblicazione": "2022-11-15",
+ "marca": "UOVA PAZZAGLIA",
+ "denominazione": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20uova%20pazzaglia%2015.11.22_1761192945.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo uova pazzaglia 15.11.22_1761192945.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20uova%20pazzaglia%2015.11.22_1761192945.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-categoria-grandi-l",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+  "operatore": "UOVA PAZZAGLIA di Battaglia Luca",
+  "lotti": [
+   "431001",
+   "441001"
+  ],
+  "marchio_identificazione": "IT 040017",
+  "produttore": "Uova Pazzaglia di Battaglia Luca",
+  "sede_stabilimento": "Budrio di Longiano (FC)",
+  "scadenza": "22e28/11/2022",
+  "peso_volume": "confezione da 6 uova fresche, grandi L (63-73g) guscio bianco",
+  "motivo_esteso": "Positività per Salmonella Enteriditis a seguito di campionamento ufficiale feci di galline ovaiole. Eseguito da ASUR Area Vasta 2 in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/2022",
+  "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (LOTTO 431001 scad, 22/11/2022; LOTTO 441001 scad. 28/11/2022). Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "15/11/2022 Marchio del prodotto: UOVA PAZZAGLIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 15/11/2022 Marchio del prodotto: UOVA PAZZAGLIA\nDenominazione di vendita:UOVA FRESCHE CATEGORIA A - GRANDI L\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UOVA PAZZAGLIA di Battaglia Luca\ncommercializzato:\nLotto di produzione: 431001;441001\nMarchio di identificazione dello stabilimento/del produttore: IT 040017\nNome del produttore: Uova Pazzaglia di Battaglia Luca\nSede dello stabilimento: Budrio di Longiano (FC)\nData di scadenza o termine minimo di conservazione: 22e28/11/2022\nDescrizione peso/volume unità di vendita: confezione da 6 uova fresche, grandi L (63-73g) guscio bianco\nMotivo del richiamo:\nPositività per Salmonella Enteriditis a seguito di campionamento ufficiale feci di galline ovaiole. Eseguito da\nASUR Area Vasta 2 in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/2022\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al\npunto vendita in cui l'ha acquistata. (LOTTO 431001 scad, 22/11/2022; LOTTO 441001 scad. 28/11/2022).\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:43:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:43:18+00:00"
+}

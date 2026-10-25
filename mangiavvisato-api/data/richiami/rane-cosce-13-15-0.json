@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rane-cosce-13-15-0/",
+ "titolo": "RANE COSCE 13-15",
+ "data_pubblicazione": "2024-06-17",
+ "marca": "EPIC",
+ "denominazione": "RANE COSCE 13-15",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_MARE_1761204298.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_RICHIAMO_MARE_1761204298.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_MARE_1761204298.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "rane-cosce-13-15-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T07:08:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:08:37+00:00"
+}

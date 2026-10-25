@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-bologna-igp/",
+ "titolo": "MORTADELLA BOLOGNA IGP",
+ "data_pubblicazione": "2023-06-29",
+ "marca": "CONAD",
+ "denominazione": "MORTADELLA BOLOGNA IGP",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20modello%20richiamo%20Mortadella%20Lotto%2026321049_1_1764239699.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato 4 modello richiamo Mortadella Lotto 26321049_1_1764239699.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20modello%20richiamo%20Mortadella%20Lotto%2026321049_1_1764239699.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mortadella-bologna-igp",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MORTADELLA BOLOGNA IGP",
+  "operatore": "CONAD",
+  "lotti": [
+   "26321049"
+  ],
+  "marchio_identificazione": "IT 848 L CE",
+  "produttore": "Salumifici Granterre S.p.A.",
+  "sede_stabilimento": "Via Gandiolo 2/A, Noceto (PR)",
+  "scadenza": "09-07-2023",
+  "peso_volume": "130g",
+  "motivo_esteso": "PRESENZA DELL'ALLERGENE PISTACCHIO NON DICHIARATO IN ETICHETTA",
+  "avvertenze": "AVVISO IMPORTANTE PER LE PERSONE ALLERGICHE AL PISTACCHIO: NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "28/06/2023 Marchio del prodotto: CONAD",
+   "AVVISO IMPORTANTE PER LE PERSONE ALLERGICHE AL PISTACCHIO": "NON CONSUMARE IL PRODOTTO E",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 28/06/2023 Marchio del prodotto: CONAD\nDenominazione di vendita:MORTADELLA BOLOGNA IGP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD\ncommercializzato:\nLotto di produzione: 26321049\nMarchio di identificazione dello stabilimento/del produttore: IT 848 L CE\nNome del produttore: Salumifici Granterre S.p.A.\nSede dello stabilimento: Via Gandiolo 2/A, Noceto (PR)\nData di scadenza o termine minimo di conservazione: 09-07-2023\nDescrizione peso/volume unità di vendita: 130g\nMotivo del richiamo:\nPRESENZA DELL'ALLERGENE PISTACCHIO NON DICHIARATO IN ETICHETTA\nAvvertenze:\nAVVISO IMPORTANTE PER LE PERSONE ALLERGICHE AL PISTACCHIO: NON CONSUMARE IL PRODOTTO E\nRESTITUIRLO AL PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T07:28:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T07:28:24+00:00"
+}
