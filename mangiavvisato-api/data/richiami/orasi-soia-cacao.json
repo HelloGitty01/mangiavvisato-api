@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/orasi-soia-cacao/",
+ "titolo": "OraSì Soia Cacao",
+ "data_pubblicazione": "2021-07-29",
+ "marca": "OraSì",
+ "denominazione": "OraSì Soia Cacao",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ORASI%20Cacao_1761187514.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO ORASI Cacao_1761187514.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ORASI%20Cacao_1761187514.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "orasi-soia-cacao",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ORASI’ SOIA CACAO",
+  "operatore": "Unigrà srl",
+  "lotti": [
+   "21084"
+  ],
+  "produttore": "Unigrà srl",
+  "sede_stabilimento": "Conselice (RA), Via Gardizza 9/B",
+  "scadenza": "20/03/2022",
+  "peso_volume": "1 litro",
+  "motivo_esteso": "ritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)",
+  "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "26/07/2021 Marchio del prodotto: ORASI’"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2021 Marchio del prodotto: ORASI’\nDenominazione di vendita: ORASI’ SOIA CACAO\nNome o ragione sociale dell'OSA\nUnigrà srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 21084\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Unigrà srl\nSede dello stabilimento: Conselice (RA), Via Gardizza 9/B\nData di scadenza o termine minimo di conservazione: 20/03/2022\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T08:48:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:48:34+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-di-verdura/",
+ "titolo": "Minestrone di verdura",
+ "data_pubblicazione": "2021-07-05",
+ "marca": "Le Delizie Emiliane",
+ "denominazione": "Minestrone di verdura",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/le%20delizie_All%206%20modulo%20richiamo%20del%20prodotto_1761186694.pdf",
+ "allegati": [
+  {
+   "titolo": "le delizie_All 6 modulo richiamo del prodotto_1761186694.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/le%20delizie_All%206%20modulo%20richiamo%20del%20prodotto_1761186694.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "minestrone-di-verdura",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Minestrone di verdura",
+  "operatore": "Nuova Jolli srl",
+  "lotti": [
+   "15/08/21"
+  ],
+  "marchio_identificazione": "CE IT 13C1R",
+  "produttore": "Nuova Jolli srl",
+  "sede_stabilimento": "viale Caduti sul Lavoro 55, 41122 Modena",
+  "scadenza": "15-08-2021",
+  "peso_volume": "600g",
+  "motivo_esteso": "non conformità microbiologica per contaminazione da batteri anaerobi solfito riduttori, rilevata in autocontrollo",
+  "avvertenze": "Non consumare il prodotto e restituire al punto vendita.",
+  "campi_extra": {
+   "Data": "02/07/2021 Marchio del prodotto: Le Delizie Emiliane"
+  },
+  "testo": "RICHIAMO\nData: 02/07/2021 Marchio del prodotto: Le Delizie Emiliane\nDenominazione di vendita:Minestrone di verdura\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Nuova Jolli srl\ncommercializzato:\nLotto di produzione: 15/08/21\nMarchio di identificazione dello stabilimento/del produttore: CE IT 13C1R\nNome del produttore: Nuova Jolli srl\nSede dello stabilimento: viale Caduti sul Lavoro 55, 41122 Modena\nData di scadenza o termine minimo di conservazione: 15-08-2021\nDescrizione peso/volume unità di vendita: 600g\nMotivo del richiamo:\nnon conformità microbiologica per contaminazione da batteri anaerobi solfito riduttori, rilevata in\nautocontrollo\nAvvertenze:\nNon consumare il prodotto e restituire al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T08:51:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:39+00:00"
+}

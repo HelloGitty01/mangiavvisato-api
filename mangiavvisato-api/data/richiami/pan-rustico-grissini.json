@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pan-rustico-grissini/",
+ "titolo": "PAN RUSTICO Grissini",
+ "data_pubblicazione": "2020-12-02",
+ "marca": "BISCOPAN S.R.L.",
+ "denominazione": "PAN RUSTICO Grissini",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_2_1761183234.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMI 2_2_1761183234.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_2_1761183234.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pan-rustico-grissini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PAN RUSTICO Grissini Nome o ragione sociale BISCOPAN S.R.L. dell'OSA a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "LOTTO 174 –182-184-188-191-192-198"
+  ],
+  "marchio_identificazione": "BISCOPAN S.R.L",
+  "produttore": "BISCOPAN S.R.L.",
+  "sede_stabilimento": "VIA DELL’INDUSTRIA 345 – 45021 BADIA POLESINE (RO)",
+  "scadenza": "VEDI AVVERTENZE",
+  "peso_volume": "CONFEZIONE DA 200GR",
+  "motivo_esteso": "Richiamo precauzionale per semi di sesamo con possibile presenza di ossido di etilene oltre il limite di legge",
+  "avvertenze": "lotti sottoposti a richiamo sono",
+  "campi_extra": {
+   "Data": "27/11/2020 Marchio del prodotto: BISCOPAN S.R.L."
+  },
+  "testo": "RICHIAMO\nData: 27/11/2020 Marchio del prodotto: BISCOPAN S.R.L.\nDenominazione di vendita: PAN RUSTICO Grissini\nNome o ragione sociale BISCOPAN S.R.L.\ndell'OSA a nome del quale il\nprodotto è commercializzato:\nLotto di produzione: LOTTO 174 –182-184-188-191-192-198\nMarchio di identificazione dello stabilimento/del produttore: BISCOPAN S.R.L\nNome del produttore: BISCOPAN S.R.L.\nSede dello stabilimento: VIA DELL’INDUSTRIA 345 – 45021 BADIA POLESINE (RO)\nData di scadenza o termine minimo di conservazione: VEDI AVVERTENZE\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 200GR\nMotivo del richiamo:\nRichiamo precauzionale per semi di sesamo con possibile presenza di ossido di etilene oltre il limite di legge\nAvvertenze: lotti sottoposti a richiamo sono:\nLOTTO 174 con scadenza 22/03/2021\nLOTTO 182 con scadenza 30/03/2021\nLOTTO 184 con scadenza 02/04/2021\nLOTTO 188 con scadenza 06/04/2021\nLOTTO 191 con scadenza 09/04/2021\nLOTTO 192 con scadenza 10/04/2021\nLOTTO 198 con scadenza 16/04/2021\nInserire immagine uno:\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:05:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:34+00:00"
+}

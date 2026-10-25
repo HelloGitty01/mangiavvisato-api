@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-sesame-seeds-black/",
+ "titolo": "TRS SESAME SEEDS BLACK",
+ "data_pubblicazione": "2021-01-21",
+ "marca": "TRS",
+ "denominazione": "TRS SESAME SEEDS BLACK",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Semi_1761185164.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo Semi_1761185164.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Semi_1761185164.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trs-sesame-seeds-black",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TRS SESAME SEEDS BLACK 100 G",
+  "operatore": "INDIA TRADING SRL",
+  "lotti": [
+   "BATCH CODE P60806"
+  ],
+  "produttore": "TRS Wholesale Ltd",
+  "sede_stabilimento": "Inghilterra",
+  "scadenza": "BB 06/2021",
+  "peso_volume": "1 Cartone con 20 confezioni da 100 g.",
+  "motivo_esteso": "Allerta 5",
+  "campi_extra": {
+   "Data": "14/01/2021 Marchio del prodotto: TRS"
+  },
+  "testo": "RICHIAMO\nData: 14/01/2021 Marchio del prodotto: TRS\nDenominazione di vendita:TRS SESAME SEEDS BLACK 100 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è INDIA TRADING SRL\ncommercializzato:\nLotto di produzione: BATCH CODE P60806\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: TRS Wholesale Ltd\nSede dello stabilimento: Inghilterra\nData di scadenza o termine minimo di conservazione: BB 06/2021\nDescrizione peso/volume unità di vendita: 1 Cartone con 20 confezioni da 100 g.\nMotivo del richiamo:\nAllerta 5\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T09:00:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:00:19+00:00"
+}

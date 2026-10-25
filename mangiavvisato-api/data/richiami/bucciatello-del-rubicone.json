@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bucciatello-del-rubicone/",
+ "titolo": "Bucciatello del Rubicone",
+ "data_pubblicazione": "2020-10-13",
+ "marca": "Caseificio Pascoli",
+ "denominazione": "Bucciatello del Rubicone",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/7_RICHIAMO%20BUCCIATELLO_1761182217.pdf",
+ "allegati": [
+  {
+   "titolo": "7_RICHIAMO BUCCIATELLO_1761182217.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/7_RICHIAMO%20BUCCIATELLO_1761182217.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "bucciatello-del-rubicone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BUCCIATELLO DEL RUBICONE",
+  "operatore": "CASEIFICIO PASCOLI SRL",
+  "lotti": [
+   "SR111/4/02"
+  ],
+  "marchio_identificazione": "IT08-550CE",
+  "produttore": "CASEIFICIO PASCOLI SRL",
+  "sede_stabilimento": "VIA RUBICONE DX N.220 SAVIGNANO SUL RUBICONE",
+  "scadenza": "20-23/10/2020",
+  "peso_volume": "KG 49.586 - FORMA INTERA",
+  "motivo_esteso": "RISCHIO CHIMICO PRESENZA AFLATOSSINE M1 NEL LATTE",
+  "avvertenze": "RESTITUIRE AL PRODUTTORE",
+  "campi_extra": {
+   "Data": "12/10/2020 Marchio del prodotto: CASEIFICIO PASCOLI SRL"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 12/10/2020 Marchio del prodotto: CASEIFICIO PASCOLI SRL\nDenominazione di vendita:BUCCIATELLO DEL RUBICONE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO PASCOLI SRL\ncommercializzato:\nLotto di produzione: SR111/4/02\nMarchio di identificazione dello stabilimento/del produttore: IT08-550CE\nNome del produttore: CASEIFICIO PASCOLI SRL\nSede dello stabilimento: VIA RUBICONE DX N.220 SAVIGNANO SUL RUBICONE\nData di scadenza o termine minimo di conservazione: 20-23/10/2020\nDescrizione peso/volume unità di vendita: KG 49.586 - FORMA INTERA\nMotivo del richiamo:\nRISCHIO CHIMICO PRESENZA AFLATOSSINE M1 NEL LATTE\nAvvertenze:\nRESTITUIRE AL PRODUTTORE"
+ },
+ "prima_rilevazione": "2026-10-25T09:10:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:55+00:00"
+}

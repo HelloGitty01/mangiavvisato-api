@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curry-consilia-minipet/",
+ "titolo": "CURRY CONSILIA MINIPET",
+ "data_pubblicazione": "2021-06-18",
+ "marca": "CONSILIA",
+ "denominazione": "CURRY CONSILIA MINIPET",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20CURRY%20CONSILIA%2017062021%20rev%202_1761186684.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO CURRY CONSILIA 17062021 rev 2_1761186684.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20CURRY%20CONSILIA%2017062021%20rev%202_1761186684.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "curry-consilia-minipet",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CURRY CONSILIA MINIPET 100 G",
+  "operatore": "SUN SOC. CONS. AR.L., VIA ANTONIO DA RECANATE 1, MILANO",
+  "lotti": [
+   "L06350U"
+  ],
+  "marchio_identificazione": "CONSILIA",
+  "produttore": "DROGHERIA E ALIMENTARI S.P.A",
+  "sede_stabilimento": "VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)",
+  "scadenza": "31-12-2023",
+  "peso_volume": "Peso corretto:100 GR (Curry)- Peso errato: 105 GR (Curcuma)",
+  "motivo_esteso": "ERRATA ETICHETTATURA DEL PRODOTTO: ALCUNE CONFEZIONI POTREBBERO RIPORTARE UN'ETICHETTA RETRO CON INDICAZIONE \"CURCUMA ESSICCATA MACINATA - 105 G\", ANZICHE' \"MISCELA DI SPEZIE, SALE, FECOLA ED ERBE AROMATICHE - 100 G\", RISULTANDO IN UNA INCORRETTA IDENTIFICAZIONE DEGLI INGREDIENTI.",
+  "avvertenze": "IL PRODOTTO CURRY CONTIENE SENAPE. QUALORA IL PRODOTTO CURRY ACQUISTATO RIPORTASSE L'ETICHETTA RETRO \"CURCUMA ESSICCATA MACINATA\" - 105 GR - CODICE EAN 8000965410052, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "17/06/2021 Marchio del prodotto: Consilia",
+   "ERRATA ETICHETTATURA DEL PRODOTTO": "ALCUNE CONFEZIONI POTREBBERO RIPORTARE UN'ETICHETTA"
+  },
+  "testo": "RICHIAMO\nData: 17/06/2021 Marchio del prodotto: Consilia\nDenominazione di vendita:CURRY CONSILIA MINIPET 100 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUN SOC. CONS. AR.L., VIA ANTONIO DA RECANATE 1, MILANO\ncommercializzato:\nLotto di produzione: L06350U\nMarchio di identificazione dello stabilimento/del produttore: CONSILIA\nNome del produttore: DROGHERIA E ALIMENTARI S.P.A\nSede dello stabilimento: VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)\nData di scadenza o termine minimo di conservazione: 31-12-2023\nDescrizione peso/volume unità di vendita: Peso corretto:100 GR (Curry)- Peso errato: 105 GR (Curcuma)\nMotivo del richiamo:\nERRATA ETICHETTATURA DEL PRODOTTO: ALCUNE CONFEZIONI POTREBBERO RIPORTARE UN'ETICHETTA\nRETRO CON INDICAZIONE \"CURCUMA ESSICCATA MACINATA - 105 G\", ANZICHE' \"MISCELA DI SPEZIE,\nSALE, FECOLA ED ERBE AROMATICHE - 100 G\", RISULTANDO IN UNA INCORRETTA IDENTIFICAZIONE\nDEGLI INGREDIENTI.\nAvvertenze:\nIL PRODOTTO CURRY CONTIENE SENAPE. QUALORA IL PRODOTTO CURRY ACQUISTATO RIPORTASSE\nL'ETICHETTA RETRO \"CURCUMA ESSICCATA MACINATA\" - 105 GR - CODICE EAN 8000965410052, SI\nPREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T08:51:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:51+00:00"
+}

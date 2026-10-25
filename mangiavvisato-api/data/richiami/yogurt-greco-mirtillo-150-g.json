@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-greco-mirtillo-150-g/",
+ "titolo": "YOGURT GRECO MIRTILLO 150 g",
+ "data_pubblicazione": "2021-09-07",
+ "marca": "KALOS",
+ "denominazione": "YOGURT GRECO MIRTILLO 150 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MD_SPA_Yogurt_Greco_Mirtillo_Cartello%20Ministeriale_1761188430.pdf",
+ "allegati": [
+  {
+   "titolo": "MD_SPA_Yogurt_Greco_Mirtillo_Cartello Ministeriale_1761188430.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MD_SPA_Yogurt_Greco_Mirtillo_Cartello%20Ministeriale_1761188430.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "yogurt-greco-mirtillo-150-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "YOGURT GRECO MIRTILLO 150 g",
+  "operatore": "MD SPA",
+  "lotti": [
+   "VEDI AVVERTENZE"
+  ],
+  "produttore": "ATLANTE SRL",
+  "sede_stabilimento": "Via 2 Giugno 1946, N.8 - 40033 - CASALECCHIO DI RENO (BO)",
+  "scadenza": "Vedi avvertenze",
+  "peso_volume": "150 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE",
+  "campi_extra": {
+   "Data": "13/08/2021 Marchio del prodotto: KALOS"
+  },
+  "testo": "RICHIAMO\nData: 13/08/2021 Marchio del prodotto: KALOS\nDenominazione di vendita:YOGURT GRECO MIRTILLO 150 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MD SPA\ncommercializzato:\nLotto di produzione: VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ATLANTE SRL\nSede dello stabilimento: Via 2 Giugno 1946, N.8 - 40033 - CASALECCHIO DI RENO (BO)\nData di scadenza o termine minimo di conservazione: Vedi avvertenze\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE\nAvvertenze:\nLOTTI / SCADENZE RICHIAMATE: G 41 L 181 – SCADENZA 19.08.2021; G 41 L 188 – SCADENZA\n26.08.2021; G 41 L 195 – SCADENZA 02.09.2021; G 41 L 201 – SCADENZA 08.09.2021"
+ },
+ "prima_rilevazione": "2026-10-25T08:42:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:42:35+00:00"
+}

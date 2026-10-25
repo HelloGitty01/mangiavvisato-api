@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-latte-crudo-formaggella/",
+ "titolo": "FORMAGGIO A LATTE CRUDO - FORMAGGELLA",
+ "data_pubblicazione": "2020-12-01",
+ "marca": "CHIARELLI PIERLUIGI",
+ "denominazione": "FORMAGGIO A LATTE CRUDO - FORMAGGELLA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Listeria%20Chiarelli%20Pierluigi_1761183207.PDF",
+ "allegati": [
+  {
+   "titolo": "Richiamo Listeria Chiarelli Pierluigi_1761183207.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Listeria%20Chiarelli%20Pierluigi_1761183207.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggio-latte-crudo-formaggella",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:05:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:55+00:00"
+}

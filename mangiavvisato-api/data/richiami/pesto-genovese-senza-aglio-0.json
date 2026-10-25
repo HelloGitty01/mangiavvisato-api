@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-senza-aglio-0/",
+ "titolo": "pesto genovese senza aglio",
+ "data_pubblicazione": "2021-06-22",
+ "marca": "pastificio Novella Sas",
+ "denominazione": "pesto genovese senza aglio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2021_06_15_Modello%20di%20Richiamo_Pesto%20Pastificio%20Novella%20%202_1761186688.pdf",
+ "allegati": [
+  {
+   "titolo": "2021_06_15_Modello di Richiamo_Pesto Pastificio Novella  2_1761186688.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2021_06_15_Modello%20di%20Richiamo_Pesto%20Pastificio%20Novella%20%202_1761186688.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesto-genovese-senza-aglio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "operatore": "anomedel qualeil prodottoè PastificioNovella sas commercializzato",
+  "lotti": [
+   "L171"
+  ],
+  "marchio_identificazione": "CEITV7J8P",
+  "produttore": "PastificioNovella sas Sede dellostabilimento: Via Caorsi 6 Sori -GE",
+  "scadenza": "19.06.2021 Descrizionepeso/volume unità divendita: 130g",
+  "motivo_esteso": "Prodotto non conforme ai criteri di sicurezza alimentare di cui al Reg. 2073/05 (presenza di Listeria m. In 3 uc su 5)",
+  "avvertenze": "Informazioni per il consumatore: i consumatori in possesso diquesto lotto sonoinvitati a riportare il prodottoin questione al punto vendita. Per informazionicontattare direttamente il PastificioNovella allo 0185/700.812. Inserireimmagineuno: Inserireimmaginedue",
+  "campi_extra": {
+   "Data": "15.06.2021 Marchio del prodotto: Pastificio Novella",
+   "Denominazione divendita": "Pesto genovese senza aglio",
+   "Sede dellostabilimento": "Via Caorsi 6 Sori -GE-",
+   "Descrizionepeso/volume unità divendita": "130g",
+   "Informazioni per il consumatore": "i consumatori in possesso diquesto lotto sonoinvitati a riportare il",
+   "Inserireimmagineuno": "Inserireimmaginedue:"
+  },
+  "testo": "RICHIAMO\nData: 15.06.2021 Marchio del prodotto: Pastificio Novella\nDenominazione divendita: Pesto genovese senza aglio\nNome o ragione sociale dell'OSA\nanomedel qualeil prodottoè PastificioNovella sas\ncommercializzato:\nLotto di produzione: L171\nMarchio di identificazione dello stabilimento/del produttore: CEITV7J8P\nNome del produttore: PastificioNovella sas\nSede dellostabilimento: Via Caorsi 6 Sori -GE-\nData di scadenza o termine minimo di conservazione: 19.06.2021\nDescrizionepeso/volume unità divendita: 130g\nMotivo del richiamo:\nProdotto non conforme ai criteri di sicurezza alimentare di cui al Reg. 2073/05\n(presenza di Listeria m. In 3 uc su 5)\nAvvertenze:\nInformazioni per il consumatore: i consumatori in possesso diquesto lotto sonoinvitati a riportare il\nprodottoin questione al punto vendita.\nPer informazionicontattare direttamente il PastificioNovella allo 0185/700.812.\nInserireimmagineuno: Inserireimmaginedue:"
+ },
+ "prima_rilevazione": "2026-10-25T08:51:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:44+00:00"
+}

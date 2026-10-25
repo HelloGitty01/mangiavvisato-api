@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-mix/",
+ "titolo": "KINDER MIX",
+ "data_pubblicazione": "2022-04-20",
+ "marca": "FERRERO KINDER",
+ "denominazione": "KINDER MIX",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20MIX%20AUSTRIA_immagini_1761191155.pdf",
+ "allegati": [
+  {
+   "titolo": "KINDER MIX AUSTRIA_immagini_1761191155.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/KINDER%20MIX%20AUSTRIA_immagini_1761191155.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "kinder-mix",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:27:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:27:52+00:00"
+}

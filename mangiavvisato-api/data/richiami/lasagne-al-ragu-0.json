@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lasagne-al-ragu-0/",
+ "titolo": "Lasagne al Ragù",
+ "data_pubblicazione": "2022-04-26",
+ "marca": "Arte Gastronomica",
+ "denominazione": "Lasagne al Ragù",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ARTE_GASTRONOMICA_1761191182.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_ARTE_GASTRONOMICA_1761191182.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ARTE_GASTRONOMICA_1761191182.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "lasagne-al-ragu-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LASAGNE AL RAGU'",
+  "operatore": "PIATTI FRESCHI ITALIA SPA VIA FRATELLI BANDIERA, 12 20056 TREZZO SULL'ADDA",
+  "lotti": [
+   "T902220510"
+  ],
+  "marchio_identificazione": "IT 1784 L CE",
+  "produttore": "PIATTI FRESCHI ITALIA SPA",
+  "sede_stabilimento": "VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)",
+  "scadenza": "10-05-2022",
+  "peso_volume": "1 KG",
+  "motivo_esteso": "POSSIBILE PRESENZA DI FRAMMENTI PLASTICI",
+  "avvertenze": "I CLIENTI CHE HANNO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO/UTILIZZARLO E DI RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO",
+  "campi_extra": {
+   "Data": "22/04/2022 Marchio del prodotto: Arte Gastronomica"
+  },
+  "testo": "RICHIAMO\nData: 22/04/2022 Marchio del prodotto: Arte Gastronomica\nDenominazione di vendita:LASAGNE AL RAGU'\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIATTI FRESCHI ITALIA SPA VIA FRATELLI BANDIERA, 12 20056 TREZZO SULL'ADDA\ncommercializzato:\nLotto di produzione: T902220510\nMarchio di identificazione dello stabilimento/del produttore: IT 1784 L CE\nNome del produttore: PIATTI FRESCHI ITALIA SPA\nSede dello stabilimento: VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)\nData di scadenza o termine minimo di conservazione: 10-05-2022\nDescrizione peso/volume unità di vendita: 1 KG\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI FRAMMENTI PLASTICI\nAvvertenze:\nI CLIENTI CHE HANNO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO/UTILIZZARLO E\nDI RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO"
+ },
+ "prima_rilevazione": "2026-10-25T08:27:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:27:13+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-3/",
+ "titolo": "semi di sesamo",
+ "data_pubblicazione": "2021-04-01",
+ "marca": "Dream Fruits srl Calenzano (FI)",
+ "denominazione": "semi di sesamo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Dream%20Fruits%20srl%20semi%20sesamo%20300%20gr_1761186084.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo Dream Fruits srl semi sesamo 300 gr_1761186084.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Dream%20Fruits%20srl%20semi%20sesamo%20300%20gr_1761186084.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI SESAMO Codice EAN: 8006183009580 Nome o ragione sociale a nome del quale il prodotto è commercializzato: DREAM FRUITS SRL",
+  "lotti": [
+   "M0052",
+   "00190080",
+   "M0100"
+  ],
+  "marchio_identificazione": "DREAM FRUITS SRL",
+  "produttore": "DREAM FRUITS SRL",
+  "sede_stabilimento": "Via Meucci, 25 - 50041 Calenzano (FI)",
+  "peso_volume": "Vaschetta 300g",
+  "motivo_esteso": "Presenza di OSSIDO DI ETILENE oltre i limiti consentiti dalla Legge",
+  "avvertenze": "Riportare preventivamente al punto vendita solo i lotti indicati Per ulteriori informazioni rivolgersi al fornitore: - tel. 0558877472 - email: info@dreamfruits.it",
+  "campi_extra": {
+   "Data": "12/03/2021 Marchio del prodotto: DREAM FRUITS SRL",
+   "Codice EAN": "8006183009580",
+   "commercializzato": "DREAM FRUITS SRL"
+  },
+  "testo": "RICHIAMO\nData: 12/03/2021 Marchio del prodotto: DREAM FRUITS SRL\nDenominazione di vendita: SEMI DI SESAMO\nCodice EAN: 8006183009580\nNome o ragione sociale\na nome del quale il prodotto è\ncommercializzato: DREAM FRUITS SRL\nLotti di produzione: M0052; 00190080; M0100\nMarchio di identificazione dello stabilimento: DREAM FRUITS SRL\nNome del produttore: DREAM FRUITS SRL\nSede dello stabilimento: Via Meucci, 25 - 50041 Calenzano (FI)\nDescrizione peso/volume unità di vendita: Vaschetta 300g\nMotivo del richiamo:\nPresenza di OSSIDO DI ETILENE oltre i limiti consentiti dalla Legge\nAvvertenze:\nRiportare preventivamente al punto vendita solo i lotti indicati\nPer ulteriori informazioni rivolgersi al fornitore:\n- tel. 0558877472\n- email: info@dreamfruits.it"
+ },
+ "prima_rilevazione": "2026-10-25T08:54:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:54:36+00:00"
+}

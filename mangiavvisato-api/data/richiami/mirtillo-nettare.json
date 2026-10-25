@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mirtillo-nettare/",
+ "titolo": "MIRTILLO NETTARE",
+ "data_pubblicazione": "2020-12-22",
+ "marca": "CARREFOUR",
+ "denominazione": "MIRTILLO NETTARE",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Min%20Salute_20171116%20_003__1761184216.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Min Salute_20171116 _003__1761184216.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Min%20Salute_20171116%20_003__1761184216.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mirtillo-nettare",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MIRTILLO NETTARE",
+  "operatore": "CARREFOUR",
+  "lotti": [
+   "E133"
+  ],
+  "marchio_identificazione": "A",
+  "produttore": "LA DORIA SPA",
+  "sede_stabilimento": "VIA NAZIONALE 320, ANGRI",
+  "scadenza": "12/01/22",
+  "peso_volume": "125 ml x 6",
+  "motivo_esteso": "possibile presenza di frammento di vetro",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "15/12/2020 Marchio del prodotto: CARREFOUR",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 15/12/2020 Marchio del prodotto: CARREFOUR\nDenominazione di vendita:MIRTILLO NETTARE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CARREFOUR\ncommercializzato:\nLotto di produzione: E133\nMarchio di identificazione dello stabilimento/del produttore: A\nNome del produttore: LA DORIA SPA\nSede dello stabilimento: VIA NAZIONALE 320, ANGRI\nData di scadenza o termine minimo di conservazione: 12/01/22\nDescrizione peso/volume unità di vendita: 125 ml x 6\nMotivo del richiamo:\npossibile presenza di frammento di vetro\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:02:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:02:39+00:00"
+}

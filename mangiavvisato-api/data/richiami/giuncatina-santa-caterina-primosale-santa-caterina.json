@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/giuncatina-santa-caterina-primosale-santa-caterina/",
+ "titolo": "Giuncatina Santa Caterina Primosale Santa Caterina",
+ "data_pubblicazione": "2022-03-07",
+ "marca": "Giuncatina Primosale",
+ "denominazione": "Giuncatina Santa Caterina Primosale Santa Caterina",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Santa%20Caterina_1761190376.pdf",
+ "allegati": [
+  {
+   "titolo": "Santa Caterina_1761190376.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Santa%20Caterina_1761190376.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "giuncatina-santa-caterina-primosale-santa-caterina",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:30:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:30:21+00:00"
+}

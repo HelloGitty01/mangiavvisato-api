@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estendia-30-compresse-filmate/",
+ "titolo": "Estendia 30 compresse filmate",
+ "data_pubblicazione": "2021-10-01",
+ "marca": "Estendia",
+ "denominazione": "Estendia 30 compresse filmate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Estendia_cartello%20richiamo_1761188650.pdf",
+ "allegati": [
+  {
+   "titolo": "Estendia_cartello richiamo_1761188650.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Estendia_cartello%20richiamo_1761188650.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "estendia-30-compresse-filmate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ESTENDIA 30 COMPRESSE FILMATE",
+  "operatore": "ISTITUTO LUSOFARMACO D'ITALIA SPA",
+  "lotti": [
+   "E07896",
+   "E07897"
+  ],
+  "marchio_identificazione": "Fine Foods & Pharmaceuticals NTM S.p.A.",
+  "produttore": "Fine Foods & Pharmaceuticals NTM S.p.A.",
+  "sede_stabilimento": "Via Berlino, 39 - 24040 - Zingonia Verdellino (BG) - ITALIA",
+  "scadenza": "05/2023",
+  "peso_volume": "Confezioni da 30 compresse filmate da 1,03g",
+  "motivo_esteso": "Presenza di tracce di Ossido di Etilene in concentrazione superiore ai limiti consentiti all’interno di una materia prima e del prodotto finito.",
+  "avvertenze": "Se siete in possesso di confezioni riconducibili ai lotti di prodotto sopra indicati vi preghiamo di sospenderne il consumo e restituirli al punto vendita. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "23/09/2021 Marchio del prodotto: ESTENDIA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 23/09/2021 Marchio del prodotto: ESTENDIA\nDenominazione di vendita:ESTENDIA 30 COMPRESSE FILMATE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ISTITUTO LUSOFARMACO D'ITALIA SPA\ncommercializzato:\nLotto di produzione: E07896; E07897\nMarchio di identificazione dello stabilimento/del produttore: Fine Foods & Pharmaceuticals NTM S.p.A.\nNome del produttore: Fine Foods & Pharmaceuticals NTM S.p.A.\nSede dello stabilimento: Via Berlino, 39 - 24040 - Zingonia Verdellino (BG) - ITALIA\nData di scadenza o termine minimo di conservazione: 05/2023\nDescrizione peso/volume unità di vendita: Confezioni da 30 compresse filmate da 1,03g\nMotivo del richiamo:\nPresenza di tracce di Ossido di Etilene in concentrazione superiore ai limiti consentiti\nall’interno di una materia prima e del prodotto finito.\nAvvertenze:\nSe siete in possesso di confezioni riconducibili ai lotti di prodotto sopra indicati vi preghiamo di\nsospenderne il consumo e restituirli al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:39:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:13+00:00"
+}

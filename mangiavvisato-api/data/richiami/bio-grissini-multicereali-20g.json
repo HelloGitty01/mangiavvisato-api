@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bio-grissini-multicereali-20g/",
+ "titolo": "BIO Grissini Multicereali 20g",
+ "data_pubblicazione": "2020-12-02",
+ "marca": "Natura Felice",
+ "denominazione": "BIO Grissini Multicereali 20g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20C%20ALDI%20corretto%20_1761183256.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato C ALDI corretto _1761183256.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%20C%20ALDI%20corretto%20_1761183256.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bio-grissini-multicereali-20g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BIO Grissini Multicereali 200g",
+  "operatore": "ALDI S.r.l.",
+  "lotti": [
+   "Lotti 176",
+   "182",
+   "197",
+   "198."
+  ],
+  "marchio_identificazione": "BISCOPAN S.R.L.",
+  "produttore": "BISCOPAN S.R.L.",
+  "sede_stabilimento": "VIA DELL'INDUSTRIA 345 - 45021 BADIA POLESINE (RO)",
+  "scadenza": "Vedi avvertenze",
+  "peso_volume": "200g",
+  "motivo_esteso": "Richiamo precauzionale per potenziale presenza di ossido di etilene oltre i limiti di legge.",
+  "campi_extra": {
+   "Data": "02/12/2020 Marchio del prodotto: Natura Felice"
+  },
+  "testo": "RICHIAMO\nData: 02/12/2020 Marchio del prodotto: Natura Felice\nDenominazione di vendita:BIO Grissini Multicereali 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI S.r.l.\ncommercializzato:\nLotto di produzione: Lotti 176, 182, 197, 198.\nMarchio di identificazione dello stabilimento/del produttore: BISCOPAN S.R.L.\nNome del produttore: BISCOPAN S.R.L.\nSede dello stabilimento: VIA DELL'INDUSTRIA 345 - 45021 BADIA POLESINE (RO)\nData di scadenza o termine minimo di conservazione: Vedi avvertenze\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nRichiamo precauzionale per potenziale presenza di ossido di etilene oltre i limiti di legge.\nAvvertenze:\nLotto 176 con TMC 24.03.2021\nLotto 182 con TMC 30.03.2021\nLotto 197 con TMC 15.04.2021\nLotto 198 con TMC 16.04.2021"
+ },
+ "prima_rilevazione": "2026-10-25T09:05:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:49+00:00"
+}

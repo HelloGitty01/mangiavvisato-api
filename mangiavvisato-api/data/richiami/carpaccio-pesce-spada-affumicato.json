@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carpaccio-pesce-spada-affumicato/",
+ "titolo": "Carpaccio pesce spada affumicato",
+ "data_pubblicazione": "2021-11-18",
+ "marca": "Gastronomia Valdarnese",
+ "denominazione": "Carpaccio pesce spada affumicato",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/100g%20revoca%20richiamo_1761189488.pdf",
+ "allegati": [
+  {
+   "titolo": "100g revoca richiamo_1761189488.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/100g%20revoca%20richiamo_1761189488.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "carpaccio-pesce-spada-affumicato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CARPACCIO DI PESCE SPADA AFFUMICATO",
+  "operatore": "GASTRONOMIA VALDARNESE SRL",
+  "lotti": [
+   "70E31 - 50D31 - 56D31"
+  ],
+  "marchio_identificazione": "IT 2648 CE",
+  "produttore": "GASTRONOMIA VALDARNESE SRL",
+  "sede_stabilimento": "VIA LA MINIERINA 5, CAVRIGLIA (AR)",
+  "scadenza": "30/10/21 -10/11/21",
+  "peso_volume": "Confezione da 100g",
+  "motivo_esteso": "Revoca richiamo per scadenza prodotto 30/10/21 -10/11/21- 16/11/21",
+  "campi_extra": {
+   "Data": "18/11/2021 Marchio del prodotto: GASTRONOMIA VALDARNESE"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 18/11/2021 Marchio del prodotto: GASTRONOMIA VALDARNESE\nDenominazione di vendita:CARPACCIO DI PESCE SPADA AFFUMICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GASTRONOMIA VALDARNESE SRL\ncommercializzato:\nLotto di produzione: 70E31 - 50D31 - 56D31\nMarchio di identificazione dello stabilimento/del produttore: IT 2648 CE\nNome del produttore: GASTRONOMIA VALDARNESE SRL\nSede dello stabilimento: VIA LA MINIERINA 5, CAVRIGLIA (AR)\nData di scadenza o termine minimo di conservazione: 30/10/21 -10/11/21-\nDescrizione peso/volume unità di vendita: Confezione da 100g\nMotivo del richiamo:\nRevoca richiamo per scadenza prodotto 30/10/21 -10/11/21- 16/11/21\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:35:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:35:03+00:00"
+}

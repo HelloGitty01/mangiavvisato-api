@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufetta/",
+ "titolo": "Tartufetta",
+ "data_pubblicazione": "2020-11-23",
+ "marca": "T&C srl",
+ "denominazione": "Tartufetta",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamodittaTC_1761183108.pdf",
+ "allegati": [
+  {
+   "titolo": "RichiamodittaTC_1761183108.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamodittaTC_1761183108.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tartufetta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:07:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:07:13+00:00"
+}

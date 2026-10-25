@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/catanesi/",
+ "titolo": "Catanesi",
+ "data_pubblicazione": "2021-07-14",
+ "marca": "Specialità Buona Tavola",
+ "denominazione": "Catanesi",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20catanesi%20SPECIALITABUONATAVOLA_1761186719.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo catanesi SPECIALITABUONATAVOLA_1761186719.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20catanesi%20SPECIALITABUONATAVOLA_1761186719.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "catanesi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:51:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:16+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-di-mele/",
+ "titolo": "Torta di mele",
+ "data_pubblicazione": "2021-08-12",
+ "marca": "La Dolce",
+ "denominazione": "Torta di mele",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20TORTA%20MELA_1761187655.pdf",
+ "allegati": [
+  {
+   "titolo": "LA DOLCE TORTA MELA_1761187655.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20DOLCE%20TORTA%20MELA_1761187655.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "torta-di-mele",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:45:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:45:51+00:00"
+}

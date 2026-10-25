@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cotolette-veg-surg-bio/",
+ "titolo": "COTOLETTE VEG. SURG. BIO",
+ "data_pubblicazione": "2021-07-30",
+ "marca": "Pam & PANORAMA",
+ "denominazione": "COTOLETTE VEG. SURG. BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FP00568_1761187531.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO FP00568_1761187531.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FP00568_1761187531.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cotolette-veg-surg-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "COTOLETTE VEG. SURG. BIO",
+  "operatore": "PAM PANORAMA S.P.A.",
+  "lotti": [
+   "FP00568"
+  ],
+  "marchio_identificazione": "KIOENE",
+  "produttore": "KIOENE",
+  "sede_stabilimento": "VIA CALTANA 55, VILLANOVA DI CAMPOSAMPIERO (PD)",
+  "scadenza": "27-05-2023",
+  "peso_volume": "200g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI DI AUTOCONTROLLO",
+  "avvertenze": "INVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE",
+  "campi_extra": {
+   "Data": "26/07/2021 Marchio del prodotto: Pam & PANORAMA"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2021 Marchio del prodotto: Pam & PANORAMA\nDenominazione di vendita:COTOLETTE VEG. SURG. BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PAM PANORAMA S.P.A.\ncommercializzato:\nLotto di produzione: FP00568\nMarchio di identificazione dello stabilimento/del produttore: KIOENE\nNome del produttore: KIOENE\nSede dello stabilimento: VIA CALTANA 55, VILLANOVA DI CAMPOSAMPIERO (PD)\nData di scadenza o termine minimo di conservazione: 27-05-2023\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI\nDI AUTOCONTROLLO\nAvvertenze:\nINVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE"
+ },
+ "prima_rilevazione": "2026-10-25T08:47:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:57+00:00"
+}

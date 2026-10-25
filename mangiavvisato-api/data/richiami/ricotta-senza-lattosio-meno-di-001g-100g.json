@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-senza-lattosio-meno-di-001g-100g/",
+ "titolo": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+ "data_pubblicazione": "2021-12-11",
+ "marca": "SELEX Vivi Bene",
+ "denominazione": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ricotta%20Selex_1761190221.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Ricotta Selex_1761190221.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ricotta%20Selex_1761190221.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ricotta-senza-lattosio-meno-di-001g-100g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+  "operatore": "Selex S.p.A.",
+  "lotti": [
+   "L 21307"
+  ],
+  "marchio_identificazione": "IT 01 111",
+  "produttore": "CASEIFICIO PUGLIESE F.lli Radicci S.p.A.",
+  "sede_stabilimento": "Via Ettore Elia 10 - 10020 Lauriano (TO)",
+  "scadenza": "18/12/2021",
+  "peso_volume": "250 g",
+  "motivo_esteso": "IL CONTENUTO IN LATTOSIO RISULTA SUPERIORE AL LIMITE.",
+  "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE PRESENTANO INTOLLERANZA AL LATTOSIO A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09.12.2021 Marchio del prodotto: SELEX Vivi Bene",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09.12.2021 Marchio del prodotto: SELEX Vivi Bene\nDenominazione di vendita:RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex S.p.A.\ncommercializzato:\nLotto di produzione: L 21307\nMarchio di identificazione dello stabilimento/del produttore: IT 01 111\nNome del produttore: CASEIFICIO PUGLIESE F.lli Radicci S.p.A.\nSede dello stabilimento: Via Ettore Elia 10 - 10020 Lauriano (TO)\nData di scadenza o termine minimo di conservazione: 18/12/2021\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nIL CONTENUTO IN LATTOSIO RISULTA SUPERIORE AL LIMITE.\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE PRESENTANO INTOLLERANZA\nAL LATTOSIO A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:33:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:05+00:00"
+}

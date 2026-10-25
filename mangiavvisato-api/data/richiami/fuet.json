@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fuet/",
+ "titolo": "FUET",
+ "data_pubblicazione": "2020-10-23",
+ "marca": "ARTYSAN",
+ "denominazione": "FUET",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALEJANDRO%20MIGUEL%20_%202020.10.16%20_%20FUET%20175%20G_Cartello%20di%20Richiamo_1761182260.pdf",
+ "allegati": [
+  {
+   "titolo": "ALEJANDRO MIGUEL _ 2020.10.16 _ FUET 175 G_Cartello di Richiamo_1761182260.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALEJANDRO%20MIGUEL%20_%202020.10.16%20_%20FUET%20175%20G_Cartello%20di%20Richiamo_1761182260.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fuet",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FUET 175 G",
+  "operatore": "ALEJANDRO MIGUEL S.L.",
+  "lotti": [
+   "VEDI ALLEGATO"
+  ],
+  "marchio_identificazione": "10.01924/B",
+  "produttore": "ALEJANDRO MIGUEL S.L.",
+  "sede_stabilimento": "CTRA ALBELDA - NALDA, KM 1 - 26190 - NALDA - LA RIOJA - SPAGNA",
+  "scadenza": "TUTTE",
+  "peso_volume": "175 G",
+  "motivo_esteso": "SOSPETTA PRESENZA DI SALMONELLA",
+  "avvertenze": "NON CONSUMARE, RESTITUIRE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "16/10/2020 Marchio del prodotto: ARTYSAN"
+  },
+  "testo": "Data: 16/10/2020 Marchio del prodotto: ARTYSAN\nDenominazione di vendita:FUET 175 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALEJANDRO MIGUEL S.L.\ncommercializzato:\nLotto di produzione: VEDI ALLEGATO\nMarchio di identificazione dello stabilimento/del produttore: 10.01924/B\nNome del produttore: ALEJANDRO MIGUEL S.L.\nSede dello stabilimento: CTRA ALBELDA - NALDA, KM 1 - 26190 - NALDA - LA RIOJA - SPAGNA\nData di scadenza o termine minimo di conservazione: TUTTE\nDescrizione peso/volume unità di vendita: 175 G\nMotivo del richiamo:\nSOSPETTA PRESENZA DI SALMONELLA\nAvvertenze:\nNON CONSUMARE, RESTITUIRE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T09:10:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:02+00:00"
+}

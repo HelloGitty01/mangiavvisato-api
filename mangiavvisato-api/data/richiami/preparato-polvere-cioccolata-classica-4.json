@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-classica-4/",
+ "titolo": "Preparato in polvere per cioccolata classica",
+ "data_pubblicazione": "2022-03-16",
+ "marca": "Naturera Polot",
+ "denominazione": "Preparato in polvere per cioccolata classica",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20classica%20500%20g%20L%2020008906_1761190440.pdf",
+ "allegati": [
+  {
+   "titolo": "C_17_Cioccolata classica 500 g L 20008906_1761190440.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20classica%20500%20g%20L%2020008906_1761190440.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-polvere-cioccolata-classica-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato in polvere per cioccolata classica",
+  "operatore": "General Fruit Srl",
+  "lotti": [
+   "L20008906"
+  ],
+  "produttore": "Granulati Italia SpA",
+  "sede_stabilimento": "Via B. Colleoni, 10 - 24040 Boltiere (BG) - ITALY",
+  "scadenza": "16-11-2023",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Possibile presenza di ossido di etilene nei semi di farina di carrube",
+  "avvertenze": "Si invitano pertanto i consumatori ad evitare l’acquisto e il consumo di questo lotto di prodotto, rendendo le confezioni al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/02/2022 Marchio del prodotto: Naturera Polot",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14/02/2022 Marchio del prodotto: Naturera Polot\nDenominazione di vendita:Preparato in polvere per cioccolata classica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è General Fruit Srl\ncommercializzato:\nLotto di produzione: L20008906\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Granulati Italia SpA\nSede dello stabilimento: Via B. Colleoni, 10 - 24040 Boltiere (BG) - ITALY\nData di scadenza o termine minimo di conservazione: 16-11-2023\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nPossibile presenza di ossido di etilene nei semi di farina di carrube\nAvvertenze:\nSi invitano pertanto i consumatori ad evitare l’acquisto e il consumo di questo lotto di prodotto, rendendo\nle confezioni al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:29:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:29:56+00:00"
+}

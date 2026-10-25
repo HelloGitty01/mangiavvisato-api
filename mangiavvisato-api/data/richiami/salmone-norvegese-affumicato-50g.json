@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-norvegese-affumicato-50g/",
+ "titolo": "SALMONE NORVEGESE AFFUMICATO - 50g.",
+ "data_pubblicazione": "2020-09-14",
+ "marca": "UNES",
+ "denominazione": "SALMONE NORVEGESE AFFUMICATO - 50g.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salmone_50g_Unes_Modello_Richiamo_1761182171.pdf",
+ "allegati": [
+  {
+   "titolo": "Salmone_50g_Unes_Modello_Richiamo_1761182171.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salmone_50g_Unes_Modello_Richiamo_1761182171.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salmone-norvegese-affumicato-50g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALMONE NORVEGESE AFFUMICATO",
+  "operatore": "UNES MAXI S.P.S. - V.LE DELL'INDUSTRIA SNC - 20090 VIMODRONE (MI)",
+  "lotti": [
+   "SA75-22620"
+  ],
+  "marchio_identificazione": "IT D6Z3T CE",
+  "produttore": "SICILY FOOD SRL",
+  "sede_stabilimento": "VIA MINIERA MINTINI, SNC - 92021 ARAGONA (AG)",
+  "scadenza": "22-09-2020",
+  "peso_volume": "50 GRAMMI",
+  "motivo_esteso": "PRESENZA DI LISTERIA MONOCYTOGENES",
+  "avvertenze": "SI PREGA IL CONSUMATORE, QUALORA AVESSE ANCORA A DISPOSIZIONE IL PRODOTTO DI NON CONSUMARLO E RESTITUIRLO AL PUNTO VENDITA. PRECISIAMO CHE QUANTO RICHIESTO, SI RIFERISCE AL LOTTO INDICATO. PER EVENTUALI INFORMAZIONI RIVOLGERSI ALL'EMAIL: qualita@sicilyfood.it. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/09/2020 Marchio del prodotto: UNES",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/09/2020 Marchio del prodotto: UNES\nDenominazione di vendita:SALMONE NORVEGESE AFFUMICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UNES MAXI S.P.S. - V.LE DELL'INDUSTRIA SNC - 20090 VIMODRONE (MI)\ncommercializzato:\nLotto di produzione: SA75-22620\nMarchio di identificazione dello stabilimento/del produttore: IT D6Z3T CE\nNome del produttore: SICILY FOOD SRL\nSede dello stabilimento: VIA MINIERA MINTINI, SNC - 92021 ARAGONA (AG)\nData di scadenza o termine minimo di conservazione: 22-09-2020\nDescrizione peso/volume unità di vendita: 50 GRAMMI\nMotivo del richiamo:\nPRESENZA DI LISTERIA MONOCYTOGENES\nAvvertenze:\nSI PREGA IL CONSUMATORE, QUALORA AVESSE ANCORA A DISPOSIZIONE IL PRODOTTO DI NON\nCONSUMARLO E RESTITUIRLO AL PUNTO VENDITA. PRECISIAMO CHE QUANTO RICHIESTO, SI RIFERISCE\nAL LOTTO INDICATO. PER EVENTUALI INFORMAZIONI RIVOLGERSI ALL'EMAIL: qualita@sicilyfood.it.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:41+00:00"
+}

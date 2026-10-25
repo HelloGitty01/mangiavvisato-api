@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitel-tonne-200g/",
+ "titolo": "VITEL TONNE' 200g",
+ "data_pubblicazione": "2022-05-09",
+ "marca": "GASTRONOMIA SOMASCA",
+ "denominazione": "VITEL TONNE' 200g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761191195.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_1761191195.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761191195.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "vitel-tonne-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VITEL TONNE' 200 GR.",
+  "operatore": "GASTRONOMIA SOMASCA SRL",
+  "lotti": [
+   "1513"
+  ],
+  "marchio_identificazione": "IT 870 CE",
+  "produttore": "GASTRONOMIA SOMASCA SRL",
+  "sede_stabilimento": "VIA BRESCIA 42 - DESIO (MB)",
+  "scadenza": "28-05-2022",
+  "peso_volume": "200 GRAMMI",
+  "motivo_esteso": "POSSIBILE PRESENZA LYSTERIA MONOCYTOGENES",
+  "campi_extra": {
+   "Data": "06/05/2022 Marchio del prodotto: GASTRONOMIA SOMASCA SRL"
+  },
+  "testo": "RICHIAMO\nData: 06/05/2022 Marchio del prodotto: GASTRONOMIA SOMASCA SRL\nDenominazione di vendita:VITEL TONNE' 200 GR.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GASTRONOMIA SOMASCA SRL\ncommercializzato:\nLotto di produzione: 1513\nMarchio di identificazione dello stabilimento/del produttore: IT 870 CE\nNome del produttore: GASTRONOMIA SOMASCA SRL\nSede dello stabilimento: VIA BRESCIA 42 - DESIO (MB)\nData di scadenza o termine minimo di conservazione: 28-05-2022\nDescrizione peso/volume unità di vendita: 200 GRAMMI\nMotivo del richiamo:\nPOSSIBILE PRESENZA LYSTERIA MONOCYTOGENES\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:26:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:26:55+00:00"
+}

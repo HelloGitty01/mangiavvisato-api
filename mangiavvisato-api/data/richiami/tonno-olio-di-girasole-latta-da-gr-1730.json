@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-olio-di-girasole-latta-da-gr-1730/",
+ "titolo": "TONNO IN OLIO DI GIRASOLE LATTA DA GR. 1730",
+ "data_pubblicazione": "2020-10-07",
+ "marca": "PORTICELLO",
+ "denominazione": "TONNO IN OLIO DI GIRASOLE LATTA DA GR. 1730",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20tonnoporticello%20gr%201730_1761182197.PDF",
+ "allegati": [
+  {
+   "titolo": "modello richiamo tonnoporticello gr 1730_1761182197.PDF",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20tonnoporticello%20gr%201730_1761182197.PDF"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "tonno-olio-di-girasole-latta-da-gr-1730",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TONNO IN OLIO DI GIRASOLE 1730GR",
+  "operatore": "FRIOS ITTICI CONSERVATI DI SALVATORE RUSSINO -64025 PINETO",
+  "lotti": [
+   "JCG 324"
+  ],
+  "marchio_identificazione": "GS/SF/E070",
+  "produttore": "COSMO SEAFOOD COMPANY pmb 85 Thema (Republica del Ghana)",
+  "sede_stabilimento": "GHANA",
+  "scadenza": "12/2024",
+  "peso_volume": "LATTA IN METALLO DA GR 1730",
+  "motivo_esteso": "POSSIBILE CONTAMINAZIONE MICROBIOLOGICA",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07/10/2020 Marchio del prodotto: PORTICELLO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/10/2020 Marchio del prodotto: PORTICELLO\nDenominazione di vendita:TONNO IN OLIO DI GIRASOLE 1730GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRIOS ITTICI CONSERVATI DI SALVATORE RUSSINO -64025 PINETO\ncommercializzato:\nLotto di produzione: JCG 324\nMarchio di identificazione dello stabilimento/del produttore: GS/SF/E070\nNome del produttore: COSMO SEAFOOD COMPANY pmb 85 Thema (Republica del Ghana)\nSede dello stabilimento: GHANA\nData di scadenza o termine minimo di conservazione: 12/2024\nDescrizione peso/volume unità di vendita: LATTA IN METALLO DA GR 1730\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:08+00:00"
+}

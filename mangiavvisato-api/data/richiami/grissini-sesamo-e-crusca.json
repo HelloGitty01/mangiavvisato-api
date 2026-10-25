@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grissini-sesamo-e-crusca/",
+ "titolo": "Grissini Sesamo e Crusca",
+ "data_pubblicazione": "2020-12-30",
+ "marca": "Comunità San Patrignano Soc. Coop Sociale",
+ "denominazione": "Grissini Sesamo e Crusca",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MINISTERIALE%20_%20Lotto%20201902_inserire%20Ministero_1761184323.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo MINISTERIALE _ Lotto 201902_inserire Ministero_1761184323.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MINISTERIALE%20_%20Lotto%20201902_inserire%20Ministero_1761184323.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grissini-sesamo-e-crusca",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:01:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:01:31+00:00"
+}

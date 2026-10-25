@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-2/",
+ "titolo": "SALAME",
+ "data_pubblicazione": "2021-12-11",
+ "marca": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C",
+ "denominazione": "SALAME",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0083277_2021_Allegato4_1761190222.pdf",
+ "allegati": [
+  {
+   "titolo": "PG0083277_2021_Allegato4_1761190222.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0083277_2021_Allegato4_1761190222.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME",
+  "operatore": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C",
+  "lotti": [
+   "261021"
+  ],
+  "marchio_identificazione": "CE IT 9/245L",
+  "produttore": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.",
+  "sede_stabilimento": "VIA SAN MARTINO 46-RAMIOLA -MEDESANO (PR)",
+  "scadenza": "31/01/20222",
+  "peso_volume": "420GR",
+  "motivo_esteso": "PRESENZA DI SALMONELLA SPP",
+  "avvertenze": "I SIGG.CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "06/12/2021 Marchio del prodotto: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 06/12/2021 Marchio del prodotto: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.\nDenominazione di vendita:SALAME\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C\ncommercializzato:\nLotto di produzione: 261021\nMarchio di identificazione dello stabilimento/del produttore: CE IT 9/245L\nNome del produttore: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.\nSede dello stabilimento: VIA SAN MARTINO 46-RAMIOLA -MEDESANO (PR)\nData di scadenza o termine minimo di conservazione: 31/01/20222\nDescrizione peso/volume unità di vendita: 420GR\nMotivo del richiamo:\nPRESENZA DI SALMONELLA SPP\nAvvertenze:\nI SIGG.CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO E\nRESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:33:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:09+00:00"
+}

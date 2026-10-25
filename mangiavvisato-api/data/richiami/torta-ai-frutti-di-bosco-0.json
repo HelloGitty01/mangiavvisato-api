@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-ai-frutti-di-bosco-0/",
+ "titolo": "Torta ai frutti di bosco",
+ "data_pubblicazione": "2021-08-12",
+ "marca": "Dolci del Castello",
+ "denominazione": "Torta ai frutti di bosco",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/TORTA%20AI%20FRUTTI%20DI%20BOSCO_1761187659.pdf",
+ "allegati": [
+  {
+   "titolo": "TORTA AI FRUTTI DI BOSCO_1761187659.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/TORTA%20AI%20FRUTTI%20DI%20BOSCO_1761187659.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "torta-ai-frutti-di-bosco-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "dello stabilimento"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T08:45:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:45:53+00:00"
+}

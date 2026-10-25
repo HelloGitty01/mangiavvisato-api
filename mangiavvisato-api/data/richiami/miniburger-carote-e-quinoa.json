@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miniburger-carote-e-quinoa/",
+ "titolo": "MINIBURGER CAROTE E QUINOA",
+ "data_pubblicazione": "2021-07-30",
+ "marca": "AMARSI E PIACERSI",
+ "denominazione": "MINIBURGER CAROTE E QUINOA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MB%20CAROTE_QUIN_RIEPILOGO_1761187523.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO MB CAROTE_QUIN_RIEPILOGO_1761187523.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MB%20CAROTE_QUIN_RIEPILOGO_1761187523.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "miniburger-carote-e-quinoa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MINIBURGER CAROTE E QUINOA",
+  "operatore": "IPER S.P.A",
+  "lotti": [
+   "VEDI AVVERTENZE"
+  ],
+  "marchio_identificazione": "KIOENE",
+  "produttore": "KIOENE S.p.a",
+  "sede_stabilimento": "VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "200 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI DI AUTOCONTROLLO.",
+  "avvertenze": "INVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.",
+  "campi_extra": {
+   "Data": "26/07/21 Marchio del prodotto: AMARSI E PIACERSI"
+  },
+  "testo": "RICHIAMO\nData: 26/07/21 Marchio del prodotto: AMARSI E PIACERSI\nDenominazione di vendita:MINIBURGER CAROTE E QUINOA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPER S.P.A\ncommercializzato:\nLotto di produzione: VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: KIOENE\nNome del produttore: KIOENE S.p.a\nSede dello stabilimento: VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI\nDI AUTOCONTROLLO.\nAvvertenze:\nINVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.\nLOTTI: F600348-SCAD.15/08/21, F600453-SCAD. 21/08/21"
+ },
+ "prima_rilevazione": "2026-10-25T08:47:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:45+00:00"
+}

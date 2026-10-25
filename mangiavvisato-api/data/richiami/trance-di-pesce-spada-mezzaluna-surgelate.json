@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-pesce-spada-mezzaluna-surgelate/",
+ "titolo": "Trance di pesce spada mezzaluna surgelate",
+ "data_pubblicazione": "2022-05-09",
+ "marca": "NORIBERICA",
+ "denominazione": "Trance di pesce spada mezzaluna surgelate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Spada%20Noriberica_1761191197.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo Spada Noriberica_1761191197.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Spada%20Noriberica_1761191197.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "trance-di-pesce-spada-mezzaluna-surgelate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Trance di pesce spada mezzaluna surgelate",
+  "operatore": "Congelados Noriberica, SA",
+  "lotti": [
+   "P22-059-76"
+  ],
+  "marchio_identificazione": "NORIBERICA",
+  "produttore": "Congelados Noriberica, SA",
+  "sede_stabilimento": "Cebral 11 Petelos, MOS - 36416 (Pontevedra), Espa(cid:278)a",
+  "scadenza": "30-09-2023",
+  "peso_volume": "trance da 150/250 g",
+  "motivo_esteso": "presenza di mercurio oltre i limiti ammessi",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/05/2022 Marchio del prodotto: NORIBERICA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/05/2022 Marchio del prodotto: NORIBERICA\nDenominazione di vendita:Trance di pesce spada mezzaluna surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Congelados Noriberica, SA\ncommercializzato:\nLotto di produzione: P22-059-76\nMarchio di identificazione dello stabilimento/del produttore: NORIBERICA\nNome del produttore: Congelados Noriberica, SA\nSede dello stabilimento: Cebral 11 Petelos, MOS - 36416 (Pontevedra), Espa(cid:278)a\nData di scadenza o termine minimo di conservazione: 30-09-2023\nDescrizione peso/volume unità di vendita: trance da 150/250 g\nMotivo del richiamo:\npresenza di mercurio oltre i limiti ammessi\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:26:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:26:58+00:00"
+}

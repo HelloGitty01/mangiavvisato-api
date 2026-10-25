@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorello-1/",
+ "titolo": "MANDORELLO",
+ "data_pubblicazione": "2022-03-03",
+ "marca": "SAN MARCO",
+ "denominazione": "MANDORELLO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOSACCHETTO150_1761190369.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULORICHIAMOSACCHETTO150_1761190369.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMOSACCHETTO150_1761190369.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mandorello-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MANDORELLO",
+  "operatore": "DOLCIARIA DI COLOGNA VENETA SRL",
+  "lotti": [
+   "061 02L"
+  ],
+  "marchio_identificazione": "050ND04161 (Quari Destra 45 Cologna V. VR)",
+  "produttore": "DOLCIARIA DI COLOGNA VENETA SRL",
+  "sede_stabilimento": "vIA QUARI DESTRA 45 37044 COLOGNA VENETA VR",
+  "scadenza": "oL/LO/2A22",
+  "peso_volume": "MANDORELLI IN SACCHE]TO DA 150 GRAMMI",
+  "motivo_esteso": "Possibile presenza di corpo estraneo metallico dovuto a danni dell'impianto. Awertenze: Il prodotto non deve essere consumato, ma deve essere reso alla ditta fornitrice. nserire immagine uno: nserire immagine due",
+  "campi_extra": {
+   "Data": "azl03/2a22 Marchio del prodotto: SAN MARCO",
+   "commercializzato": "DOLCIARIA DI COLOGNA VENETA SRL",
+   "nserire immagine uno": "nserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: azl03/2a22 Marchio del prodotto: SAN MARCO\nDenominazione di vendita: MANDORELLO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: DOLCIARIA DI COLOGNA VENETA SRL\nLotto di produzione: 061 02L\nMarchio di identificazione dello stabilimento/del produttore: 050ND04161 (Quari Destra 45 Cologna V. VR)\nNome del produttore: DOLCIARIA DI COLOGNA VENETA SRL\nSede dello stabilimento: vIA QUARI DESTRA 45 37044 COLOGNA VENETA VR\nData di scadenza o termine minimo di conservazione: oL/LO/2A22\nDescrizione peso/volume unità di vendita: MANDORELLI IN SACCHE]TO DA 150 GRAMMI\nMotivo del richiamo:\nPossibile presenza di corpo estraneo metallico dovuto a danni dell'impianto.\nAwertenze:\nIl prodotto non deve essere consumato, ma deve essere reso alla ditta fornitrice.\nnserire immagine uno: nserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:30:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:30:31+00:00"
+}

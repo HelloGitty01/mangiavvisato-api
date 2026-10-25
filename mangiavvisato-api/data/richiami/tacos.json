@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tacos/",
+ "titolo": "TACOS",
+ "data_pubblicazione": "2021-10-13",
+ "marca": "ESSELUNGA",
+ "denominazione": "TACOS",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga_TACOS_1761189304.pdf",
+ "allegati": [
+  {
+   "titolo": "Esselunga_TACOS_1761189304.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga_TACOS_1761189304.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tacos",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:38:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:38:21+00:00"
+}

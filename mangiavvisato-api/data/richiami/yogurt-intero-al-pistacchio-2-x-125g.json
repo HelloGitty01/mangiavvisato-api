@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-al-pistacchio-2-x-125g/",
+ "titolo": "YOGURT INTERO AL PISTACCHIO 2 x 125g",
+ "data_pubblicazione": "2021-08-11",
+ "marca": "Carrefour",
+ "denominazione": "YOGURT INTERO AL PISTACCHIO 2 x 125g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_CARREFOUR%202x125g%20947273_1761187582.pdf",
+ "allegati": [
+  {
+   "titolo": "210729_Modulo_Richiamo_CARREFOUR 2x125g 947273_1761187582.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_CARREFOUR%202x125g%20947273_1761187582.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "yogurt-intero-al-pistacchio-2-x-125g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "YOGURT INTERO AL PISTACCHIO 2 x 125g",
+  "operatore": "CARREFOUR",
+  "lotti": [
+   "29.07.21+13/20/26.08.21"
+  ],
+  "marchio_identificazione": "IT 41 7 CE",
+  "produttore": "LATTE MONTAGNA ALTO ADIGE Soc. Agr. Coop.",
+  "sede_stabilimento": "BOLZANO",
+  "scadenza": "vedi lotto",
+  "peso_volume": "2 x 125g",
+  "motivo_esteso": "RICHIAMO precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube).",
+  "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29.07.21 Marchio del prodotto: CARREFOUR",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29.07.21 Marchio del prodotto: CARREFOUR\nDenominazione di vendita: YOGURT INTERO AL PISTACCHIO 2 x 125g\nNome o ragione sociale dell'OSA\nCARREFOUR\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 29.07.21+13/20/26.08.21\nMarchio di identificazione dello stabilimento/del produttore: IT 41 7 CE\nNome del produttore: LATTE MONTAGNA ALTO ADIGE Soc. Agr. Coop.\nSede dello stabilimento: BOLZANO\nData di scadenza o termine minimo di conservazione: vedi lotto\nDescrizione peso/volume unità di vendita: 2 x 125g\nMotivo del richiamo:\nRICHIAMO precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube).\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:46:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:46:01+00:00"
+}

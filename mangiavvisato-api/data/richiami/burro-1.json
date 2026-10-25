@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-1/",
+ "titolo": "Burro",
+ "data_pubblicazione": "2021-07-19",
+ "marca": "Burro generico",
+ "denominazione": "Burro",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Burro%20generico_1761186740.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Burro generico_1761186740.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Burro%20generico_1761186740.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "burro-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:50:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:50:18+00:00"
+}

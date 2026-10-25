@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acutil-donna-20-compresse/",
+ "titolo": "ACUTIL DONNA 20 compresse",
+ "data_pubblicazione": "2021-12-16",
+ "marca": "ACUTIL DONNA",
+ "denominazione": "ACUTIL DONNA 20 compresse",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoAcutildonna_1761190225.pdf",
+ "allegati": [
+  {
+   "titolo": "RichiamoAcutildonna_1761190225.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoAcutildonna_1761190225.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "acutil-donna-20-compresse",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:32:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:32:53+00:00"
+}

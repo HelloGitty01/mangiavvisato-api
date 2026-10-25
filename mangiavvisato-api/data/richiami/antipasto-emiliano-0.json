@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-emiliano-0/",
+ "titolo": "Antipasto Emiliano",
+ "data_pubblicazione": "2022-02-03",
+ "marca": "Cuor di Terra",
+ "denominazione": "Antipasto Emiliano",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Antipasto%20emiliano_1761190301.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo Antipasto emiliano_1761190301.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Antipasto%20emiliano_1761190301.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "antipasto-emiliano-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ANTIPASTO EMILIANO 120g",
+  "operatore": "Prodotto per Penny Market srl",
+  "lotti": [
+   "3415151"
+  ],
+  "marchio_identificazione": "Furlotti e C S.r.l.",
+  "produttore": "Furlotti e C S.r.l.",
+  "sede_stabilimento": "Via Santi 1 - 43014 Medesano (PR)",
+  "scadenza": "08-12-2021",
+  "peso_volume": "120g",
+  "motivo_esteso": "Sospetta presenza di Salmonella",
+  "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 03/12/2021. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29/10/2021 Marchio del prodotto: CUOR DI TERRA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 29/10/2021 Marchio del prodotto: CUOR DI TERRA\nDenominazione di vendita:ANTIPASTO EMILIANO 120g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Prodotto per Penny Market srl\ncommercializzato:\nLotto di produzione: 3415151\nMarchio di identificazione dello stabilimento/del produttore: Furlotti e C S.r.l.\nNome del produttore: Furlotti e C S.r.l.\nSede dello stabilimento: Via Santi 1 - 43014 Medesano (PR)\nData di scadenza o termine minimo di conservazione: 08-12-2021\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nSospetta presenza di Salmonella\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al\npunto vendita per la sostituzione o rimborso entro il 03/12/2021.\nPrecisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:31:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:31:22+00:00"
+}

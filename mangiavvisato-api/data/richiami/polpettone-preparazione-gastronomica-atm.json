@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpettone-preparazione-gastronomica-atm/",
+ "titolo": "Polpettone- preparazione gastronomica in ATM",
+ "data_pubblicazione": "2021-02-04",
+ "marca": "King",
+ "denominazione": "Polpettone- preparazione gastronomica in ATM",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20GI_Gastronomia_%20richiamo%20prodotto_PolpettoneKing_1761185196.pdf",
+ "allegati": [
+  {
+   "titolo": "Carterllo richiamo _ GI_Gastronomia_ richiamo prodotto_PolpettoneKing_1761185196.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20GI_Gastronomia_%20richiamo%20prodotto_PolpettoneKing_1761185196.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpettone-preparazione-gastronomica-atm",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Polpettone- preparazione gastronomica in ATM",
+  "operatore": "GI Gastronomia Italiana",
+  "lotti": [
+   "3246670"
+  ],
+  "marchio_identificazione": "via del Commercio Associato 13 , 40127 Bologna",
+  "produttore": "GI Gastronomia Italiana",
+  "sede_stabilimento": "via del Commercio Associato 13 , 40127 Bologna",
+  "scadenza": "18-02-2021",
+  "peso_volume": "vaschetta termosaldata da 200 g",
+  "motivo_esteso": "presenza accidentale di pistacchio derivante da materia prima non dichiarato in etichetta",
+  "avvertenze": "non consumare se allergici a frutta a guscio (pistacchio) , in tal caso riportare il prodotto al negozio. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "01/02/2021 Marchio del prodotto: King",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 01/02/2021 Marchio del prodotto: King\nDenominazione di vendita:Polpettone- preparazione gastronomica in ATM\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GI Gastronomia Italiana\ncommercializzato:\nLotto di produzione: 3246670\nMarchio di identificazione dello stabilimento/del produttore: via del Commercio Associato 13 , 40127 Bologna\nNome del produttore: GI Gastronomia Italiana\nSede dello stabilimento: via del Commercio Associato 13 , 40127 Bologna\nData di scadenza o termine minimo di conservazione: 18-02-2021\nDescrizione peso/volume unità di vendita: vaschetta termosaldata da 200 g\nMotivo del richiamo:\npresenza accidentale di pistacchio derivante da materia prima non dichiarato in etichetta\nAvvertenze:\nnon consumare se allergici a frutta a guscio (pistacchio) , in tal caso riportare il prodotto al negozio.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:59:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:55+00:00"
+}

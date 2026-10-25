@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/milka-vancho-480ml-it-es-pt/",
+ "titolo": "Milka VanCho 480ml IT ES PT",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "MILKA",
+ "denominazione": "Milka VanCho 480ml IT ES PT",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31017663_Milka%20VanCho%20480ml%20IT%20ES%20PT_Retail_1761188400.pdf",
+ "allegati": [
+  {
+   "titolo": "31017663_Milka VanCho 480ml IT ES PT_Retail_1761188400.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31017663_Milka%20VanCho%20480ml%20IT%20ES%20PT_Retail_1761188400.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "milka-vancho-480ml-it-es-pt",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Milka VanCho 480ml IT ES PT",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "OS1035**"
+  ],
+  "produttore": "Froneri Schoeller",
+  "sede_stabilimento": "Osnabruck",
+  "scadenza": "08/2022**",
+  "peso_volume": "319 g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**(OS1035, OS1036, OS1039) - TMC 08/2022; (OS1084, OS1085) - TMC 09/2022; (OS1106, OS1107) - TMC 10/2022; (OS1131, OS1132, OS1147, OS1148) - TMC 11/2022",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: MILKA"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: MILKA\nDenominazione di vendita:Milka VanCho 480ml IT ES PT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: OS1035**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Schoeller\nSede dello stabilimento: Osnabruck\nData di scadenza o termine minimo di conservazione: 08/2022**\nDescrizione peso/volume unità di vendita: 319 g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**(OS1035, OS1036, OS1039) - TMC 08/2022; (OS1084, OS1085) - TMC 09/2022; (OS1106, OS1107) -\nTMC 10/2022; (OS1131, OS1132, OS1147, OS1148) - TMC 11/2022;"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:24+00:00"
+}

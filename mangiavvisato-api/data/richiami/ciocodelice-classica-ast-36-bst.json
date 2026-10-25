@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciocodelice-classica-ast-36-bst/",
+ "titolo": "CIOCODELICE CLASSICA ast 36 bst",
+ "data_pubblicazione": "2022-03-17",
+ "marca": "Caffè Molinari SpA",
+ "denominazione": "CIOCODELICE CLASSICA ast 36 bst",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20Classica_1761190466.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo Ciocodelice Classica_1761190466.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20Classica_1761190466.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ciocodelice-classica-ast-36-bst",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CIOCODELICE CLASSICA ast 36 bst",
+  "operatore": "Caffè Molinari SpA",
+  "lotti": [
+   "L20009199=11122023",
+   "L20008459"
+  ],
+  "marchio_identificazione": "Granulati Italia SpA",
+  "produttore": "Granulati Italia SpA",
+  "sede_stabilimento": "Via B. Colleoni, 10 - 24040 Boltiere (BG)",
+  "scadenza": "11/12/2023, 27/1",
+  "peso_volume": "astuccio da 36 bustine da 25 g cad",
+  "motivo_esteso": "Possibile presenza accidentale di tracce di ossido di etilene",
+  "campi_extra": {
+   "Data": "03/02/2022 Marchio del prodotto: Caffè Molinari SpA"
+  },
+  "testo": "RICHIAMO\nData: 03/02/2022 Marchio del prodotto: Caffè Molinari SpA\nDenominazione di vendita: CIOCODELICE CLASSICA ast 36 bst\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caffè Molinari SpA\ncommercializzato:\nLotto di produzione: L20009199=11122023, L20008459\nMarchio di identificazione dello stabilimento/del produttore: Granulati Italia SpA\nNome del produttore: Granulati Italia SpA\nSede dello stabilimento: Via B. Colleoni, 10 - 24040 Boltiere (BG)\nData di scadenza o termine minimo di conservazione: 11/12/2023, 27/1\nDescrizione peso/volume unità di vendita: astuccio da 36 bustine da 25 g cad\nMotivo del richiamo:\nPossibile presenza accidentale di tracce di ossido di etilene\nAvvertenze:\nlotti coinvolti : L20009199=11122023 tmc 11/12/2023, L20008459 tmc 27/10/2023, L21001947 tmc\n16/03/2024, L21000529 tmc 03/02/2024, L21002808 tmc 06/04/2024, L20007487 tmc 15/09/2023,\nL21000076 tmc 21/01/2024"
+ },
+ "prima_rilevazione": "2026-10-25T08:28:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:28:47+00:00"
+}

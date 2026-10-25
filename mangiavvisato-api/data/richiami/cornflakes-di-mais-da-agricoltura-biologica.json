@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornflakes-di-mais-da-agricoltura-biologica/",
+ "titolo": "Cornflakes di mais da agricoltura biologica",
+ "data_pubblicazione": "2022-05-26",
+ "marca": "Crownfield",
+ "denominazione": "Cornflakes di mais da agricoltura biologica",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Lidl_1761191232.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di richiamo Lidl_1761191232.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Lidl_1761191232.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cornflakes-di-mais-da-agricoltura-biologica",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "24/05/22 Crownfield\nCornflakes di mais, da agricoltura biologica\nLidl Stiftung\nNordgetreide GmbH Co. KG\nMAcklenbruger Str. 202 23568 Lübeck, Germania\n29.05.2023, 30.05.2023 e 04.06.2023\n375g\nPotenziale presenza di Aflatossine. In attesa chiarimento delle Autorità Sanitarie\nSi pregano i consumatori di non consumare il prodotto e di restituirlo."
+ },
+ "prima_rilevazione": "2026-10-25T08:26:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:26:21+00:00"
+}

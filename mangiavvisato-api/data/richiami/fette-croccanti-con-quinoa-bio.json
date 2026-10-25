@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-croccanti-con-quinoa-bio/",
+ "titolo": "Fette croccanti con quinoa BIO",
+ "data_pubblicazione": "2022-04-20",
+ "marca": "NaturAktiv-Enjoy free!",
+ "denominazione": "Fette croccanti con quinoa BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ManifestoFettecroccanticonquinoaBIO%20_1__1761191148.pdf",
+ "allegati": [
+  {
+   "titolo": "ManifestoFettecroccanticonquinoaBIO _1__1761191148.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ManifestoFettecroccanticonquinoaBIO%20_1__1761191148.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "fette-croccanti-con-quinoa-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Fette croccanti con quinoa BIO",
+  "operatore": "ALDI Srl",
+  "lotti": [
+   "L270922",
+   "L101022",
+   "L111022"
+  ],
+  "marchio_identificazione": "EXTRUDO",
+  "produttore": "EXTRUDO Be ice s.r.o.",
+  "sede_stabilimento": "U KASARÁEN 634, 375 01 TÝN NAD VLTAVOU, Repubblica Ceca",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza di ossido di etilene nel prodotto",
+  "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "12/04/2022 Marchio del prodotto: Natur Aktiv-Enjoy Free!"
+  },
+  "testo": "RICHIAMO\nData: 12/04/2022 Marchio del prodotto: Natur Aktiv-Enjoy Free!\nDenominazione di vendita:Fette croccanti con quinoa BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: L270922, L101022 e L111022\nMarchio di identificazione dello stabilimento/del produttore: EXTRUDO\nNome del produttore: EXTRUDO Be ice s.r.o.\nSede dello stabilimento: U KASARÁEN 634, 375 01 TÝN NAD VLTAVOU, Repubblica Ceca\nData di scadenza o termine minimo di conservazione: -\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza di ossido di etilene nel prodotto\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T08:27:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:27:38+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kinder-schoko-bons-3/",
+ "titolo": "Kinder Schoko Bons",
+ "data_pubblicazione": "2022-04-09",
+ "marca": "Ferrero Kinder",
+ "denominazione": "Kinder Schoko Bons",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/080422%20recall%20Kinder%20Ferrero%20Schoko%20Bons%2046g_1761191139.pdf",
+ "allegati": [
+  {
+   "titolo": "080422 recall Kinder Ferrero Schoko Bons 46g_1761191139.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/080422%20recall%20Kinder%20Ferrero%20Schoko%20Bons%2046g_1761191139.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "kinder-schoko-bons-3",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Kinder Schoko Bons",
+  "operatore": "Ferrero Commerciale Italia srl",
+  "lotti": [
+   "vedi \"Avvertenze\""
+  ],
+  "marchio_identificazione": "03; Z",
+  "produttore": "Ferrero Ardennes S.A.",
+  "sede_stabilimento": "Rue Pietro Ferrero, 5, 6700 Arlon Belgio",
+  "scadenza": "vedi \"Avvertenze\"",
+  "peso_volume": "46 g",
+  "motivo_esteso": "Possibile presenza di Salmonella",
+  "avvertenze": "Se avete acquistato questo prodotto non consumatelo. Contattate il Servizio Consumatori Ferrero 800 90 96 90",
+  "campi_extra": {
+   "Data": "08/04/2022 Marchio del prodotto: Ferrero Kinder"
+  },
+  "testo": "RICHIAMO\nData: 08/04/2022 Marchio del prodotto: Ferrero Kinder\nDenominazione di vendita:Kinder Schoko Bons\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ferrero Commerciale Italia srl\ncommercializzato:\nLotto di produzione: vedi \"Avvertenze\"\nMarchio di identificazione dello stabilimento/del produttore: 03; Z\nNome del produttore: Ferrero Ardennes S.A.\nSede dello stabilimento: Rue Pietro Ferrero, 5, 6700 Arlon Belgio\nData di scadenza o termine minimo di conservazione: vedi \"Avvertenze\"\nDescrizione peso/volume unità di vendita: 46 g\nMotivo del richiamo:\nPossibile presenza di Salmonella\nAvvertenze:\nSe avete acquistato questo prodotto non consumatelo.\nContattate il Servizio Consumatori Ferrero 800 90 96 90\nLotti di produzione: tutti i lotti fino L098L\nTermine minimo di conservazione: tutte le date fino a 19/11/2022"
+ },
+ "prima_rilevazione": "2026-10-25T08:28:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:28:11+00:00"
+}

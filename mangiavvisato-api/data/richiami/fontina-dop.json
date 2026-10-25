@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fontina-dop/",
+ "titolo": "FONTINA DOP",
+ "data_pubblicazione": "2021-07-26",
+ "marca": "COOPERATIVA PRODUTTORI LATTE E FONTINA SOC. COOP. A.R.L.",
+ "denominazione": "FONTINA DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761186820.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo_1761186820.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_1761186820.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fontina-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:49:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:49:43+00:00"
+}

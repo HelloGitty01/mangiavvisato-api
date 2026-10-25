@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24/",
+ "titolo": "Decorazione in amido distribuite da Ambra's S.r.L. confezioni da 24",
+ "data_pubblicazione": "2021-11-10",
+ "marca": "Ambra's S.r.L.",
+ "denominazione": "Decorazione in amido distribuite da Ambra's S.r.L. confezioni da 24",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/211110_C_17_28162_print_1761189413.pdf",
+ "allegati": [
+  {
+   "titolo": "211110_C_17_28162_print_1761189413.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/211110_C_17_28162_print_1761189413.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "decorazione-amido-distribuite-da-ambras-srl-confezioni-da-24",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Decorazione in amido",
+  "operatore": "Ambra’s S.r.L., via Dante 16, 20121 Milano (MI)",
+  "lotti": [
+   "cod. 28162",
+   "lotto L210503"
+  ],
+  "marchio_identificazione": "Ambra’s",
+  "produttore": "Elisa Pereira & Freitas, LDA",
+  "sede_stabilimento": "Zona Industrial 2a Fase, LT 27, Neiva, Via do Castelo",
+  "scadenza": "30-06-2023",
+  "peso_volume": "Confezione da 24 pezzi",
+  "motivo_esteso": "Rischio chimico: presenza dell’allergene UOVA non dichiarata in etichetta",
+  "avvertenze": "Si prega di non consumare il prodotto e di riportarlo al punto vendita",
+  "campi_extra": {
+   "Data": "10/11/2021 Marchio del prodotto: Ambra’s S.r.L.",
+   "Rischio chimico": "presenza dell’allergene UOVA non dichiarata in etichetta"
+  },
+  "testo": "RICHIAMO\nData: 10/11/2021 Marchio del prodotto: Ambra’s S.r.L.\nDenominazione di vendita:Decorazione in amido\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ambra’s S.r.L., via Dante 16, 20121 Milano (MI)\ncommercializzato:\nLotto di produzione: cod. 28162, lotto L210503\nMarchio di identificazione dello stabilimento/del produttore: Ambra’s\nNome del produttore: Elisa Pereira & Freitas, LDA\nSede dello stabilimento: Zona Industrial 2a Fase, LT 27, Neiva, Via do Castelo\nData di scadenza o termine minimo di conservazione: 30-06-2023\nDescrizione peso/volume unità di vendita: Confezione da 24 pezzi\nMotivo del richiamo:\nRischio chimico: presenza dell’allergene UOVA non dichiarata in etichetta\nAvvertenze:\nSi prega di non consumare il prodotto e di riportarlo al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T08:36:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:36:17+00:00"
+}

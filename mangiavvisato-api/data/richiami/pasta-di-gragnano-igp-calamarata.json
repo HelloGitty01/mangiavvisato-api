@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-gragnano-igp-calamarata/",
+ "titolo": "Pasta di Gragnano IGP Calamarata",
+ "data_pubblicazione": "2021-11-05",
+ "marca": "Saper di Sapori",
+ "denominazione": "Pasta di Gragnano IGP Calamarata",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_18_2021_10_29_PASTA_GRAGNANO_IGP_CALAMARATA_CARTELLO_RICHIAMO_1761189385.pdf",
+ "allegati": [
+  {
+   "titolo": "AQInfo_18_2021_10_29_PASTA_GRAGNANO_IGP_CALAMARATA_CARTELLO_RICHIAMO_1761189385.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_18_2021_10_29_PASTA_GRAGNANO_IGP_CALAMARATA_CARTELLO_RICHIAMO_1761189385.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-di-gragnano-igp-calamarata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PASTA DI GRAGNANO IGP CALAMARATA",
+  "operatore": "SELEX S.p.A.",
+  "lotti": [
+   "L 21244C"
+  ],
+  "produttore": "PREMIATO PASTIFICIO AFELTRA SRL",
+  "sede_stabilimento": "VIA ROMA, 20 80054 - GRAGNANO (NA)",
+  "scadenza": "01.09.2024",
+  "peso_volume": "500 g",
+  "motivo_esteso": "RILEVATA PRESENZA DELL'ALLERGENE SENAPE",
+  "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA SENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/10/2021 Marchio del prodotto: Saper di Sapori Selex",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/10/2021 Marchio del prodotto: Saper di Sapori Selex\nDenominazione di vendita: PASTA DI GRAGNANO IGP CALAMARATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX S.p.A.\ncommercializzato:\nLotto di produzione: L 21244C\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PREMIATO PASTIFICIO AFELTRA SRL\nSede dello stabilimento: VIA ROMA, 20 80054 - GRAGNANO (NA)\nData di scadenza o termine minimo di conservazione: 01.09.2024\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRILEVATA PRESENZA DELL'ALLERGENE SENAPE\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA\nSENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:36:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:36:46+00:00"
+}

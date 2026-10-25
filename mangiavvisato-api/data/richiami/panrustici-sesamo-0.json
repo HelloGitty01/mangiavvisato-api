@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panrustici-sesamo-0/",
+ "titolo": "PANRUSTICI SESAMO",
+ "data_pubblicazione": "2021-02-18",
+ "marca": "LA MOLE",
+ "denominazione": "PANRUSTICI SESAMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_FAMOR_1761185285.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_FAMOR_1761185285.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_FAMOR_1761185285.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panrustici-sesamo-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANRUSTICI SESAMO",
+  "operatore": "F.lli Milan Srl - LA MOLE",
+  "lotti": [
+   "L00708"
+  ],
+  "marchio_identificazione": "LA MOLE",
+  "produttore": "Regione Moirane 8/a 12040 Corneliano d’Alba (CN)",
+  "sede_stabilimento": "Corneliano d’Alba (CN)",
+  "scadenza": "08-07-2021",
+  "peso_volume": "100g",
+  "motivo_esteso": "Chemical risk: presence of ethylene oxide in sesame seeds above the limit 0,05 mg/Kg.",
+  "avvertenze": "Please, suspend the sale and hold the product in warehouse. Require consumers to return any purchased packaging.",
+  "campi_extra": {
+   "Data": "28/01/2021 Marchio del prodotto: LA MOLE",
+   "Chemical risk": "presence of ethylene oxide in sesame seeds above the limit 0,05 mg/Kg."
+  },
+  "testo": "RICHIAMO\nData: 28/01/2021 Marchio del prodotto: LA MOLE\nDenominazione di vendita:PANRUSTICI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli Milan Srl - LA MOLE\ncommercializzato:\nLotto di produzione: L00708\nMarchio di identificazione dello stabilimento/del produttore: LA MOLE\nNome del produttore: Regione Moirane 8/a 12040 Corneliano d’Alba (CN)\nSede dello stabilimento: Corneliano d’Alba (CN)\nData di scadenza o termine minimo di conservazione: 08-07-2021\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nChemical risk: presence of ethylene oxide in sesame seeds above the limit 0,05 mg/Kg.\nAvvertenze:\nPlease, suspend the sale and hold the product in warehouse. Require consumers to return any purchased\npackaging."
+ },
+ "prima_rilevazione": "2026-10-25T08:59:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:01+00:00"
+}

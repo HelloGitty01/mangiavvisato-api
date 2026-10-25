@@ -1,0 +1,33 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fuet-0/",
+ "titolo": "FUET",
+ "data_pubblicazione": "2020-10-23",
+ "marca": "ARTYSAN",
+ "denominazione": "FUET",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%20_%20RICHIAMO%20FUET%20175%20G%20_%20LOTTI_1761182264.pdf",
+ "allegati": [
+  {
+   "titolo": "ALLEGATO _ RICHIAMO FUET 175 G _ LOTTI_1761182264.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%20_%20RICHIAMO%20FUET%20175%20G%20_%20LOTTI_1761182264.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fuet-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "RICHIAMATI: - 201602 - 201943 - 201944 - 202110 - 202201 - 202401 - 202407 - 202502 - 202506 - 202601 - 202602 - 202701 - 202705 - 202707 - 202807 - 202808 - 202904 - 202907 - 202908 - 203002 - 203006 - 203008 - 203105 - 203109 - 203304 - 203305 - 203307 - 203401 - 203404 - 202503"
+  ],
+  "campi_extra": {
+   "PRODOTTO RICHIAMATO": "FUET 175 G"
+  },
+  "testo": "ALLEGATO – RICHIAMO DEL 16/10/2020\nPRODOTTO RICHIAMATO: FUET 175 G\nLOTTI RICHIAMATI:\n- 201602\n- 201943\n- 201944\n- 202110\n- 202201\n- 202401\n- 202407\n- 202502\n- 202506\n- 202601\n- 202602\n- 202701\n- 202705\n- 202707\n- 202807\n- 202808\n- 202904\n- 202907\n- 202908\n- 203002\n- 203006\n- 203008\n- 203105\n- 203109\n- 203304\n- 203305\n- 203307\n- 203401\n- 203404\n- 202503"
+ },
+ "prima_rilevazione": "2026-10-25T09:10:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:05+00:00"
+}

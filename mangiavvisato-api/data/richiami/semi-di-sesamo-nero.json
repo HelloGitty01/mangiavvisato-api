@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-nero/",
+ "titolo": "SEMI DI SESAMO NERO",
+ "data_pubblicazione": "2021-04-28",
+ "marca": "BONGIOVANNI SRL",
+ "denominazione": "SEMI DI SESAMO NERO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_sesamo_1761186650.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_di_richiamo_sesamo_1761186650.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_sesamo_1761186650.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-nero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI SESAMO NERO",
+  "operatore": "BONGIOVANNI SRL",
+  "lotti": [
+   "L.9411 L.L151220/4M1"
+  ],
+  "marchio_identificazione": "BONGIOVANNI SRL",
+  "produttore": "DI GEL SRL",
+  "sede_stabilimento": "VIA MONTE ROSA 21 MILANO - VIA BRENTA 4 ROZZANO",
+  "scadenza": "12 MESI",
+  "peso_volume": "250G - 1KG",
+  "motivo_esteso": "e' stata attuata procedura di richiamo in quanto, come comunicato dal fornitore,vi è un superamento di limite legislativo per quanto concerne il contaminante ossido di etilene.",
+  "avvertenze": "Invitiamo a controllare al piu’ presto eventuali giacenze possedute togliendole dalla vendita, isolandole e mettendole in quarantena e a farci sapere. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22042021 Marchio del prodotto: BONGIOVANNI SRL",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22042021 Marchio del prodotto: BONGIOVANNI SRL\nDenominazione di vendita:SEMI DI SESAMO NERO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BONGIOVANNI SRL\ncommercializzato:\nLotto di produzione: L.9411 L.L151220/4M1\nMarchio di identificazione dello stabilimento/del produttore: BONGIOVANNI SRL\nNome del produttore: DI GEL SRL\nSede dello stabilimento: VIA MONTE ROSA 21 MILANO - VIA BRENTA 4 ROZZANO\nData di scadenza o termine minimo di conservazione: 12 MESI\nDescrizione peso/volume unità di vendita: 250G - 1KG\nMotivo del richiamo:\ne' stata attuata procedura di richiamo in quanto, come comunicato dal fornitore,vi è un superamento di\nlimite legislativo per quanto concerne il contaminante ossido di etilene.\nAvvertenze:\nInvitiamo a controllare al piu’ presto eventuali giacenze possedute togliendole dalla vendita, isolandole e\nmettendole in quarantena e a farci sapere.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:52:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:52:50+00:00"
+}

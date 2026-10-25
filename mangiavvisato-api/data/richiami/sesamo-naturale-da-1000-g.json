@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-naturale-da-1000-g/",
+ "titolo": "Sesamo Naturale da 1000 g",
+ "data_pubblicazione": "2021-02-19",
+ "marca": "Zorzi dal 1828",
+ "denominazione": "Sesamo Naturale da 1000 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto_873332420_Zorzi_1000g_1761185386.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_Richiamo_Prodotto_Lotto_873332420_Zorzi_1000g_1761185386.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto_873332420_Zorzi_1000g_1761185386.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sesamo-naturale-da-1000-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Sesamo Naturale da 1000 g",
+  "operatore": "B.F Agro-Industriale Srl",
+  "lotti": [
+   "873332420"
+  ],
+  "marchio_identificazione": "Zorzi dal 1828",
+  "produttore": "B.F Agro-Industriale Srl",
+  "sede_stabilimento": "Via Umbria 14 , 35043 Monselice (PD)",
+  "scadenza": "31-05-2022",
+  "peso_volume": "confezioni da 1000 g",
+  "motivo_esteso": "Superamento LMR di pesticida ETO -Ossido di etilene (compreso 2-cloroetanolo) comunicato dal fornitore",
+  "campi_extra": {
+   "Data": "10/02/2021 Marchio del prodotto: Zorzi dal 1828"
+  },
+  "testo": "RICHIAMO\nData: 10/02/2021 Marchio del prodotto: Zorzi dal 1828\nDenominazione di vendita:Sesamo Naturale da 1000 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è B.F Agro-Industriale Srl\ncommercializzato:\nLotto di produzione: 873332420\nMarchio di identificazione dello stabilimento/del produttore: Zorzi dal 1828\nNome del produttore: B.F Agro-Industriale Srl\nSede dello stabilimento: Via Umbria 14 , 35043 Monselice (PD)\nData di scadenza o termine minimo di conservazione: 31-05-2022\nDescrizione peso/volume unità di vendita: confezioni da 1000 g\nMotivo del richiamo:\nSuperamento LMR di pesticida ETO -Ossido di etilene (compreso 2-cloroetanolo) comunicato dal fornitore\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:58:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:46+00:00"
+}

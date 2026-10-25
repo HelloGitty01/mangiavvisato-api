@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-almjavavan-8x90x4-it-umb/",
+ "titolo": "NUII AlmJavaVan 8x90x4 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII AlmJavaVan 8x90x4 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31020022%20NUII%20AlmJavaVan%208x90x4%20IT_1761188407.pdf",
+ "allegati": [
+  {
+   "titolo": "31020022 NUII AlmJavaVan 8x90x4 IT_1761188407.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31020022%20NUII%20AlmJavaVan%208x90x4%20IT_1761188407.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-almjavavan-8x90x4-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII AlmJavaVan 8x90x4 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "UE1123**"
+  ],
+  "produttore": "Froneri Schöller",
+  "sede_stabilimento": "Uelzen",
+  "scadenza": "05/2023",
+  "peso_volume": "268g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**(UE1123, UE1124, UE1125, UE1127, UE1128, UE1130, UE1131, UE1132, UE1137, UE1138) - TMC 05/2023; (UE1162, UE1163, UE1165, UE1166, UE1167) - TMC 06/2023; (UE1193, UE1194, UE1195) - TMC 07/2023",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII AlmJavaVan 8x90x4 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: UE1123**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Schöller\nSede dello stabilimento: Uelzen\nData di scadenza o termine minimo di conservazione: 05/2023\nDescrizione peso/volume unità di vendita: 268g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**(UE1123, UE1124, UE1125, UE1127, UE1128, UE1130, UE1131, UE1132, UE1137, UE1138) - TMC\n05/2023; (UE1162, UE1163, UE1165, UE1166, UE1167) - TMC 06/2023; (UE1193, UE1194, UE1195) -\nTMC 07/2023"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:43+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:43+00:00"
+}

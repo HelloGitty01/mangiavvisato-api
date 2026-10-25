@@ -1,0 +1,49 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato-2/",
+ "titolo": "Granulare per brodo e condimento a base di glutammato",
+ "data_pubblicazione": "2021-09-29",
+ "marca": "Dialbrodo Gusto Ricco EAN 8003802030635",
+ "denominazione": "Granulare per brodo e condimento a base di glutammato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90804_GustoRicco_3000g_20210928_1761188623.pdf",
+ "allegati": [
+  {
+   "titolo": "90804_GustoRicco_3000g_20210928_1761188623.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/90804_GustoRicco_3000g_20210928_1761188623.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "granulare-brodo-e-condimento-base-di-glutammato-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Granulare per brodo e condimento a base di glutammato",
+  "operatore": "Dialcos Spa",
+  "lotti": [
+   "020136",
+   "020169",
+   "020191",
+   "020268",
+   "020318",
+   "020114",
+   "021078",
+   "021168"
+  ],
+  "marchio_identificazione": "DIalcos",
+  "produttore": "Dialcos Spa",
+  "sede_stabilimento": "Due Carrare (PD), Via Veneto 27",
+  "scadenza": "03/23, 04/23, 05/23, 06/23, 08/23, 10/23, 02/24, 05/24",
+  "peso_volume": "3000g",
+  "motivo_esteso": "Possibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta Per informazione contattare alert@dialcos.it",
+  "avvertenze": "Prodotto non adatto al consumo da parte di persone allergiche all' ARACHIDE. Si invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Aprile 2023 e Maggio 2024 (compresi) e a consegnarli presso il Punto Vendita. IL LOTTO E LA SCADENZA SI TROVANO SULL'ETICHETTA.",
+  "campi_extra": {
+   "Data": "24/09/2021 Marchio del prodotto: Dialbrodo Gusto Ricco EAN 8003802030635"
+  },
+  "testo": "RICHIAMO\nData: 24/09/2021 Marchio del prodotto: Dialbrodo Gusto Ricco EAN 8003802030635\nDenominazione di vendita: Granulare per brodo e condimento a base di glutammato\nNome o ragione sociale dell'OSA Dialcos Spa\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 020136, 020169, 020191, 020268, 020318, 020114, 021078, 021168\nMarchio di identificazione dello stabilimento/del produttore: DIalcos\nNome del produttore: Dialcos Spa\nSede dello stabilimento: Due Carrare (PD), Via Veneto 27\nData di scadenza o termine minimo di conservazione: 03/23, 04/23, 05/23, 06/23, 08/23, 10/23, 02/24, 05/24\nDescrizione peso/volume unità di vendita: 3000g\nMotivo del richiamo:\nPossibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta\nPer informazione contattare alert@dialcos.it\nAvvertenze:\nProdotto non adatto al consumo da parte di persone allergiche all' ARACHIDE.\nSi invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Aprile\n2023 e Maggio 2024 (compresi) e a consegnarli presso il Punto Vendita.\nIL LOTTO E LA SCADENZA SI TROVANO SULL'ETICHETTA."
+ },
+ "prima_rilevazione": "2026-10-25T08:39:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:29+00:00"
+}

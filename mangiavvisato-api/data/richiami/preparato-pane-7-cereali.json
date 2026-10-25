@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-pane-7-cereali/",
+ "titolo": "PREPARATO PER PANE 7 CEREALI",
+ "data_pubblicazione": "2020-12-01",
+ "marca": "Ruggeri srl",
+ "denominazione": "PREPARATO PER PANE 7 CEREALI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_453518_CARTELLO%20RICHIAMO%20PANE%207%20CEREALI%20LOTTO%20W1105SC_%20W1106SC_%20W1117SC_%20W1118SC%20_1__1761183211.pdf",
+ "allegati": [
+  {
+   "titolo": "Fup_453518_CARTELLO RICHIAMO PANE 7 CEREALI LOTTO W1105SC_ W1106SC_ W1117SC_ W1118SC _1__1761183211.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_453518_CARTELLO%20RICHIAMO%20PANE%207%20CEREALI%20LOTTO%20W1105SC_%20W1106SC_%20W1117SC_%20W1118SC%20_1__1761183211.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-pane-7-cereali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PREPARATO PER PANE 7 CEREALI Nome o ragione sociale Ruggeri srl dell'OSA a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "W1105SC",
+   "W1106SC",
+   "W1117SC",
+   "W1118SC"
+  ],
+  "marchio_identificazione": "Ruggeri S.r.l.",
+  "produttore": "Il Granaio delle Idee srl",
+  "sede_stabilimento": "Via Trento 7, Maserà di Padova",
+  "scadenza": "11/2021",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Presenza di semi di sesamo con ossido di etilene oltre i limiti di legge (Reg. CE 396/2005).",
+  "avvertenze": "I lotti sottoposti a richiamo sono i seguenti: W1105SC con termine minimo di conservazione 11/2021; W1106SC con termine minimo di conservazione 11/2021; W1117SC con termine minimo di conservazione 11/2021; W1118SC con termine minimo di conservazione 11/2021.",
+  "campi_extra": {
+   "Data": "27/11/2020 Marchio del prodotto: Ruggeri srl"
+  },
+  "testo": "RICHIAMO\nData: 27/11/2020 Marchio del prodotto: Ruggeri srl\nDenominazione di vendita: PREPARATO PER PANE 7 CEREALI\nNome o ragione sociale\nRuggeri srl\ndell'OSA a nome del\nquale il prodotto è\ncommercializzato:\nLotto di produzione: W1105SC; W1106SC; W1117SC; W1118SC\nMarchio di identificazione dello stabilimento/del produttore: Ruggeri S.r.l.\nNome del produttore: Il Granaio delle Idee srl\nSede dello stabilimento: Via Trento 7, Maserà di Padova\nData di scadenza o termine minimo di conservazione: 11/2021\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo: Presenza di semi di sesamo con ossido di etilene oltre i limiti di legge (Reg.\nCE 396/2005).\nAvvertenze: I lotti sottoposti a richiamo sono i seguenti:\nW1105SC con termine minimo di conservazione 11/2021;\nW1106SC con termine minimo di conservazione 11/2021;\nW1117SC con termine minimo di conservazione 11/2021;\nW1118SC con termine minimo di conservazione 11/2021."
+ },
+ "prima_rilevazione": "2026-10-25T09:05:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:58+00:00"
+}

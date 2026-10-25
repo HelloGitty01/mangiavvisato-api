@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/penne-rigate-integrali-bio/",
+ "titolo": "Penne rigate integrali bio",
+ "data_pubblicazione": "2021-11-05",
+ "marca": "Natura chiama Selex",
+ "denominazione": "Penne rigate integrali bio",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_PENNE_RIGATE_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189379.pdf",
+ "allegati": [
+  {
+   "titolo": "AQInfo_17_2021_10_29_PENNE_RIGATE_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189379.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AQInfo_17_2021_10_29_PENNE_RIGATE_INTEGRALI_BIO_CARTELLO_RICHIAMO_1761189379.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "penne-rigate-integrali-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PENNE RIGATE INTEGRALI BIOLOGICHE",
+  "operatore": "SELEX S.p.A.",
+  "lotti": [
+   "126010"
+  ],
+  "produttore": "Newlat Food S.p.A.",
+  "sede_stabilimento": "Via F. De Cecco, 33 - 66015 Fara San Martino (CH)",
+  "scadenza": "27.06.2023",
+  "peso_volume": "500 g",
+  "motivo_esteso": "RILEVATA PRESENZA DELL'ALLERGENE SENAPE",
+  "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA SENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "26/10/2021 Marchio del prodotto: Natura Chiama Selex",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 26/10/2021 Marchio del prodotto: Natura Chiama Selex\nDenominazione di vendita: PENNE RIGATE INTEGRALI BIOLOGICHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX S.p.A.\ncommercializzato:\nLotto di produzione: 126010\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Newlat Food S.p.A.\nSede dello stabilimento: Via F. De Cecco, 33 - 66015 Fara San Martino (CH)\nData di scadenza o termine minimo di conservazione: 27.06.2023\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRILEVATA PRESENZA DELL'ALLERGENE SENAPE\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA\nSENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:36:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:36:40+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-0/",
+ "titolo": "RISO CARNAROLI",
+ "data_pubblicazione": "2022-01-28",
+ "marca": "PER TE",
+ "denominazione": "RISO CARNAROLI",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PER%20TE_1761190266.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO PER TE_1761190266.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PER%20TE_1761190266.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "riso-carnaroli-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:31:37+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:31:37+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-fragola/",
+ "titolo": "SORBETTO ARTIGIANALE FRAGOLA",
+ "data_pubblicazione": "2021-08-04",
+ "marca": "SEGEL",
+ "denominazione": "SORBETTO ARTIGIANALE FRAGOLA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20ALLA%20FRAGOLA%20BOTT.%20VETRO%20500%20GR_1761187554.pdf",
+ "allegati": [
+  {
+   "titolo": "SORBETTO ALLA FRAGOLA BOTT. VETRO 500 GR_1761187554.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20ALLA%20FRAGOLA%20BOTT.%20VETRO%20500%20GR_1761187554.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sorbetto-artigianale-fragola",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:47:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:23+00:00"
+}

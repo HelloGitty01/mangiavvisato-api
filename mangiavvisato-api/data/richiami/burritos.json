@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burritos/",
+ "titolo": "BURRITOS",
+ "data_pubblicazione": "2021-10-13",
+ "marca": "ESSELUNGA",
+ "denominazione": "BURRITOS",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa_BURRITOS_1761189306.pdf",
+ "allegati": [
+  {
+   "titolo": "Esselunga Spa_BURRITOS_1761189306.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa_BURRITOS_1761189306.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "burritos",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:38:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:38:27+00:00"
+}

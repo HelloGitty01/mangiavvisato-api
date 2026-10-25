@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nongshim-instant-noodle-soup-kimchi/",
+ "titolo": "NONGSHIM Instant noodle soup kimchi",
+ "data_pubblicazione": "2022-02-25",
+ "marca": "NONGSHIM",
+ "denominazione": "NONGSHIM Instant noodle soup kimchi",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20NONGSHIM%20SHIN_1761190353.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo RICHIAMO NONGSHIM SHIN_1761190353.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20NONGSHIM%20SHIN_1761190353.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "nongshim-instant-noodle-soup-kimchi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NONGSHIM Instant noodle soup kimchi",
+  "operatore": "STORE SRL - PRATO (PO) 59100 VIA TIZIANO, 7 - P.IVA/C.F. 02174650974",
+  "lotti": [
+   "TE21 - TMC 19.05.2022"
+  ],
+  "marchio_identificazione": "NONGSHIM",
+  "produttore": "NONGSHIM CO. LTD COREA DEL SUD - DISTRIBUITO da Asia Express Food BV",
+  "sede_stabilimento": "Asia Express Food BV Kilbystraat 1 8263 CJ Kampen Nederland",
+  "scadenza": "19.05.2022",
+  "peso_volume": "Noodles istantanei koreani Nongshim Shin kimchi ramyun 120g",
+  "motivo_esteso": "presenza di 2-cloroetanolo oltre i limiti di legge",
+  "avvertenze": "comunicare ai propri clienti di non utilizzare il prodotto oggetto del ritiro e di farseli riconsegnare, tutti i prodotti saranno rimborsati. In caso di ingestione del prodotto e successivo malore, rivolgersi immediatamente al proprio medico.",
+  "campi_extra": {
+   "Data": "25/02/2022 Marchio del prodotto: NONGSHIM"
+  },
+  "testo": "RICHIAMO\nData: 25/02/2022 Marchio del prodotto: NONGSHIM\nDenominazione di vendita:NONGSHIM Instant noodle soup kimchi\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è STORE SRL - PRATO (PO) 59100 VIA TIZIANO, 7 - P.IVA/C.F. 02174650974\ncommercializzato:\nLotto di produzione: TE21 - TMC 19.05.2022\nMarchio di identificazione dello stabilimento/del produttore: NONGSHIM\nNome del produttore: NONGSHIM CO. LTD COREA DEL SUD - DISTRIBUITO da Asia Express Food BV\nSede dello stabilimento: Asia Express Food BV Kilbystraat 1 8263 CJ Kampen Nederland\nData di scadenza o termine minimo di conservazione: 19.05.2022\nDescrizione peso/volume unità di vendita: Noodles istantanei koreani Nongshim Shin kimchi ramyun 120g\nMotivo del richiamo:\npresenza di 2-cloroetanolo oltre i limiti di legge\nAvvertenze:\ncomunicare ai propri clienti di non utilizzare il prodotto oggetto del ritiro e di farseli riconsegnare, tutti i\nprodotti saranno rimborsati.\nIn caso di ingestione del prodotto e successivo malore, rivolgersi immediatamente al proprio medico."
+ },
+ "prima_rilevazione": "2026-10-25T08:30:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:30:41+00:00"
+}

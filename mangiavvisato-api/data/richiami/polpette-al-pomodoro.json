@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpette-al-pomodoro/",
+ "titolo": "Polpette al pomodoro",
+ "data_pubblicazione": "2022-01-17",
+ "marca": "NATURHOUSE",
+ "denominazione": "Polpette al pomodoro",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20polpette%20al%20pomodoro_1761190257.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo polpette al pomodoro_1761190257.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20polpette%20al%20pomodoro_1761190257.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpette-al-pomodoro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Polpette al pomodoro",
+  "operatore": "NATURHOUSE",
+  "lotti": [
+   "46077"
+  ],
+  "marchio_identificazione": "NUTRISENS - BOCAGE",
+  "produttore": "Nutrisens - Bocage",
+  "sede_stabilimento": "CS 4002386201 Loudun CedexSammarçolles -France",
+  "scadenza": "27/05/2023",
+  "peso_volume": "280 g",
+  "motivo_esteso": "richiamo precauzionale dovuto alla presenza di tracce di ossido di etilene in concentrazioni superiori ai",
+  "avvertenze": "Se siete in possesso di confezioni riconducibili al lotto di prodotto sopra indicati vi invitiamo di sospenderne il consumo e restituirli al punto vendita. Per eventuali info vi invitiamo a contattare la sede allo 0532907080 oppure a scrivere al seguente indirizzo e-mail: segreteria@naturhouse.it Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "12/01/2022 Marchio del prodotto: NATURHOUSE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/01/2022 Marchio del prodotto: NATURHOUSE\nDenominazione di vendita:Polpette al pomodoro\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NATURHOUSE\ncommercializzato:\nLotto di produzione: 46077\nMarchio di identificazione dello stabilimento/del produttore: NUTRISENS - BOCAGE\nNome del produttore: Nutrisens - Bocage\nSede dello stabilimento: CS 4002386201 Loudun CedexSammarçolles -France\nData di scadenza o termine minimo di conservazione: 27/05/2023\nDescrizione peso/volume unità di vendita: 280 g\nMotivo del richiamo:\nrichiamo precauzionale dovuto alla presenza di tracce di ossido di etilene in concentrazioni superiori ai\nAvvertenze:\nSe siete in possesso di confezioni riconducibili al lotto di prodotto sopra indicati vi invitiamo di\nsospenderne il consumo e restituirli al punto vendita. Per eventuali info vi invitiamo a contattare la sede\nallo 0532907080 oppure a scrivere al seguente indirizzo e-mail: segreteria@naturhouse.it\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:32:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:32:10+00:00"
+}

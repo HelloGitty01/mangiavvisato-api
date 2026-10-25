@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-1000-g/",
+ "titolo": "SESAMO 1000 g",
+ "data_pubblicazione": "2021-02-19",
+ "marca": "DROGHERIA E ALIMENTARI",
+ "denominazione": "SESAMO 1000 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMTSA130L11262USCAD.30_09_2023_1761185302.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLORICHIAMOMTSA130L11262USCAD.30_09_2023_1761185302.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMTSA130L11262USCAD.30_09_2023_1761185302.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sesamo-1000-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SESAMO 1000 g",
+  "operatore": "METRO ITALIA CASH AND CARRY S.P.A.",
+  "lotti": [
+   "L11262U"
+  ],
+  "marchio_identificazione": "DROGHERIA E ALIMENTARI",
+  "produttore": "DROGHERIA E ALIMENTARI S.P.A.",
+  "sede_stabilimento": "VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)",
+  "scadenza": "30-09-2023",
+  "peso_volume": "1000 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO",
+  "avvertenze": "IN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL PUNTO VENDITA DI RIFERIMENTO.",
+  "campi_extra": {
+   "Data": "17/02/2021 Marchio del prodotto: METRO CHEF"
+  },
+  "testo": "RICHIAMO\nData: 17/02/2021 Marchio del prodotto: METRO CHEF\nDenominazione di vendita:SESAMO 1000 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è METRO ITALIA CASH AND CARRY S.P.A.\ncommercializzato:\nLotto di produzione: L11262U\nMarchio di identificazione dello stabilimento/del produttore: DROGHERIA E ALIMENTARI\nNome del produttore: DROGHERIA E ALIMENTARI S.P.A.\nSede dello stabilimento: VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)\nData di scadenza o termine minimo di conservazione: 30-09-2023\nDescrizione peso/volume unità di vendita: 1000 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO\nAvvertenze:\nIN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL\nPUNTO VENDITA DI RIFERIMENTO."
+ },
+ "prima_rilevazione": "2026-10-25T08:57:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:57:57+00:00"
+}

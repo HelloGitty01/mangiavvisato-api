@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nescafe-shakissimo-cappuccino-decaffeinato/",
+ "titolo": "Nescafé Shakissimo Cappuccino Decaffeinato",
+ "data_pubblicazione": "2020-12-04",
+ "marca": "LNPF Italia S.r.l.",
+ "denominazione": "Nescafé Shakissimo Cappuccino Decaffeinato",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Shakissimo%20Cappuccino%20Decaffeinato_1761183349.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_Shakissimo Cappuccino Decaffeinato_1761183349.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Shakissimo%20Cappuccino%20Decaffeinato_1761183349.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nescafe-shakissimo-cappuccino-decaffeinato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cappuccino decaffeinato al cacao",
+  "operatore": "LNPF Italia S.r.l.",
+  "lotti": [
+   "data di scadenza 02/02/2021"
+  ],
+  "marchio_identificazione": "FR 14.630.010 CE",
+  "produttore": "LNUF Bayeux",
+  "sede_stabilimento": "Saint Martin des Entrées, Francia",
+  "scadenza": "02-02-2021",
+  "peso_volume": "190ml",
+  "motivo_esteso": "Possibile presenza di tracce di acqua ossigenata utilizzata per sanificare i vasetti.",
+  "avvertenze": "A titolo precauzionale si prega di non consumare il prodotto con la data di scadenza 02/02/2021 e di riportarlo al punto vendita per il rimborso. In caso di domande, contattare il servizio consumatori Nestlé numero verde 800-434434. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "03/12/2020 Marchio del prodotto: Nescafé Shakissimo Cappuccino Decaffeinato",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 03/12/2020 Marchio del prodotto: Nescafé Shakissimo Cappuccino Decaffeinato\nDenominazione di vendita:Cappuccino decaffeinato al cacao\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LNPF Italia S.r.l.\ncommercializzato:\nLotto di produzione: data di scadenza 02/02/2021\nMarchio di identificazione dello stabilimento/del produttore: FR 14.630.010 CE\nNome del produttore: LNUF Bayeux\nSede dello stabilimento: Saint Martin des Entrées, Francia\nData di scadenza o termine minimo di conservazione: 02-02-2021\nDescrizione peso/volume unità di vendita: 190ml\nMotivo del richiamo:\nPossibile presenza di tracce di acqua ossigenata utilizzata per sanificare i vasetti.\nAvvertenze:\nA titolo precauzionale si prega di non consumare il prodotto con la data di scadenza 02/02/2021 e di\nriportarlo al punto vendita per il rimborso.\nIn caso di domande, contattare il servizio consumatori Nestlé numero verde 800-434434.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:04:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:04:28+00:00"
+}

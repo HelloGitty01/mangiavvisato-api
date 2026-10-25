@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-decorticati-0/",
+ "titolo": "SEMI DI SESAMO DECORTICATI",
+ "data_pubblicazione": "2020-10-25",
+ "marca": "HAPPY HARVEST",
+ "denominazione": "SEMI DI SESAMO DECORTICATI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/aldi_Cartello%20di%20richiamo%20Semi%20di%20sesamo%20HAPPY%20HARVEST_1761182322.pdf",
+ "allegati": [
+  {
+   "titolo": "aldi_Cartello di richiamo Semi di sesamo HAPPY HARVEST_1761182322.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/aldi_Cartello%20di%20richiamo%20Semi%20di%20sesamo%20HAPPY%20HARVEST_1761182322.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-decorticati-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI SESAMO DECORTICATI",
+  "operatore": "ALDI S.r.l.",
+  "lotti": [
+   "16/06/21",
+   "28/04/21"
+  ],
+  "produttore": "PEDON S.p.A.",
+  "sede_stabilimento": "VIA DEL PROGRESSO 32, 36064 COLCERESA (VI)",
+  "scadenza": "vedere sotto",
+  "peso_volume": "250 g",
+  "motivo_esteso": "Presenza di ossido di etilene oltre i limiti di legge",
+  "avvertenze": "Il prodotto con i TMC 16/06/21 e 28/04/21 non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+  "campi_extra": {
+   "Data": "24/10/2020 Marchio del prodotto: HAPPY HARVEST"
+  },
+  "testo": "RICHIAMO\nData: 24/10/2020 Marchio del prodotto: HAPPY HARVEST\nDenominazione di vendita:SEMI DI SESAMO DECORTICATI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI S.r.l.\ncommercializzato:\nLotto di produzione: 16/06/21, 28/04/21\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento: VIA DEL PROGRESSO 32, 36064 COLCERESA (VI)\nData di scadenza o termine minimo di conservazione: vedere sotto\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPresenza di ossido di etilene oltre i limiti di legge\nAvvertenze:\nIl prodotto con i TMC 16/06/21 e 28/04/21 non deve essere consumato e può essere restituito in qualsiasi\npunto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T09:09:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:09:31+00:00"
+}

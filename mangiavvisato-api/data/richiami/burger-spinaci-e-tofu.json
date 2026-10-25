@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-spinaci-e-tofu/",
+ "titolo": "BURGER SPINACI E TOFU",
+ "data_pubblicazione": "2021-07-30",
+ "marca": "AMARSI E PIACERSI",
+ "denominazione": "BURGER SPINACI E TOFU",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BURGER_RIEPILOGO_1761187522.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO BURGER_RIEPILOGO_1761187522.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20BURGER_RIEPILOGO_1761187522.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "burger-spinaci-e-tofu",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BURGER SPINACI E TOFU FRESCO",
+  "operatore": "IPER S.P.A",
+  "lotti": [
+   "VEDI AVVERTENZE"
+  ],
+  "marchio_identificazione": "KIOENE",
+  "produttore": "KIOENE S.p.a",
+  "sede_stabilimento": "VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "200 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI DI AUTOCONTROLLO",
+  "avvertenze": "INVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.",
+  "campi_extra": {
+   "Data": "26/07/2021 Marchio del prodotto: AMARSI E PIACERSI"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2021 Marchio del prodotto: AMARSI E PIACERSI\nDenominazione di vendita:BURGER SPINACI E TOFU FRESCO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPER S.P.A\ncommercializzato:\nLotto di produzione: VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: KIOENE\nNome del produttore: KIOENE S.p.a\nSede dello stabilimento: VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI\nDI AUTOCONTROLLO\nAvvertenze:\nINVITIAMO IL CONSUMATORE A RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.\nLOTTO F600219-SCAD. 06/08/21, F600310-SCAD. 11/08/21, F600391-SCAD.18/08/21, F600542-SCAD.\n27/08/21"
+ },
+ "prima_rilevazione": "2026-10-25T08:47:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:42+00:00"
+}

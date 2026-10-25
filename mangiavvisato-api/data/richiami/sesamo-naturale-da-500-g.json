@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-naturale-da-500-g/",
+ "titolo": "Sesamo Naturale da 500 g",
+ "data_pubblicazione": "2021-02-19",
+ "marca": "Zorzi dal 1828",
+ "denominazione": "Sesamo Naturale da 500 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto873331720_500g_Zorzi_1761185380.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_Richiamo_Prodotto_Lotto873331720_500g_Zorzi_1761185380.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Prodotto_Lotto873331720_500g_Zorzi_1761185380.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sesamo-naturale-da-500-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Sesamo naturale da 500 g",
+  "operatore": "B.F Agro-Industriale Srl",
+  "lotti": [
+   "873331720"
+  ],
+  "marchio_identificazione": "Zorzi dal 1828",
+  "produttore": "B.F Agro-Industriale Srl",
+  "sede_stabilimento": "Via Umbria 14 , 35043 Monselice (PD)",
+  "scadenza": "31-05-2022",
+  "peso_volume": "confezioni da 500 g",
+  "motivo_esteso": "Superamento LMR di pesticida ETO -Ossido di etilene (compreso 2-cloroetanolo) comunicato dal fornitore",
+  "campi_extra": {
+   "Data": "10/02/2021 Marchio del prodotto: Zorzi dal 1828"
+  },
+  "testo": "RICHIAMO\nData: 10/02/2021 Marchio del prodotto: Zorzi dal 1828\nDenominazione di vendita:Sesamo naturale da 500 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è B.F Agro-Industriale Srl\ncommercializzato:\nLotto di produzione: 873331720\nMarchio di identificazione dello stabilimento/del produttore: Zorzi dal 1828\nNome del produttore: B.F Agro-Industriale Srl\nSede dello stabilimento: Via Umbria 14 , 35043 Monselice (PD)\nData di scadenza o termine minimo di conservazione: 31-05-2022\nDescrizione peso/volume unità di vendita: confezioni da 500 g\nMotivo del richiamo:\nSuperamento LMR di pesticida ETO -Ossido di etilene (compreso 2-cloroetanolo) comunicato dal fornitore\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:58:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:44+00:00"
+}

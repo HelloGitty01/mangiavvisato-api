@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/orasi-castagna/",
+ "titolo": "OraSì Castagna",
+ "data_pubblicazione": "2021-07-29",
+ "marca": "OraSì",
+ "denominazione": "OraSì Castagna",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ORASI%20Castagna%20AV86AA_1761187513.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO ORASI Castagna AV86AA_1761187513.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ORASI%20Castagna%20AV86AA_1761187513.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "orasi-castagna",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ORASI’ CASTAGNA",
+  "operatore": "Unigrà srl",
+  "lotti": [
+   "21076"
+  ],
+  "produttore": "Unigrà srl",
+  "sede_stabilimento": "Conselice (RA), Via Gardizza 9/B",
+  "scadenza": "12/12/2021",
+  "peso_volume": "1 litro",
+  "motivo_esteso": "ritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)",
+  "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "26/07/2021 Marchio del prodotto: ORASI’"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2021 Marchio del prodotto: ORASI’\nDenominazione di vendita: ORASI’ CASTAGNA\nNome o ragione sociale dell'OSA\nUnigrà srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 21076\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Unigrà srl\nSede dello stabilimento: Conselice (RA), Via Gardizza 9/B\nData di scadenza o termine minimo di conservazione: 12/12/2021\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T08:48:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:48:31+00:00"
+}

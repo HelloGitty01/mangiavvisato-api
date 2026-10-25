@@ -1,0 +1,45 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granulare-brodo-e-condimento-base-di-glutammato/",
+ "titolo": "Granulare per brodo e condimento a base di glutammato",
+ "data_pubblicazione": "2021-09-29",
+ "marca": "Dialbrodo Delicato EAN 8003802025303",
+ "denominazione": "Granulare per brodo e condimento a base di glutammato",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/90510_DialbrodoDelicato_250g_8003802025303_20210928_1761188610.pdf",
+ "allegati": [
+  {
+   "titolo": "90510_DialbrodoDelicato_250g_8003802025303_20210928_1761188610.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/90510_DialbrodoDelicato_250g_8003802025303_20210928_1761188610.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "granulare-brodo-e-condimento-base-di-glutammato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Granulare per brodo e condimento a base di glutammato",
+  "operatore": "Dialcos Spa",
+  "lotti": [
+   "020087",
+   "020129",
+   "020199",
+   "020255"
+  ],
+  "marchio_identificazione": "Dialcos spa",
+  "produttore": "Dialcos Spa",
+  "sede_stabilimento": "Due Carrare (PD), Via Veneto 27",
+  "scadenza": "02/23, 04/23, 06/23, 08/23",
+  "peso_volume": "250g",
+  "motivo_esteso": "Possibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta Per informazione contattare alert@dialcos.it",
+  "avvertenze": "Prodotto non adatto al consumo da parte di persone allergiche all' ARACHIDE. Si invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Febbraio 2023 e Agosto 2023 (compresi) e a consegnarli presso il Punto Vendita. IL LOTTO E LA SCADENZA SI TROVANO SUL FONDO DELL'ASTUCCIO E SUL SACCHETTO.",
+  "campi_extra": {
+   "Data": "28/09/21 Marchio del prodotto: Dialbrodo Delicato EAN 8003802025303"
+  },
+  "testo": "RICHIAMO\nData: 28/09/21 Marchio del prodotto: Dialbrodo Delicato EAN 8003802025303\nDenominazione di vendita: Granulare per brodo e condimento a base di glutammato\nNome o ragione sociale dell'OSA Dialcos Spa\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 020087, 020129, 020199, 020255\nMarchio di identificazione dello stabilimento/del produttore: Dialcos spa\nNome del produttore: Dialcos Spa\nSede dello stabilimento: Due Carrare (PD), Via Veneto 27\nData di scadenza o termine minimo di conservazione: 02/23, 04/23, 06/23, 08/23\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nPossibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta\nPer informazione contattare alert@dialcos.it\nAvvertenze:\nProdotto non adatto al consumo da parte di persone allergiche all' ARACHIDE.\nSi invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Febbraio\n2023 e Agosto 2023 (compresi) e a consegnarli presso il Punto Vendita.\nIL LOTTO E LA SCADENZA SI TROVANO SUL FONDO DELL'ASTUCCIO E SUL SACCHETTO."
+ },
+ "prima_rilevazione": "2026-10-25T08:39:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:19+00:00"
+}

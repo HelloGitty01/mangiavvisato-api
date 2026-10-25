@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bazzotto-di-romagna-semitenero/",
+ "titolo": "Bazzotto di Romagna semitenero",
+ "data_pubblicazione": "2020-10-13",
+ "marca": "Caseificio Pascoli",
+ "denominazione": "Bazzotto di Romagna semitenero",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_RICHIAMO%20BAZZOTTO%20SEMITENERO_1761182220.pdf",
+ "allegati": [
+  {
+   "titolo": "8_RICHIAMO BAZZOTTO SEMITENERO_1761182220.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_RICHIAMO%20BAZZOTTO%20SEMITENERO_1761182220.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "bazzotto-di-romagna-semitenero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BAZZOTTO DI ROMAGNA SEMITENERO",
+  "operatore": "CASEIFICIO PASCOLI SRL",
+  "lotti": [
+   "SR111/2B/02"
+  ],
+  "marchio_identificazione": "IT08-550CE",
+  "produttore": "CASEIFICIO PASCOLI SRL",
+  "sede_stabilimento": "VIA RUBICONE DX N.220 SAVIGNANO SUL RUBICONE",
+  "scadenza": "20-22/10/2020",
+  "peso_volume": "KG 7.230- FORMA INTERA",
+  "motivo_esteso": "RISCHIO CHIMICO PRESENZA AFLATOSSINE M1 NEL LATTE",
+  "avvertenze": "RESTITUIRE AL PRODUTTORE",
+  "campi_extra": {
+   "Data": "12/10/2020 Marchio del prodotto: CASEIFICIO PASCOLI SRL"
+  },
+  "testo": "Ministero della Salute\nRICHIAMO\nData: 12/10/2020 Marchio del prodotto: CASEIFICIO PASCOLI SRL\nDenominazione di vendita:BAZZOTTO DI ROMAGNA SEMITENERO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO PASCOLI SRL\ncommercializzato:\nLotto di produzione: SR111/2B/02\nMarchio di identificazione dello stabilimento/del produttore: IT08-550CE\nNome del produttore: CASEIFICIO PASCOLI SRL\nSede dello stabilimento: VIA RUBICONE DX N.220 SAVIGNANO SUL RUBICONE\nData di scadenza o termine minimo di conservazione: 20-22/10/2020\nDescrizione peso/volume unità di vendita: KG 7.230- FORMA INTERA\nMotivo del richiamo:\nRISCHIO CHIMICO PRESENZA AFLATOSSINE M1 NEL LATTE\nAvvertenze:\nRESTITUIRE AL PRODUTTORE"
+ },
+ "prima_rilevazione": "2026-10-25T09:10:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:58+00:00"
+}

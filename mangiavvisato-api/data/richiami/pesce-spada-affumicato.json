@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-affumicato/",
+ "titolo": "Pesce spada affumicato",
+ "data_pubblicazione": "2021-10-22",
+ "marca": "Gastronomia Valdarnese",
+ "denominazione": "Pesce spada affumicato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo.jpg1_1761189326.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo.jpg1_1761189326.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo.jpg1_1761189326.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pesce-spada-affumicato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:37:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:37:50+00:00"
+}

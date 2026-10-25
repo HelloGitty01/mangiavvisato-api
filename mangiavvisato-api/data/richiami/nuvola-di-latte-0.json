@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuvola-di-latte-0/",
+ "titolo": "Nuvola di latte",
+ "data_pubblicazione": "2020-10-14",
+ "marca": "Caseificio Pascoli",
+ "denominazione": "Nuvola di latte",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/6_RICHIAMO%20NUVOLA%20DI%20LATTE_1761182240.pdf",
+ "allegati": [
+  {
+   "titolo": "6_RICHIAMO NUVOLA DI LATTE_1761182240.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/6_RICHIAMO%20NUVOLA%20DI%20LATTE_1761182240.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuvola-di-latte-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:10:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:29+00:00"
+}

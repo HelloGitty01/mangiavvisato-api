@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-farfalle-ndeg265/",
+ "titolo": "Pasta Farfalle n°265",
+ "data_pubblicazione": "2021-11-14",
+ "marca": "Consilia saper scegliere",
+ "denominazione": "Pasta Farfalle n°265",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Consilia%20saper%20scegliere%20farfalle_1761189429.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo Consilia saper scegliere farfalle_1761189429.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Consilia%20saper%20scegliere%20farfalle_1761189429.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-farfalle-ndeg265",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FARFALLE n°265",
+  "operatore": "SUN soc.cons.a.r.l.",
+  "lotti": [
+   "L510040"
+  ],
+  "produttore": "PASTA ZARA S.p.A.",
+  "sede_stabilimento": "via PIO X 31039 RIESE (TV)",
+  "scadenza": "26-01-2024",
+  "peso_volume": "500 g",
+  "motivo_esteso": "RILEVATA PRESENZA DELL'ALLERGENE SENAPE",
+  "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA SENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO",
+  "campi_extra": {
+   "Data": "12/11/2021 Marchio del prodotto: CONSILIA SAPER SCEGLIERE"
+  },
+  "testo": "RICHIAMO\nData: 12/11/2021 Marchio del prodotto: CONSILIA SAPER SCEGLIERE\nDenominazione di vendita:FARFALLE n°265\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUN soc.cons.a.r.l.\ncommercializzato:\nLotto di produzione: L510040\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PASTA ZARA S.p.A.\nSede dello stabilimento: via PIO X 31039 RIESE (TV)\nData di scadenza o termine minimo di conservazione: 26-01-2024\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRILEVATA PRESENZA DELL'ALLERGENE SENAPE\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE SONO ALLERGICI ALLA\nSENAPE A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO"
+ },
+ "prima_rilevazione": "2026-10-25T08:35:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:35:53+00:00"
+}

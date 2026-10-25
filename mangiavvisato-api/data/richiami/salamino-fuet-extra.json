@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-fuet-extra/",
+ "titolo": "SALAMINO FUET EXTRA",
+ "data_pubblicazione": "2020-10-23",
+ "marca": "ARTYSAN",
+ "denominazione": "SALAMINO FUET EXTRA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALAMINO%20FUET%20EXTRA_1761182256.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO SALAMINO FUET EXTRA_1761182256.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SALAMINO%20FUET%20EXTRA_1761182256.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamino-fuet-extra",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMINO FUET EXTRA",
+  "operatore": "TODIS – IGES srl unipersonale",
+  "lotti": [
+   "2019 02 – 2022 03 – 2024 06 – 2026 03 – 2026 02"
+  ],
+  "marchio_identificazione": "ALEJANDRO MIGUEL",
+  "produttore": "ALEJANDRO MIGUEL ES 10.01924 / B",
+  "peso_volume": "175g",
+  "motivo_esteso": "sospetta presenza di salmonella tutti i clienti che fossero in possesso di una confezione appartenente",
+  "avvertenze": "ai suddetti lotti sono invitati a non consumarla e riportarla al punto di vendita che provvederà al rimborso",
+  "campi_extra": {
+   "Data": "22/10/2020 Marchio del prodotto: ARTYSAN"
+  },
+  "testo": "RICHIAMO\nData: 22/10/2020 Marchio del prodotto: ARTYSAN\nDenominazione di vendita: SALAMINO FUET EXTRA\nNome o ragione sociale dell'OSA TODIS – IGES srl unipersonale\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 2019 02 – 2022 03 – 2024 06 – 2026 03 – 2026 02\nMarchio di identificazione dello stabilimento/del produttore: ALEJANDRO MIGUEL\nNome del produttore: ALEJANDRO MIGUEL\nES 10.01924 / B\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 175g\nMotivo del richiamo: sospetta presenza di salmonella\ntutti i clienti che fossero in possesso di una confezione appartenente\nAvvertenze:\nai suddetti lotti sono invitati a non consumarla e riportarla al punto di vendita\nche provvederà al rimborso"
+ },
+ "prima_rilevazione": "2026-10-25T09:10:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:00+00:00"
+}

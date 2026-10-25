@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/equiseto-bio/",
+ "titolo": "EQUISETO BIO",
+ "data_pubblicazione": "2021-11-15",
+ "marca": "BIOPLANTA sas",
+ "denominazione": "EQUISETO BIO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20equiseto%20_1__1761189432.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo equiseto _1__1761189432.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20equiseto%20_1__1761189432.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "equiseto-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "EQUISETO BIO",
+  "operatore": "Bioplanta s.a.s. del dott. Vincenzo Amato & c.",
+  "lotti": [
+   "TH2001EQ - TH2101EQ"
+  ],
+  "produttore": "Bioplanta s.a.s. del dott. Vincenzo Amato & c.",
+  "sede_stabilimento": "Irsina",
+  "scadenza": "12/2023",
+  "peso_volume": "1kg o 100g",
+  "motivo_esteso": "A causa del ritrovamento di tracce di salmonella nell'articolo \"EQUISETO BIO\", Bioplanta s.a.s. richiama le confezioni con lotto TH2001EQ e TH2101EQ con scadenza 12/2023 del peso netto di 100g o 1kg. Qualora siate in possesso di una rimanenza di equiseto, potete restituirla a questo punto vendita e verrà sostituita gratuitamente. Ulteriori informazioni sono disponibili contattandoci all'indirizzo info@bioplanta.it",
+  "avvertenze": "La salmonella si manifesta in pochi giorni con sintomi quali diarrea, dolore addominale e occasionalmente vomito e leggera febbre, che di solito regrediscono da soli in alcuni giorni. Neonati, bambini, anziani e persone con un sistema immunitario indebolito possono sviluppare sintomi più gravi. In caso di sviluppo di uno di questi sintomi, consultare il medico indicando una possibile infezione da salmonella.",
+  "campi_extra": {
+   "Data": "15/11/2021 Marchio del prodotto: Bioplanta s.a.s."
+  },
+  "testo": "RICHIAMO\nData: 15/11/2021 Marchio del prodotto: Bioplanta s.a.s.\nDenominazione di vendita:EQUISETO BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Bioplanta s.a.s. del dott. Vincenzo Amato & c.\ncommercializzato:\nLotto di produzione: TH2001EQ - TH2101EQ\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Bioplanta s.a.s. del dott. Vincenzo Amato & c.\nSede dello stabilimento: Irsina\nData di scadenza o termine minimo di conservazione: 12/2023\nDescrizione peso/volume unità di vendita: 1kg o 100g\nMotivo del richiamo:\nA causa del ritrovamento di tracce di salmonella nell'articolo \"EQUISETO BIO\", Bioplanta s.a.s. richiama le\nconfezioni con lotto TH2001EQ e TH2101EQ con scadenza 12/2023 del peso netto di 100g o 1kg. Qualora\nsiate in possesso di una rimanenza di equiseto, potete restituirla a questo punto vendita e verrà sostituita\ngratuitamente. Ulteriori informazioni sono disponibili contattandoci all'indirizzo info@bioplanta.it\nAvvertenze:\nLa salmonella si manifesta in pochi giorni con sintomi quali diarrea, dolore addominale e occasionalmente\nvomito e leggera febbre, che di solito regrediscono da soli in alcuni giorni. Neonati, bambini, anziani e\npersone con un sistema immunitario indebolito possono sviluppare sintomi più gravi. In caso di sviluppo di\nuno di questi sintomi, consultare il medico indicando una possibile infezione da salmonella."
+ },
+ "prima_rilevazione": "2026-10-25T08:35:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:35:36+00:00"
+}

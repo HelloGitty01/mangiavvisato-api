@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-whchojavan-8x90x4-it-umb/",
+ "titolo": "NUII WhCho&JaVan 8x90x4 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII WhCho&JaVan 8x90x4 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31017746_NUII%20WhChoamp_JaVan%208x90x4%20IT%20UMB_Retail_1761188402.pdf",
+ "allegati": [
+  {
+   "titolo": "31017746_NUII WhChoamp_JaVan 8x90x4 IT UMB_Retail_1761188402.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31017746_NUII%20WhChoamp_JaVan%208x90x4%20IT%20UMB_Retail_1761188402.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-whchojavan-8x90x4-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII WhCho&JaVan 8x90x4 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "MI0127**"
+  ],
+  "produttore": "Froneri Polska",
+  "sede_stabilimento": "Mielec",
+  "scadenza": "05/2023**",
+  "peso_volume": "268 g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**(MI0127, MI0128, MI0129) - TMC 05/2023; (MI1088, MI1089) - TMC 03/2023; (MI1148, MI1149) - TMC 05/2023.",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII WhCho&JaVan 8x90x4 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: MI0127**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Polska\nSede dello stabilimento: Mielec\nData di scadenza o termine minimo di conservazione: 05/2023**\nDescrizione peso/volume unità di vendita: 268 g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**(MI0127, MI0128, MI0129) - TMC 05/2023; (MI1088, MI1089) - TMC 03/2023; (MI1148, MI1149) -\nTMC 05/2023."
+ },
+ "prima_rilevazione": "2026-10-25T08:43:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:31+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-alla-marinara/",
+ "titolo": "COZZE ALLA MARINARA",
+ "data_pubblicazione": "2021-09-09",
+ "marca": "AQUOLINA",
+ "denominazione": "COZZE ALLA MARINARA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FP7701%20Marinara%20finpesca%20richiamo%20040921_1761188467.pdf",
+ "allegati": [
+  {
+   "titolo": "FP7701 Marinara finpesca richiamo 040921_1761188467.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FP7701%20Marinara%20finpesca%20richiamo%20040921_1761188467.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cozze-alla-marinara",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:42:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:42:29+00:00"
+}

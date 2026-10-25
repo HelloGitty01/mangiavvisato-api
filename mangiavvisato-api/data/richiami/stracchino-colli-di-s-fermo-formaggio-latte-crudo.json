@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stracchino-colli-di-s-fermo-formaggio-latte-crudo/",
+ "titolo": "STRACCHINO Colli di S. Fermo - Formaggio a latte crudo",
+ "data_pubblicazione": "2021-02-25",
+ "marca": "AZIENDA AGRICOLA E AGRITURISMO S. ANTONIO - GRONE (BG)",
+ "denominazione": "STRACCHINO Colli di S. Fermo - Formaggio a latte crudo",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761185434.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo_1761185434.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761185434.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "stracchino-colli-di-s-fermo-formaggio-latte-crudo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "STRACCHINO Colli di san Fermo - Formaggio a Latte crudo",
+  "operatore": "AZIENDA AGRICOLA E AGRITURISMO SANT'ANTONIO di Consoli Chiara",
+  "lotti": [
+   "04/02/2021"
+  ],
+  "marchio_identificazione": "IT 03 1368 CE",
+  "produttore": "Consoli Chiara",
+  "sede_stabilimento": "via Provinciale 28A - 24060, GRONE (BG)",
+  "scadenza": "Non Pertinente",
+  "peso_volume": "Formaggella a latte crudo (non preimballato, a peso variabile)",
+  "motivo_esteso": "Presenza di Listeria monocytogenes rilevata in autocontrollo.",
+  "avvertenze": "Non consumare il prodotto e restituirlo, se possibile, al produttore. Prodotto commercializzato al dettaglio presso l'azienda di trasformazione latte, presso mercati, spacci e rivenditori. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19/02/2021 Marchio del prodotto: AZIENDA AGRICOLA E AGRITURISMO SANT'ANTONIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19/02/2021 Marchio del prodotto: AZIENDA AGRICOLA E AGRITURISMO SANT'ANTONIO\nDenominazione di vendita:STRACCHINO Colli di san Fermo - Formaggio a Latte crudo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA E AGRITURISMO SANT'ANTONIO di Consoli Chiara\ncommercializzato:\nLotto di produzione: 04/02/2021\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1368 CE\nNome del produttore: Consoli Chiara\nSede dello stabilimento: via Provinciale 28A - 24060, GRONE (BG)\nData di scadenza o termine minimo di conservazione: Non Pertinente\nDescrizione peso/volume unità di vendita: Formaggella a latte crudo (non preimballato, a peso variabile)\nMotivo del richiamo:\nPresenza di Listeria monocytogenes rilevata in autocontrollo.\nAvvertenze:\nNon consumare il prodotto e restituirlo, se possibile, al produttore.\nProdotto commercializzato al dettaglio presso l'azienda di trasformazione latte, presso mercati, spacci e\nrivenditori.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:57:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:57:27+00:00"
+}

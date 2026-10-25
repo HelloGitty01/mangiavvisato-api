@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cacio-e-pepe-condimento-pasta-0/",
+ "titolo": "CACIO E PEPE CONDIMENTO PER PASTA",
+ "data_pubblicazione": "2021-07-22",
+ "marca": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+ "denominazione": "CACIO E PEPE CONDIMENTO PER PASTA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELL~2%20_1__1761186806.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELL~2 _1__1761186806.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELL~2%20_1__1761186806.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cacio-e-pepe-condimento-pasta-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CACIO E PEPE CONDIMENTO PER PASTA",
+  "operatore": "I.T.L SRL VIA PESCARA, 4-TORGIANO (PG)",
+  "lotti": [
+   "21159C"
+  ],
+  "marchio_identificazione": "IT 9-2740/L",
+  "produttore": "ATHENOR SRL",
+  "sede_stabilimento": "CERRETO DI SPOLETO-06041- LOC. PONTE SARGANO",
+  "scadenza": "08/12/23",
+  "peso_volume": "VASETTI DA 80G",
+  "motivo_esteso": "UTILIZZATO UN INGREDIENTE (BURRO) CONTENENTE ALLERGENI NON DICHIARATI",
+  "campi_extra": {
+   "Data": "20/07/21 Marchio del prodotto: ITALIANA NATURA"
+  },
+  "testo": "Allegato 2\nRICHIAMO\nData: 20/07/21 Marchio del prodotto: ITALIANA NATURA\nDenominazione di vendita: CACIO E PEPE CONDIMENTO PER PASTA\nNome o ragione sociale dell'OSA\nI.T.L SRL VIA PESCARA, 4-TORGIANO (PG)\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 21159C\nMarchio di identificazione dello stabilimento/del produttore: IT 9-2740/L\nNome del produttore: ATHENOR SRL\nSede dello stabilimento: CERRETO DI SPOLETO-06041- LOC. PONTE SARGANO\nData di scadenza o termine minimo di conservazione: 08/12/23\nDescrizione peso/volume unità di vendita: VASETTI DA 80G\nMotivo del richiamo:\nUTILIZZATO UN INGREDIENTE (BURRO) CONTENENTE ALLERGENI NON DICHIARATI\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:49:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:49:52+00:00"
+}

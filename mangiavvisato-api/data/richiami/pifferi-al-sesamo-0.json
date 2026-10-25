@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pifferi-al-sesamo-0/",
+ "titolo": "Pifferi al sesamo",
+ "data_pubblicazione": "2021-02-12",
+ "marca": "Trevisan",
+ "denominazione": "Pifferi al sesamo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE_RICHIAMO_pifferi%20al%20sesamo%20TREVISAN_1761185242.pdf",
+ "allegati": [
+  {
+   "titolo": "COMUNICAZIONE_RICHIAMO_pifferi al sesamo TREVISAN_1761185242.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/COMUNICAZIONE_RICHIAMO_pifferi%20al%20sesamo%20TREVISAN_1761185242.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pifferi-al-sesamo-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pifferi al sesamo",
+  "operatore": "Trevisan Srl",
+  "lotti": [
+   "L00408/L00427/L00525/L00626/L00701/L00702/L00903/L00921/L01012/L01013"
+  ],
+  "marchio_identificazione": "Trevisan",
+  "produttore": "Monviso Group Srl",
+  "sede_stabilimento": "Corneliano d'Alba 12040 (CN) - Regione Moirane 8/a",
+  "scadenza": "08/04/21-27/04/21-25/05/21-26/06/21-01/07/21 02/07/21-03/09/21-21/09/21-12/10/21-13/10/21",
+  "peso_volume": "g.250",
+  "motivo_esteso": "Presenza di ossido di etilene in concentrazione superiore al limite di legge 0.05 mg/kg in semi di sesamo provenienti dall'India.",
+  "avvertenze": "Non consumare il prodotto. Restituire il prodotto al punto vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/02/2021 Marchio del prodotto: Trevisan",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/02/2021 Marchio del prodotto: Trevisan\nDenominazione di vendita:Pifferi al sesamo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Trevisan Srl\ncommercializzato:\nLotto di produzione: L00408/L00427/L00525/L00626/L00701/L00702/L00903/L00921/L01012/L01013\nMarchio di identificazione dello stabilimento/del produttore: Trevisan\nNome del produttore: Monviso Group Srl\nSede dello stabilimento: Corneliano d'Alba 12040 (CN) - Regione Moirane 8/a\nData di scadenza o termine minimo di conservazione: 08/04/21-27/04/21-25/05/21-26/06/21-01/07/21\n02/07/21-03/09/21-21/09/21-12/10/21-13/10/21\nDescrizione peso/volume unità di vendita: g.250\nMotivo del richiamo:\nPresenza di ossido di etilene in concentrazione superiore al limite di legge 0.05 mg/kg in semi di sesamo\nprovenienti dall'India.\nAvvertenze:\nNon consumare il prodotto.\nRestituire il prodotto al punto vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:59:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:18+00:00"
+}

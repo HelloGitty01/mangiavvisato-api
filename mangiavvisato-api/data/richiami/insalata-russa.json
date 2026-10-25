@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-russa/",
+ "titolo": "Insalata russa",
+ "data_pubblicazione": "2022-06-30",
+ "marca": "Bontà Gastronomiche",
+ "denominazione": "Insalata russa",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello_richiamo_insalata_russa_1761191323.pdf",
+ "allegati": [
+  {
+   "titolo": "modello_richiamo_insalata_russa_1761191323.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello_richiamo_insalata_russa_1761191323.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-russa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:25:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:25:01+00:00"
+}

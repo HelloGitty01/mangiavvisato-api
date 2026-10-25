@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gran-rustico-0/",
+ "titolo": "GRAN RUSTICO",
+ "data_pubblicazione": "2020-12-23",
+ "marca": "IL PANIFICIO",
+ "denominazione": "GRAN RUSTICO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Il%20panificio_richiamo_1761184227.pdf",
+ "allegati": [
+  {
+   "titolo": "Il panificio_richiamo_1761184227.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Il%20panificio_richiamo_1761184227.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gran-rustico-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:02:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:02:13+00:00"
+}

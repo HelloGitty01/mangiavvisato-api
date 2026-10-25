@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sottovuoto-0/",
+ "titolo": "SALSICCIA SOTTOVUOTO",
+ "data_pubblicazione": "2022-03-22",
+ "marca": "SALUMIFICIO A. LOVISON SRL",
+ "denominazione": "SALSICCIA SOTTOVUOTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20lovison_1761191126.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO lovison_1761191126.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20lovison_1761191126.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-sottovuoto-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSICCIA SOTTOVUOTO",
+  "operatore": "SALUMIFICIO A. LOVISON SRL",
+  "lotti": [
+   "02.02.2022-07.02.2022-09.02.2022-14.02.2022-16.02.2022-21.02.2022-23.02.2022- 28.02.2022-02.03.2022-07.03.2022-09.03.2022-14.03.2022-16.03.2022"
+  ],
+  "marchio_identificazione": "IT 1470/LCE",
+  "produttore": "SALUMIFICIO A. LOVISON SRL",
+  "sede_stabilimento": "VIA UGO FOSCOLO, 18 – 33097 SPILIMBERGO (PN)",
+  "scadenza": "30 giorni dalla data di produzione",
+  "peso_volume": "0,320KG",
+  "motivo_esteso": "Errata etichettatura relativamente ad una data di scadenza superiore a quella prevista di 30 giorni.",
+  "avvertenze": "Il prodotto è da consumare entro 30 giorni dalla data di Produzione. Oltre i 30 giorni va riconsegnato al punto vendita.",
+  "campi_extra": {
+   "Data": "18.03.2022 Marchio del prodotto: SALUMIFICIO A. LOVISON SRL"
+  },
+  "testo": "RICHIAMO\nData: 18.03.2022 Marchio del prodotto: SALUMIFICIO A. LOVISON SRL\nDenominazione di vendita: SALSICCIA SOTTOVUOTO\nNome o ragione sociale dell'OSA SALUMIFICIO A. LOVISON SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 02.02.2022-07.02.2022-09.02.2022-14.02.2022-16.02.2022-21.02.2022-23.02.2022-\n28.02.2022-02.03.2022-07.03.2022-09.03.2022-14.03.2022-16.03.2022\nMarchio di identificazione dello stabilimento/del produttore: IT 1470/LCE\nNome del produttore: SALUMIFICIO A. LOVISON SRL\nSede dello stabilimento: VIA UGO FOSCOLO, 18 – 33097 SPILIMBERGO (PN)\nData di scadenza o termine minimo di conservazione: 30 giorni dalla data di produzione\nDescrizione peso/volume unità di vendita: 0,320KG\nMotivo del richiamo:\nErrata etichettatura relativamente ad una data di scadenza superiore a quella prevista di 30\ngiorni.\nAvvertenze:\nIl prodotto è da consumare entro 30 giorni dalla data di Produzione. Oltre i 30 giorni va riconsegnato al\npunto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T08:28:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:28:42+00:00"
+}

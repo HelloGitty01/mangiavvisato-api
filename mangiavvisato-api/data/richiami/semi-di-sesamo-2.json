@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-2/",
+ "titolo": "semi di sesamo",
+ "data_pubblicazione": "2021-03-19",
+ "marca": "Fertiltecnica Colfiorito",
+ "denominazione": "semi di sesamo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20semi%20sesamo%20150%20gr%20L2015016_2015516_2017516_1761185980.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo semi sesamo 150 gr L2015016_2015516_2017516_1761185980.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20semi%20sesamo%20150%20gr%20L2015016_2015516_2017516_1761185980.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Semi di Sesamo g 150",
+  "operatore": "Fertitecnica Colfiorito srl",
+  "lotti": [
+   "2015016 - 2015516 - 2017516"
+  ],
+  "produttore": "Fertitecnica Colfiorito srl",
+  "sede_stabilimento": "Via Grazia Deledda 36-38, Montecassiano (MC)",
+  "scadenza": "30/5/21-30/6/21",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza di ossido di etilene",
+  "avvertenze": "Si invitano i consumatori in possesso dei seguenti lotti oggetto di richiamo a NON consumare il prodotto e a riportarlo presso il punto vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/03/2021 Marchio del prodotto: Colfiorito",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 02/03/2021 Marchio del prodotto: Colfiorito\nDenominazione di vendita:Semi di Sesamo g 150\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Fertitecnica Colfiorito srl\ncommercializzato:\nLotto di produzione: 2015016 - 2015516 - 2017516\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Fertitecnica Colfiorito srl\nSede dello stabilimento: Via Grazia Deledda 36-38, Montecassiano (MC)\nData di scadenza o termine minimo di conservazione: 30/5/21-30/6/21\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza di ossido di etilene\nAvvertenze:\nSi invitano i consumatori in possesso dei seguenti lotti oggetto di richiamo a NON consumare il prodotto e\na riportarlo presso il punto vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:56:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:56:30+00:00"
+}

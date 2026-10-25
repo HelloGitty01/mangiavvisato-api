@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-polvere-cioccolata-calda/",
+ "titolo": "Preparato in polvere per cioccolata calda",
+ "data_pubblicazione": "2022-03-16",
+ "marca": "Naturera Polot",
+ "denominazione": "Preparato in polvere per cioccolata calda",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20tradizionale%2028%20g%20L20007692_1761190436.pdf",
+ "allegati": [
+  {
+   "titolo": "C_17_Cioccolata tradizionale 28 g L20007692_1761190436.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_Cioccolata%20tradizionale%2028%20g%20L20007692_1761190436.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-polvere-cioccolata-calda",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato in polvere per cioccolata calda",
+  "operatore": "General Fruit Srl",
+  "lotti": [
+   "L20007692"
+  ],
+  "produttore": "Granulati Italia SPA",
+  "sede_stabilimento": "Via B. Colleoni, 10 - 24040 Boltiere (BG) - ITALY",
+  "scadenza": "21-09-2023",
+  "peso_volume": "busta da 28 g, astuccio da 18 buste",
+  "motivo_esteso": "Possibile presenza di ossido di etilene nei semi di farina di carrube",
+  "avvertenze": "Si invitano pertanto i consumatori ad evitare l’acquisto e il consumo di questo lotto di prodotto, rendendo le confezioni al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/02/2022 Marchio del prodotto: Naturera Polot",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14/02/2022 Marchio del prodotto: Naturera Polot\nDenominazione di vendita:Preparato in polvere per cioccolata calda\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è General Fruit Srl\ncommercializzato:\nLotto di produzione: L20007692\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Granulati Italia SPA\nSede dello stabilimento: Via B. Colleoni, 10 - 24040 Boltiere (BG) - ITALY\nData di scadenza o termine minimo di conservazione: 21-09-2023\nDescrizione peso/volume unità di vendita: busta da 28 g, astuccio da 18 buste\nMotivo del richiamo:\nPossibile presenza di ossido di etilene nei semi di farina di carrube\nAvvertenze:\nSi invitano pertanto i consumatori ad evitare l’acquisto e il consumo di questo lotto di prodotto, rendendo\nle confezioni al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:29:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:29:53+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bacche-di-goji-13/",
+ "titolo": "Bacche di Goji",
+ "data_pubblicazione": "2021-03-12",
+ "marca": "Manuzzi",
+ "denominazione": "Bacche di Goji",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Lotto%202022111_Bacche%20225g_1761185893.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo Lotto 2022111_Bacche 225g_1761185893.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Lotto%202022111_Bacche%20225g_1761185893.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bacche-di-goji-13",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BACCHE DI GOJI",
+  "operatore": "MANUZZI SRL",
+  "lotti": [
+   "2022111"
+  ],
+  "marchio_identificazione": "MANUZZI",
+  "produttore": "MANUZZI SRL",
+  "sede_stabilimento": "VIA VILFREDO PARETO 175 47521 CESENA (FC)",
+  "scadenza": "31-05-2021",
+  "peso_volume": "225g",
+  "motivo_esteso": "SU SEGNALAZIONE DEL NOSTRO FORNITORE DI MATERIA PRIMA IL LOTTO IMPIEGATO PER IL CONFEZIONAMENTO DEL PRODOTTO INDICATO NON RISULTEREBBE IDONEO PER IL SUPERAMENTO DEI LIMITI DI SOSTANZA ATTIVA SU \"CARBOFURAN\" (0,049 +/- 0,025)",
+  "avvertenze": "SI PREGA : (1) SOSPENDERE / RITIRARE DALLE VENDITE IL LOTTO (2) DARCI NOTIZIA CIRCA EVENTUALE ESAURIMENTO DEL LOTTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "05/03/2021 Marchio del prodotto: MANUZZI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 05/03/2021 Marchio del prodotto: MANUZZI\nDenominazione di vendita:BACCHE DI GOJI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MANUZZI SRL\ncommercializzato:\nLotto di produzione: 2022111\nMarchio di identificazione dello stabilimento/del produttore: MANUZZI\nNome del produttore: MANUZZI SRL\nSede dello stabilimento: VIA VILFREDO PARETO 175 47521 CESENA (FC)\nData di scadenza o termine minimo di conservazione: 31-05-2021\nDescrizione peso/volume unità di vendita: 225g\nMotivo del richiamo:\nSU SEGNALAZIONE DEL NOSTRO FORNITORE DI MATERIA PRIMA IL LOTTO IMPIEGATO PER IL\nCONFEZIONAMENTO DEL PRODOTTO INDICATO NON RISULTEREBBE IDONEO PER IL\nSUPERAMENTO DEI LIMITI DI SOSTANZA ATTIVA SU \"CARBOFURAN\" (0,049 +/- 0,025)\nAvvertenze:\nSI PREGA :\n(1) SOSPENDERE / RITIRARE DALLE VENDITE IL LOTTO\n(2) DARCI NOTIZIA CIRCA EVENTUALE ESAURIMENTO DEL LOTTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:57:12+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:57:12+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-carne-suino/",
+ "titolo": "salsiccia carne suino",
+ "data_pubblicazione": "2021-11-22",
+ "marca": "Salumificio CCS srl",
+ "denominazione": "salsiccia carne suino",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamook_1761189521.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamook_1761189521.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamook_1761189521.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-carne-suino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:34:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:34:03+00:00"
+}

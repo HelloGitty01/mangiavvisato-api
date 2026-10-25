@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-cotolette-vegetali/",
+ "titolo": "Mini Cotolette Vegetali",
+ "data_pubblicazione": "2021-10-26",
+ "marca": "Almaverde Bio",
+ "denominazione": "Mini Cotolette Vegetali",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo_1761189354.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo_1761189354.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo_1761189354.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mini-cotolette-vegetali",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mini Cotolette Vegetali",
+  "operatore": "Compagnia Italiana Alimenti Biologici e Salutistici s.r.l",
+  "lotti": [
+   "L. BC35 sc. 31.10.21 L. BD38 sc. 22.11.21 L. BA37 sc. 12.11.21 L. BA39 sc. 26.11.21 L. BB37 sc. 13.11.21 L. BD39 sc. 29.11.21"
+  ],
+  "marchio_identificazione": "/",
+  "produttore": "Gastronomica Roscio srl",
+  "sede_stabilimento": "via Madonnina n. 32, 27018 Vidigulfo (PV)",
+  "scadenza": "31.10.21 22.11.21 12.11.21 26.11.21 13.11.21 29.11.21",
+  "peso_volume": "150gr",
+  "motivo_esteso": "Errore di etichettatura. L'astuccio presenta il claim \"SENZA SOIA\" nel fronte per un errore di stampa, in contrasto con quanto riportato nell’elenco ingredienti dove l’allergene SOIA è correttamente e chiaramente indicato.",
+  "avvertenze": "Si invitano i soggetti allergici alla soia a NON CONSUMARE il prodotto e a riportarlo a punto vendita Per INFO o chiarimenti 0545 63966 oppure qualita@natura-nuova.com",
+  "campi_extra": {
+   "Data": "25/10/2021 Marchio del prodotto: Almaverde Bio"
+  },
+  "testo": "RICHIAMO\nData: 25/10/2021 Marchio del prodotto: Almaverde Bio\nDenominazione di vendita: Mini Cotolette Vegetali\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Compagnia Italiana Alimenti Biologici e Salutistici s.r.l\ncommercializzato:\nLotto di produzione: L. BC35 sc. 31.10.21 L. BD38 sc. 22.11.21\nL. BA37 sc. 12.11.21 L. BA39 sc. 26.11.21\nL. BB37 sc. 13.11.21 L. BD39 sc. 29.11.21\nMarchio di identificazione dello stabilimento/del produttore: /\nNome del produttore: Gastronomica Roscio srl\nSede dello stabilimento: via Madonnina n. 32, 27018 Vidigulfo (PV)\nData di scadenza o termine minimo di conservazione: 31.10.21 22.11.21\n12.11.21 26.11.21\n13.11.21 29.11.21\nDescrizione peso/volume unità di vendita: 150gr\nMotivo del richiamo:\nErrore di etichettatura.\nL'astuccio presenta il claim \"SENZA SOIA\" nel fronte per un errore di stampa, in contrasto con quanto\nriportato nell’elenco ingredienti dove l’allergene SOIA è correttamente e chiaramente indicato.\nAvvertenze:\nSi invitano i soggetti allergici alla soia a NON CONSUMARE il prodotto e a riportarlo a punto vendita\nPer INFO o chiarimenti 0545 63966 oppure qualita@natura-nuova.com"
+ },
+ "prima_rilevazione": "2026-10-25T08:37:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:37:10+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-russa-100-vegetale/",
+ "titolo": "INSALATA RUSSA 100% VEGETALE",
+ "data_pubblicazione": "2020-09-18",
+ "marca": "GASTRONOMICA ROSCIO SRL",
+ "denominazione": "INSALATA RUSSA 100% VEGETALE",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761182185.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo_1761182185.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761182185.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-russa-100-vegetale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "INSALATA RUSSA 100% VEGETALE",
+  "operatore": "GASTRONOMICA ROSCIO SRL",
+  "lotti": [
+   "AB36 (A)"
+  ],
+  "produttore": "GASTRONOMICA ROSCIO",
+  "sede_stabilimento": "VIA MADONNINA 32 VIDIGULFO (PV)",
+  "scadenza": "23.10.2020",
+  "peso_volume": "VASETTO DA 150 G.",
+  "motivo_esteso": "POSSIBILE PRESENZA DI ALLERGENE UOVO NON DICHIARATO IN ETICHETTA",
+  "avvertenze": "RICHIAMO RIVOLTO ESCLUSIVAMENTE ALLE PERSONE ALLERGICHE ALL'UOVO CHE SONO INVITATE A NON CONSUMARE IL PRODOTTO E RIPORTARLO AL PUNTO VENDITA. IDONEO PER TUTTI GLI ALTRI CONSUMATORI Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "19.09.2020 Marchio del prodotto: ROSCIO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 19.09.2020 Marchio del prodotto: ROSCIO\nDenominazione di vendita:INSALATA RUSSA 100% VEGETALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GASTRONOMICA ROSCIO SRL\ncommercializzato:\nLotto di produzione: AB36 (A)\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: GASTRONOMICA ROSCIO\nSede dello stabilimento: VIA MADONNINA 32 VIDIGULFO (PV)\nData di scadenza o termine minimo di conservazione: 23.10.2020\nDescrizione peso/volume unità di vendita: VASETTO DA 150 G.\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ALLERGENE UOVO NON DICHIARATO IN ETICHETTA\nAvvertenze:\nRICHIAMO RIVOLTO ESCLUSIVAMENTE ALLE PERSONE ALLERGICHE ALL'UOVO CHE SONO INVITATE A\nNON CONSUMARE IL PRODOTTO E RIPORTARLO AL PUNTO VENDITA.\nIDONEO PER TUTTI GLI ALTRI CONSUMATORI\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:23+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:23+00:00"
+}

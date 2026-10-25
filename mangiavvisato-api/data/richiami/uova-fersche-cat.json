@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fersche-cat/",
+ "titolo": "UOVA FERSCHE CAT A",
+ "data_pubblicazione": "2021-12-10",
+ "marca": "ALLEVAMENTI FALCO SRL -GINO",
+ "denominazione": "UOVA FERSCHE CAT A",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA%20richiamo_20171116_1761189584.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_REVOCA richiamo_20171116_1761189584.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA%20richiamo_20171116_1761189584.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-fersche-cat",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:33:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:11+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/casatella-0/",
+ "titolo": "Casatella",
+ "data_pubblicazione": "2020-10-14",
+ "marca": "Caseificio Pascoli",
+ "denominazione": "Casatella",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/9_CASATELLA%20_1761182249.pdf",
+ "allegati": [
+  {
+   "titolo": "9_CASATELLA _1761182249.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/9_CASATELLA%20_1761182249.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "casatella-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:10:36+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:10:36+00:00"
+}

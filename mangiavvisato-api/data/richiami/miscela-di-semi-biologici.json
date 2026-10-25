@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/miscela-di-semi-biologici/",
+ "titolo": "miscela di semi biologici",
+ "data_pubblicazione": "2020-11-13",
+ "marca": "carrefour bio",
+ "denominazione": "miscela di semi biologici",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIX%20SEMI%20BIO_CRF%20IT_richiamo_1761183097.pdf",
+ "allegati": [
+  {
+   "titolo": "MIX SEMI BIO_CRF IT_richiamo_1761183097.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIX%20SEMI%20BIO_CRF%20IT_richiamo_1761183097.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "miscela-di-semi-biologici",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:07:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:07:40+00:00"
+}

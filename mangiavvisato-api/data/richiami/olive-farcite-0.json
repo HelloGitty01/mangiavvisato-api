@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olive-farcite-0/",
+ "titolo": "Olive farcite",
+ "data_pubblicazione": "2021-11-11",
+ "marca": "Coop",
+ "denominazione": "Olive farcite",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/olive%20farcite%20%20modulo_1761189419.pdf",
+ "allegati": [
+  {
+   "titolo": "olive farcite  modulo_1761189419.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/olive%20farcite%20%20modulo_1761189419.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "olive-farcite-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "olive farcite",
+  "operatore": "coop",
+  "lotti": [
+   "LJ197"
+  ],
+  "marchio_identificazione": "INPA",
+  "produttore": "INPA",
+  "scadenza": "31-07-2021",
+  "motivo_esteso": "possibile presenza solfiti non dichiarati",
+  "campi_extra": {
+   "Data": "11/11/2021 Marchio del prodotto: coop Italia"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 11/11/2021 Marchio del prodotto: coop Italia\nDenominazione di vendita:olive farcite\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è coop\ncommercializzato:\nLotto di produzione: LJ197\nMarchio di identificazione dello stabilimento/del produttore: INPA\nNome del produttore: INPA\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 31-07-2021\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\npossibile presenza solfiti non dichiarati\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:36:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:36:01+00:00"
+}

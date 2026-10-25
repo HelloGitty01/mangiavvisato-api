@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/reumilase-sd/",
+ "titolo": "REUMILASE SD",
+ "data_pubblicazione": "2022-07-08",
+ "marca": "Neopharmed Gentili S.p.A.",
+ "denominazione": "REUMILASE SD",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_.Reumilase%20flac_Neopharmed%20Gentili_1761191365.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_richiamo_.Reumilase flac_Neopharmed Gentili_1761191365.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_.Reumilase%20flac_Neopharmed%20Gentili_1761191365.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "reumilase-sd",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "REUMILASE SD®",
+  "operatore": "Neopharmed Gentili S.p.A. Via S. Giuseppe Cottolengo,15 20143 Milano-IT",
+  "lotti": [
+   "V10379"
+  ],
+  "marchio_identificazione": "(V) Nichelino (TO) – Via Vernea, 129",
+  "produttore": "Farmaceutici Procemsa S.p.A.",
+  "sede_stabilimento": "Via Vernea, 129, 10042 Nichelino TO - IT",
+  "scadenza": "30-11-2023",
+  "peso_volume": "15 fl aconcini da 10 ml. Contenuto totale 150 ml.",
+  "motivo_esteso": "Componente Acido D-Glucuronico sale sodico non presente nella lista Min Sal delle sostanze ad effetto nutritivo e/o fisiologico.",
+  "avvertenze": "No rischio per utilizzatore finale Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08/07/2022 Marchio del prodotto: REUMILASE SD®",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 08/07/2022 Marchio del prodotto: REUMILASE SD®\nDenominazione di vendita:REUMILASE SD®\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Neopharmed Gentili S.p.A. Via S. Giuseppe Cottolengo,15 20143 Milano-IT\ncommercializzato:\nLotto di produzione: V10379\nMarchio di identificazione dello stabilimento/del produttore: (V) Nichelino (TO) – Via Vernea, 129\nNome del produttore: Farmaceutici Procemsa S.p.A.\nSede dello stabilimento: Via Vernea, 129, 10042 Nichelino TO - IT\nData di scadenza o termine minimo di conservazione: 30-11-2023\nDescrizione peso/volume unità di vendita: 15 fl aconcini da 10 ml. Contenuto totale 150 ml.\nMotivo del richiamo:\nComponente Acido D-Glucuronico sale sodico non presente nella lista Min Sal delle sostanze ad effetto\nnutritivo e/o fisiologico.\nAvvertenze:\nNo rischio per utilizzatore finale\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:24:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:24:30+00:00"
+}

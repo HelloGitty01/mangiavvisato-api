@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cata/",
+ "titolo": "Uova fresche cat.A",
+ "data_pubblicazione": "2021-11-15",
+ "marca": "Allevamenti Falco srl",
+ "denominazione": "Uova fresche cat.A",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20uova%20falco%201_1761189442.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo uova falco 1_1761189442.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20uova%20falco%201_1761189442.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "uova-fresche-cata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "UOVA FRESCHE CAT. A",
+  "operatore": "ALLEVAMENTI FALCO S.R.L. VIA FONTANA VECCHIA 15 -81021 ARIENZO",
+  "lotti": [
+   "21-23-24-28-29/11"
+  ],
+  "marchio_identificazione": "IT 061003- IT T8B20CE",
+  "produttore": "ALLEVAMENTI FALCO S.R.L.",
+  "sede_stabilimento": "VIA FONTANA VECCHIA 15 -81021 ARIENZO (CE)",
+  "scadenza": "21-23-24-28-29/11-24-28-29/11",
+  "peso_volume": "CONFEZIONI DA 30 UOVA,CONFEZIONI DA 6 UOVA",
+  "motivo_esteso": "RISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER PERICOLO DI SALMONELLA ENTERITIDIS",
+  "avvertenze": "RICONSEGNARE IL PRODOTTO PRESSO IL PUNTO VENDITA DI ACQUISTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "15.11.2021 Marchio del prodotto: ALLEVAMENTO FALCO S.R.L.-GINO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 15.11.2021 Marchio del prodotto: ALLEVAMENTO FALCO S.R.L.-GINO\nDenominazione di vendita:UOVA FRESCHE CAT. A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALLEVAMENTI FALCO S.R.L. VIA FONTANA VECCHIA 15 -81021 ARIENZO\ncommercializzato:\nLotto di produzione: 21-23-24-28-29/11\nMarchio di identificazione dello stabilimento/del produttore: IT 061003- IT T8B20CE\nNome del produttore: ALLEVAMENTI FALCO S.R.L.\nSede dello stabilimento: VIA FONTANA VECCHIA 15 -81021 ARIENZO (CE)\nData di scadenza o termine minimo di conservazione: 21-23-24-28-29/11-24-28-29/11\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 30 UOVA,CONFEZIONI DA 6 UOVA\nMotivo del richiamo:\nRISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER PERICOLO DI SALMONELLA ENTERITIDIS\nAvvertenze:\nRICONSEGNARE IL PRODOTTO PRESSO IL PUNTO VENDITA DI ACQUISTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:35:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:35:46+00:00"
+}

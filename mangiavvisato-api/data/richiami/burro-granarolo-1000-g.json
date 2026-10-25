@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-granarolo-1000-g/",
+ "titolo": "Burro Granarolo 1000 g",
+ "data_pubblicazione": "2021-07-09",
+ "marca": "Granarolo 1000 g",
+ "denominazione": "Burro Granarolo 1000 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Granarolo%201000%20g_1761186703.pdf",
+ "allegati": [
+  {
+   "titolo": "Granarolo 1000 g_1761186703.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Granarolo%201000%20g_1761186703.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "burro-granarolo-1000-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:51:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:31+00:00"
+}

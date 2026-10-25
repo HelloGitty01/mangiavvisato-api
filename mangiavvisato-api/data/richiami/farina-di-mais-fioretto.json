@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-fioretto/",
+ "titolo": "Farina di mais Fioretto",
+ "data_pubblicazione": "2021-11-29",
+ "marca": "Molino Sapignoli",
+ "denominazione": "Farina di mais Fioretto",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761189530.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO_1761189530.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_1761189530.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "farina-di-mais-fioretto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:33:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:56+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/decorazione-amido-distribuita-da-ambras-srl-e/",
+ "titolo": "Decorazione in amido distribuita da Ambra's S.r.L. e",
+ "data_pubblicazione": "2021-11-10",
+ "marca": "Ambra's",
+ "denominazione": "Decorazione in amido distribuita da Ambra's S.r.L. e",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/M667%20_%20MOD.%20STANDARD%20PER%20I%20RICHIAMI_28162_1761189397.pdf",
+ "allegati": [
+  {
+   "titolo": "M667 _ MOD. STANDARD PER I RICHIAMI_28162_1761189397.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/M667%20_%20MOD.%20STANDARD%20PER%20I%20RICHIAMI_28162_1761189397.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "decorazione-amido-distribuita-da-ambras-srl-e",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Decorazione in amido Nome o ragione sociale dell'OSA a nome del quale il Ambra’s S.r.L., via Dante 16, 20121 Milano (MI) prodotto è commercializzato",
+  "lotti": [
+   "cod. 28162",
+   "lotto L210503"
+  ],
+  "marchio_identificazione": "Ambra’s Elisa Pereira & Freitas, LDA",
+  "sede_stabilimento": "Zona Industrial 2a Fase, LT 27, Neiva, Via do Castelo 30/06/2023",
+  "peso_volume": "Confezione da 24 pezzi",
+  "motivo_esteso": "Rischio chimico: presenza dell’allergene UOVA non dichiarata in etichetta",
+  "avvertenze": "Si prega di non consumare il prodotto e di riportarlo al punto vendita",
+  "campi_extra": {
+   "Nome documento": "M667",
+   "File di archivio": "M667 – MODELLO STANDARD DI RICHIAMO",
+   "Data": "10/11/2021 Marchio del prodotto: Ambra’s S.r.L.",
+   "stabilimento/del produttore": "Ambra’s",
+   "Rischio chimico": "presenza dell’allergene UOVA non dichiarata in etichetta"
+  },
+  "testo": "Codice documento:\nNome documento: M667\nMODELLO STANDARD DI RICHIAMO\nCasa Optima N° Revisione:\nFile di archivio: M667 – MODELLO STANDARD DI RICHIAMO\n1.0 del 25/05/2020\nRICHIAMO\nData: 10/11/2021 Marchio del prodotto: Ambra’s S.r.L.\nDenominazione di vendita: Decorazione in amido\nNome o ragione sociale\ndell'OSA a nome del quale il Ambra’s S.r.L., via Dante 16, 20121 Milano (MI)\nprodotto è commercializzato:\nLotto di produzione: cod. 28162, lotto L210503\nMarchio di identificazione dello\nstabilimento/del produttore: Ambra’s\nElisa Pereira & Freitas, LDA\nNome del produttore:\nSede dello stabilimento: Zona Industrial 2a Fase, LT 27, Neiva, Via do Castelo\n30/06/2023\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Confezione da 24 pezzi\nMotivo del richiamo:\nRischio chimico: presenza dell’allergene UOVA non dichiarata in etichetta\nAvvertenze:\nSi prega di non consumare il prodotto e di riportarlo al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T08:36:04+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:36:04+00:00"
+}

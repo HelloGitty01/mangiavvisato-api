@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-fontina-dop-etichetta-rossa/",
+ "titolo": "Formaggio Fontina DOP ETICHETTA ROSSA",
+ "data_pubblicazione": "2020-11-12",
+ "marca": "IT 02 2 CE\nC280\nPreconfezionato 250g ATP\n08-12-2020",
+ "denominazione": "Formaggio Fontina DOP ETICHETTA ROSSA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_etichetta_rossa_1761183082.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_etichetta_rossa_1761183082.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_etichetta_rossa_1761183082.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggio-fontina-dop-etichetta-rossa",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio Fontina DOP ETICHETTA ROSSA",
+  "operatore": "Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.",
+  "lotti": [
+   "C280"
+  ],
+  "marchio_identificazione": "IT 02 2 CE",
+  "produttore": "Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.",
+  "sede_stabilimento": "Loc. La Croix-Noire - rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)",
+  "scadenza": "08-12-2020",
+  "peso_volume": "Preconfezionato 250g ATP",
+  "motivo_esteso": "Rischio microbiologico per presenza di E.coli STEC",
+  "avvertenze": "Fontina D.O.P. Cooperativa Produttori Latte e Fontina ETICHETTA ROSSA confezione in ATP da 250g.",
+  "campi_extra": {
+   "Data": "12/11/2020 Marchio del prodotto: Fontina DOP ETICHETTA ROSSA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/11/2020 Marchio del prodotto: Fontina DOP ETICHETTA ROSSA\nDenominazione di vendita:Formaggio Fontina DOP ETICHETTA ROSSA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.\ncommercializzato:\nLotto di produzione: C280\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.\nSede dello stabilimento: Loc. La Croix-Noire - rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)\nData di scadenza o termine minimo di conservazione: 08-12-2020\nDescrizione peso/volume unità di vendita: Preconfezionato 250g ATP\nMotivo del richiamo:\nRischio microbiologico per presenza di E.coli STEC\nAvvertenze:\nFontina D.O.P. Cooperativa Produttori Latte e Fontina ETICHETTA ROSSA confezione in ATP da 250g.\nLotto C280\nSi prega di non consumare il prodotto e di renderlo al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:07:55+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:07:55+00:00"
+}

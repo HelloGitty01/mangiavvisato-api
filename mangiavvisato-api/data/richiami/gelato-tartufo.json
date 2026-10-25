@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-tartufo/",
+ "titolo": "GELATO TARTUFO",
+ "data_pubblicazione": "2021-11-18",
+ "marca": "IPER",
+ "denominazione": "GELATO TARTUFO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20gelato%20Iper_1761189492.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo gelato Iper_1761189492.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20gelato%20Iper_1761189492.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gelato-tartufo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:35:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:35:05+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-150g/",
+ "titolo": "Salame Campagnolo 150g",
+ "data_pubblicazione": "2021-06-18",
+ "marca": "Prodotto per Penny Market",
+ "denominazione": "Salame Campagnolo 150g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/113437_CARTELLO_RICHIAMO_1761186682.pdf",
+ "allegati": [
+  {
+   "titolo": "113437_CARTELLO_RICHIAMO_1761186682.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/113437_CARTELLO_RICHIAMO_1761186682.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-campagnolo-150g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Salame Campagnolo 150g",
+  "operatore": "Prodotto per Penny Market",
+  "lotti": [
+   "L123"
+  ],
+  "marchio_identificazione": "Italia Alimentari S.p.A.",
+  "produttore": "Italia Alimentari S.p.A.",
+  "sede_stabilimento": "Via Marconi 3, 46040 Gazoldo degli Ippoliti (MN)",
+  "scadenza": "01-08-2021",
+  "peso_volume": "150g",
+  "motivo_esteso": "Sospetta presenza di Salmonella",
+  "avvertenze": "I clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 06/07/2021. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "16/06/2021 Marchio del prodotto: SAPOR DI CASCINA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 16/06/2021 Marchio del prodotto: SAPOR DI CASCINA\nDenominazione di vendita:Salame Campagnolo 150g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Prodotto per Penny Market\ncommercializzato:\nLotto di produzione: L123\nMarchio di identificazione dello stabilimento/del produttore: Italia Alimentari S.p.A.\nNome del produttore: Italia Alimentari S.p.A.\nSede dello stabilimento: Via Marconi 3, 46040 Gazoldo degli Ippoliti (MN)\nData di scadenza o termine minimo di conservazione: 01-08-2021\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nSospetta presenza di Salmonella\nAvvertenze:\nI clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al\npunto vendita per la sostituzione o rimborso entro il 06/07/2021.\nPrecisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:51:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:49+00:00"
+}

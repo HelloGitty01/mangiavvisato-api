@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccolato-ovomaltine-100g-0/",
+ "titolo": "Cioccolato Ovomaltine 100g",
+ "data_pubblicazione": "2020-09-09",
+ "marca": "WANDER AG - Suisse",
+ "denominazione": "Cioccolato Ovomaltine 100g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20MS%20Ovo_1761182162.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello Richiamo MS Ovo_1761182162.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20MS%20Ovo_1761182162.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cioccolato-ovomaltine-100g-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Ovomaltine Cioccolato 100g",
+  "operatore": "WANDER AG, FABRIKSTRASSE 10 , 3176 NEUENEGG, SVIZZERA",
+  "lotti": [
+   "1328913 A",
+   "1328913 B"
+  ],
+  "marchio_identificazione": "WANDER AG",
+  "produttore": "WANDER AG",
+  "sede_stabilimento": "FABRIKSTRASSE 10 , 3176 NEUENEGG, SVIZZERA",
+  "scadenza": "08/05/2021",
+  "peso_volume": "Tavolette da 100g",
+  "motivo_esteso": "possibile presenza di corpi estranei (plastica)",
+  "avvertenze": "Per ricevere ulteriori informazioni i consumatori si possono rivolgere al servizio clienti al numero di telefono: 0471-344306 da lunedì a venerdì dalle ore 08:00 alle ore 13:00 e dalle ore 14:00 alle ore 17:00 Inserire immagine uno (fronte): Inserire immagine due",
+  "campi_extra": {
+   "Data": "04.09.2020 Marchio del prodotto: Ovomaltine",
+   "telefono": "0471-344306 da lunedì a venerdì dalle ore 08:00 alle ore 13:00 e dalle ore 14:00 alle ore 17:00"
+  },
+  "testo": "RICHIAMO\nData: 04.09.2020 Marchio del prodotto: Ovomaltine\nDenominazione di vendita: Ovomaltine Cioccolato 100g\nNome o ragione sociale dell’OSA\nWANDER AG, FABRIKSTRASSE 10 , 3176 NEUENEGG, SVIZZERA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 1328913 A; 1328913 B\nMarchio di identificazione dello stabilimento/del produttore: WANDER AG\nNome del produttore: WANDER AG\nSede dello stabilimento: FABRIKSTRASSE 10 , 3176 NEUENEGG, SVIZZERA\nData di scadenza o termine minimo di conservazione: 08/05/2021\nDescrizione peso/volume unità di vendita: Tavolette da 100g\nMotivo del richiamo:\npossibile presenza di corpi estranei (plastica)\nAvvertenze:\nPer ricevere ulteriori informazioni i consumatori si possono rivolgere al servizio clienti al numero di\ntelefono: 0471-344306 da lunedì a venerdì dalle ore 08:00 alle ore 13:00 e dalle ore 14:00 alle ore 17:00\nInserire immagine uno (fronte):\nInserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:56+00:00"
+}

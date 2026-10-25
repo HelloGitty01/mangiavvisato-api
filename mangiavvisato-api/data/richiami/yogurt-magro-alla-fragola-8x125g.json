@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-alla-fragola-8x125g/",
+ "titolo": "YOGURT MAGRO ALLA FRAGOLA 8x125g",
+ "data_pubblicazione": "2021-08-11",
+ "marca": "esselunga",
+ "denominazione": "YOGURT MAGRO ALLA FRAGOLA 8x125g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_ESSELUNGA%208x125g%20974200_1761187590.pdf",
+ "allegati": [
+  {
+   "titolo": "210729_Modulo_Richiamo_ESSELUNGA 8x125g 974200_1761187590.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/210729_Modulo_Richiamo_ESSELUNGA%208x125g%20974200_1761187590.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "yogurt-magro-alla-fragola-8x125g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "YOGURT MAGRO ALLA FRAGOLA 8x125g",
+  "operatore": "ESSELUNGA",
+  "lotti": [
+   "02.08.21+08.08.21+15.08.21"
+  ],
+  "marchio_identificazione": "IT 41 7 CE",
+  "produttore": "LATTE MONTAGNA ALTO ADIGE Soc. Agr. Coop.",
+  "sede_stabilimento": "BOLZANO",
+  "scadenza": "vedi lotto",
+  "peso_volume": "8x125g",
+  "motivo_esteso": "RICHIAMO precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube).",
+  "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "29.07.21 Marchio del prodotto: ESSELUNGA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 29.07.21 Marchio del prodotto: ESSELUNGA\nDenominazione di vendita: YOGURT MAGRO ALLA FRAGOLA 8x125g\nNome o ragione sociale dell'OSA\nESSELUNGA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 02.08.21+08.08.21+15.08.21\nMarchio di identificazione dello stabilimento/del produttore: IT 41 7 CE\nNome del produttore: LATTE MONTAGNA ALTO ADIGE Soc. Agr. Coop.\nSede dello stabilimento: BOLZANO\nData di scadenza o termine minimo di conservazione: vedi lotto\nDescrizione peso/volume unità di vendita 8x125g\nMotivo del richiamo:\nRICHIAMO precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube).\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:46:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:46:10+00:00"
+}

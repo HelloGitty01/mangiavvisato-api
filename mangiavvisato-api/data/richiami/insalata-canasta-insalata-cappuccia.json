@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-canasta-insalata-cappuccia/",
+ "titolo": "Insalata canasta / insalata cappuccia",
+ "data_pubblicazione": "2021-10-13",
+ "marca": "BIOCOLOMBINI",
+ "denominazione": "Insalata canasta / insalata cappuccia",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamoinsalatadef1_1761189307.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamoinsalatadef1_1761189307.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamoinsalatadef1_1761189307.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-canasta-insalata-cappuccia",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "INSALATA CANASTA / INSALATA CAPPUCCIA",
+  "operatore": "BIOCOLOMBINI SRL SOC. AGR.",
+  "lotti": [
+   "08/10/21"
+  ],
+  "marchio_identificazione": "BIOCOLOMBINI",
+  "produttore": "BIOCOLOMBINI SRL SOC. AGR.",
+  "sede_stabilimento": "VIA LE PRATA SNC, 56040, CRESPINA (PI)",
+  "scadenza": "530 kg (509 kg venduti a grossisti/punti vendita e 21 kg venduti",
+  "peso_volume": "in vendita diretta presso lo spaccio aziendale)",
+  "motivo_esteso": "presenza di corpi estranei (vetro) rinvenuti da un cliente all'interno del prodotto insalata canasta. Si procede in via precauzionale anche con il richiamo del medesimo lotto per il prodotto insalata cappuccia, seppur non segnalato, vista la vicinanza di coltivazione.",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "12/10/2021 Marchio del prodotto: BIOCOLOMBINI",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/10/2021 Marchio del prodotto: BIOCOLOMBINI\nDenominazione di vendita: INSALATA CANASTA / INSALATA CAPPUCCIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BIOCOLOMBINI SRL SOC. AGR.\ncommercializzato:\nLotto di produzione: 08/10/21\nMarchio di identificazione dello stabilimento/del produttore: BIOCOLOMBINI\nNome del produttore: BIOCOLOMBINI SRL SOC. AGR.\nSede dello stabilimento: VIA LE PRATA SNC, 56040, CRESPINA (PI)\nData di scadenza o termine minimo di conservazione:\n530 kg (509 kg venduti a grossisti/punti vendita e 21 kg venduti\nDescrizione peso/volume unità di vendita:\nin vendita diretta presso lo spaccio aziendale)\nMotivo del richiamo:\npresenza di corpi estranei (vetro) rinvenuti da un cliente all'interno del prodotto insalata canasta. Si\nprocede in via precauzionale anche con il richiamo del medesimo lotto per il prodotto insalata cappuccia,\nseppur non segnalato, vista la vicinanza di coltivazione.\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:38:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:38:29+00:00"
+}

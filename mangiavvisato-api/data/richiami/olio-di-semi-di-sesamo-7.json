@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-7/",
+ "titolo": "OLIO DI SEMI DI SESAMO",
+ "data_pubblicazione": "2020-11-30",
+ "marca": "BENE BIO",
+ "denominazione": "OLIO DI SEMI DI SESAMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BENE%20BIO%2025.11_1761183184.pdf",
+ "allegati": [
+  {
+   "titolo": "BENE BIO 25.11_1761183184.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BENE%20BIO%2025.11_1761183184.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "olio-di-semi-di-sesamo-7",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "OLIO DI SEMI DI SESAMO",
+  "operatore": "BENE BIO, CORSO VINZAGLIO 16- TORINO",
+  "lotti": [
+   "L30160007"
+  ],
+  "marchio_identificazione": "JOE&CO SRL",
+  "produttore": "JOE&CO SRL",
+  "sede_stabilimento": "VIA DELLA TECNICA, 94 - CAMISANO VICENTINO",
+  "scadenza": "7-07-2021",
+  "peso_volume": "250 ML BOTTIGLIA DI VETRO",
+  "motivo_esteso": "Potenziale presenza di Ossido di etilene con valori oltre al limite.",
+  "avvertenze": "Si prega di Non consumare i prodotti e riportarli al punto vendita.",
+  "campi_extra": {
+   "Data": "25/11/2020 Marchio del prodotto: BENE BIO"
+  },
+  "testo": "RICHIAMO\nData: 25/11/2020 Marchio del prodotto: BENE BIO\nDenominazione di vendita:OLIO DI SEMI DI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BENE BIO, CORSO VINZAGLIO 16- TORINO\ncommercializzato:\nLotto di produzione: L30160007\nMarchio di identificazione dello stabilimento/del produttore: JOE&CO SRL\nNome del produttore: JOE&CO SRL\nSede dello stabilimento: VIA DELLA TECNICA, 94 - CAMISANO VICENTINO\nData di scadenza o termine minimo di conservazione: 7-07-2021\nDescrizione peso/volume unità di vendita: 250 ML BOTTIGLIA DI VETRO\nMotivo del richiamo:\nPotenziale presenza di Ossido di etilene con valori oltre al limite.\nAvvertenze:\nSi prega di Non consumare i prodotti e riportarli al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:06:28+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:06:28+00:00"
+}

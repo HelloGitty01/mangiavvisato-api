@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-120-g/",
+ "titolo": "SESAMO SEMI 120 g",
+ "data_pubblicazione": "2021-02-19",
+ "marca": "DROGHERIA E ALIMENTARI",
+ "denominazione": "SESAMO SEMI 120 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOVGMP050L06010USCAD.31_01_2023_1761185293.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLORICHIAMOVGMP050L06010USCAD.31_01_2023_1761185293.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOVGMP050L06010USCAD.31_01_2023_1761185293.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "sesamo-semi-120-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SESAMO SEMI 120 g",
+  "operatore": "VéGé Retail S.Cons.p.A.",
+  "lotti": [
+   "L06010U"
+  ],
+  "marchio_identificazione": "DROGHERIA E ALIMENTARI",
+  "produttore": "DROGHERIA E ALIMENTARI S.P.A.",
+  "sede_stabilimento": "VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)",
+  "scadenza": "31-01-2023",
+  "peso_volume": "120 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO",
+  "avvertenze": "IN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL PUNTO VENDITA DI RIFERIMENTO.",
+  "campi_extra": {
+   "Data": "17/02/2021 Marchio del prodotto: VéGé"
+  },
+  "testo": "RICHIAMO\nData: 17/02/2021 Marchio del prodotto: VéGé\nDenominazione di vendita:SESAMO SEMI 120 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VéGé Retail S.Cons.p.A.\ncommercializzato:\nLotto di produzione: L06010U\nMarchio di identificazione dello stabilimento/del produttore: DROGHERIA E ALIMENTARI\nNome del produttore: DROGHERIA E ALIMENTARI S.P.A.\nSede dello stabilimento: VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)\nData di scadenza o termine minimo di conservazione: 31-01-2023\nDescrizione peso/volume unità di vendita: 120 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO\nAvvertenze:\nIN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL\nPUNTO VENDITA DI RIFERIMENTO."
+ },
+ "prima_rilevazione": "2026-10-25T08:57:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:57:52+00:00"
+}

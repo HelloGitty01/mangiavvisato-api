@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-almondjavan-90x4-it-umb/",
+ "titolo": "NUII AlmondJaVan 90X4 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII AlmondJaVan 90X4 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31010592%20NUII%20AlmondJaVan%2090X4%20IT%20UMB%20_002__1761188395.pdf",
+ "allegati": [
+  {
+   "titolo": "31010592 NUII AlmondJaVan 90X4 IT UMB _002__1761188395.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31010592%20NUII%20AlmondJaVan%2090X4%20IT%20UMB%20_002__1761188395.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-almondjavan-90x4-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII AlmondJaVan 90X4 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "MI0008**"
+  ],
+  "produttore": "Froneri Polska",
+  "sede_stabilimento": "Mielec",
+  "scadenza": "01/2022",
+  "peso_volume": "268 g",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**(MI0008; MI0009) - TMC 01/2022; (MI0076; MI0077; MI0078) - TMC 03/2022; (MI0148; Mi0149; MI0150; MI0151) - TMC 05/2022; (MI0295; MI0296; MI0297) - TMC 10/2022; (MI1107; MI1108) - TMC 04/2023; MI9308 - TMC 11/2021",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII AlmondJaVan 90X4 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: MI0008**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Polska\nSede dello stabilimento: Mielec\nData di scadenza o termine minimo di conservazione: 01/2022\nDescrizione peso/volume unità di vendita: 268 g\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**(MI0008; MI0009) - TMC 01/2022; (MI0076; MI0077; MI0078) - TMC 03/2022; (MI0148; Mi0149;\nMI0150; MI0151) - TMC 05/2022; (MI0295; MI0296; MI0297) - TMC 10/2022; (MI1107; MI1108) - TMC\n04/2023; MI9308 - TMC 11/2021"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:10+00:00"
+}

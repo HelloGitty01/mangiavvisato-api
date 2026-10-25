@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamini-stags/",
+ "titolo": "SALAMINI STAG.S.",
+ "data_pubblicazione": "2020-09-17",
+ "marca": "BON-TON SALUMI DI BARABINO SANTINO & C. SAS",
+ "denominazione": "SALAMINI STAG.S.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Monte%20Penice_1761182183.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO Monte Penice_1761182183.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Monte%20Penice_1761182183.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salamini-stags",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAMINI STAG.S.",
+  "operatore": "SALUMIFICIO MONTE PENICE SRL",
+  "lotti": [
+   "03-09-20"
+  ],
+  "marchio_identificazione": "IT 9 85 L CE",
+  "produttore": "SALUMIFICIO MONTE PENICE SRL",
+  "sede_stabilimento": "VIA ROMA 72 29029 RIVERGARO (PC)",
+  "peso_volume": "FILA DA 4 SALAMINI DEL PESO TOTALE DI CIRCA 1 KG",
+  "motivo_esteso": "PRESENZA DI SALMONELLA",
+  "avvertenze": "SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO CON IL LOTTO INDICATO E DI RESTITUIRLO AL PUNTO VENDITA DI ACQUISTO Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "16/09/2020 Marchio del prodotto: BON-TON SALUMI DI BARABINO SANTINO & C. SAS",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 16/09/2020 Marchio del prodotto: BON-TON SALUMI DI BARABINO SANTINO & C. SAS\nDenominazione di vendita:SALAMINI STAG.S.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO MONTE PENICE SRL\ncommercializzato:\nLotto di produzione: 03-09-20\nMarchio di identificazione dello stabilimento/del produttore: IT 9 85 L CE\nNome del produttore: SALUMIFICIO MONTE PENICE SRL\nSede dello stabilimento: VIA ROMA 72 29029 RIVERGARO (PC)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FILA DA 4 SALAMINI DEL PESO TOTALE DI CIRCA 1 KG\nMotivo del richiamo:\nPRESENZA DI SALMONELLA\nAvvertenze:\nSI RACCOMANDA DI NON CONSUMARE IL PRODOTTO CON IL LOTTO INDICATO E DI RESTITUIRLO AL\nPUNTO VENDITA DI ACQUISTO\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:25+00:00"
+}

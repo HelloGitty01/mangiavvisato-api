@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caprino-fresco-70-gr/",
+ "titolo": "CAPRINO FRESCO 70 GR",
+ "data_pubblicazione": "2021-01-22",
+ "marca": "CIRESA SRL",
+ "denominazione": "CAPRINO FRESCO 70 GR",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185170.pdf",
+ "allegati": [
+  {
+   "titolo": "Revoca Richiamo_1761185170.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185170.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "caprino-fresco-70-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CAPRINO FRESCO 70 GR",
+  "operatore": "CIRESA SRL",
+  "lotti": [
+   "9485"
+  ],
+  "marchio_identificazione": "IT 03 165 CE",
+  "produttore": "CIRESA SRL",
+  "sede_stabilimento": "INTROBIO (LC) VIA V.EMANUELE 62",
+  "scadenza": "da 02 a 13/12/19",
+  "peso_volume": "VASCHETTA 2X7, VASCHETTA 6X2",
+  "motivo_esteso": "REVOCA PER SCADENZA PRODOTTO",
+  "campi_extra": {
+   "Data": "22/01/2021 Marchio del prodotto: CIRESA SRL"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 22/01/2021 Marchio del prodotto: CIRESA SRL\nDenominazione di vendita:CAPRINO FRESCO 70 GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CIRESA SRL\ncommercializzato:\nLotto di produzione: 9485\nMarchio di identificazione dello stabilimento/del produttore: IT 03 165 CE\nNome del produttore: CIRESA SRL\nSede dello stabilimento: INTROBIO (LC) VIA V.EMANUELE 62\nData di scadenza o termine minimo di conservazione: da 02 a 13/12/19\nDescrizione peso/volume unità di vendita: VASCHETTA 2X7, VASCHETTA 6X2\nMotivo del richiamo:\nREVOCA PER SCADENZA PRODOTTO\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T09:00:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:00:14+00:00"
+}

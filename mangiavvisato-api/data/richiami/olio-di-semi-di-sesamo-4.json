@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-4/",
+ "titolo": "OLIO DI SEMI DI SESAMO",
+ "data_pubblicazione": "2020-11-30",
+ "marca": "FIOR DI LOTO",
+ "denominazione": "OLIO DI SEMI DI SESAMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FLD%20500%2025.11_1761183171.pdf",
+ "allegati": [
+  {
+   "titolo": "FLD 500 25.11_1761183171.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FLD%20500%2025.11_1761183171.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "olio-di-semi-di-sesamo-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "OLIO DI SEMI DI SESAMO",
+  "operatore": "BV&FDL SRL,VIA SANTA MARIA IN DUNO SNC-INT. (BO) BLOCCO 10.1",
+  "lotti": [
+   "L34449008",
+   "L34449325"
+  ],
+  "marchio_identificazione": "JOE & CO SRL",
+  "produttore": "JOE & CO SRL",
+  "sede_stabilimento": "VIA DELLA TECNICA, 94 - CAMISANO VICENTINO",
+  "scadenza": "VARIE TMC",
+  "peso_volume": "500 ML BOTTIGLIA VETRO",
+  "motivo_esteso": "Potenziale presenza di Ossido di etilene con valori oltre al limite. L34449008, TMC 08/07/2021 L34449325, TMC 21/05/2021",
+  "avvertenze": "Si prega di Non consumare i prodotti e riportarli al punto vendita.",
+  "campi_extra": {
+   "Data": "25/11/2020 Marchio del prodotto: FIOR DI LOTO"
+  },
+  "testo": "RICHIAMO\nData: 25/11/2020 Marchio del prodotto: FIOR DI LOTO\nDenominazione di vendita:OLIO DI SEMI DI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BV&FDL SRL,VIA SANTA MARIA IN DUNO SNC-INT. (BO) BLOCCO 10.1\ncommercializzato:\nLotto di produzione: L34449008, L34449325\nMarchio di identificazione dello stabilimento/del produttore: JOE & CO SRL\nNome del produttore: JOE & CO SRL\nSede dello stabilimento: VIA DELLA TECNICA, 94 - CAMISANO VICENTINO\nData di scadenza o termine minimo di conservazione: VARIE TMC\nDescrizione peso/volume unità di vendita: 500 ML BOTTIGLIA VETRO\nMotivo del richiamo:\nPotenziale presenza di Ossido di etilene con valori oltre al limite.\nL34449008, TMC 08/07/2021\nL34449325, TMC 21/05/2021\nAvvertenze:\nSi prega di Non consumare i prodotti e riportarli al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:06:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:06:20+00:00"
+}

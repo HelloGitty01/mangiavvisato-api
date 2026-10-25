@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-del-mediterraneo/",
+ "titolo": "Filetti di acciughe del Mediterraneo",
+ "data_pubblicazione": "2021-03-02",
+ "marca": "Triglia",
+ "denominazione": "Filetti di acciughe del Mediterraneo",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761185869.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo_1761185869.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761185869.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-acciughe-del-mediterraneo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:57:20+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:57:20+00:00"
+}

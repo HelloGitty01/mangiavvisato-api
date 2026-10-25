@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-vegetale-da-cucina-uht/",
+ "titolo": "Crema vegetale da cucina UHT",
+ "data_pubblicazione": "2021-07-29",
+ "marca": "Bene sì COOP",
+ "denominazione": "Crema vegetale da cucina UHT",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Crema%20vegetale%20da%20cucina%20UHT%20BENESI%20COOP_1761186913.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO Crema vegetale da cucina UHT BENESI COOP_1761186913.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20Crema%20vegetale%20da%20cucina%20UHT%20BENESI%20COOP_1761186913.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crema-vegetale-da-cucina-uht",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CREMA VEGETALE U.H.T. DA CUCINA",
+  "operatore": "COOP ITALIA S.C.",
+  "lotti": [
+   "21090"
+  ],
+  "produttore": "Unigrà srl",
+  "sede_stabilimento": "Conselice (RA), Via Gardizza 9/b",
+  "scadenza": "26/12/2021",
+  "peso_volume": "200 ml",
+  "motivo_esteso": "ritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)",
+  "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "26/07/2021 Marchio del prodotto: BENESI COOP"
+  },
+  "testo": "RICHIAMO\nData: 26/07/2021 Marchio del prodotto: BENESI COOP\nDenominazione di vendita: CREMA VEGETALE U.H.T. DA CUCINA\nNome o ragione sociale dell'OSA\nCOOP ITALIA S.C.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 21090\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Unigrà srl\nSede dello stabilimento: Conselice (RA), Via Gardizza 9/b\nData di scadenza o termine minimo di conservazione: 26/12/2021\nDescrizione peso/volume unità di vendita: 200 ml\nMotivo del richiamo:\nritiro precauzionale per presenza di ossido di etilene in un ingrediente (farina di semi di carrube)\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T08:48:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:48:02+00:00"
+}

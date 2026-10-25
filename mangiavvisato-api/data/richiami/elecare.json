@@ -1,0 +1,32 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare/",
+ "titolo": "Elecare",
+ "data_pubblicazione": "2022-02-22",
+ "marca": "Similac",
+ "denominazione": "Elecare",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_1761190335.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Elecare_1761190335.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_1761190335.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "elecare",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "0005411-21/02/2022-DGISAN-MDS-A - Allegato Utente 3 (A03)\nData: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:30:50+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:30:50+00:00"
+}

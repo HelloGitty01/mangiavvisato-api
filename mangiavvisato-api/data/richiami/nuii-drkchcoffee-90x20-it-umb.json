@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-drkchcoffee-90x20-it-umb/",
+ "titolo": "NUII DrkCh&Coffee 90x20 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII DrkCh&Coffee 90x20 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31014582%20NUII%20Caff%C3%A8%2090x20%20IT_1761188398.pdf",
+ "allegati": [
+  {
+   "titolo": "31014582 NUII Caffè 90x20 IT_1761188398.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31014582%20NUII%20Caff%C3%A8%2090x20%20IT_1761188398.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-drkchcoffee-90x20-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII DrkCh&Coffee 90x20 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "MI0046**"
+  ],
+  "produttore": "Froneri Polska",
+  "sede_stabilimento": "Mielec",
+  "scadenza": "02/2022",
+  "peso_volume": "66g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**MI0046 - TMC 02/2022; MI9332 - TMC 11/2021; MI9333 - TMC 11/2021",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII DrkCh&Coffee 90x20 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: MI0046**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Polska\nSede dello stabilimento: Mielec\nData di scadenza o termine minimo di conservazione: 02/2022\nDescrizione peso/volume unità di vendita: 66g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**MI0046 - TMC 02/2022; MI9332 - TMC 11/2021; MI9333 - TMC 11/2021"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:17+00:00"
+}

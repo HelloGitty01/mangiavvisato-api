@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sorbetto-artigianale-limone/",
+ "titolo": "SORBETTO ARTIGIANALE LIMONE",
+ "data_pubblicazione": "2021-08-04",
+ "marca": "SEGEL",
+ "denominazione": "SORBETTO ARTIGIANALE LIMONE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20AL%20LIMONE%20BOTT.%20VETRO%20500%20GR_1761187551.pdf",
+ "allegati": [
+  {
+   "titolo": "SORBETTO AL LIMONE BOTT. VETRO 500 GR_1761187551.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SORBETTO%20AL%20LIMONE%20BOTT.%20VETRO%20500%20GR_1761187551.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sorbetto-artigianale-limone",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:47:18+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:18+00:00"
+}

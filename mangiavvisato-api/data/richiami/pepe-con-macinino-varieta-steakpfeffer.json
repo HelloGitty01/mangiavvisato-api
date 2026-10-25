@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pepe-con-macinino-varieta-steakpfeffer/",
+ "titolo": "Pepe con macinino - Varietà \"Steakpfeffer\"",
+ "data_pubblicazione": "2021-10-01",
+ "marca": "BBQ",
+ "denominazione": "Pepe con macinino - Varietà \"Steakpfeffer\"",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20Steakpfeffer%20_%20Pepe%20con%20macinino_1761188645.pdf",
+ "allegati": [
+  {
+   "titolo": "Manifesto Steakpfeffer _ Pepe con macinino_1761188645.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20Steakpfeffer%20_%20Pepe%20con%20macinino_1761188645.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pepe-con-macinino-varieta-steakpfeffer",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pepe con macinino - Varietà “Steakpfeffer”",
+  "operatore": "ALDI Srl",
+  "lotti": [
+   "125111",
+   "125989"
+  ],
+  "produttore": "Inutec s.r.o.",
+  "sede_stabilimento": "Trida 5. Kvetna 1560; 34901 Stribro; Repubblica Ceca",
+  "scadenza": "07/2024;08/2024",
+  "peso_volume": "95 grammi",
+  "motivo_esteso": "Possibile contaminazione del prodotto da Salmonella",
+  "avvertenze": "La varietà “Steakpfeffer-Preparazione a base di pepe nero in grani per carne con macinino” con lotto 125111 (TMC 07/2024) e 125989 (TMC 08/2024) non deve essere consumata e può essere restituita in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+  "campi_extra": {
+   "Data": "28/09/2021 Marchio del prodotto: BBQ",
+   "numero telefonico": "800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+  },
+  "testo": "RICHIAMO\nData: 28/09/2021 Marchio del prodotto: BBQ\nDenominazione di vendita:Pepe con macinino - Varietà “Steakpfeffer”\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: 125111; 125989\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Inutec s.r.o.\nSede dello stabilimento: Trida 5. Kvetna 1560; 34901 Stribro; Repubblica Ceca\nData di scadenza o termine minimo di conservazione: 07/2024;08/2024\nDescrizione peso/volume unità di vendita: 95 grammi\nMotivo del richiamo:\nPossibile contaminazione del prodotto da Salmonella\nAvvertenze:\nLa varietà “Steakpfeffer-Preparazione a base di pepe nero in grani per carne con macinino” con lotto\n125111 (TMC 07/2024) e 125989 (TMC 08/2024) non deve essere consumata e può essere restituita in\nqualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente\nnumero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T08:39:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:10+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-bio-200g-molino-rossetto/",
+ "titolo": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+ "data_pubblicazione": "2020-11-30",
+ "marca": "MOLINO ROSSETTO",
+ "denominazione": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20semi%20sesamo%20lotto%20L20073_1761183189.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo semi sesamo lotto L20073_1761183189.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20semi%20sesamo%20lotto%20L20073_1761183189.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-bio-200g-molino-rossetto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI SESAMO BIO 200G MOLINO ROSSETTO",
+  "operatore": "MOLINO ROSSETTO",
+  "lotti": [
+   "L20 073"
+  ],
+  "marchio_identificazione": "MOLINO ROSSETTO",
+  "produttore": "MOLINO ROSSETTO",
+  "sede_stabilimento": "Stabilimento di via Strada dei Pescatori 4/6 - 35020 Codevigo",
+  "scadenza": "13-04-2021",
+  "peso_volume": "200 g CUP EAN 08018211900493",
+  "motivo_esteso": "Presenza di ossido di etilene",
+  "avvertenze": "Il prodotto non è idoneo al consumo. Si prega di riportarlo al punto vendita dove è stato acquistato e verrà sostituito con un nuovo lotto.",
+  "campi_extra": {
+   "Data": "26/11/2020 Marchio del prodotto: MOLINO ROSSETTO"
+  },
+  "testo": "RICHIAMO\nData: 26/11/2020 Marchio del prodotto: MOLINO ROSSETTO\nDenominazione di vendita:SEMI DI SESAMO BIO 200G MOLINO ROSSETTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MOLINO ROSSETTO\ncommercializzato:\nLotto di produzione: L20 073\nMarchio di identificazione dello stabilimento/del produttore: MOLINO ROSSETTO\nNome del produttore: MOLINO ROSSETTO\nSede dello stabilimento: Stabilimento di via Strada dei Pescatori 4/6 - 35020 Codevigo\nData di scadenza o termine minimo di conservazione: 13-04-2021\nDescrizione peso/volume unità di vendita: 200 g CUP EAN 08018211900493\nMotivo del richiamo:\nPresenza di ossido di etilene\nAvvertenze:\nIl prodotto non è idoneo al consumo. Si prega di riportarlo al punto vendita dove è stato acquistato e verrà\nsostituito con un nuovo lotto."
+ },
+ "prima_rilevazione": "2026-10-25T09:06:31+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:06:31+00:00"
+}

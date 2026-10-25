@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burro-250-g/",
+ "titolo": "Burro 250 g",
+ "data_pubblicazione": "2021-07-09",
+ "marca": "Burro",
+ "denominazione": "Burro 250 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Burro%20da%20250%20g_1761186701.pdf",
+ "allegati": [
+  {
+   "titolo": "Burro da 250 g_1761186701.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Burro%20da%20250%20g_1761186701.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "burro-250-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:51:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli/",
+ "titolo": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+ "data_pubblicazione": "2021-08-24",
+ "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+ "denominazione": "Pasta di fave, riso rosso e curcuma bio - fusilli",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_FUSILLI_3_1761187788.pdf",
+ "allegati": [
+  {
+   "titolo": "FAVE_FUSILLI_3_1761187788.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_FUSILLI_3_1761187788.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-fusilli",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:44:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:44:19+00:00"
+}

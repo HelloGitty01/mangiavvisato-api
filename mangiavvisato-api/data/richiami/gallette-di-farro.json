@@ -1,0 +1,39 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-farro/",
+ "titolo": "GALLETTE DI FARRO",
+ "data_pubblicazione": "2021-06-08",
+ "marca": "ALBALUNA",
+ "denominazione": "GALLETTE DI FARRO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_gallette%20farro_1761186672.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_gallette farro_1761186672.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_gallette%20farro_1761186672.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gallette-di-farro",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GALLETTE DI FARRO",
+  "operatore": "LUNARDI SRL 31 10 21",
+  "marchio_identificazione": "SELLA FOOD",
+  "produttore": "SELLA FOOD SRLS VIA FABIO FILZI, 22, VALDAGNO - VICENZA",
+  "scadenza": "31 OTTOBRE 2021",
+  "peso_volume": "120g",
+  "motivo_esteso": "IN ETICHETTA E’ RIPORTATA LAVOCE SENZA GLUTINE, MA IL PRODOTTO CONTIENE GLUTINE",
+  "avvertenze": "NON ADATTO AI CELIACI. SI PREGA DI NON CONUSMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTOVENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "08 06 2021 Marchio del prodotto: ALBALUNA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 08 06 2021 Marchio del prodotto: ALBALUNA\nDenominazione di vendita: GALLETTE DI FARRO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LUNARDI SRL\ncommercializzato:\n31 10 21\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: SELLA FOOD\nNome del produttore: SELLA FOOD SRLS\nVIA FABIO FILZI, 22, VALDAGNO - VICENZA\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 31 OTTOBRE 2021\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nIN ETICHETTA E’ RIPORTATA LAVOCE SENZA GLUTINE,\nMA IL PRODOTTO CONTIENE GLUTINE\nAvvertenze:\nNON ADATTO AI CELIACI.\nSI PREGA DI NON CONUSMARE IL PRODOTTO\nE RIPORTARLO PRESSO IL PUNTOVENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:52:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:52:14+00:00"
+}

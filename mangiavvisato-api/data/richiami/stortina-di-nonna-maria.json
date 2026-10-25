@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stortina-di-nonna-maria/",
+ "titolo": "Stortina di nonna Maria",
+ "data_pubblicazione": "2021-07-26",
+ "marca": "L'Artigiano del Salame",
+ "denominazione": "Stortina di nonna Maria",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_stortina_1761186817.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo_stortina_1761186817.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo_stortina_1761186817.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "stortina-di-nonna-maria",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Stortina di nonna Maria",
+  "operatore": "L'Artigiano del Salame di Mantovani Pierluigi",
+  "lotti": [
+   "30 aprile 2021"
+  ],
+  "marchio_identificazione": "IT 9 - 957/L",
+  "produttore": "Mantovani Pierluigi",
+  "sede_stabilimento": "C.so C. Battisti 16 - Sanguinetto (VR)",
+  "scadenza": "//",
+  "peso_volume": "300 g",
+  "motivo_esteso": "presenza di Listeria monocitogenes in 1 u.c. su 5",
+  "campi_extra": {
+   "Data": "19/07/2021 Marchio del prodotto: L'Artigiano del Salame"
+  },
+  "testo": "RICHIAMO\nData: 19/07/2021 Marchio del prodotto: L'Artigiano del Salame\nDenominazione di vendita:Stortina di nonna Maria\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è L'Artigiano del Salame di Mantovani Pierluigi\ncommercializzato:\nLotto di produzione: 30 aprile 2021\nMarchio di identificazione dello stabilimento/del produttore: IT 9 - 957/L\nNome del produttore: Mantovani Pierluigi\nSede dello stabilimento: C.so C. Battisti 16 - Sanguinetto (VR)\nData di scadenza o termine minimo di conservazione: //\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\npresenza di Listeria monocitogenes in 1 u.c. su 5\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:49:40+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:49:40+00:00"
+}

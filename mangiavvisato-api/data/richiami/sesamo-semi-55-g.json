@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-55-g/",
+ "titolo": "SESAMO SEMI 55 g",
+ "data_pubblicazione": "2021-02-19",
+ "marca": "CRAI",
+ "denominazione": "SESAMO SEMI 55 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOCCVV350L07277USCAD.31_10_2023_1761185321.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLORICHIAMOCCVV350L07277USCAD.31_10_2023_1761185321.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOCCVV350L07277USCAD.31_10_2023_1761185321.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sesamo-semi-55-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SESAMO SEMI 55 g",
+  "operatore": "CRAI SECOM S.P.A.",
+  "lotti": [
+   "L07277U"
+  ],
+  "marchio_identificazione": "DROGHERIA E ALIMENTARI",
+  "produttore": "DROGHERIA E ALIMENTARI S.P.A.",
+  "sede_stabilimento": "VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)",
+  "scadenza": "31-10-2023",
+  "peso_volume": "55 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO",
+  "avvertenze": "IN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL PUNTO VENDITA DI RIFERIMENTO.",
+  "campi_extra": {
+   "Data": "17/02/2021 Marchio del prodotto: CRAI"
+  },
+  "testo": "RICHIAMO\nData: 17/02/2021 Marchio del prodotto: CRAI\nDenominazione di vendita:SESAMO SEMI 55 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CRAI SECOM S.P.A.\ncommercializzato:\nLotto di produzione: L07277U\nMarchio di identificazione dello stabilimento/del produttore: DROGHERIA E ALIMENTARI\nNome del produttore: DROGHERIA E ALIMENTARI S.P.A.\nSede dello stabilimento: VIALE NILDE IOTTI 23/25, 50038 SCARPERIA E SAN PIERO (FI)\nData di scadenza o termine minimo di conservazione: 31-10-2023\nDescrizione peso/volume unità di vendita: 55 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE SUPERIORE AL LIMITE CONSENTITO\nAvvertenze:\nIN CASO DI ACQUISTO, SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO PRESSO IL\nPUNTO VENDITA DI RIFERIMENTO."
+ },
+ "prima_rilevazione": "2026-10-25T08:58:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:13+00:00"
+}

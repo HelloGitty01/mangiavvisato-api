@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salatini-mix-400g/",
+ "titolo": "SALATINI MIX 400g",
+ "data_pubblicazione": "2020-11-06",
+ "marca": "San Carlo Gruppo Alimentare spa",
+ "denominazione": "SALATINI MIX 400g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salatini%20San%20Carlo_1761182391.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo salatini San Carlo_1761182391.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salatini%20San%20Carlo_1761182391.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salatini-mix-400g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALATINI MIX 400g",
+  "operatore": "San Carlo Gruppo Alimentare spa",
+  "lotti": [
+   "S 0405 2 - S 0405 3"
+  ],
+  "produttore": "Lajkonik Snacks Sp.o",
+  "sede_stabilimento": "Polonia",
+  "scadenza": "02-07-2021",
+  "peso_volume": "400g",
+  "motivo_esteso": "rischio chimico : presenza di ossido di etilene nei semi di sesamo oltre i limiti di legge",
+  "avvertenze": "SI CHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "6/11/2020 Marchio del prodotto: SAN CARLO",
+   "rischio chimico": "presenza di ossido di etilene nei semi di sesamo oltre i limiti di legge",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 6/11/2020 Marchio del prodotto: SAN CARLO\nDenominazione di vendita:SALATINI MIX 400g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è San Carlo Gruppo Alimentare spa\ncommercializzato:\nLotto di produzione: S 0405 2 - S 0405 3\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Lajkonik Snacks Sp.o\nSede dello stabilimento: Polonia\nData di scadenza o termine minimo di conservazione: 02-07-2021\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nrischio chimico : presenza di ossido di etilene nei semi di sesamo oltre i limiti di legge\nAvvertenze:\nSI CHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:08:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:08:27+00:00"
+}

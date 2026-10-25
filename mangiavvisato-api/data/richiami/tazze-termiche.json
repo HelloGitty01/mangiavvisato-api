@@ -1,0 +1,36 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tazze-termiche/",
+ "titolo": "Tazze termiche",
+ "data_pubblicazione": "2022-02-11",
+ "marca": "CROFTON",
+ "denominazione": "Tazze termiche",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20ministeriale%20Tazze%20termiche_1761190307.pdf",
+ "allegati": [
+  {
+   "titolo": "Manifesto ministeriale Tazze termiche_1761190307.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20ministeriale%20Tazze%20termiche_1761190307.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "tazze-termiche",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Tazze termiche",
+  "operatore": "ALDI Srl",
+  "produttore": "Ritzenhoff AG",
+  "sede_stabilimento": "Sametwiesen 2 - 34431 Marsberg (Germania)",
+  "motivo_esteso": "In alcuni casi sussiste il rischio di rottura della parete interna della vetrocamera della tazza termica.",
+  "avvertenze": "Il prodotto non deve essere più utilizzato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+  "campi_extra": {
+   "Data": "01/02/2022 Marchio del prodotto: CROFTON"
+  },
+  "testo": "RICHIAMO\nData: 01/02/2022 Marchio del prodotto: CROFTON\nDenominazione di vendita:Tazze termiche\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: -\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Ritzenhoff AG\nSede dello stabilimento: Sametwiesen 2 - 34431 Marsberg (Germania)\nData di scadenza o termine minimo di conservazione: -\nDescrizione peso/volume unità di vendita: -\nMotivo del richiamo:\nIn alcuni casi sussiste il rischio di rottura della parete interna della vetrocamera della tazza termica.\nAvvertenze:\nIl prodotto non deve essere più utilizzato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+ },
+ "prima_rilevazione": "2026-10-25T08:31:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:31:15+00:00"
+}

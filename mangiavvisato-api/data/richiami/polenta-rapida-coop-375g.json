@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polenta-rapida-coop-375g/",
+ "titolo": "POLENTA RAPIDA COOP 375G",
+ "data_pubblicazione": "2021-10-27",
+ "marca": "COOP",
+ "denominazione": "POLENTA RAPIDA COOP 375G",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLOALLERTAPRECOTTACOOP_%20_1__1761189364.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLOALLERTAPRECOTTACOOP_ _1__1761189364.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLOALLERTAPRECOTTACOOP_%20_1__1761189364.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polenta-rapida-coop-375g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLENTA RAPIDA COOP 375G",
+  "operatore": "COOP ITALIA S.C",
+  "lotti": [
+   "L21 288 / L21 289"
+  ],
+  "marchio_identificazione": "MOLINO ROSSETTO SPA",
+  "produttore": "MOLINO ROSSETTO SPA",
+  "sede_stabilimento": "STABILIMENTO DI VIA SAN FAUSTO, 98 - 35029 PONTELONGO PD",
+  "scadenza": "15/10/2023 - 16/10/2023",
+  "peso_volume": "375 G - EAN 8001120943347",
+  "motivo_esteso": "POSSIBILE PRESENZA DI CORPI ESTRANEI ALL'INTERNO DELLA CONFEZIONE",
+  "avvertenze": "SI INVITANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO A RIPORTARLO AL PUNTO VENDITA CHE VERRA' SOSTITUITO CON NUOVO LOTTO.",
+  "campi_extra": {
+   "Data": "26/10/2021 Marchio del prodotto: COOP"
+  },
+  "testo": "RICHIAMO\nData: 26/10/2021 Marchio del prodotto: COOP\nDenominazione di vendita: POLENTA RAPIDA COOP 375G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C\ncommercializzato:\nLotto di produzione: L21 288 / L21 289\nMarchio di identificazione dello stabilimento/del produttore: MOLINO ROSSETTO SPA\nNome del produttore: MOLINO ROSSETTO SPA\nSede dello stabilimento: STABILIMENTO DI VIA SAN FAUSTO, 98 - 35029 PONTELONGO PD\nData di scadenza o termine minimo di conservazione: 15/10/2023 - 16/10/2023\nDescrizione peso/volume unità di vendita: 375 G - EAN 8001120943347\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI CORPI ESTRANEI ALL'INTERNO DELLA CONFEZIONE\nAvvertenze:\nSI INVITANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO A RIPORTARLO AL PUNTO VENDITA\nCHE VERRA' SOSTITUITO CON NUOVO LOTTO."
+ },
+ "prima_rilevazione": "2026-10-25T08:37:07+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:37:07+00:00"
+}

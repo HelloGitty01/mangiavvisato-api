@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-di-puro-suino-bona-die-4-pz-100-g/",
+ "titolo": "WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+ "data_pubblicazione": "2021-10-25",
+ "marca": "BONA DIE",
+ "denominazione": "WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_bona_die_4PZ_1761189341.pdf",
+ "allegati": [
+  {
+   "titolo": "mod_bona_die_4PZ_1761189341.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod_bona_die_4PZ_1761189341.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "wurstel-di-puro-suino-bona-die-4-pz-100-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g",
+  "operatore": "DI.PRA SAS 23523",
+  "lotti": [
+   "IT 1145/L CE"
+  ],
+  "marchio_identificazione": "BONAZZA S.P.A.",
+  "sede_stabilimento": "VIA TRIESTINA 185/B, 30173 CA' NOGHERA (VE)",
+  "scadenza": "22-12-2021",
+  "peso_volume": "100 g / 4 PZ",
+  "motivo_esteso": "POSSIBILE PRESENZA DI PROTEINE DEL LATTE (ALLERGENE) NON DICHIARATO IN ETICHETTA",
+  "avvertenze": "IN CASO DI ACQUISTO DEL PRODOTTO, SI RICHIEDE LA RICONSEGNA PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/10/2021 Marchio del prodotto: BONA DIE",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/10/2021 Marchio del prodotto: BONA DIE\nDenominazione di vendita:WURSTEL DI PURO SUINO BONA DIE 4 PZ 100 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DI.PRA SAS\ncommercializzato:\n23523\nLotto di produzione:\nIT 1145/L CE\nMarchio di identificazione dello stabilimento/del produttore:\nBONAZZA S.P.A.\nNome del produttore:\nSede dello stabilimento:VIA TRIESTINA 185/B, 30173 CA' NOGHERA (VE)\nData di scadenza o termine minimo di conservazione: 22-12-2021\nDescrizione peso/volume unità di vendita: 100 g / 4 PZ\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI PROTEINE DEL LATTE (ALLERGENE) NON DICHIARATO IN ETICHETTA\nAvvertenze:\nIN CASO DI ACQUISTO DEL PRODOTTO, SI RICHIEDE LA RICONSEGNA PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:37:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:37:25+00:00"
+}

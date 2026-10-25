@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-200g/",
+ "titolo": "Mini Grissini Semi e Cereali 200g",
+ "data_pubblicazione": "2021-01-15",
+ "marca": "Sfornamore",
+ "denominazione": "Mini Grissini Semi e Cereali 200g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfornamore%20mini%20grissini%20semi%20e%20cereali_1761185157.pdf",
+ "allegati": [
+  {
+   "titolo": "Sfornamore mini grissini semi e cereali_1761185157.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfornamore%20mini%20grissini%20semi%20e%20cereali_1761185157.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mini-grissini-semi-e-cereali-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mini Grissini Semi e Cereali 200g",
+  "operatore": "Maxi Dì S.r.l.",
+  "lotti": [
+   "210206",
+   "210218"
+  ],
+  "marchio_identificazione": "Panificio Zorzi",
+  "produttore": "Panificio Zorzi S.r.l.",
+  "sede_stabilimento": "Loc. Brà 1 - 37020 Brentino Belluno (VR)",
+  "scadenza": "06 e 18/02/2021",
+  "peso_volume": "busta singola di carta e plastica da 200g",
+  "motivo_esteso": "A scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.",
+  "avvertenze": "SI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI NON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "11/01/2021 Marchio del prodotto: Sfornamore"
+  },
+  "testo": "RICHIAMO\nData: 11/01/2021 Marchio del prodotto: Sfornamore\nDenominazione di vendita:Mini Grissini Semi e Cereali 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Maxi Dì S.r.l.\ncommercializzato:\nLotto di produzione: 210206 e 210218\nMarchio di identificazione dello stabilimento/del produttore: Panificio Zorzi\nNome del produttore: Panificio Zorzi S.r.l.\nSede dello stabilimento: Loc. Brà 1 - 37020 Brentino Belluno (VR)\nData di scadenza o termine minimo di conservazione: 06 e 18/02/2021\nDescrizione peso/volume unità di vendita: busta singola di carta e plastica da 200g\nMotivo del richiamo:\nA scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.\nAvvertenze:\nSI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI\nNON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T09:00:35+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:00:35+00:00"
+}

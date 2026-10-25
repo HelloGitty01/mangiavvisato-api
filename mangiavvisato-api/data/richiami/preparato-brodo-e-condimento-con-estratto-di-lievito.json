@@ -1,0 +1,60 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-brodo-e-condimento-con-estratto-di-lievito/",
+ "titolo": "Preparato per Brodo e condimento con estratto di lievito",
+ "data_pubblicazione": "2021-09-29",
+ "marca": "Mon Bouillon",
+ "denominazione": "Preparato per Brodo e condimento con estratto di lievito",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/93001_MonBouillon_200g_20210928_1761188627.pdf",
+ "allegati": [
+  {
+   "titolo": "93001_MonBouillon_200g_20210928_1761188627.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/93001_MonBouillon_200g_20210928_1761188627.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-brodo-e-condimento-con-estratto-di-lievito",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato per Brodo e condimento con estratto di lievito",
+  "operatore": "Dialcos Spa",
+  "lotti": [
+   "020069",
+   "020090",
+   "020097",
+   "020111",
+   "020132",
+   "020160",
+   "020202",
+   "020258",
+   "020314",
+   "020328",
+   "020344",
+   "021011",
+   "021053",
+   "021081",
+   "021109",
+   "021123",
+   "021179",
+   "021200",
+   "021018"
+  ],
+  "marchio_identificazione": "Dialcos",
+  "produttore": "Dialcos Spa",
+  "sede_stabilimento": "Due Carrare (PD), Via Veneto 27",
+  "scadenza": "09/21, 10/21, 11/21, 12/21, 01/22, 03/22, 05/22, 06/22, 07/22, 08/22, 09/22, 10/22, 11/22, 12/22, 01/23",
+  "peso_volume": "200g",
+  "motivo_esteso": "Possibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta Per informazione contattare alert@dialcos.it",
+  "avvertenze": "Prodotto non adatto al consumo da parte di persone allergiche all' ARACHIDE. Si invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Settembre 2021 e Gennaio 2023 (compresi) e a consegnarli presso il Punto Vendita. IL LOTTO E LA SCADENZA SI TROVANO SUL FONDO DEL BARATTOLO.",
+  "campi_extra": {
+   "Data": "24/09/21 Marchio del prodotto: Mon Bouillon"
+  },
+  "testo": "RICHIAMO\nData: 24/09/21 Marchio del prodotto: Mon Bouillon\nDenominazione di vendita: Preparato per Brodo e condimento con estratto di lievito\nNome o ragione sociale dell'OSA Dialcos Spa\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 020069, 020090, 020097, 020111, 020132, 020160, 020202, 020258, 020314, 020328, 020344, 021011,\n021053, 021081, 021109, 021123, 021179, 021200, 021018\nMarchio di identificazione dello stabilimento/del produttore: Dialcos\nNome del produttore: Dialcos Spa\nSede dello stabilimento: Due Carrare (PD), Via Veneto 27\nData di scadenza o termine minimo di conservazione: 09/21, 10/21, 11/21, 12/21, 01/22, 03/22, 05/22,\n06/22, 07/22, 08/22, 09/22, 10/22, 11/22, 12/22, 01/23\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta\nPer informazione contattare alert@dialcos.it\nAvvertenze:\nProdotto non adatto al consumo da parte di persone allergiche all' ARACHIDE.\nSi invitano tali consumatori a non consumare i lotti di prodotto con scadenza compresa tra Settembre\n2021 e Gennaio 2023 (compresi) e a consegnarli presso il Punto Vendita.\nIL LOTTO E LA SCADENZA SI TROVANO SUL FONDO DEL BARATTOLO."
+ },
+ "prima_rilevazione": "2026-10-25T08:39:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:33+00:00"
+}

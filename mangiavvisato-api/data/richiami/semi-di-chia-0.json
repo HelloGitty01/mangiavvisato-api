@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-chia-0/",
+ "titolo": "Semi di Chia",
+ "data_pubblicazione": "2022-06-10",
+ "marca": "DBT",
+ "denominazione": "Semi di Chia",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/P_GEA_ALL3%20_%20CARTELLO%20RICHIAMO%20A%20CONSUMATORE%20DBT%20250%20g_1761191272.pdf",
+ "allegati": [
+  {
+   "titolo": "P_GEA_ALL3 _ CARTELLO RICHIAMO A CONSUMATORE DBT 250 g_1761191272.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/P_GEA_ALL3%20_%20CARTELLO%20RICHIAMO%20A%20CONSUMATORE%20DBT%20250%20g_1761191272.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-chia-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Semi di chia",
+  "operatore": "PEDON S.P.A.",
+  "lotti": [
+   "24/04/23 - 07/04/23 - 26/02/23 - 08/01/23 PEDON"
+  ],
+  "marchio_identificazione": "PEDON S.P.A.",
+  "sede_stabilimento": "VIA DEL PROGRESSO 32 - 36064 COLCERESA (VI)",
+  "scadenza": "vedere sotto",
+  "peso_volume": "250g",
+  "motivo_esteso": "possibile presenza dell'allergene soia non dichiarato in etichetta",
+  "avvertenze": "Si raccomanda alle persone allergiche alla soia di non consumare e restituire al negozio il prodotto con",
+  "campi_extra": {
+   "Data": "07/06/22 Marchio del prodotto: DBT",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07/06/22 Marchio del prodotto: DBT\nDenominazione di vendita:Semi di chia\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.P.A.\ncommercializzato:\nLotto di produzione: 24/04/23 - 07/04/23 - 26/02/23 - 08/01/23\nPEDON\nMarchio di identificazione dello stabilimento/del produttore:\nPEDON S.P.A.\nNome del produttore:\nSede dello stabilimento:VIA DEL PROGRESSO 32 - 36064 COLCERESA (VI)\nData di scadenza o termine minimo di conservazione: vedere sotto\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\npossibile presenza dell'allergene soia non dichiarato in etichetta\nAvvertenze:\nSi raccomanda alle persone allergiche alla soia di non consumare e restituire al negozio il prodotto con\ndata di scadenza 24/04/23 - 07/04/23 - 26/02/23 - 08/01/23.\nIl prodotto in questione non presenta alcun rischio per i consumatori non allergici alla soia.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:25:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:25:44+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-o-lupino-0/",
+ "titolo": "Vongola o lupino",
+ "data_pubblicazione": "2021-09-24",
+ "marca": "Finittica srlu",
+ "denominazione": "Vongola o lupino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20tris_1761188543.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello tris_1761188543.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20tris_1761188543.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "vongola-o-lupino-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VONGOLA O LUPINO (Chamalea gallina)",
+  "operatore": "Finittica s.r.l.u.",
+  "lotti": [
+   "17F7"
+  ],
+  "marchio_identificazione": "IT 513 CDM CE",
+  "produttore": "Finittica s.r.l.u.",
+  "sede_stabilimento": "strada provinciale 21, 44020 Goro (FE)",
+  "scadenza": "n.a.",
+  "peso_volume": "confezione da 1,5 kg suddivisibili in 0,5 kg",
+  "motivo_esteso": "livelli di E.coli non conformi nella zona di produzione",
+  "avvertenze": "oggetto del presente richiamo è unicamente il lotto di vongola o lupino, mentre i restanti molluschi risultano conformi",
+  "campi_extra": {
+   "Data": "22/09/21 Marchio del prodotto: FINITTICA"
+  },
+  "testo": "RICHIAMO\nData: 22/09/21 Marchio del prodotto: FINITTICA\nDenominazione di vendita:VONGOLA O LUPINO (Chamalea gallina)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Finittica s.r.l.u.\ncommercializzato:\nLotto di produzione: 17F7\nMarchio di identificazione dello stabilimento/del produttore: IT 513 CDM CE\nNome del produttore: Finittica s.r.l.u.\nSede dello stabilimento: strada provinciale 21, 44020 Goro (FE)\nData di scadenza o termine minimo di conservazione: n.a.\nDescrizione peso/volume unità di vendita: confezione da 1,5 kg suddivisibili in 0,5 kg\nMotivo del richiamo:\nlivelli di E.coli non conformi nella zona di produzione\nAvvertenze:\noggetto del presente richiamo è unicamente il lotto di vongola o lupino, mentre i restanti molluschi\nrisultano conformi"
+ },
+ "prima_rilevazione": "2026-10-25T08:40:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:40:34+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panetti-rustici/",
+ "titolo": "PANETTI RUSTICI",
+ "data_pubblicazione": "2020-12-02",
+ "marca": "VIA VERDE BIO Primia",
+ "denominazione": "PANETTI RUSTICI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_6_1761183253.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMI 2_6_1761183253.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMI%202_6_1761183253.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panetti-rustici",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANETTI RUSTICI Nome o ragione sociale AGORA’ NETWORK S.C.A.R.L. dell'OSA a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "LOTTO 135"
+  ],
+  "marchio_identificazione": "BISCOPAN S.R.L",
+  "produttore": "BISCOPAN S.R.L.",
+  "sede_stabilimento": "VIA DELL’INDUSTRIA 345 – 45021 BADIA POLESINE (RO)",
+  "scadenza": "VEDI AVVERTENZE",
+  "peso_volume": "CONFEZIONE DA 200GR",
+  "motivo_esteso": "Richiamo precauzionale per semi di sesamo con possibile presenza di ossido di etilene oltre il limite di legge",
+  "avvertenze": "lotti sottoposti a richiamo sono",
+  "campi_extra": {
+   "Data": "27/11/2020 Marchio del prodotto: VIA VERDE BIO Primia",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 27/11/2020 Marchio del prodotto: VIA VERDE BIO Primia\nDenominazione di vendita: PANETTI RUSTICI\nNome o ragione sociale AGORA’ NETWORK S.C.A.R.L.\ndell'OSA a nome del quale il\nprodotto è commercializzato:\nLotto di produzione: LOTTO 135\nMarchio di identificazione dello stabilimento/del produttore: BISCOPAN S.R.L\nNome del produttore: BISCOPAN S.R.L.\nSede dello stabilimento: VIA DELL’INDUSTRIA 345 – 45021 BADIA POLESINE (RO)\nData di scadenza o termine minimo di conservazione: VEDI AVVERTENZE\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 200GR\nMotivo del richiamo:\nRichiamo precauzionale per semi di sesamo con possibile presenza di ossido di etilene oltre il limite di legge\nAvvertenze: lotti sottoposti a richiamo sono:\nLOTTO 135 con scadenza 14/02/2021\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:05:46+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:46+00:00"
+}

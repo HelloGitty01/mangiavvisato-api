@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate/",
+ "titolo": "Mandorle sgusciate",
+ "data_pubblicazione": "2022-04-23",
+ "marca": "Ciavolino",
+ "denominazione": "Mandorle sgusciate",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_mandorle_ciavolino_1761191177.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_mandorle_ciavolino_1761191177.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_mandorle_ciavolino_1761191177.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mandorle-sgusciate",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MANDORLE SGUSCIATE",
+  "operatore": "CIAVOLINO ROMA INTERNATIONAL SRL",
+  "lotti": [
+   "22066"
+  ],
+  "produttore": "CIAVOLINO DANIELE & FIGLI ROMA SRL",
+  "sede_stabilimento": "VIA CAMPO DI CARNE N° 20/4 – 00040 ARDEA (RM)",
+  "scadenza": "04/2023",
+  "peso_volume": "800 G",
+  "motivo_esteso": "PRESENZA DI AFLATOSSINA B1 E TOTALI",
+  "avvertenze": "SI PREGA DI RIPORTARE LE CONFEZIONI AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "22/04/2022 Marchio del prodotto: CIAVOLINO"
+  },
+  "testo": "RICHIAMO\nData: 22/04/2022 Marchio del prodotto: CIAVOLINO\nDenominazione di vendita: MANDORLE SGUSCIATE\nNome o ragione sociale dell'OSA CIAVOLINO ROMA INTERNATIONAL SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\n22066\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: CIAVOLINO DANIELE & FIGLI ROMA SRL\nSede dello stabilimento: VIA CAMPO DI CARNE N° 20/4 – 00040 ARDEA (RM)\nData di scadenza o termine minimo di conservazione: 04/2023\nDescrizione peso/volume unità di vendita: 800 G\nMotivo del richiamo:\nPRESENZA DI AFLATOSSINA B1 E TOTALI\nAvvertenze:\nSI PREGA DI RIPORTARE LE CONFEZIONI AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T08:27:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:27:17+00:00"
+}

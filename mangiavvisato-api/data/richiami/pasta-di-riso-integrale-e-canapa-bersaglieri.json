@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-e-canapa-bersaglieri/",
+ "titolo": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+ "data_pubblicazione": "2021-12-29",
+ "marca": "BIO IN",
+ "denominazione": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20e%20Canapa_1761190246.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo Prodotto Bersaglieri Riso e Canapa_1761190246.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20e%20Canapa_1761190246.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-di-riso-integrale-e-canapa-bersaglieri",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PASTA DI RISO INTEGRALE e CANAPA- BERSAGLIERI",
+  "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+  "lotti": [
+   "26/01/2024"
+  ],
+  "marchio_identificazione": "LA ROMAGNOLA BIO",
+  "produttore": "LA ROMAGNOLA BIO SRLS",
+  "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+  "scadenza": "26/01/24",
+  "peso_volume": "350g",
+  "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+  "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE e CANAPA- BERSAGLIERI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 26/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 26/01/24\nDescrizione peso/volume unità di vendita: 350g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:32:32+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:32:32+00:00"
+}

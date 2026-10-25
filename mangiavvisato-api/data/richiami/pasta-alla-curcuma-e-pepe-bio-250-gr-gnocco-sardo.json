@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-alla-curcuma-e-pepe-bio-250-gr-gnocco-sardo/",
+ "titolo": "Pasta alla Curcuma e Pepe BIO 250 gr - Gnocco Sardo",
+ "data_pubblicazione": "2021-08-19",
+ "marca": "PASTA NATURA",
+ "denominazione": "Pasta alla Curcuma e Pepe BIO 250 gr - Gnocco Sardo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Gnocco%20sardo_Pasta%20natura_1761187733.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_Gnocco sardo_Pasta natura_1761187733.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Gnocco%20sardo_Pasta%20natura_1761187733.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pasta-alla-curcuma-e-pepe-bio-250-gr-gnocco-sardo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Pasta alla Curcuma e Pepe BIO 250 gr - Gnocco Sardo",
+  "operatore": "PASTA NATURA",
+  "lotti": [
+   "28.01.2024"
+  ],
+  "produttore": "PASTA NATURA SRL",
+  "sede_stabilimento": "VIA AGRICOLTURA 10, 12022 BUSCA (ex VIA CANTARANE 1/B, VILLAFALLETTO)",
+  "scadenza": "28.01.2024",
+  "peso_volume": "250 GR",
+  "motivo_esteso": "Presenza di ossido di etilene in ingrediente Curcuma",
+  "campi_extra": {
+   "Data": "16/08/2021 Marchio del prodotto: PASTA NATURA"
+  },
+  "testo": "RICHIAMO\nData: 16/08/2021 Marchio del prodotto: PASTA NATURA\nDenominazione di vendita:Pasta alla Curcuma e Pepe BIO 250 gr - Gnocco Sardo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PASTA NATURA\ncommercializzato:\nLotto di produzione: 28.01.2024\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: PASTA NATURA SRL\nSede dello stabilimento: VIA AGRICOLTURA 10, 12022 BUSCA (ex VIA CANTARANE 1/B, VILLAFALLETTO)\nData di scadenza o termine minimo di conservazione: 28.01.2024\nDescrizione peso/volume unità di vendita: 250 GR\nMotivo del richiamo:\nPresenza di ossido di etilene in ingrediente Curcuma\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:44:44+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:44:44+00:00"
+}

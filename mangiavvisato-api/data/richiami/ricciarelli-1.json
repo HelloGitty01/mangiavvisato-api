@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-1/",
+ "titolo": "Ricciarelli",
+ "data_pubblicazione": "2021-12-01",
+ "marca": "Specialità buona tavola",
+ "denominazione": "Ricciarelli",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ricciarelli_1761189538.pdf",
+ "allegati": [
+  {
+   "titolo": "ricciarelli_1761189538.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ricciarelli_1761189538.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ricciarelli-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:33:42+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:42+00:00"
+}

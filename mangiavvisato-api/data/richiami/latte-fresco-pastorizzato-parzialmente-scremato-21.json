@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-fresco-pastorizzato-parzialmente-scremato-21/",
+ "titolo": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+ "data_pubblicazione": "2021-09-14",
+ "marca": "LATTERIA LESSINA",
+ "denominazione": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+ "motivo": "Revoca per scadenza prodotto",
+ "categoria_rischio": "altro",
+ "tipo": "revoca",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20LESSINIA_1761188507.pdf",
+ "allegati": [
+  {
+   "titolo": "REVOCA LESSINIA_1761188507.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20LESSINIA_1761188507.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "latte-fresco-pastorizzato-parzialmente-scremato-21",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO",
+  "operatore": "LATTE VIVO SRL",
+  "lotti": [
+   "12-09-21"
+  ],
+  "marchio_identificazione": "IT 06 33 CE",
+  "produttore": "LATTE VIVO SRL",
+  "sede_stabilimento": "VIA LOMBARDIA N. 2 - TAVAGNACCO",
+  "scadenza": "12-09-2021",
+  "peso_volume": "BOTTIGLIA PET DA 1 LITRO + CARTONE DA 500 ML",
+  "motivo_esteso": "MOTIVO DELLA REVOCA: SUPERAMENTO DATA DI SCADENZA",
+  "avvertenze": "Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14.09.2021 Marchio del prodotto: LESSINIA",
+   "MOTIVO DELLA REVOCA": "SUPERAMENTO DATA DI SCADENZA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "REVOCA DI RICHIAMO\nData: 14.09.2021 Marchio del prodotto: LESSINIA\nDenominazione di vendita:LATTE FRESCO PASTORIZZATO PARZIALMENTE SCREMATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LATTE VIVO SRL\ncommercializzato:\nLotto di produzione: 12-09-21\nMarchio di identificazione dello stabilimento/del produttore: IT 06 33 CE\nNome del produttore: LATTE VIVO SRL\nSede dello stabilimento: VIA LOMBARDIA N. 2 - TAVAGNACCO\nData di scadenza o termine minimo di conservazione: 12-09-2021\nDescrizione peso/volume unità di vendita: BOTTIGLIA PET DA 1 LITRO + CARTONE DA 500 ML\nMotivo del richiamo:\nMOTIVO DELLA REVOCA: SUPERAMENTO DATA DI SCADENZA\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:41:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:41:17+00:00"
+}

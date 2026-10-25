@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mms-crispy-170mgr/",
+ "titolo": "M&M's Crispy 170mgr",
+ "data_pubblicazione": "2021-08-10",
+ "marca": "Mars Italia s.p.a.",
+ "denominazione": "M&M's Crispy 170mgr",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/44823%20Mars%20Italia_Modello%20Richiamo__M_Ms%20crispy%20FINALE_1761187580.pdf",
+ "allegati": [
+  {
+   "titolo": "44823 Mars Italia_Modello Richiamo__M_Ms crispy FINALE_1761187580.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/44823%20Mars%20Italia_Modello%20Richiamo__M_Ms%20crispy%20FINALE_1761187580.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mms-crispy-170mgr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "M&M’s Crispy",
+  "operatore": "Mars Italia S.p.A.",
+  "lotti": [
+   "si veda sotto avvertenze"
+  ],
+  "marchio_identificazione": "FR 67.478.001",
+  "produttore": "Mars Wrigley Confectionery France SAS",
+  "sede_stabilimento": "3 Chemin de la Sandlach, CS 10036 - Haguenau, Francia",
+  "scadenza": "23-01-2022",
+  "peso_volume": "170g - codice a barre 5000159416177",
+  "motivo_esteso": "Possibile presenza di un organismo geneticamente modificato (OGM) all’interno di un ingrediente",
+  "avvertenze": "n. 2 Lotti di produzione coinvolti: 125G1HAG oppure 125G2HAG - indicati sulla confezione Si invita i consumatori in possesso del prodotto riconducibile ai lotti (o codice a barre) e data di scadenza sopra indicati di non consumarli e di contattare il Servizio Consumatori di Mars Italia al numero 02/57514220.",
+  "campi_extra": {
+   "Data": "05/08/2021 Marchio del prodotto: M&M’s Crispy",
+   "n. 2 Lotti di produzione coinvolti": "125G1HAG oppure 125G2HAG - indicati sulla confezione"
+  },
+  "testo": "RICHIAMO\nData: 05/08/2021 Marchio del prodotto: M&M’s Crispy\nDenominazione di vendita:M&M’s Crispy\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Mars Italia S.p.A.\ncommercializzato:\nLotto di produzione: si veda sotto avvertenze\nMarchio di identificazione dello stabilimento/del produttore: FR 67.478.001\nNome del produttore: Mars Wrigley Confectionery France SAS\nSede dello stabilimento: 3 Chemin de la Sandlach, CS 10036 - Haguenau, Francia\nData di scadenza o termine minimo di conservazione: 23-01-2022\nDescrizione peso/volume unità di vendita: 170g - codice a barre 5000159416177\nMotivo del richiamo:\nPossibile presenza di un organismo geneticamente modificato (OGM) all’interno di un ingrediente\nAvvertenze:\nn. 2 Lotti di produzione coinvolti: 125G1HAG oppure 125G2HAG - indicati sulla confezione\nSi invita i consumatori in possesso del prodotto riconducibile ai lotti (o codice a barre) e data di scadenza\nsopra indicati di non consumarli e di contattare il Servizio Consumatori di Mars Italia al numero\n02/57514220."
+ },
+ "prima_rilevazione": "2026-10-25T08:46:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:46:45+00:00"
+}

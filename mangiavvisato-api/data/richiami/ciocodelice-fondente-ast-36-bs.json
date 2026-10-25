@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciocodelice-fondente-ast-36-bs/",
+ "titolo": "CIOCODELICE FONDENTE AST 36 bs",
+ "data_pubblicazione": "2022-03-17",
+ "marca": "Caffè Molinari SpA",
+ "denominazione": "CIOCODELICE FONDENTE AST 36 bs",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20fondente_1761190470.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo Ciocodelice fondente_1761190470.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20Ciocodelice%20fondente_1761190470.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "ciocodelice-fondente-ast-36-bs",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CIOCODELICE FONDENTE AST 36 bst",
+  "operatore": "Caffè Molinari SpA",
+  "lotti": [
+   "L20009371",
+   "L20008174"
+  ],
+  "marchio_identificazione": "Granulati Italia SpA",
+  "produttore": "Granulati Italia SpA",
+  "sede_stabilimento": "Via B. Colleoni, 10 - 24040 Boltiere (BG)",
+  "scadenza": "11/01/2024, 13/10",
+  "peso_volume": "astuccio da 36 bustine da 28 g cad",
+  "motivo_esteso": "Possibile presenza accidentale di tracce di ossido di etilene",
+  "campi_extra": {
+   "Data": "03/02/2022 Marchio del prodotto: Caffè Molinari SpA"
+  },
+  "testo": "RICHIAMO / RECALL\nData : 03/02/2022 Marchio del prodotto: Caffè Molinari SpA\nDenominazione di vendita:CIOCODELICE FONDENTE AST 36 bst\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caffè Molinari SpA\ncommercializzato:\nLotto di produzione: L20009371, L20008174\nMarchio di identificazione dello stabilimento/del produttore: Granulati Italia SpA\nNome del produttore: Granulati Italia SpA\nSede dello stabilimento: Via B. Colleoni, 10 - 24040 Boltiere (BG)\nData di scadenza o termine minimo di conservazione: 11/01/2024, 13/10\nDescrizione peso/volume unità di vendita: astuccio da 36 bustine da 28 g cad\nMotivo del richiamo:\nPossibile presenza accidentale di tracce di ossido di etilene\nAvvertenze:\nlotti coinvolti : L20009371 tmc 11/01/2024, L20008174 tmc 13/10/2023"
+ },
+ "prima_rilevazione": "2026-10-25T08:28:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:28:49+00:00"
+}

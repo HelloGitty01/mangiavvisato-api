@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-ai-7-cereali-0/",
+ "titolo": "Mini Grissini ai 7 Cereali",
+ "data_pubblicazione": "2020-12-15",
+ "marca": "Aligrà srl",
+ "denominazione": "Mini Grissini ai 7 Cereali",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20_1_%20lotto%202048_1761184197.pdf",
+ "allegati": [
+  {
+   "titolo": "C_17_pagineAree_4633_listaFile_itemName_0_file _1_ lotto 2048_1761184197.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/C_17_pagineAree_4633_listaFile_itemName_0_file%20_1_%20lotto%202048_1761184197.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mini-grissini-ai-7-cereali-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Mini Grissini ai 7 Cereali",
+  "operatore": "ALIGRA' Srl",
+  "lotti": [
+   "L.2048"
+  ],
+  "marchio_identificazione": "Aligrà Srl",
+  "produttore": "ALIGRA' Srl",
+  "sede_stabilimento": "via Dei Trasvolatori Atlantici n.38-40 44124 Ferrara",
+  "scadenza": "26-04-2021",
+  "peso_volume": "vaschetta da 500 g",
+  "motivo_esteso": "Presenza di semi di sesamo presumibilmente contaminato da ossido di etilene",
+  "avvertenze": "Non consumare il prodotto. Restituire il prodotto al punto vendita dov'è stato acquistato Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "07.12.2020 Marchio del prodotto: Aligrà",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 07.12.2020 Marchio del prodotto: Aligrà\nDenominazione di vendita:Mini Grissini ai 7 Cereali\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALIGRA' Srl\ncommercializzato:\nLotto di produzione: L.2048\nMarchio di identificazione dello stabilimento/del produttore: Aligrà Srl\nNome del produttore: ALIGRA' Srl\nSede dello stabilimento: via Dei Trasvolatori Atlantici n.38-40 44124 Ferrara\nData di scadenza o termine minimo di conservazione: 26-04-2021\nDescrizione peso/volume unità di vendita: vaschetta da 500 g\nMotivo del richiamo:\nPresenza di semi di sesamo presumibilmente contaminato da ossido di etilene\nAvvertenze:\nNon consumare il prodotto.\nRestituire il prodotto al punto vendita dov'è stato acquistato\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:02:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:02:57+00:00"
+}

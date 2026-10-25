@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-whitchoccber-90x4-it-umb/",
+ "titolo": "NUII WhitChocCBer 90X4 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII WhitChocCBer 90X4 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31010632_NUII%20WhitChocCBer%2090X4%20IT%20UMB_Retail_1_1761188397.pdf",
+ "allegati": [
+  {
+   "titolo": "31010632_NUII WhitChocCBer 90X4 IT UMB_Retail_1_1761188397.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31010632_NUII%20WhitChocCBer%2090X4%20IT%20UMB_Retail_1_1761188397.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-whitchoccber-90x4-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII WhitChocCBer 90X4 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "MI0098**"
+  ],
+  "produttore": "Froneri Polska",
+  "sede_stabilimento": "Mielec",
+  "scadenza": "04/2023",
+  "peso_volume": "268 g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "** MI0098 - 04/2023; MI0099 - TMC 04/2023.",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII WhitChocCBer 90X4 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: MI0098**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Polska\nSede dello stabilimento: Mielec\nData di scadenza o termine minimo di conservazione: 04/2023\nDescrizione peso/volume unità di vendita: 268 g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n** MI0098 - 04/2023; MI0099 - TMC 04/2023."
+ },
+ "prima_rilevazione": "2026-10-25T08:43:14+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:14+00:00"
+}

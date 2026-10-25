@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-alimentare-vegetale-base-di-soia-fermentata/",
+ "titolo": "Preparazione alimentare VEGETALE a base di SOIA FERMENTATA",
+ "data_pubblicazione": "2020-12-10",
+ "marca": "VALSOIA",
+ "denominazione": "Preparazione alimentare VEGETALE a base di SOIA FERMENTATA",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Spalmabile%20L3210%20TMC01_03_2021_1761184175.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Spalmabile L3210 TMC01_03_2021_1761184175.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Spalmabile%20L3210%20TMC01_03_2021_1761184175.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "preparazione-alimentare-vegetale-base-di-soia-fermentata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PREPARAZIONE ALIMENTARE VEGETALE A BASE DI SOIA FERMENTATA",
+  "operatore": "VALSOIA SPA",
+  "lotti": [
+   "L3210"
+  ],
+  "marchio_identificazione": "VALSOIA SPA",
+  "produttore": "VALSOIA SPA",
+  "sede_stabilimento": "VIA MEDOLE 52, 46043 Castiglione delle Stiviere (MN)",
+  "scadenza": "01-03-2021",
+  "peso_volume": "125 g",
+  "motivo_esteso": "Contaminazione da allergene Proteine del Latte",
+  "avvertenze": "L'avviso riguarda le persone allergiche alle proteine del latte; le altre persone possono consumare il prodotto",
+  "campi_extra": {
+   "Data": "05/12/2020 Marchio del prodotto: Lo SPALMABILE CLASSICO"
+  },
+  "testo": "RICHIAMO\nData: 05/12/2020 Marchio del prodotto: Lo SPALMABILE CLASSICO\nDenominazione di vendita:PREPARAZIONE ALIMENTARE VEGETALE A BASE DI SOIA FERMENTATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VALSOIA SPA\ncommercializzato:\nLotto di produzione: L3210\nMarchio di identificazione dello stabilimento/del produttore: VALSOIA SPA\nNome del produttore: VALSOIA SPA\nSede dello stabilimento: VIA MEDOLE 52, 46043 Castiglione delle Stiviere (MN)\nData di scadenza o termine minimo di conservazione: 01-03-2021\nDescrizione peso/volume unità di vendita: 125 g\nMotivo del richiamo:\nContaminazione da allergene Proteine del Latte\nAvvertenze:\nL'avviso riguarda le persone allergiche alle proteine del latte; le altre persone possono consumare il\nprodotto"
+ },
+ "prima_rilevazione": "2026-10-25T09:03:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:03:11+00:00"
+}

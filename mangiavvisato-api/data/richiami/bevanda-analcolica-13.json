@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-13/",
+ "titolo": "Bevanda analcolica",
+ "data_pubblicazione": "2021-02-09",
+ "marca": "Coca-Cola Original Taste",
+ "denominazione": "Bevanda analcolica",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201031%20_1__1761185219.pdf",
+ "allegati": [
+  {
+   "titolo": "Coca_Cola L201031 _1__1761185219.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coca_Cola%20L201031%20_1__1761185219.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "bevanda-analcolica-13",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:59:34+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:34+00:00"
+}

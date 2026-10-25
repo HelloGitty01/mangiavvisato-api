@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/danubiana-group-srl/",
+ "titolo": "DANUBIANA GROUP SRL",
+ "data_pubblicazione": "2021-12-07",
+ "marca": "MARCEL",
+ "denominazione": "DANUBIANA GROUP SRL",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004091121_1_1761189570.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO LOTTO 004091121_1_1761189570.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004091121_1_1761189570.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "danubiana-group-srl",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "TOBA CA LA MAMA ACASA",
+  "operatore": "D A N U B I ANA GROUP SRL",
+  "lotti": [
+   "004091121"
+  ],
+  "marchio_identificazione": "RO 67 EC",
+  "produttore": "MARCEL SRL",
+  "sede_stabilimento": "SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA",
+  "scadenza": "29-12-2021",
+  "peso_volume": "0.537 KG",
+  "motivo_esteso": "PRESENZA DI LYSTERIA MONOCYTOGENES",
+  "campi_extra": {
+   "Data": "29/11/2021 Marchio del prodotto: MARCEL"
+  },
+  "testo": "RICHIAMO\nData: 29/11/2021 Marchio del prodotto: MARCEL\nDenominazione di vendita: TOBA CA LA MAMA ACASA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è D A N U B I ANA GROUP SRL\ncommercializzato:\nLotto di produzione: 004091121\nMarchio di identificazione dello stabilimento/del produttore: RO 67 EC\nNome del produttore: MARCEL SRL\nSede dello stabilimento: SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA\nData di scadenza o termine minimo di conservazione: 29-12-2021\nDescrizione peso/volume unità di vendita: 0.537 KG\nMotivo del richiamo:\nPRESENZA DI LYSTERIA MONOCYTOGENES\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:33:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:21+00:00"
+}

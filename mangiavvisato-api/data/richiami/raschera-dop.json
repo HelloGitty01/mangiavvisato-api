@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/raschera-dop/",
+ "titolo": "RASCHERA DOP",
+ "data_pubblicazione": "2020-10-09",
+ "marca": "CASEIFICIO CEIRANO - VILLOSIO SRL",
+ "denominazione": "RASCHERA DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CEIRANO_VILLOSIO__1761182199.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_CEIRANO_VILLOSIO__1761182199.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_CEIRANO_VILLOSIO__1761182199.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "raschera-dop",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "RASCHERA DOP",
+  "operatore": "CASEIFICIO CEIRANO - VILLOSIO SRL",
+  "lotti": [
+   "06-06-2020"
+  ],
+  "marchio_identificazione": "IT 01 319 CE",
+  "produttore": "CASEIFICIO CEIRANO - VILLOSIO SRL",
+  "sede_stabilimento": "SCARNAFIGI (CN) VIA PRINCIPE AMEDEO 14",
+  "scadenza": "09-11-2020",
+  "peso_volume": "FORMA INTERA",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO: SALMONELLA BRANDENBURG",
+  "avvertenze": "RESTITUIRE AL PUNTO VENDITA PRODOTTO RASCHERA LOTTO 06-06-2020 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09-10-2020 Marchio del prodotto: CASEIFICIO CEIRANO - VILLOSIO SRL",
+   "RISCHIO MICROBIOLOGICO": "SALMONELLA BRANDENBURG",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09-10-2020 Marchio del prodotto: CASEIFICIO CEIRANO - VILLOSIO SRL\nDenominazione di vendita:RASCHERA DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO CEIRANO - VILLOSIO SRL\ncommercializzato:\nLotto di produzione: 06-06-2020\nMarchio di identificazione dello stabilimento/del produttore: IT 01 319 CE\nNome del produttore: CASEIFICIO CEIRANO - VILLOSIO SRL\nSede dello stabilimento: SCARNAFIGI (CN) VIA PRINCIPE AMEDEO 14\nData di scadenza o termine minimo di conservazione: 09-11-2020\nDescrizione peso/volume unità di vendita: FORMA INTERA\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO: SALMONELLA BRANDENBURG\nAvvertenze:\nRESTITUIRE AL PUNTO VENDITA PRODOTTO RASCHERA LOTTO 06-06-2020\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:11:06+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:11:06+00:00"
+}

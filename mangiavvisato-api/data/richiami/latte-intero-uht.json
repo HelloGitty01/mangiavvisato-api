@@ -1,0 +1,33 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-uht/",
+ "titolo": "Latte intero UHT",
+ "data_pubblicazione": "2020-11-30",
+ "marca": "Milbona",
+ "denominazione": "Latte intero UHT",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LIDL_RICHIAMO_latte_MILBONA_1761183146.pdf",
+ "allegati": [
+  {
+   "titolo": "LIDL_RICHIAMO_latte_MILBONA_1761183146.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LIDL_RICHIAMO_latte_MILBONA_1761183146.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "latte-intero-uht",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "lotti": [
+   "20288 – Linea di confezionamento 34 FR 38.544.003 CE Candia CHEMIN DES MINES 3 RUE DE LA CONVENTION",
+   "38200 Vienne (Francia) 11/02/21 M 1 litro Potenziale perdita di sterilità delle confezioni EAN prodotto 20036768. Si invitano i consumatori a non consumarlo",
+   "a riportarlo al punto vendita per il rimborso",
+   "anche senza presentazione dello scontrino. Il prodotto è stato distribuito in un limitato numero di punti vendita del Nord Italia."
+  ],
+  "testo": "Allegato 4\n25/11/2020 Milbona\nLatte intero UHT\nLidl Italia s.r.l. a socio unico\nLotto 20288 – Linea di confezionamento 34\nFR 38.544.003 CE\nCandia\nCHEMIN DES MINES 3 RUE DE LA CONVENTION, 38200 Vienne (Francia)\n11/02/21 M\n1 litro\nPotenziale perdita di sterilità delle confezioni\nEAN prodotto 20036768. Si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso,\nanche senza presentazione dello scontrino.\nIl prodotto è stato distribuito in un limitato numero di punti vendita del Nord Italia."
+ },
+ "prima_rilevazione": "2026-10-25T09:06:01+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:06:01+00:00"
+}

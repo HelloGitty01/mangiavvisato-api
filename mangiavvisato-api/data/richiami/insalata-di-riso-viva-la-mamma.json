@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-viva-la-mamma/",
+ "titolo": "Insalata di riso Viva la Mamma",
+ "data_pubblicazione": "2021-08-19",
+ "marca": "Piatti Freschi Italia S.p.A",
+ "denominazione": "Insalata di riso Viva la Mamma",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_INSALATA_DI_RISO_VIVA_LA_MAMMA_1761187742.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_INSALATA_DI_RISO_VIVA_LA_MAMMA_1761187742.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_INSALATA_DI_RISO_VIVA_LA_MAMMA_1761187742.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "insalata-di-riso-viva-la-mamma",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:44:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:44:49+00:00"
+}

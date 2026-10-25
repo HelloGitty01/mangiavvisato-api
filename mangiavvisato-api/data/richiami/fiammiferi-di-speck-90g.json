@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fiammiferi-di-speck-90g/",
+ "titolo": "Fiammiferi di speck 90g",
+ "data_pubblicazione": "2021-04-12",
+ "marca": "MD SpA",
+ "denominazione": "Fiammiferi di speck 90g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FURLOTTI%20_%202021.04.09%20_%20FIAMMIFERI%20DI%20SPECK%2090%20g.%20_%20Cartello%20Ministeriale_1761186104.pdf",
+ "allegati": [
+  {
+   "titolo": "FURLOTTI _ 2021.04.09 _ FIAMMIFERI DI SPECK 90 g. _ Cartello Ministeriale_1761186104.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FURLOTTI%20_%202021.04.09%20_%20FIAMMIFERI%20DI%20SPECK%2090%20g.%20_%20Cartello%20Ministeriale_1761186104.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "fiammiferi-di-speck-90g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FIAMMIFERI SPECK 90 G",
+  "operatore": "MD SPA",
+  "lotti": [
+   "410164"
+  ],
+  "produttore": "FURLOTTI & C. SRL",
+  "sede_stabilimento": "Via F. Santi, 1 - 43014 MEDESANO (PR)",
+  "scadenza": "27-04-2021",
+  "peso_volume": "90 g",
+  "motivo_esteso": "Sospetta presenza di Listeria monocytogenes",
+  "avvertenze": "NON CONSUMARE, RESTITUIRE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "09/04/2021 Marchio del prodotto: LA FATTORIA"
+  },
+  "testo": "RICHIAMO\nData: 09/04/2021 Marchio del prodotto: LA FATTORIA\nDenominazione di vendita:FIAMMIFERI SPECK 90 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MD SPA\ncommercializzato:\nLotto di produzione: 410164\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: FURLOTTI & C. SRL\nSede dello stabilimento: Via F. Santi, 1 - 43014 MEDESANO (PR)\nData di scadenza o termine minimo di conservazione: 27-04-2021\nDescrizione peso/volume unità di vendita: 90 g\nMotivo del richiamo:\nSospetta presenza di Listeria monocytogenes\nAvvertenze:\nNON CONSUMARE, RESTITUIRE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T08:53:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:53:49+00:00"
+}

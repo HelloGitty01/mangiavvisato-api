@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sottofesa-di-vitello-eu-sv-mc/",
+ "titolo": "SOTTOFESA DI VITELLO EU SV MC",
+ "data_pubblicazione": "2021-08-20",
+ "marca": "METRO CHEF",
+ "denominazione": "SOTTOFESA DI VITELLO EU SV MC",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2%20_%20Modello%20ministeriale%20SOTTOFESA%20VITELLO_1761187751.pdf",
+ "allegati": [
+  {
+   "titolo": "2 _ Modello ministeriale SOTTOFESA VITELLO_1761187751.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2%20_%20Modello%20ministeriale%20SOTTOFESA%20VITELLO_1761187751.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "sottofesa-di-vitello-eu-sv-mc",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SOTTOFESA DI VITELLO EU SV MC",
+  "operatore": "METRO ITALIA CASH AND CARRY SPA",
+  "lotti": [
+   "10010115"
+  ],
+  "marchio_identificazione": "BE2EG/1",
+  "produttore": "VANLOMMEL",
+  "sede_stabilimento": "Vanlommel N.V. 11.08.2021 Industrielaan 21 2250 Olen Belgium",
+  "scadenza": "23-08-2021",
+  "peso_volume": "VACUUM PACKED",
+  "motivo_esteso": "Escherichia coli produttori di Shiga-tossine (E.coli STEC)",
+  "avvertenze": "Non consumare e restituire al punto vendita. ×²­»®·®» ·³³ ¹·²» «²±æ ×²­»®·®» ·³³ ¹·²» ¼«»æ",
+  "campi_extra": {
+   "Data": "12/08/21 Marchio del prodotto: METRO CHEF"
+  },
+  "testo": "RICHIAMO\nData: 12/08/21 Marchio del prodotto: METRO CHEF\nDenominazione di vendita:SOTTOFESA DI VITELLO EU SV MC\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è METRO ITALIA CASH AND CARRY SPA\ncommercializzato:\nLotto di produzione: 10010115\nMarchio di identificazione dello stabilimento/del produttore: BE2EG/1\nNome del produttore: VANLOMMEL\nSede dello stabilimento: Vanlommel N.V. 11.08.2021 Industrielaan 21 2250 Olen Belgium\nData di scadenza o termine minimo di conservazione: 23-08-2021\nDescrizione peso/volume unità di vendita: VACUUM PACKED\nMotivo del richiamo:\nEscherichia coli produttori di Shiga-tossine (E.coli STEC)\nAvvertenze:\nNon consumare e restituire al punto vendita.\n×²­»®·®» ·³³¿¹·²» «²±æ ×²­»®·®» ·³³¿¹·²» ¼«»æ"
+ },
+ "prima_rilevazione": "2026-10-25T08:44:27+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:44:27+00:00"
+}

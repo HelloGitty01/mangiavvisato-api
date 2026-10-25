@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-vegetale-polvere-brodo-e-condimento/",
+ "titolo": "Preparato vegetale in polvere per brodo e condimento",
+ "data_pubblicazione": "2021-09-29",
+ "marca": "(prodotto per l'industria)",
+ "denominazione": "Preparato vegetale in polvere per brodo e condimento",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/94010_MrMix_7.5KG_1761188636.pdf",
+ "allegati": [
+  {
+   "titolo": "94010_MrMix_7.5KG_1761188636.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/94010_MrMix_7.5KG_1761188636.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "preparato-vegetale-polvere-brodo-e-condimento",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Preparato vegetale in polvere per brodo e condimento",
+  "operatore": "Dialcos Spa",
+  "lotti": [
+   "020349",
+   "021179"
+  ],
+  "marchio_identificazione": "Dialcos",
+  "produttore": "Dialcos Spa",
+  "sede_stabilimento": "Due Carrare (PD), Via Veneto 27",
+  "scadenza": "06/22, 12/22",
+  "peso_volume": "7.5kg",
+  "motivo_esteso": "Possibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta Per informazione contattare alert@dialcos.it",
+  "avvertenze": "Prodotto non adatto al consumo da parte di persone allergiche all' ARACHIDE. IL LOTTO E LA SCADENZA SI TROVANO SULL'ETICHETTA.",
+  "campi_extra": {
+   "Data": "24/09/21 Marchio del prodotto: (prodotto per l'industria)"
+  },
+  "testo": "RICHIAMO\nData: 24/09/21 Marchio del prodotto: (prodotto per l'industria)\nDenominazione di vendita:Preparato vegetale in polvere per brodo e condimento\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Dialcos Spa\ncommercializzato:\nLotto di produzione: 020349, 021179\nMarchio di identificazione dello stabilimento/del produttore: Dialcos\nNome del produttore: Dialcos Spa\nSede dello stabilimento: Due Carrare (PD), Via Veneto 27\nData di scadenza o termine minimo di conservazione: 06/22, 12/22\nDescrizione peso/volume unità di vendita: 7.5kg\nMotivo del richiamo:\nPossibile presenza di ARACHIDE quale sostanza allergizzante - non dichiarato in etichetta\nPer informazione contattare alert@dialcos.it\nAvvertenze:\nProdotto non adatto al consumo da parte di persone allergiche all' ARACHIDE.\nIL LOTTO E LA SCADENZA SI TROVANO SULL'ETICHETTA."
+ },
+ "prima_rilevazione": "2026-10-25T08:39:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:39:39+00:00"
+}

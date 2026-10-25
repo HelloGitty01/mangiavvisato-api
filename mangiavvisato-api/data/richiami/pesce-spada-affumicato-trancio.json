@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-spada-affumicato-trancio/",
+ "titolo": "Pesce spada affumicato Trancio",
+ "data_pubblicazione": "2021-02-15",
+ "marca": "Riunione Industrie Alimentari srl",
+ "denominazione": "Pesce spada affumicato Trancio",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.3%20Ria_Cartello%20di%20Richiamo_1761185249.pdf",
+ "allegati": [
+  {
+   "titolo": "all.3 Ria_Cartello di Richiamo_1761185249.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.3%20Ria_Cartello%20di%20Richiamo_1761185249.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pesce-spada-affumicato-trancio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:59:15+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:15+00:00"
+}

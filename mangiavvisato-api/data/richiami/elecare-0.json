@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare-0/",
+ "titolo": "Elecare",
+ "data_pubblicazione": "2022-02-24",
+ "marca": "Similac",
+ "denominazione": "Elecare",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_2b_1761190346.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Elecare_2b_1761190346.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_2b_1761190346.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "elecare-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Elecare",
+  "operatore": "ABBOTT SRL",
+  "lotti": [
+   "27930Z20"
+  ],
+  "produttore": "Abbott Nutrition",
+  "sede_stabilimento": "901 North Centerville Road Sturgis, Michigan 49091 - USA",
+  "scadenza": "30-09-2022",
+  "peso_volume": "Barattolo in alluminio da 400 grammi.",
+  "motivo_esteso": "A scopo precauzionale e volontario si è ravvisata l'esigenza di avviare il presente richiamo di prodotto a seguito di quattro reclami dei consumatori negli Stati Uniti relativi a Cronobacter sakazakii o Salmonella Newport in neonati che avevano consumato alimenti in polvere per lattanti prodotti in questa struttura.",
+  "avvertenze": "Gentile Cliente, se hai acquistato 'EleCare' del lotto oggetto di questo avviso, non utilizzarlo e restituiscilo al punto vendita. Per ogni ulteriore informazione contatta il tuo Pediatra o la Ditta Abbott al Numero Verde: 800-025538 Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "24/02/2022 Marchio del prodotto: Similac",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 24/02/2022 Marchio del prodotto: Similac\nDenominazione di vendita:Elecare\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ABBOTT SRL\ncommercializzato:\nLotto di produzione: 27930Z20\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Abbott Nutrition\nSede dello stabilimento: 901 North Centerville Road Sturgis, Michigan 49091 - USA\nData di scadenza o termine minimo di conservazione: 30-09-2022\nDescrizione peso/volume unità di vendita: Barattolo in alluminio da 400 grammi.\nMotivo del richiamo:\nA scopo precauzionale e volontario si è ravvisata l'esigenza di avviare il presente richiamo di prodotto a\nseguito di quattro reclami dei consumatori negli Stati Uniti relativi a Cronobacter sakazakii o Salmonella\nNewport in neonati che avevano consumato alimenti in polvere per lattanti prodotti in questa struttura.\nAvvertenze:\nGentile Cliente, se hai acquistato 'EleCare' del lotto oggetto di questo avviso, non utilizzarlo e restituiscilo\nal punto vendita.\nPer ogni ulteriore informazione contatta il tuo Pediatra o la Ditta Abbott al Numero Verde: 800-025538\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:30:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:30:47+00:00"
+}

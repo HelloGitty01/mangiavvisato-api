@@ -1,0 +1,44 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cf-g300-plateau-form-francesi/",
+ "titolo": "CF G300 PLATEAU FORM FRANCESI",
+ "data_pubblicazione": "2021-12-11",
+ "marca": "ENTREMONT ITALIA SRL",
+ "denominazione": "CF G300 PLATEAU FORM FRANCESI",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Plateau%20formaggi%20_1__1761189593.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Plateau formaggi _1__1761189593.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Plateau%20formaggi%20_1__1761189593.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cf-g300-plateau-form-francesi",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CF G300 PLATEAU FORM FRANCESI",
+  "operatore": "ENTREMONT ITALIA SRL",
+  "lotti": [
+   "L 21327123",
+   "L 21328124",
+   "L 21329125"
+  ],
+  "marchio_identificazione": "FR 31.582.001 CE",
+  "produttore": "ENTREMONT ITALIA SRL",
+  "sede_stabilimento": "Villefranche-de-Lauragais",
+  "scadenza": "4, 5, 6 Gen 2022",
+  "peso_volume": "300g",
+  "motivo_esteso": "Riscontro di Listeria Monocytogenes",
+  "avvertenze": "Non consumare e riportare i prodotti in punto vendita, muniti di fattura di acquisto. Coloro che hanno già consumato i prodotti e presentano una sintomatologia tipo febbre, mal di testa, dolori muscolari, si consiglia di contattare il proprio medico di base. ×²­»®·®» ·³³ ¹·²» «²±æ ×²­»®·®» ·³³ ¹·²» ¼«»æ",
+  "campi_extra": {
+   "Data": "07/12/21 Marchio del prodotto: Entremont Terroirs & Sélection"
+  },
+  "testo": "RICHIAMO\nData: 07/12/21 Marchio del prodotto: Entremont Terroirs & Sélection\nDenominazione di vendita:CF G300 PLATEAU FORM FRANCESI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ENTREMONT ITALIA SRL\ncommercializzato:\nLotto di produzione: L 21327123; L 21328124; L 21329125\nMarchio di identificazione dello stabilimento/del produttore: FR 31.582.001 CE\nNome del produttore: ENTREMONT ITALIA SRL\nSede dello stabilimento: Villefranche-de-Lauragais\nData di scadenza o termine minimo di conservazione: 4, 5, 6 Gen 2022\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nRiscontro di Listeria Monocytogenes\nAvvertenze:\nNon consumare e riportare i prodotti in punto vendita, muniti di fattura di acquisto.\nColoro che hanno già consumato i prodotti e presentano una sintomatologia tipo febbre, mal di testa,\ndolori muscolari, si consiglia di contattare il proprio medico di base.\n×²­»®·®» ·³³¿¹·²» «²±æ ×²­»®·®» ·³³¿¹·²» ¼«»æ"
+ },
+ "prima_rilevazione": "2026-10-25T08:33:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:03+00:00"
+}

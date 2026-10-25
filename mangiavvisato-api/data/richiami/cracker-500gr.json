@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cracker-500gr/",
+ "titolo": "CRACKER 500gr",
+ "data_pubblicazione": "2021-08-11",
+ "marca": "CRACKER BENNET",
+ "denominazione": "CRACKER 500gr",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker_Bennet_Crich%206031_1761187608.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo cracker_Bennet_Crich 6031_1761187608.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cracker_Bennet_Crich%206031_1761187608.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cracker-500gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:46:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:46:25+00:00"
+}

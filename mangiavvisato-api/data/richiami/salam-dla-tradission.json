@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salam-dla-tradission/",
+ "titolo": "SALAM D'LA TRADISSION",
+ "data_pubblicazione": "2020-12-31",
+ "marca": "I SALAM 'D GIORS",
+ "denominazione": "SALAM D'LA TRADISSION",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1761184387.pdf",
+ "allegati": [
+  {
+   "titolo": "Allegato_1761184387.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1761184387.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salam-dla-tradission",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:01:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:01:09+00:00"
+}

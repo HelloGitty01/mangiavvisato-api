@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/galantina-specialita-gastronomica-base-di-tacchino-e-mortadella/",
+ "titolo": "Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+ "data_pubblicazione": "2021-02-04",
+ "marca": "King",
+ "denominazione": "Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20Galantina_sc%2024_02_2021_1761185193.pdf",
+ "allegati": [
+  {
+   "titolo": "Carterllo richiamo _ Galantina_sc 24_02_2021_1761185193.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carterllo%20richiamo%20_%20Galantina_sc%2024_02_2021_1761185193.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "galantina-specialita-gastronomica-base-di-tacchino-e-mortadella",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Galantina - Specialità Gastronomica a base di tacchino e mortadella",
+  "operatore": "GI Gastronomia Italiana",
+  "lotti": [
+   "03246664"
+  ],
+  "marchio_identificazione": "via del Commercio Associato 13 , 40127 Bologna",
+  "produttore": "GI Gastronomia Italiana",
+  "sede_stabilimento": "via del Commercio Associato 13 , 40127 Bologna",
+  "scadenza": "24-02-2021",
+  "peso_volume": "vaschetta termosaldata da 200 g",
+  "motivo_esteso": "presenza accidentale di pistacchio derivante da materia prima non dichiarato in etichetta",
+  "avvertenze": "non consumare se allergici a frutta a guscio (pistacchio) , in tal caso riportare il prodotto al negozio. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "01/02/2021 Marchio del prodotto: King",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 01/02/2021 Marchio del prodotto: King\nDenominazione di vendita:Galantina - Specialità Gastronomica a base di tacchino e mortadella\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GI Gastronomia Italiana\ncommercializzato:\nLotto di produzione: 03246664\nMarchio di identificazione dello stabilimento/del produttore: via del Commercio Associato 13 , 40127 Bologna\nNome del produttore: GI Gastronomia Italiana\nSede dello stabilimento: via del Commercio Associato 13 , 40127 Bologna\nData di scadenza o termine minimo di conservazione: 24-02-2021\nDescrizione peso/volume unità di vendita: vaschetta termosaldata da 200 g\nMotivo del richiamo:\npresenza accidentale di pistacchio derivante da materia prima non dichiarato in etichetta\nAvvertenze:\nnon consumare se allergici a frutta a guscio (pistacchio) , in tal caso riportare il prodotto al negozio.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:59:52+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:59:52+00:00"
+}

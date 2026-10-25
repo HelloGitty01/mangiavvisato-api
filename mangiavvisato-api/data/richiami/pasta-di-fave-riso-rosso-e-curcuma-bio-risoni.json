@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-fave-riso-rosso-e-curcuma-bio-risoni/",
+ "titolo": "Pasta di fave, riso rosso e curcuma bio - risoni",
+ "data_pubblicazione": "2021-08-24",
+ "marca": "PASTIFICIO FIORENTINO RENAISSANCE",
+ "denominazione": "Pasta di fave, riso rosso e curcuma bio - risoni",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_RISONI_3_1761187779.pdf",
+ "allegati": [
+  {
+   "titolo": "FAVE_RISONI_3_1761187779.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/FAVE_RISONI_3_1761187779.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "pasta-di-fave-riso-rosso-e-curcuma-bio-risoni",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:44:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:44:13+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-ai-cranberries-bio/",
+ "titolo": "BARRETTA AI CRANBERRIES BIO",
+ "data_pubblicazione": "2020-12-30",
+ "marca": "TASTE OF NATURE",
+ "denominazione": "BARRETTA AI CRANBERRIES BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_ministero_cranberries_1761184292.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_ministero_cranberries_1761184292.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_ministero_cranberries_1761184292.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "barretta-ai-cranberries-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T09:01:11+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:01:11+00:00"
+}

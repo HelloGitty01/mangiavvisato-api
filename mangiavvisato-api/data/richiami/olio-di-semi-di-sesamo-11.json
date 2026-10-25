@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olio-di-semi-di-sesamo-11/",
+ "titolo": "Olio di semi di sesamo",
+ "data_pubblicazione": "2020-12-03",
+ "marca": "ETHNOS",
+ "denominazione": "Olio di semi di sesamo",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00844001_MODELLOMINISTERIALE_1761183289.pdf",
+ "allegati": [
+  {
+   "titolo": "L00844001_MODELLOMINISTERIALE_1761183289.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/L00844001_MODELLOMINISTERIALE_1761183289.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "olio-di-semi-di-sesamo-11",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Olio di semi di sesamo",
+  "operatore": "Pietro Coricelli Spa",
+  "lotti": [
+   "L00844001"
+  ],
+  "marchio_identificazione": "Pietro Coricelli",
+  "produttore": "Pietro Coricelli",
+  "sede_stabilimento": "Loc. Madonna di Lugo n. 44, 06049 Spoleto (PG)",
+  "scadenza": "24-03-2022",
+  "peso_volume": "250 ml",
+  "motivo_esteso": "Potenziale presenza di Ossido di etilene con valori oltre al limite",
+  "avvertenze": "Si prega di Non consumare i prodotti e riportarli al punto vendita.",
+  "campi_extra": {
+   "Data": "01/12/2020 Marchio del prodotto: ETHNOS"
+  },
+  "testo": "RICHIAMO\nData: 01/12/2020 Marchio del prodotto: ETHNOS\nDenominazione di vendita:Olio di semi di sesamo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Pietro Coricelli Spa\ncommercializzato:\nLotto di produzione: L00844001\nMarchio di identificazione dello stabilimento/del produttore: Pietro Coricelli\nNome del produttore: Pietro Coricelli\nSede dello stabilimento: Loc. Madonna di Lugo n. 44, 06049 Spoleto (PG)\nData di scadenza o termine minimo di conservazione: 24-03-2022\nDescrizione peso/volume unità di vendita: 250 ml\nMotivo del richiamo:\nPotenziale presenza di Ossido di etilene con valori oltre al limite\nAvvertenze:\nSi prega di Non consumare i prodotti e riportarli al punto vendita."
+ },
+ "prima_rilevazione": "2026-10-25T09:05:02+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:02+00:00"
+}

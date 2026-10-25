@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-sesamo-prod-biologico-conf-180g/",
+ "titolo": "SEMI DI SESAMO prod. biologico conf. 180g",
+ "data_pubblicazione": "2021-07-16",
+ "marca": "SARCHIO SPA",
+ "denominazione": "SEMI DI SESAMO prod. biologico conf. 180g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SEMI%20DI%20SESAMO%20ditta%20Sarchio%20Carpi%20Modena_1761186729.pdf",
+ "allegati": [
+  {
+   "titolo": "MODULO RICHIAMO SEMI DI SESAMO ditta Sarchio Carpi Modena_1761186729.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SEMI%20DI%20SESAMO%20ditta%20Sarchio%20Carpi%20Modena_1761186729.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "semi-di-sesamo-prod-biologico-conf-180g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SEMI DI SESAMO",
+  "operatore": "SARCHIO SPA",
+  "lotti": [
+   "204431"
+  ],
+  "marchio_identificazione": "SARCHIO SPA",
+  "produttore": "SARCHIO SPA",
+  "sede_stabilimento": "VIA DEI TRASPORTI 22-28, 41012, CARPI (MO)",
+  "scadenza": "31-07-2022",
+  "peso_volume": "180 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE",
+  "avvertenze": "SI INVITA A RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE PRESSO IL PRESENTE PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "14/07/2021 Marchio del prodotto: SARCHIO SPA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 14/07/2021 Marchio del prodotto: SARCHIO SPA\nDenominazione di vendita:SEMI DI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SARCHIO SPA\ncommercializzato:\nLotto di produzione: 204431\nMarchio di identificazione dello stabilimento/del produttore: SARCHIO SPA\nNome del produttore: SARCHIO SPA\nSede dello stabilimento: VIA DEI TRASPORTI 22-28, 41012, CARPI (MO)\nData di scadenza o termine minimo di conservazione: 31-07-2022\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE\nAvvertenze:\nSI INVITA A RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE PRESSO IL PRESENTE PUNTO\nVENDITA\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:50:59+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:50:59+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-sesamo/",
+ "titolo": "SFORNATINI SESAMO",
+ "data_pubblicazione": "2021-02-18",
+ "marca": "LA MOLE",
+ "denominazione": "SFORNATINI SESAMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201020_1761185270.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo L201020_1761185270.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201020_1761185270.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sfornatini-sesamo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SFORNATINI SESAMO",
+  "operatore": "F.lli Milan Srl - LA MOLE",
+  "lotti": [
+   "L201020"
+  ],
+  "marchio_identificazione": "LA MOLE",
+  "produttore": "Str. Leinì 16 - 10072 Caselle T.se (TO)",
+  "sede_stabilimento": "Caselle T.se (TO)",
+  "scadenza": "20-10-2021",
+  "peso_volume": "200g",
+  "motivo_esteso": "Riscio chimico : possobile presenza di ossido di etielene nei semi di sesamo oltre i limiti di legge",
+  "avvertenze": "Si prega i consumatori di non consumare il prodotto con il lotto indicato e di riportare indietro eventuali confezioni acquistate.",
+  "campi_extra": {
+   "Data": "08/02/2021 Marchio del prodotto: LA MOLE",
+   "Riscio chimico": "possobile presenza di ossido di etielene nei semi di sesamo oltre i limiti di legge"
+  },
+  "testo": "RICHIAMO\nData: 08/02/2021 Marchio del prodotto: LA MOLE\nDenominazione di vendita:SFORNATINI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli Milan Srl - LA MOLE\ncommercializzato:\nLotto di produzione: L201020\nMarchio di identificazione dello stabilimento/del produttore: LA MOLE\nNome del produttore: Str. Leinì 16 - 10072 Caselle T.se (TO)\nSede dello stabilimento: Caselle T.se (TO)\nData di scadenza o termine minimo di conservazione: 20-10-2021\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nRiscio chimico : possobile presenza di ossido di etielene nei semi di sesamo oltre i limiti di legge\nAvvertenze:\nSi prega i consumatori di non consumare il prodotto con il lotto indicato e di riportare indietro eventuali\nconfezioni acquistate."
+ },
+ "prima_rilevazione": "2026-10-25T08:58:51+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:51+00:00"
+}

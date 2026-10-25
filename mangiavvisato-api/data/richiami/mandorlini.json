@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorlini/",
+ "titolo": "Mandorlini",
+ "data_pubblicazione": "2021-07-14",
+ "marca": "Di Mauro",
+ "denominazione": "Mandorlini",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20%20mandorlini%20STRANEODOLCIUMI_1761186712.pdf",
+ "allegati": [
+  {
+   "titolo": "cartellorichiamo  mandorlini STRANEODOLCIUMI_1761186712.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellorichiamo%20%20mandorlini%20STRANEODOLCIUMI_1761186712.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "mandorlini",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:51:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:09+00:00"
+}

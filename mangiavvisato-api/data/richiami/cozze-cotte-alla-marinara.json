@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cotte-alla-marinara/",
+ "titolo": "COZZE COTTE ALLA MARINARA",
+ "data_pubblicazione": "2021-09-09",
+ "marca": "MARINSIEME IDEA",
+ "denominazione": "COZZE COTTE ALLA MARINARA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ID7701%20Marinara%20Marinsieme%20richiamo%20040921_1761188462.pdf",
+ "allegati": [
+  {
+   "titolo": "ID7701 Marinara Marinsieme richiamo 040921_1761188462.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ID7701%20Marinara%20Marinsieme%20richiamo%20040921_1761188462.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "cozze-cotte-alla-marinara",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:42:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:42:25+00:00"
+}

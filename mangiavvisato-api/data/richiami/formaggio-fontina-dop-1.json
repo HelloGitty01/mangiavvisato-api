@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-fontina-dop-1/",
+ "titolo": "Formaggio Fontina DOP",
+ "data_pubblicazione": "2020-11-12",
+ "marca": "Fontina DOP ITALIAMO\nC280\nIT 02 2 CE\nPreconfezionato 250g ATP\nTMC 08-12-2020",
+ "denominazione": "Formaggio Fontina DOP",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Lidl_1761183084.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello_richiamo_Lidl_1761183084.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Lidl_1761183084.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "formaggio-fontina-dop-1",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio Fontina DOP",
+  "operatore": "Lidl Italia S.r.l.",
+  "lotti": [
+   "C280"
+  ],
+  "marchio_identificazione": "IT 02 2 CE",
+  "produttore": "Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.",
+  "sede_stabilimento": "Loc. La Croix-Noire - rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)",
+  "scadenza": "08-12-2020",
+  "peso_volume": "Preconfezionato 250g ATP",
+  "motivo_esteso": "Rischio microbiologico per presenza di E.coli STEC",
+  "avvertenze": "Fontina D.O.P. ITALIAMO confezione in ATP da 250g.",
+  "campi_extra": {
+   "Data": "12/11/2020 Marchio del prodotto: Fontina DOP ITALIAMO",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 12/11/2020 Marchio del prodotto: Fontina DOP ITALIAMO\nDenominazione di vendita:Formaggio Fontina DOP\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Lidl Italia S.r.l.\ncommercializzato:\nLotto di produzione: C280\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.\nSede dello stabilimento: Loc. La Croix-Noire - rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)\nData di scadenza o termine minimo di conservazione: 08-12-2020\nDescrizione peso/volume unità di vendita: Preconfezionato 250g ATP\nMotivo del richiamo:\nRischio microbiologico per presenza di E.coli STEC\nAvvertenze:\nFontina D.O.P. ITALIAMO confezione in ATP da 250g.\nLotto C280\nSi prega di non consumare il prodotto e di renderlo al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:08:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:08:00+00:00"
+}

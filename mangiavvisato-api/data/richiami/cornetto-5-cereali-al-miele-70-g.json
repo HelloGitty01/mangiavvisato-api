@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornetto-5-cereali-al-miele-70-g/",
+ "titolo": "Cornetto 5 cereali al miele 70 g",
+ "data_pubblicazione": "2020-11-06",
+ "marca": "San Giorgio S.p.A.",
+ "denominazione": "Cornetto 5 cereali al miele 70 g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20GiorgioC2104_1761182401.pdf",
+ "allegati": [
+  {
+   "titolo": "San GiorgioC2104_1761182401.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20GiorgioC2104_1761182401.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "cornetto-5-cereali-al-miele-70-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Cornetto 5 cereali al miele 70 g",
+  "operatore": "San Giorgio S.p.A.",
+  "lotti": [
+   "L20202"
+  ],
+  "marchio_identificazione": "San Giorgio S.p.A.",
+  "produttore": "San Giorgio S.p.A.",
+  "sede_stabilimento": "Via Giliberto Petti, 10/II Castel San Giorgio (SA)",
+  "scadenza": "16-01-2021",
+  "peso_volume": "7000g - 100 pezzi da 70 g",
+  "motivo_esteso": "Allerta RASFF rif. 2020.3678 e successive - Sostanza non autorizzata ossido di etilene nei semi di sesamo provenienti dall'India",
+  "avvertenze": "Per ulteriori info contattare la San Giorgio S.p.A. al numero 0819535124 int.104",
+  "campi_extra": {
+   "Data": "05/11/2020 Marchio del prodotto: San Giorgio S.p.A."
+  },
+  "testo": "RICHIAMO\nData: 05/11/2020 Marchio del prodotto: San Giorgio S.p.A.\nDenominazione di vendita:Cornetto 5 cereali al miele 70 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è San Giorgio S.p.A.\ncommercializzato:\nLotto di produzione: L20202\nMarchio di identificazione dello stabilimento/del produttore: San Giorgio S.p.A.\nNome del produttore: San Giorgio S.p.A.\nSede dello stabilimento: Via Giliberto Petti, 10/II Castel San Giorgio (SA)\nData di scadenza o termine minimo di conservazione: 16-01-2021\nDescrizione peso/volume unità di vendita: 7000g - 100 pezzi da 70 g\nMotivo del richiamo:\nAllerta RASFF rif. 2020.3678 e successive - Sostanza non autorizzata ossido di etilene nei semi di sesamo\nprovenienti dall'India\nAvvertenze:\nPer ulteriori info contattare la San Giorgio S.p.A. al numero 0819535124 int.104"
+ },
+ "prima_rilevazione": "2026-10-25T09:08:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:08:33+00:00"
+}

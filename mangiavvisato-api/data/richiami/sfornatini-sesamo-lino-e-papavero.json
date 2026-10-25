@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfornatini-sesamo-lino-e-papavero/",
+ "titolo": "SFORNATINI SESAMO, LINO E PAPAVERO",
+ "data_pubblicazione": "2021-02-18",
+ "marca": "LA MOLE",
+ "denominazione": "SFORNATINI SESAMO, LINO E PAPAVERO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201021_1761185273.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo L201021_1761185273.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20L201021_1761185273.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "sfornatini-sesamo-lino-e-papavero",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SFORNATINI SESAMO, LINO E PAPAVERO",
+  "operatore": "F.lli Milan Srl - LA MOLE",
+  "lotti": [
+   "L201021"
+  ],
+  "marchio_identificazione": "LA MOLE",
+  "produttore": "Str. Leinì 16, 10072 Caselle T.se (TO)",
+  "sede_stabilimento": "Caselle T.se (TO)",
+  "scadenza": "21-10-2021",
+  "peso_volume": "125g",
+  "motivo_esteso": "Rischio chimico: possibile presenza di ossido di etilene nei semi di sesamo oltre i limi di legge",
+  "avvertenze": "Si chiede ai consumatori di non consumare il prodotto con il lotto in oggetto e di riportare indietro eventuali confezioni",
+  "campi_extra": {
+   "Data": "09/02/2021 Marchio del prodotto: LA MOLE",
+   "Rischio chimico": "possibile presenza di ossido di etilene nei semi di sesamo oltre i limi di legge"
+  },
+  "testo": "RICHIAMO\nData: 09/02/2021 Marchio del prodotto: LA MOLE\nDenominazione di vendita:SFORNATINI SESAMO, LINO E PAPAVERO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli Milan Srl - LA MOLE\ncommercializzato:\nLotto di produzione: L201021\nMarchio di identificazione dello stabilimento/del produttore: LA MOLE\nNome del produttore: Str. Leinì 16, 10072 Caselle T.se (TO)\nSede dello stabilimento: Caselle T.se (TO)\nData di scadenza o termine minimo di conservazione: 21-10-2021\nDescrizione peso/volume unità di vendita: 125g\nMotivo del richiamo:\nRischio chimico: possibile presenza di ossido di etilene nei semi di sesamo oltre i limi di legge\nAvvertenze:\nSi chiede ai consumatori di non consumare il prodotto con il lotto in oggetto e di riportare indietro\neventuali confezioni"
+ },
+ "prima_rilevazione": "2026-10-25T08:58:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:53+00:00"
+}

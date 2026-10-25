@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-classico-bio-fresco/",
+ "titolo": "BURGER CLASSICO BIO FRESCO",
+ "data_pubblicazione": "2021-07-30",
+ "marca": "DESPAR VEGGIE",
+ "denominazione": "BURGER CLASSICO BIO FRESCO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_BURGER_RIEPILOGO_1761187525.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_BURGER_RIEPILOGO_1761187525.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_BURGER_RIEPILOGO_1761187525.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "burger-classico-bio-fresco",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BURGER CLASSICO BIO FRESCO",
+  "operatore": "DESPAR ITALIA C.A.R.L.",
+  "lotti": [
+   "VEDI AVVERTENZE"
+  ],
+  "marchio_identificazione": "KIOENE",
+  "produttore": "KIOENE S.p.a",
+  "sede_stabilimento": "VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO",
+  "scadenza": "V. AVVERTENZE",
+  "peso_volume": "160 g",
+  "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI DI AUTOCONTROLLO.",
+  "avvertenze": "INVITIAMO IL CONSUMATORE DI RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.",
+  "campi_extra": {
+   "Data": "26/07/21 Marchio del prodotto: DESPAR VEGGIE"
+  },
+  "testo": "RICHIAMO\nData: 26/07/21 Marchio del prodotto: DESPAR VEGGIE\nDenominazione di vendita:BURGER CLASSICO BIO FRESCO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DESPAR ITALIA C.A.R.L.\ncommercializzato:\nLotto di produzione: VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: KIOENE\nNome del produttore: KIOENE S.p.a\nSede dello stabilimento: VIA CALTANA 43, VILLANOVA DI CAMPOSAMPIERO\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: 160 g\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE IN MATERIA PRIMA UTILIZZATA RISCONTRATA A SEGUITO DI ANALISI\nDI AUTOCONTROLLO.\nAvvertenze:\nINVITIAMO IL CONSUMATORE DI RIPORTARE AL PUNTO VENDITA PER LA SOSTITUZIONE.\nLOTTI:F600317-SCAD.04/08/21, F600359-SCAD. 06/08/21, F600419-SCAD. 11/08/21, F600465-\nSCAD.13/08/21, F600535-SCAD. 18/08/21, F600568-SCAD.20/08/21"
+ },
+ "prima_rilevazione": "2026-10-25T08:47:47+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:47:47+00:00"
+}

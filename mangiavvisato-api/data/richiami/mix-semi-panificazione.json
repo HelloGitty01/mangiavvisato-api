@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-semi-panificazione/",
+ "titolo": "mix semi panificazione",
+ "data_pubblicazione": "2021-03-19",
+ "marca": "Fertiltecnica Colfiorito",
+ "denominazione": "mix semi panificazione",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Mix%20semi%20per%20panificazione%20150%20g%20L2013216_L%202015616_1761185984.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello di richiamo Mix semi per panificazione 150 g L2013216_L 2015616_1761185984.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20Mix%20semi%20per%20panificazione%20150%20g%20L2013216_L%202015616_1761185984.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mix-semi-panificazione",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Semi Mix per Panificazione g 150",
+  "operatore": "Fertitecnica Colfiorito srl",
+  "lotti": [
+   "2013216 - 2015616"
+  ],
+  "produttore": "Fertitecnica Colfiorito",
+  "sede_stabilimento": "Via Grazia Deledda 36-38, Montecassiano (MC)",
+  "scadenza": "30/5/21-30/6/21",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza di ossido di etilene",
+  "avvertenze": "Si invitano i consumatori in possesso dei seguenti lotti oggetto di richiamo a NON consumare il prodotto e a riportarlo presso il punto vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/03/2021 Marchio del prodotto: Colfiorito",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 02/03/2021 Marchio del prodotto: Colfiorito\nDenominazione di vendita:Semi Mix per Panificazione g 150\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Fertitecnica Colfiorito srl\ncommercializzato:\nLotto di produzione: 2013216 - 2015616\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Fertitecnica Colfiorito\nSede dello stabilimento: Via Grazia Deledda 36-38, Montecassiano (MC)\nData di scadenza o termine minimo di conservazione: 30/5/21-30/6/21\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza di ossido di etilene\nAvvertenze:\nSi invitano i consumatori in possesso dei seguenti lotti oggetto di richiamo a NON consumare il prodotto e\na riportarlo presso il punto vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:56:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:56:33+00:00"
+}

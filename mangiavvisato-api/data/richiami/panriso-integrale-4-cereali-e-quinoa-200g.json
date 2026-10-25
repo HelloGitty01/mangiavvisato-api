@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panriso-integrale-4-cereali-e-quinoa-200g/",
+ "titolo": "PANRISO INTEGRALE 4 CEREALI E QUINOA - 200g",
+ "data_pubblicazione": "2020-12-02",
+ "marca": "RISO SCOTTI S.p.A.",
+ "denominazione": "PANRISO INTEGRALE 4 CEREALI E QUINOA - 200g",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PANRISO%20Allerta%20Sesamo%20CARTELLO%20Richiamo_1761183220.pdf",
+ "allegati": [
+  {
+   "titolo": "PANRISO Allerta Sesamo CARTELLO Richiamo_1761183220.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PANRISO%20Allerta%20Sesamo%20CARTELLO%20Richiamo_1761183220.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panriso-integrale-4-cereali-e-quinoa-200g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANRISO INTEGRALE 4 CEREALI E QUINOA - 200 g.",
+  "operatore": "RISO SCOTTI S.p.A.",
+  "lotti": [
+   "10/03/21"
+  ],
+  "marchio_identificazione": "RISO SCOTTI",
+  "produttore": "ALPIPAN S.r.l.",
+  "sede_stabilimento": "ALTOPASCIO (LU) - Via Provinciale Romana 18/D, Località Palandri",
+  "scadenza": "10/03/21",
+  "peso_volume": "200 g.",
+  "motivo_esteso": "Potenziale presenza della sostanza Ossido di Etilene oltre i limiti di legge.",
+  "avvertenze": "In caso di richieste, inviare un messaggio email al seguente indirizzo: laboratorio@risoscotti.it",
+  "campi_extra": {
+   "Data": "30/11/2020 Marchio del prodotto: RISO SCOTTI"
+  },
+  "testo": "RICHIAMO\nData: 30/11/2020 Marchio del prodotto: RISO SCOTTI\nDenominazione di vendita:PANRISO INTEGRALE 4 CEREALI E QUINOA - 200 g.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RISO SCOTTI S.p.A.\ncommercializzato:\nLotto di produzione: 10/03/21\nMarchio di identificazione dello stabilimento/del produttore: RISO SCOTTI\nNome del produttore: ALPIPAN S.r.l.\nSede dello stabilimento: ALTOPASCIO (LU) - Via Provinciale Romana 18/D, Località Palandri\nData di scadenza o termine minimo di conservazione: 10/03/21\nDescrizione peso/volume unità di vendita: 200 g.\nMotivo del richiamo:\nPotenziale presenza della sostanza Ossido di Etilene oltre i limiti di legge.\nAvvertenze:\nIn caso di richieste, inviare un messaggio email al seguente indirizzo:\nlaboratorio@risoscotti.it"
+ },
+ "prima_rilevazione": "2026-10-25T09:05:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:05:24+00:00"
+}

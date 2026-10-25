@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stoccafisso-reidratato-0/",
+ "titolo": "Stoccafisso reidratato",
+ "data_pubblicazione": "2022-05-24",
+ "marca": "Antonio Verrini srl",
+ "denominazione": "Stoccafisso reidratato",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Verrini_1761191226.pdf",
+ "allegati": [
+  {
+   "titolo": "modulo richiamo Verrini_1761191226.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Verrini_1761191226.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "stoccafisso-reidratato-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": "IT T4J7E CE"
+ },
+ "prima_rilevazione": "2026-10-25T08:26:24+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:26:24+00:00"
+}

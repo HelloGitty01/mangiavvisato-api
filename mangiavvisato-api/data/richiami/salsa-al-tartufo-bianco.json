@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-al-tartufo-bianco/",
+ "titolo": "SALSA AL TARTUFO BIANCO",
+ "data_pubblicazione": "2021-07-22",
+ "marca": "FILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL TRONTO (AP)",
+ "denominazione": "SALSA AL TARTUFO BIANCO",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Filotei_1761186799.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello richiamo Filotei_1761186799.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Filotei_1761186799.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsa-al-tartufo-bianco",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALSA AL TARTUFO BIANCO",
+  "operatore": "FILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL TRONTO (AP)",
+  "lotti": [
+   "V0616"
+  ],
+  "marchio_identificazione": "IT 9-2740/L",
+  "produttore": "ATHENOR SRL",
+  "sede_stabilimento": "LOC. PONTE SARGANO 06040 CERRETO DI SPOLETO (PG) di produzione",
+  "scadenza": "16/06/24",
+  "peso_volume": "VASETTO DA 90G",
+  "motivo_esteso": "UTILIZZATO UN INGREDIENTE (BURRO) CONTENENTE ALLERGENI NON DICHIARATI",
+  "campi_extra": {
+   "Data": "20/07/21 Marchio del prodotto: FILOTEI GROUP"
+  },
+  "testo": "Allegato 2\nRICHIAMO\nData: 20/07/21 Marchio del prodotto: FILOTEI GROUP\nDenominazione di vendita: SALSA AL TARTUFO BIANCO\nNome o ragione sociale dell'OSA\nFILOTEI GROUP SRL-VIA SALARIA 136, 63043 ARQUATA DEL\na nome del quale il prodotto è\nTRONTO (AP)\ncommercializzato:\nLotto di produzione: V0616\nMarchio di identificazione dello stabilimento/del produttore: IT 9-2740/L\nNome del produttore: ATHENOR SRL\nSede dello stabilimento : LOC. PONTE SARGANO 06040 CERRETO DI SPOLETO (PG)\ndi produzione\nData di scadenza o termine minimo di conservazione: 16/06/24\nDescrizione peso/volume unità di vendita: VASETTO DA 90G\nMotivo del richiamo:\nUTILIZZATO UN INGREDIENTE (BURRO) CONTENENTE ALLERGENI NON DICHIARATI\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:49:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:49:48+00:00"
+}

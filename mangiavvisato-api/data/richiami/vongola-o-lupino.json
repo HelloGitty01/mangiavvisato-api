@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-o-lupino/",
+ "titolo": "Vongola o lupino",
+ "data_pubblicazione": "2021-09-24",
+ "marca": "Finittica SRLU",
+ "denominazione": "Vongola o lupino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/0185%20CARTELLO%20RICHIAMO%20LUPINI%20FINITTICA_1761188540.pdf",
+ "allegati": [
+  {
+   "titolo": "0185 CARTELLO RICHIAMO LUPINI FINITTICA_1761188540.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/0185%20CARTELLO%20RICHIAMO%20LUPINI%20FINITTICA_1761188540.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "vongola-o-lupino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VONGOLA O LUPINO (Chamelea gallina)",
+  "operatore": "FINITTICA s.r.l.u",
+  "lotti": [
+   "17F7"
+  ],
+  "marchio_identificazione": "IT 513 CDM CE",
+  "produttore": "FINITTICA s.r.l.u",
+  "sede_stabilimento": "Strada provinciale 21, 44020 Goro (FE)",
+  "scadenza": "n.a.",
+  "peso_volume": "confezione in rete da 3kg suddivisibili in 0,5 kg",
+  "motivo_esteso": "Livelli di Escherichia coli non conformi",
+  "avvertenze": "I CLIENTI CHE AVESSERO ACQUISTATO TALE LOTTO SONO INVITATI A NON CONSUMARLO E RIPORTARE LA CONFEZIONE AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "22/09/2021 Marchio del prodotto: FINITTICA"
+  },
+  "testo": "RICHIAMO\nData: 22/09/2021 Marchio del prodotto: FINITTICA\nDenominazione di vendita:VONGOLA O LUPINO (Chamelea gallina)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FINITTICA s.r.l.u\ncommercializzato:\nLotto di produzione: 17F7\nMarchio di identificazione dello stabilimento/del produttore: IT 513 CDM CE\nNome del produttore: FINITTICA s.r.l.u\nSede dello stabilimento: Strada provinciale 21, 44020 Goro (FE)\nData di scadenza o termine minimo di conservazione: n.a.\nDescrizione peso/volume unità di vendita: confezione in rete da 3kg suddivisibili in 0,5 kg\nMotivo del richiamo:\nLivelli di Escherichia coli non conformi\nAvvertenze:\nI CLIENTI CHE AVESSERO ACQUISTATO TALE LOTTO SONO INVITATI A NON CONSUMARLO E RIPORTARE\nLA CONFEZIONE AL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T08:40:30+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:40:30+00:00"
+}

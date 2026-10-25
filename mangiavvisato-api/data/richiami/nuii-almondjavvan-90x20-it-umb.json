@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuii-almondjavvan-90x20-it-umb/",
+ "titolo": "NUII AlmondJavVan 90x20 IT UMB",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "NUII",
+ "denominazione": "NUII AlmondJavVan 90x20 IT UMB",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31020009%20NUII%20AlmondJavVan%2090x20%20IT_1761188406.pdf",
+ "allegati": [
+  {
+   "titolo": "31020009 NUII AlmondJavVan 90x20 IT_1761188406.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31020009%20NUII%20AlmondJavVan%2090x20%20IT_1761188406.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "nuii-almondjavvan-90x20-it-umb",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "NUII AlmondJavVan 90x20 IT UMB",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "UE1172"
+  ],
+  "produttore": "Froneri Schöller",
+  "sede_stabilimento": "Uelzen",
+  "scadenza": "06/2023",
+  "peso_volume": "67g e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: NUII"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: NUII\nDenominazione di vendita:NUII AlmondJavVan 90x20 IT UMB\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: UE1172\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Schöller\nSede dello stabilimento: Uelzen\nData di scadenza o termine minimo di conservazione: 06/2023\nDescrizione peso/volume unità di vendita: 67g e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:39+00:00"
+}

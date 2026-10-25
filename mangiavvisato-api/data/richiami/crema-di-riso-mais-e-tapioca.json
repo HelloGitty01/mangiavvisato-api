@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-riso-mais-e-tapioca/",
+ "titolo": "Crema di riso, mais e tapioca",
+ "data_pubblicazione": "2020-12-29",
+ "marca": "Via verde bio primia",
+ "denominazione": "Crema di riso, mais e tapioca",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%201_1761184282.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO RICHIAMO 1_1761184282.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%201_1761184282.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crema-di-riso-mais-e-tapioca",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CREMA DI RISO MAIS E TAPIOCA",
+  "operatore": "AGORA’ NETWORK S.C.A.R.L.",
+  "lotti": [
+   "lotti CF",
+   "DF"
+  ],
+  "produttore": "GITTIS NATURPRODUKTE Pöll Beteiligungs- GmbH & Co KG.",
+  "sede_stabilimento": "Halleiner Landesstraße 3 – A - 5412 Puch Austria",
+  "scadenza": "03.12.2021",
+  "peso_volume": "220 gr",
+  "motivo_esteso": "POSSIBILE PRESENZA DELL’ALLERGENE SOIA NON DICHIARATA IN ETICHETTA",
+  "avvertenze": "RITIRO E RICHIAMO DEL PRODOTTO Prodotto non adatto al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori a non consumare il prodotto e a riportarlo presso i punti vendita ove è stato acquistato",
+  "campi_extra": {
+   "Data": "23.12.2020 Marchio del prodotto: VIA VERDE BIO PRIMIA"
+  },
+  "testo": "RICHIAMO\nData: 23.12.2020 Marchio del prodotto: VIA VERDE BIO PRIMIA\nDenominazione di vendita: CREMA DI RISO MAIS E TAPIOCA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AGORA’ NETWORK S.C.A.R.L.\ncommercializzato:\nLotto di produzione: lotti CF e DF\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: GITTIS NATURPRODUKTE Pöll Beteiligungs- GmbH & Co KG.\nSede dello stabilimento: Halleiner Landesstraße 3 – A - 5412 Puch Austria\nData di scadenza o termine minimo di conservazione: 03.12.2021\nDescrizione peso/volume unità di vendita: 220 gr\nMotivo del richiamo:\nPOSSIBILE PRESENZA DELL’ALLERGENE SOIA NON DICHIARATA IN ETICHETTA\nAvvertenze:\nRITIRO E RICHIAMO DEL PRODOTTO\nProdotto non adatto al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori a non consumare il\nprodotto e a riportarlo presso i punti vendita ove è stato acquistato"
+ },
+ "prima_rilevazione": "2026-10-25T09:01:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:01:58+00:00"
+}

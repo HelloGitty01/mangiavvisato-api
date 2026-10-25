@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/melange-di-frutta-g750/",
+ "titolo": "Melange di Frutta g.750",
+ "data_pubblicazione": "2022-03-17",
+ "marca": "Abbasciano",
+ "denominazione": "Melange di Frutta g.750",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Abbasciano%20Melange%20g750_1761190484.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo Abbasciano Melange g750_1761190484.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Abbasciano%20Melange%20g750_1761190484.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "melange-di-frutta-g750",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Melange di Frutta g.750",
+  "operatore": "Abbasciano snc",
+  "lotti": [
+   "38199-054",
+   "38226-056",
+   "38253-060"
+  ],
+  "produttore": "Abbasciano snc",
+  "sede_stabilimento": "Trento, Via 8 Marzo 4",
+  "scadenza": "30-06-2023",
+  "peso_volume": "750 grammi",
+  "motivo_esteso": "Riscontrati livelli di aflatossine ed ocratossine oltre la soglia consentita.",
+  "avvertenze": "Il richiamo interessa solamente l'articolo e la scadenza sopra menzionati. Si prega di non consumare e riportare il prodotto presso il punto vendita di acquisto.",
+  "campi_extra": {
+   "Data": "15/03/2022 Marchio del prodotto: Abbasciano la frutta secca dal 1947"
+  },
+  "testo": "RICHIAMO\nData: 15/03/2022 Marchio del prodotto: Abbasciano la frutta secca dal 1947\nDenominazione di vendita:Melange di Frutta g.750\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Abbasciano snc\ncommercializzato:\nLotto di produzione: 38199-054,38226-056,38253-060\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Abbasciano snc\nSede dello stabilimento: Trento, Via 8 Marzo 4\nData di scadenza o termine minimo di conservazione: 30-06-2023\nDescrizione peso/volume unità di vendita: 750 grammi\nMotivo del richiamo:\nRiscontrati livelli di aflatossine ed ocratossine oltre la soglia consentita.\nAvvertenze:\nIl richiamo interessa solamente l'articolo e la scadenza sopra menzionati. Si prega di non consumare e\nriportare il prodotto presso il punto vendita di acquisto."
+ },
+ "prima_rilevazione": "2026-10-25T08:28:57+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:28:57+00:00"
+}

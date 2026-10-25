@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-di-liquirizia-bio/",
+ "titolo": "Liquore di Liquirizia bio",
+ "data_pubblicazione": "2021-12-14",
+ "marca": "CAFFE' PAZZINI",
+ "denominazione": "Liquore di Liquirizia bio",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20inviato_1761190223.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di Richiamo inviato_1761190223.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20inviato_1761190223.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "liquore-di-liquirizia-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:33:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:33:00+00:00"
+}

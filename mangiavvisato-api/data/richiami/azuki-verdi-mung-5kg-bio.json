@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/azuki-verdi-mung-5kg-bio/",
+ "titolo": "AZUKI VERDI (MUNG) 5KG BIO",
+ "data_pubblicazione": "2022-02-11",
+ "marca": "BONGIOVANNI SRL",
+ "denominazione": "AZUKI VERDI (MUNG) 5KG BIO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "azuki-verdi-mung-5kg-bio",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:31:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:31:17+00:00"
+}

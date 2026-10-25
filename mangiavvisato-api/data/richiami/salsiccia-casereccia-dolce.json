@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-casereccia-dolce/",
+ "titolo": "Salsiccia Casereccia Dolce",
+ "data_pubblicazione": "2021-06-17",
+ "marca": "De Luca Srl",
+ "denominazione": "Salsiccia Casereccia Dolce",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20De%20Luca_1761186680.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo De Luca_1761186680.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20De%20Luca_1761186680.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salsiccia-casereccia-dolce",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T08:51:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:53+00:00"
+}

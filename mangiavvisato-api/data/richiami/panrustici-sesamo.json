@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panrustici-sesamo/",
+ "titolo": "PANRUSTICI SESAMO",
+ "data_pubblicazione": "2021-02-18",
+ "marca": "LA MOLE",
+ "denominazione": "PANRUSTICI SESAMO",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_DIS_SRL_1761185281.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo_DIS_SRL_1761185281.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_DIS_SRL_1761185281.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panrustici-sesamo",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "PANRUSTICI SESAMO",
+  "operatore": "F.lli Milan Srl - LA MOLE",
+  "lotti": [
+   "L00420-L00916-L01012 *"
+  ],
+  "marchio_identificazione": "LA MOLE",
+  "produttore": "Regione Moirane 8/a 12040 Corneliano d'Alba (CN)",
+  "sede_stabilimento": "Corneliano d'Alba (CN)",
+  "scadenza": "20/04/2021*",
+  "peso_volume": "250g",
+  "motivo_esteso": "Chemical risk: presence of ethylene oxide in sesame seeds. Above the limit 0,05 mg / kg",
+  "avvertenze": "Please, suspend the sale and hold the product in warehouse. Require consumers to return any purchased packaging. *L00420 (expiry date:20/04/2021) - L00916 (expiry date:16/09/2021) -L01012 (expirydate:12/10/2021)",
+  "campi_extra": {
+   "Data": "29/01/2021 Marchio del prodotto: LA MOLE",
+   "Chemical risk": "presence of ethylene oxide in sesame seeds. Above the limit 0,05 mg / kg"
+  },
+  "testo": "RICHIAMO\nData: 29/01/2021 Marchio del prodotto: LA MOLE\nDenominazione di vendita:PANRUSTICI SESAMO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli Milan Srl - LA MOLE\ncommercializzato:\nLotto di produzione: L00420-L00916-L01012 *\nMarchio di identificazione dello stabilimento/del produttore: LA MOLE\nNome del produttore: Regione Moirane 8/a 12040 Corneliano d'Alba (CN)\nSede dello stabilimento: Corneliano d'Alba (CN)\nData di scadenza o termine minimo di conservazione: 20/04/2021*\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nChemical risk: presence of ethylene oxide in sesame seeds. Above the limit 0,05 mg / kg\nAvvertenze:\nPlease, suspend the sale and hold the product in warehouse. Require consumers to return any purchased\npackaging.\n*L00420 (expiry date:20/04/2021) - L00916 (expiry date:16/09/2021) -L01012 (expirydate:12/10/2021)"
+ },
+ "prima_rilevazione": "2026-10-25T08:58:58+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:58:58+00:00"
+}

@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/milka-mini-cones-8x25ml/",
+ "titolo": "Milka Mini-Cones 8x25ml",
+ "data_pubblicazione": "2021-08-27",
+ "marca": "MILKA",
+ "denominazione": "Milka Mini-Cones 8x25ml",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/31014721%20Milka%20Mini_Cones%208x25ml_retail_1761188399.pdf",
+ "allegati": [
+  {
+   "titolo": "31014721 Milka Mini_Cones 8x25ml_retail_1761188399.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/31014721%20Milka%20Mini_Cones%208x25ml_retail_1761188399.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "milka-mini-cones-8x25ml",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Milka Mini-Cones 8x25ml",
+  "operatore": "Froneri Italy S.r.l.",
+  "lotti": [
+   "OS1042**"
+  ],
+  "produttore": "Froneri Schoeller",
+  "sede_stabilimento": "Osnabruck",
+  "scadenza": "05/2022",
+  "peso_volume": "140g (8 x 17,5g) e",
+  "motivo_esteso": "Ritiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.",
+  "avvertenze": "**OS1042 - TMC 05/2022; (OS1073, OS1074, OS1075, OS1076, OS1077) - TMC 06/2022; (OS1110, OS1111, OS1112, OS1113, OS1114) - TMC 07/2022; (OS1152, OS1153, OS1154, OS1165, OS1166, OS1167) - TMC 09/2022",
+  "campi_extra": {
+   "Data": "25.08.2021 Marchio del prodotto: MILKA"
+  },
+  "testo": "RICHIAMO\nData: 25.08.2021 Marchio del prodotto: MILKA\nDenominazione di vendita:Milka Mini-Cones 8x25ml\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Froneri Italy S.r.l.\ncommercializzato:\nLotto di produzione: OS1042**\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Froneri Schoeller\nSede dello stabilimento: Osnabruck\nData di scadenza o termine minimo di conservazione: 05/2022\nDescrizione peso/volume unità di vendita: 140g (8 x 17,5g) e\nMotivo del richiamo:\nRitiro precauzionale per possibile presenza di tracce di ETO nell'ingrediente farina di semi di carrube.\nAvvertenze:\n**OS1042 - TMC 05/2022; (OS1073, OS1074, OS1075, OS1076, OS1077) - TMC 06/2022; (OS1110,\nOS1111, OS1112, OS1113, OS1114) - TMC 07/2022; (OS1152, OS1153, OS1154, OS1165, OS1166,\nOS1167) - TMC 09/2022"
+ },
+ "prima_rilevazione": "2026-10-25T08:43:21+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:43:21+00:00"
+}

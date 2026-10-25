@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-2/",
+ "titolo": "Vitello Tonnato",
+ "data_pubblicazione": "2021-07-02",
+ "marca": "Gi-Gastronomia Italiana",
+ "denominazione": "Vitello Tonnato",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoVitelloTonnato_GI_1761186690.pdf",
+ "allegati": [
+  {
+   "titolo": "RichiamoVitelloTonnato_GI_1761186690.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoVitelloTonnato_GI_1761186690.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vitello-tonnato-2",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Vitello Tonnato",
+  "operatore": "GI Gastronomia Italiana",
+  "lotti": [
+   "03246171"
+  ],
+  "marchio_identificazione": "IT 9-3349L CE",
+  "produttore": "GI Gastronomia Italiana",
+  "sede_stabilimento": "via del Commercio Associato 13 , 40127 Bologna",
+  "scadenza": "09-07-2021",
+  "peso_volume": "vaschetta termosaldata da 200 g",
+  "motivo_esteso": "Possibile presenza di Listeria",
+  "avvertenze": "non consumare il prodotto Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "02/07/2021 Marchio del prodotto: Gi-Gastronomia Italiana",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 02/07/2021 Marchio del prodotto: Gi-Gastronomia Italiana\nDenominazione di vendita:Vitello Tonnato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GI Gastronomia Italiana\ncommercializzato:\nLotto di produzione: 03246171\nMarchio di identificazione dello stabilimento/del produttore: IT 9-3349L CE\nNome del produttore: GI Gastronomia Italiana\nSede dello stabilimento: via del Commercio Associato 13 , 40127 Bologna\nData di scadenza o termine minimo di conservazione: 09-07-2021\nDescrizione peso/volume unità di vendita: vaschetta termosaldata da 200 g\nMotivo del richiamo:\nPossibile presenza di Listeria\nAvvertenze:\nnon consumare il prodotto\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T08:51:41+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:51:41+00:00"
+}

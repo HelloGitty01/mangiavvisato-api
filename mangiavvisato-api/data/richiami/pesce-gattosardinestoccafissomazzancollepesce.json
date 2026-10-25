@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesce-gattosardinestoccafissomazzancollepesce/",
+ "titolo": "pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+ "data_pubblicazione": "2022-06-16",
+ "marca": "Alimenti dal Mondo -Italia srl",
+ "denominazione": "pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20rischiamo%20prod.%20ittici_1761191300.pdf",
+ "allegati": [
+  {
+   "titolo": "modello rischiamo prod. ittici_1761191300.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20rischiamo%20prod.%20ittici_1761191300.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "pesce-gattosardinestoccafissomazzancollepesce",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina",
+  "operatore": "Alimenti dal Mondo -Italia srl",
+  "lotti": [
+   "vari"
+  ],
+  "marchio_identificazione": "non presente",
+  "produttore": "non presente",
+  "sede_stabilimento": "Ruviano (CE), via Felcio snc",
+  "scadenza": "varie",
+  "peso_volume": "buste di cellophan e vaschette di plastica",
+  "motivo_esteso": "alimenti prodotti in stabilimento non riconosciuto, e non idoneo ai sensi dell'art. 14 del Reg. CE 178/2002",
+  "avvertenze": "non consumare i prodotti e consegnarli presso il punto vendita",
+  "campi_extra": {
+   "Data": "16/06/2022 Marchio del prodotto: MAMA AFRICA"
+  },
+  "testo": "RICHIAMO\nData: 16/06/2022 Marchio del prodotto: MAMA AFRICA\nDenominazione di vendita:pesce gatto,sardine,stoccafisso,mazzancolle,pesce lucertola,tilapia,suro,umbrina\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Alimenti dal Mondo -Italia srl\ncommercializzato:\nLotto di produzione: vari\nMarchio di identificazione dello stabilimento/del produttore: non presente\nNome del produttore: non presente\nSede dello stabilimento: Ruviano (CE), via Felcio snc\nData di scadenza o termine minimo di conservazione: varie\nDescrizione peso/volume unità di vendita: buste di cellophan e vaschette di plastica\nMotivo del richiamo:\nalimenti prodotti in stabilimento non riconosciuto, e non idoneo ai sensi dell'art. 14 del Reg. CE 178/2002\nAvvertenze:\nnon consumare i prodotti e consegnarli presso il punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T08:25:22+00:00",
+ "ultimo_aggiornamento": "2026-10-25T08:25:22+00:00"
+}

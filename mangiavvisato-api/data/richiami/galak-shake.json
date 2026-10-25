@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/galak-shake/",
+ "titolo": "Galak Shake",
+ "data_pubblicazione": "2020-12-04",
+ "marca": "LNPF Italia srl",
+ "denominazione": "Galak Shake",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Galak%20Shake.%2Cpdf_1761183344.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo_richiamo_Galak Shake.,pdf_1761183344.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_Galak%20Shake.%2Cpdf_1761183344.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "galak-shake",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Bevanda a base di latte con cioccolato bianco",
+  "operatore": "LNPF Italia srl",
+  "lotti": [
+   "Data di scadenza: 26/01/2021"
+  ],
+  "marchio_identificazione": "FR 14.630.010 CE",
+  "produttore": "LNUF Bayeux",
+  "sede_stabilimento": "Saint Martin des Entrées, Francia",
+  "scadenza": "26-01-2021",
+  "peso_volume": "180 ml",
+  "motivo_esteso": "Possibile presenza di tracce di acqua ossigenata utilizzata per sanificare i vasetti.",
+  "avvertenze": "A titolo precauzionale si prega di non consumare il prodotto con la data di scadenza 26/01/2021 e di riportarlo al punto vendita per il rimborso. In caso di domande, contattare il servizio consumatori Nestlé numero verde 800-434434. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "3/12/2020 Marchio del prodotto: Galak Shake",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 3/12/2020 Marchio del prodotto: Galak Shake\nDenominazione di vendita:Bevanda a base di latte con cioccolato bianco\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LNPF Italia srl\ncommercializzato:\nLotto di produzione: Data di scadenza: 26/01/2021\nMarchio di identificazione dello stabilimento/del produttore: FR 14.630.010 CE\nNome del produttore: LNUF Bayeux\nSede dello stabilimento: Saint Martin des Entrées, Francia\nData di scadenza o termine minimo di conservazione: 26-01-2021\nDescrizione peso/volume unità di vendita: 180 ml\nMotivo del richiamo:\nPossibile presenza di tracce di acqua ossigenata utilizzata per sanificare i vasetti.\nAvvertenze:\nA titolo precauzionale si prega di non consumare il prodotto con la data di scadenza 26/01/2021 e di\nriportarlo al punto vendita per il rimborso.\nIn caso di domande, contattare il servizio consumatori Nestlé numero verde 800-434434.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T09:04:25+00:00",
+ "ultimo_aggiornamento": "2026-10-25T09:04:25+00:00"
+}
