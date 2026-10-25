@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/burger-miglio-melanzane/",
+ "titolo": "BURGER MIGLIO & MELANZANE",
+ "data_pubblicazione": "2024-10-25",
+ "marca": "GERMINAL BIO",
+ "denominazione": "BURGER MIGLIO & MELANZANE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Burger%20melanzane%20e%20miglio%20Germinal%20Bio_1761205802.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Burger melanzane e miglio Germinal Bio_1761205802.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Burger%20melanzane%20e%20miglio%20Germinal%20Bio_1761205802.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "burger-miglio-melanzane",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "BURGER MIGLIO & MELANZANE",
+  "operatore": "GERMINAL ITALIA S.R.L.",
+  "lotti": [
+   "I06230"
+  ],
+  "produttore": "CREABIO S.R.L. SB",
+  "sede_stabilimento": "Via Friuli Venenzia Giulia, 73 - Pianiga (VE)",
+  "scadenza": "04-11-2024",
+  "peso_volume": "180 g",
+  "motivo_esteso": "presenza di alcaloidi pirrozilidinici oltre il limite di legge nei semi di cumino",
+  "avvertenze": "SEGUE ELENCO LOTTI: I06577 sc. 14/11/2024; I06742 sc. 21/11/2024; I06902 sc. 28/11/2024; I07316 sc. 16/12/2024 Si invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita",
+  "campi_extra": {
+   "Data": "25/10/2024 Marchio del prodotto: GERMINAL BIO",
+   "SEGUE ELENCO LOTTI": "I06577 sc. 14/11/2024; I06742 sc. 21/11/2024; I06902 sc. 28/11/2024;"
+  },
+  "testo": "RICHIAMO\nData: 25/10/2024 Marchio del prodotto: GERMINAL BIO\nDenominazione di vendita:BURGER MIGLIO & MELANZANE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GERMINAL ITALIA S.R.L.\ncommercializzato:\nLotto di produzione: I06230\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: CREABIO S.R.L. SB\nSede dello stabilimento: Via Friuli Venenzia Giulia, 73 - Pianiga (VE)\nData di scadenza o termine minimo di conservazione: 04-11-2024\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\npresenza di alcaloidi pirrozilidinici oltre il limite di legge nei semi di cumino\nAvvertenze:\nSEGUE ELENCO LOTTI: I06577 sc. 14/11/2024; I06742 sc. 21/11/2024; I06902 sc. 28/11/2024;\nI07316 sc. 16/12/2024\nSi invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T03:49:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:26+00:00"
+}

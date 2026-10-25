@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-bio-0/",
+ "titolo": "Hamburger di bovino bio",
+ "data_pubblicazione": "2024-10-28",
+ "marca": "Fileni bio",
+ "denominazione": "Hamburger di bovino bio",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/45372_cartello_richiamo_1761205831.pdf",
+ "allegati": [
+  {
+   "titolo": "45372_cartello_richiamo_1761205831.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/45372_cartello_richiamo_1761205831.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "hamburger-di-bovino-bio-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T03:49:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:05+00:00"
+}

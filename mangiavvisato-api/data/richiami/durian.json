@@ -1,0 +1,40 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/durian/",
+ "titolo": "Durian",
+ "data_pubblicazione": "2024-11-15",
+ "marca": "CMFOODMARKET SRL",
+ "denominazione": "Durian",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20lotto%20interno%200007331024_13243%20_%20Durian_1761205896.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo Richiamo lotto interno 0007331024_13243 _ Durian_1761205896.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20lotto%20interno%200007331024_13243%20_%20Durian_1761205896.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "durian",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Durian",
+  "operatore": "CMFOODMARKET SRL – Via Gaudenzio Fantoli 15/9 – 20138 Milano (MI) – P.IVA 09583260964",
+  "lotti": [
+   "interno di vendita: 0007331024-13243"
+  ],
+  "produttore": "Safety Fresh Limited Partnership",
+  "sede_stabilimento": "Thailandia",
+  "peso_volume": "KG",
+  "motivo_esteso": "A seguito di campionamento effettuato in 28/10/2024 dal PCF presso l’aeroporto di Malpensa, e successive analisi effettuate da Istituto Zooprofilattico Sperimentale della Lombardia e dell’Emilia-Romagna, con rapporto di prova ricevuto via PEC il 13/11/2024, è emerso che il prodotto in questione è risultato NON CONFORME per la presenza di pesticidi in quantità superiore ai limiti consentiti.",
+  "avvertenze": "Non consumare il prodotto e restituirlo presso nostro punto vendita in Via Gaudenzio Fantoli 15/9 – 20138 Milano (MI) o distruggere il prodotto.",
+  "campi_extra": {
+   "Data": "13/11/2024 Marchio del prodotto:"
+  },
+  "testo": "RICHIAMO\nData: 13/11/2024 Marchio del prodotto:\nDenominazione di vendita: Durian\nNome o ragione sociale dell'OSA CMFOODMARKET SRL – Via Gaudenzio Fantoli 15/9 – 20138\na nome del quale il prodotto è\nMilano (MI) – P.IVA 09583260964\ncommercializzato:\nLotto interno di vendita: 0007331024-13243\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Safety Fresh Limited Partnership\nSede dello stabilimento: Thailandia\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: KG\nMotivo del richiamo: A seguito di campionamento effettuato in 28/10/2024 dal PCF presso l’aeroporto di\nMalpensa, e successive analisi effettuate da Istituto Zooprofilattico Sperimentale della Lombardia e\ndell’Emilia-Romagna, con rapporto di prova ricevuto via PEC il 13/11/2024, è emerso che il prodotto in\nquestione è risultato NON CONFORME per la presenza di pesticidi in quantità superiore ai limiti consentiti.\nAvvertenze: Non consumare il prodotto e restituirlo presso nostro punto vendita in Via Gaudenzio Fantoli\n15/9 – 20138 Milano (MI) o distruggere il prodotto.\n:"
+ },
+ "prima_rilevazione": "2026-10-25T03:48:00+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:48:00+00:00"
+}

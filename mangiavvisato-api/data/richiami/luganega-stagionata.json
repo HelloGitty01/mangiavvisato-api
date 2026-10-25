@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/luganega-stagionata/",
+ "titolo": "Luganega stagionata",
+ "data_pubblicazione": "2024-10-21",
+ "marca": "Meggio Roberto e C. Snc",
+ "denominazione": "Luganega stagionata",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MEGGIO%20220824_1761205792.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO MEGGIO 220824_1761205792.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20MEGGIO%20220824_1761205792.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "luganega-stagionata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "MEGGIO ROBERTO E C. SNC",
+  "denominazione_vendita": "LUGANEGA STAGIONATA",
+  "operatore": "MEGGIO ROBERTO E C. SNC",
+  "lotti": [
+   "(cid:3)(cid:3)(cid:2)(cid:5)(cid:3)(cid:4)"
+  ],
+  "marchio_identificazione": "CE IT 9 334 L",
+  "produttore": "MEGGIO ROBERTO E C. SNC",
+  "sede_stabilimento": "GRIGNO -TN",
+  "scadenza": "PREINCARTO SENZA TMC",
+  "peso_volume": "200 G",
+  "motivo_esteso": "PRESENZA SALMONELLA SPP",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RIPORTARE AL PUNTO VENDITA.",
+  "campi_extra": {
+   "Data": "18/10/2024"
+  },
+  "testo": "RICHIAMO -\n18/10/2024\nData: 18/10/2024\nMarchio del prodotto: MEGGIO ROBERTO E C. SNC\nDenominazione di vendita: LUGANEGA STAGIONATA\nragione sociale dell'OSA a nome del quale il prodotto è commercializzato:\nMEGGIO ROBERTO E C. SNC\nLotto di produzione: (cid:3)(cid:3)(cid:2)(cid:5)(cid:3)(cid:4)\nMarchio di identificazione dello stabilimento/del produttore: CE IT 9 334 L\nNome del produttore: MEGGIO ROBERTO E C. SNC\nSede dello stabilimento: GRIGNO -TN\ntermine minimo di conservazione: PREINCARTO SENZA TMC\nDescrizione peso/volume unità di vendita: 200 G\nMotivo del richiamo: PRESENZA SALMONELLA SPP\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RIPORTARE AL PUNTO VENDITA."
+ },
+ "prima_rilevazione": "2026-10-25T03:49:48+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:48+00:00"
+}

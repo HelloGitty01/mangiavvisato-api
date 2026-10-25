@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-senza-glutine-vergani-100-g/",
+ "titolo": "panettone senza glutine Vergani 100 g",
+ "data_pubblicazione": "2024-11-14",
+ "marca": "Vergani",
+ "denominazione": "panettone senza glutine Vergani 100 g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761205887.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello richiamo_1761205887.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761205887.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "panettone-senza-glutine-vergani-100-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Panettone classico senza glutine 100 g",
+  "operatore": "Vergani S.r.l.",
+  "lotti": [
+   "196597"
+  ],
+  "produttore": "Zero+4 S.r.l.",
+  "sede_stabilimento": "Via Lavoratori Autobianchi 1/15, Desio (MB)",
+  "scadenza": "21-05-2025",
+  "peso_volume": "100 g",
+  "motivo_esteso": "Possibile presenza in etichetta del claim errato “SENZA LATTOSIO”. Il prodotto contiene lattosio.",
+  "avvertenze": "I soggetti intolleranti al lattosio non devono consumare il prodotto, ma riportarlo presso il punto di acquisto. Per maggiori informazioni: T.: 02 2571069 - E.: qualita@panettonevergani.it",
+  "campi_extra": {
+   "Data": "14/11/2024 Marchio del prodotto: Vergani",
+   "Per maggiori informazioni": "T.: 02 2571069 - E.: qualita@panettonevergani.it"
+  },
+  "testo": "RICHIAMO\nData: 14/11/2024 Marchio del prodotto: Vergani\nDenominazione di vendita:Panettone classico senza glutine 100 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Vergani S.r.l.\ncommercializzato:\nLotto di produzione: 196597\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Zero+4 S.r.l.\nSede dello stabilimento: Via Lavoratori Autobianchi 1/15, Desio (MB)\nData di scadenza o termine minimo di conservazione: 21-05-2025\nDescrizione peso/volume unità di vendita: 100 g\nMotivo del richiamo:\nPossibile presenza in etichetta del claim errato “SENZA LATTOSIO”.\nIl prodotto contiene lattosio.\nAvvertenze:\nI soggetti intolleranti al lattosio non devono consumare il prodotto, ma riportarlo presso il punto di\nacquisto.\nPer maggiori informazioni: T.: 02 2571069 - E.: qualita@panettonevergani.it"
+ },
+ "prima_rilevazione": "2026-10-25T03:48:03+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:48:03+00:00"
+}

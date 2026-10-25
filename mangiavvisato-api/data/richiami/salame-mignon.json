@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-mignon/",
+ "titolo": "SALAME MIGNON",
+ "data_pubblicazione": "2024-10-29",
+ "marca": "Salumificio Borgo Dora",
+ "denominazione": "SALAME MIGNON",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20RICHIAMO_%20mignon__1761205854.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello di RICHIAMO_ mignon__1761205854.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20RICHIAMO_%20mignon__1761205854.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-mignon",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SALAME MIGNON",
+  "operatore": "Salumificio Borgo Dora S.p.A.",
+  "lotti": [
+   "348304 IT 926 L CE"
+  ],
+  "produttore": "Salumificio Borgo Dora S.p.A.",
+  "sede_stabilimento": "Corso Vercelli 279/A, Torino (TO) 10155",
+  "scadenza": "08-04-2025",
+  "peso_volume": "90 g a pezzo; 720 g a fila circa",
+  "motivo_esteso": "sospetto rischio microbiologico Listeria Monocytogenes",
+  "avvertenze": "Restituire al punto vendita Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/10/2024 Marchio del prodotto: BORGO DORA",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 25/10/2024 Marchio del prodotto: BORGO DORA\nDenominazione di vendita:SALAME MIGNON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Salumificio Borgo Dora S.p.A.\ncommercializzato:\nLotto di produzione: 348304\nIT 926 L CE\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Salumificio Borgo Dora S.p.A.\nSede dello stabilimento: Corso Vercelli 279/A, Torino (TO) 10155\nData di scadenza o termine minimo di conservazione: 08-04-2025\nDescrizione peso/volume unità di vendita: 90 g a pezzo; 720 g a fila circa\nMotivo del richiamo:\nsospetto rischio microbiologico Listeria Monocytogenes\nAvvertenze:\nRestituire al punto vendita\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T03:48:56+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:48:56+00:00"
+}

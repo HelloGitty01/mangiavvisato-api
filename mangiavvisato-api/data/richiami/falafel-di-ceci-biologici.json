@@ -1,0 +1,48 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/falafel-di-ceci-biologici/",
+ "titolo": "FALAFEL DI CECI BIOLOGICI",
+ "data_pubblicazione": "2024-10-25",
+ "marca": "PIÙ BENE",
+ "denominazione": "FALAFEL DI CECI BIOLOGICI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Falafel_Ecornaturas%C3%AC_1761205806.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Falafel_Ecornaturasì_1761205806.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Falafel_Ecornaturas%C3%AC_1761205806.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "falafel-di-ceci-biologici",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FALAFEL DI CECI BIOLOGICI Nome o ragione sociale ECORNATURASì S.P.A. VIA PALU’ 23, SAN VENDEMIANO TV dell'OSA a nome del quale il prodotto è commercializzato",
+  "lotti": [
+   "I07442",
+   "I07285",
+   "I07123",
+   "I06956",
+   "I06854",
+   "I06681",
+   "I06482",
+   "I06241"
+  ],
+  "marchio_identificazione": "050ND09807",
+  "produttore": "CREABIO S.R.L SOCIETA’ BENEFIT",
+  "sede_stabilimento": "VIA FRIULI VENEZIA GIULIA 73, PIANIGA VE",
+  "scadenza": "10/12/24, 03/12/24, 26/11/24, 22/11/24, 17/11/24, 10/11/24, 30/10/24, 25/10/24",
+  "peso_volume": "150 g",
+  "motivo_esteso": "Presenza alcaloidi pirrolizidinici in quantità superiore ai limiti previsti nei SEMI DI CUMINIO biologici utilizzati nella formulazione del prodotto",
+  "avvertenze": "NON CONSUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA Inserire immagine uno",
+  "campi_extra": {
+   "Data": "23.10.2024 Marchio del prodotto: PIU’ BENE"
+  },
+  "testo": "RICHIAMO\nData: 23.10.2024 Marchio del prodotto: PIU’ BENE\nDenominazione di vendita: FALAFEL DI CECI BIOLOGICI\nNome o ragione sociale ECORNATURASì S.P.A.\nVIA PALU’ 23, SAN VENDEMIANO TV\ndell'OSA a nome del quale il\nprodotto è commercializzato:\nLotto di produzione: I07442, I07285, I07123, I06956, I06854, I06681, I06482, I06241\nMarchio di identificazione dello stabilimento/del produttore: 050ND09807\nNome del produttore: CREABIO S.R.L SOCIETA’ BENEFIT\nSede dello stabilimento: VIA FRIULI VENEZIA GIULIA 73, PIANIGA VE\nData di scadenza o termine minimo di conservazione: 10/12/24, 03/12/24, 26/11/24, 22/11/24, 17/11/24,\n10/11/24, 30/10/24, 25/10/24\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo: Presenza alcaloidi pirrolizidinici in quantità superiore ai limiti previsti nei SEMI\nDI CUMINIO biologici utilizzati nella formulazione del prodotto\nAvvertenze: NON CONSUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA\nInserire immagine uno:"
+ },
+ "prima_rilevazione": "2026-10-25T03:49:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:29+00:00"
+}

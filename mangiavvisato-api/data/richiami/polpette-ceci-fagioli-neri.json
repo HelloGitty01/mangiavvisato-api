@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpette-ceci-fagioli-neri/",
+ "titolo": "POLPETTE CECI & FAGIOLI NERI",
+ "data_pubblicazione": "2024-10-25",
+ "marca": "GERMINAL BIO",
+ "denominazione": "POLPETTE CECI & FAGIOLI NERI",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Polpette%20ceci%20e%20fagioli%20neri_Germinal%20Bio_1761205813.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Polpette ceci e fagioli neri_Germinal Bio_1761205813.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Polpette%20ceci%20e%20fagioli%20neri_Germinal%20Bio_1761205813.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpette-ceci-fagioli-neri",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLPETTE CECI & FAGIOLI NERI",
+  "operatore": "GERMINAL ITALIA S.R.L.",
+  "lotti": [
+   "I06240"
+  ],
+  "produttore": "CREABIO S.R.L. SB",
+  "sede_stabilimento": "Via Friuli Venezia Giulia, 73 - Pianiga (VE)",
+  "scadenza": "04-11-2024",
+  "peso_volume": "160 g",
+  "motivo_esteso": "presenza di alcaloidi pirrozilidinici oltre il limite di legge nei semi di cumino",
+  "avvertenze": "SEGUE ELENCO LOTTI: I06480 sc. 09/11/2024; I06679 sc. 20/11/2024; I07199 sc. 10/12/2024; I07369 sc. 17/12/2024 Si invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita",
+  "campi_extra": {
+   "Data": "25/10/2024 Marchio del prodotto: GERMINAL BIO",
+   "SEGUE ELENCO LOTTI": "I06480 sc. 09/11/2024; I06679 sc. 20/11/2024; I07199 sc. 10/12/2024;"
+  },
+  "testo": "RICHIAMO\nData: 25/10/2024 Marchio del prodotto: GERMINAL BIO\nDenominazione di vendita:POLPETTE CECI & FAGIOLI NERI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GERMINAL ITALIA S.R.L.\ncommercializzato:\nLotto di produzione: I06240\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: CREABIO S.R.L. SB\nSede dello stabilimento: Via Friuli Venezia Giulia, 73 - Pianiga (VE)\nData di scadenza o termine minimo di conservazione: 04-11-2024\nDescrizione peso/volume unità di vendita: 160 g\nMotivo del richiamo:\npresenza di alcaloidi pirrozilidinici oltre il limite di legge nei semi di cumino\nAvvertenze:\nSEGUE ELENCO LOTTI: I06480 sc. 09/11/2024; I06679 sc. 20/11/2024; I07199 sc. 10/12/2024;\nI07369 sc. 17/12/2024\nSi invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T03:49:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:33+00:00"
+}

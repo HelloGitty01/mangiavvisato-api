@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpettine-di-lenticchie/",
+ "titolo": "POLPETTINE DI LENTICCHIE",
+ "data_pubblicazione": "2024-10-25",
+ "marca": "ALPEKER NATUR",
+ "denominazione": "POLPETTINE DI LENTICCHIE",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Polpette%20lenticchie_Alpeker_1761205820.pdf",
+ "allegati": [
+  {
+   "titolo": "Modulo richiamo_Polpette lenticchie_Alpeker_1761205820.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Polpette%20lenticchie_Alpeker_1761205820.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "polpettine-di-lenticchie",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "POLPETTINE DI LENTICCHIE",
+  "operatore": "Alpeker Srl Via della Mendola 49/b 39100 Bolzano (BZ)",
+  "lotti": [
+   "I05461",
+   "I05412"
+  ],
+  "marchio_identificazione": "050ND09807",
+  "produttore": "CREABIO SRL SOCIETA' BENEFIT",
+  "sede_stabilimento": "VIA FRIULI VENEZIA GIULIA 73, PIANIGA VE",
+  "scadenza": "20/01/2026;15/01/2026",
+  "peso_volume": "260 g",
+  "motivo_esteso": "presenza di alcaloidi pirrolizidinici in quantità superoire ai limiti previsti nei semi di cumino biologici utilizzati nella formulazione del prodotto",
+  "avvertenze": "NON COUNCUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "23.10.2024 Marchio del prodotto: ALPEKER NATUR"
+  },
+  "testo": "RICHIAMO\nData: 23.10.2024 Marchio del prodotto: ALPEKER NATUR\nDenominazione di vendita:POLPETTINE DI LENTICCHIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Alpeker Srl Via della Mendola 49/b 39100 Bolzano (BZ)\ncommercializzato:\nLotto di produzione: I05461; I05412\nMarchio di identificazione dello stabilimento/del produttore: 050ND09807\nNome del produttore: CREABIO SRL SOCIETA' BENEFIT\nSede dello stabilimento: VIA FRIULI VENEZIA GIULIA 73, PIANIGA VE\nData di scadenza o termine minimo di conservazione: 20/01/2026;15/01/2026\nDescrizione peso/volume unità di vendita: 260 g\nMotivo del richiamo:\npresenza di alcaloidi pirrolizidinici in quantità superoire ai limiti previsti nei semi di cumino biologici\nutilizzati nella formulazione del prodotto\nAvvertenze:\nNON COUNCUMARE IL PRODOTTO E RIPORTARLO PRESSO IL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-25T03:49:39+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:39+00:00"
+}

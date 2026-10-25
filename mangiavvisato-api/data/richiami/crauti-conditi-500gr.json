@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crauti-conditi-500gr/",
+ "titolo": "Crauti conditi 500gr",
+ "data_pubblicazione": "2024-10-22",
+ "marca": "AZIENDA AGRICOLA IVO GELMINI SSA",
+ "denominazione": "Crauti conditi 500gr",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Gelmini%20_1__1761205795.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Gelmini _1__1761205795.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Gelmini%20_1__1761205795.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "crauti-conditi-500gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "CRAUTI CONDITI 500 g",
+  "operatore": "AZIENDA AGRICOLA IVO GELMINI SSA",
+  "lotti": [
+   "100727 - 270327"
+  ],
+  "produttore": "IVO GELMINI",
+  "sede_stabilimento": "VIA SANT'ANNA - VALLE SAN FELICE 38065 MORI (TN)",
+  "scadenza": "10.7.27 e 27.3.27",
+  "peso_volume": "500 g",
+  "motivo_esteso": "Presenza di alcaloidi pirrolizidinici superiori ai limiti di legge nel cumino.",
+  "avvertenze": "Si invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita per il rimborso.",
+  "campi_extra": {
+   "Data": "22/10/2024 Marchio del prodotto: AZIENDA AGRICOLA IVO GELMINI SSA"
+  },
+  "testo": "RICHIAMO\nData: 22/10/2024 Marchio del prodotto: AZIENDA AGRICOLA IVO GELMINI SSA\nDenominazione di vendita:CRAUTI CONDITI 500 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA IVO GELMINI SSA\ncommercializzato:\nLotto di produzione: 100727 - 270327\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: IVO GELMINI\nSede dello stabilimento: VIA SANT'ANNA - VALLE SAN FELICE 38065 MORI (TN)\nData di scadenza o termine minimo di conservazione: 10.7.27 e 27.3.27\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nPresenza di alcaloidi pirrolizidinici superiori ai limiti di legge nel cumino.\nAvvertenze:\nSi invitano i consumatori a non consumare il prodotto e riportarlo presso il punto vendita per il\nrimborso."
+ },
+ "prima_rilevazione": "2026-10-25T03:49:45+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:45+00:00"
+}

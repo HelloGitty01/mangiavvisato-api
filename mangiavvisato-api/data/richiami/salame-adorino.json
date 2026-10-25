@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-adorino/",
+ "titolo": "Salame adorino",
+ "data_pubblicazione": "2024-10-18",
+ "marca": "La Bottega di Adò SRL",
+ "denominazione": "Salame adorino",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_SALAMEADORINO_1761205789.pdf",
+ "allegati": [
+  {
+   "titolo": "RICHIAMO_SALAMEADORINO_1761205789.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_SALAMEADORINO_1761205789.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-adorino",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T03:49:53+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:49:53+00:00"
+}

@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grana-padano-dop-grattugiato/",
+ "titolo": "GRANA PADANO DOP GRATTUGIATO",
+ "data_pubblicazione": "2024-10-10",
+ "marca": "CONSILIA",
+ "denominazione": "GRANA PADANO DOP GRATTUGIATO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_1761205761.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_richiamo_1761205761.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_1761205761.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": true,
+ "id": "grana-padano-dop-grattugiato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Formaggio Grana Padano DOP grattugiato",
+  "operatore": "Selex Gruppo Commerciale S.p.A.",
+  "lotti": [
+   "24256 Y"
+  ],
+  "produttore": "Latteria Sociale Mantova Soc. Agr. Coop.",
+  "sede_stabilimento": "Strada Rodone, 13 - 46045 - Marmirolo (MN)",
+  "scadenza": "11-12-2024",
+  "peso_volume": "100g",
+  "motivo_esteso": "Possibile presenza di corpi estranei metallici.",
+  "avvertenze": "Non consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/10/2024 Marchio del prodotto: Consilia",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/10/2024 Marchio del prodotto: Consilia\nDenominazione di vendita:Formaggio Grana Padano DOP grattugiato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex Gruppo Commerciale S.p.A.\ncommercializzato:\nLotto di produzione: 24256 Y\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Latteria Sociale Mantova Soc. Agr. Coop.\nSede dello stabilimento: Strada Rodone, 13 - 46045 - Marmirolo (MN)\nData di scadenza o termine minimo di conservazione: 11-12-2024\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPossibile presenza di corpi estranei metallici.\nAvvertenze:\nNon consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T03:50:09+00:00",
+ "ultimo_aggiornamento": "2026-10-25T03:50:09+00:00"
+}
