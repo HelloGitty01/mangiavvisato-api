@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/grana-padano-dop-gratuggiato/",
+ "titolo": "GRANA PADANO DOP GRATUGGIATO",
+ "data_pubblicazione": "2024-10-10",
+ "marca": "SUN SOC.CONS. a R.L",
+ "denominazione": "GRANA PADANO DOP GRATUGGIATO",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_aggiornato_1761205767.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello di Richiamo_aggiornato_1761205767.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_aggiornato_1761205767.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "grana-padano-dop-gratuggiato",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Grana Padano DOP grattugiato",
+  "operatore": "SUN soc. cons. a r.l.",
+  "lotti": [
+   "24256 Y"
+  ],
+  "produttore": "Latteria Sociale Mantova Soc. Agr. Coop.",
+  "sede_stabilimento": "Strada Rodone, 13 - Marmirolo (MN)",
+  "scadenza": "11-12-2024",
+  "peso_volume": "100g",
+  "motivo_esteso": "Possibile presenza di corpi estranei metallici.",
+  "avvertenze": "Non consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "09/10/2024 Marchio del prodotto: Consilia",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 09/10/2024 Marchio del prodotto: Consilia\nDenominazione di vendita:Grana Padano DOP grattugiato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUN soc. cons. a r.l.\ncommercializzato:\nLotto di produzione: 24256 Y\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Latteria Sociale Mantova Soc. Agr. Coop.\nSede dello stabilimento: Strada Rodone, 13 - Marmirolo (MN)\nData di scadenza o termine minimo di conservazione: 11-12-2024\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPossibile presenza di corpi estranei metallici.\nAvvertenze:\nNon consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T06:57:13+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:13+00:00"
+}

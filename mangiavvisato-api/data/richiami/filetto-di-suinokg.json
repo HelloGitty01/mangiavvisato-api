@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetto-di-suinokg/",
+ "titolo": "filetto di suino/kg",
+ "data_pubblicazione": "2024-10-02",
+ "marca": "Il podere",
+ "denominazione": "filetto di suino/kg",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Filetto%20di%20suino%20ALDI_1761205747.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello Richiamo Filetto di suino ALDI_1761205747.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Filetto%20di%20suino%20ALDI_1761205747.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetto-di-suinokg",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T06:57:26+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:26+00:00"
+}

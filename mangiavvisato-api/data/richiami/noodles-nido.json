@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/noodles-nido/",
+ "titolo": "Noodles a nido",
+ "data_pubblicazione": "2024-10-02",
+ "marca": "Suzi Wan",
+ "denominazione": "Noodles a nido",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20ministeriale%20Suzi%20Wan%2023_9_24%20_1_%20_1__1761205750.pdf",
+ "allegati": [
+  {
+   "titolo": "Modello ministeriale Suzi Wan 23_9_24 _1_ _1__1761205750.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20ministeriale%20Suzi%20Wan%2023_9_24%20_1_%20_1__1761205750.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "noodles-nido",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T06:57:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:29+00:00"
+}

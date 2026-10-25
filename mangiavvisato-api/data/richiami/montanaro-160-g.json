@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/montanaro-160-g/",
+ "titolo": "MONTANARO 160 g",
+ "data_pubblicazione": "2024-10-10",
+ "marca": "PANINOLAND",
+ "denominazione": "MONTANARO 160 g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_DI_RICHIAMO_PANINO_1761205764.pdf",
+ "allegati": [
+  {
+   "titolo": "CARTELLO_DI_RICHIAMO_PANINO_1761205764.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_DI_RICHIAMO_PANINO_1761205764.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "montanaro-160-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T06:57:05+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:05+00:00"
+}

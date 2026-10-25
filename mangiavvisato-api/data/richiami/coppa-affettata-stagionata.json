@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-affettata-stagionata/",
+ "titolo": "COPPA AFFETTATA STAGIONATA",
+ "data_pubblicazione": "2024-09-20",
+ "marca": "LA BOTTEGA DEL GUSTO",
+ "denominazione": "COPPA AFFETTATA STAGIONATA",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministeriale%20coppa%20stagionata%20120g_1761205736.pdf",
+ "allegati": [
+  {
+   "titolo": "cartello ministeriale coppa stagionata 120g_1761205736.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministeriale%20coppa%20stagionata%20120g_1761205736.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "coppa-affettata-stagionata",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Coppa affettata stagionata",
+  "operatore": "Eurospin S.p.A.",
+  "lotti": [
+   "L. 5524226A"
+  ],
+  "marchio_identificazione": "IT 946 L CE",
+  "produttore": "Industria Salumi Simonini",
+  "sede_stabilimento": "Via per Modena 176 Castelvetro (MO)",
+  "scadenza": "11/11/2024",
+  "peso_volume": "120g",
+  "motivo_esteso": "Presenza di Listeria monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita di acquisto",
+  "campi_extra": {
+   "Data": "12/09/2024 Marchio del prodotto: La Bottega Del Gusto"
+  },
+  "testo": "RICHIAMO\nData: 12/09/2024 Marchio del prodotto: La Bottega Del Gusto\nDenominazione di vendita:Coppa affettata stagionata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin S.p.A.\ncommercializzato:\nLotto di produzione: L. 5524226A\nMarchio di identificazione dello stabilimento/del produttore: IT 946 L CE\nNome del produttore: Industria Salumi Simonini\nSede dello stabilimento: Via per Modena 176 Castelvetro (MO)\nData di scadenza o termine minimo di conservazione: 11/11/2024\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita di acquisto"
+ },
+ "prima_rilevazione": "2026-10-25T06:57:38+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:38+00:00"
+}

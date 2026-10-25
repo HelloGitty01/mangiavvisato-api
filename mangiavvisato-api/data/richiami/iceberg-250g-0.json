@@ -1,0 +1,34 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250g-0/",
+ "titolo": "Iceberg 250g",
+ "data_pubblicazione": "2024-09-16",
+ "marca": "Sendero",
+ "denominazione": "Iceberg 250g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSENDERO_1761205726.pdf",
+ "allegati": [
+  {
+   "titolo": "RichiamoSENDERO_1761205726.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSENDERO_1761205726.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "iceberg-250g-0",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "marchio": "del prodotto",
+  "operatore": "con cui il prodotto è commercializzato",
+  "lotti": [
+   "32024250 dello stabilimento 15/092024"
+  ],
+  "scadenza": "Descrizione peso/volume",
+  "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+  "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32024250\ndello stabilimento\n15/092024\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+ },
+ "prima_rilevazione": "2026-10-25T06:58:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:58:08+00:00"
+}

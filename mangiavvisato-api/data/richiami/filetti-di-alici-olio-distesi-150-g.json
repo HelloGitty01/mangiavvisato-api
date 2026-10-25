@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio-distesi-150-g/",
+ "titolo": "Filetti di alici in olio distesi 150 g",
+ "data_pubblicazione": "2024-10-04",
+ "marca": "ESSELUNGA SPA",
+ "denominazione": "Filetti di alici in olio distesi 150 g",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_ALICI_ESSELUNGA_1761205755.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello_richiamo_ALICI_ESSELUNGA_1761205755.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_ALICI_ESSELUNGA_1761205755.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "filetti-di-alici-olio-distesi-150-g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "Filetti di Alici in olio distesi 150g",
+  "operatore": "ESSELUNGA S.p.A.",
+  "lotti": [
+   "LTC204"
+  ],
+  "marchio_identificazione": "AL 28 P.P.",
+  "produttore": "POSEIDON SH.P.K.",
+  "sede_stabilimento": "Shengjin 4503 Lezhe Albania",
+  "scadenza": "22-01-2026",
+  "peso_volume": "150g",
+  "motivo_esteso": "Possibile presenza di istamina superiore al limite di legge",
+  "avvertenze": "Si avvisano i consumatori di non consumare il prodotto e a riportarlo presso il punto vendita.Il richiamo interessa esclusivamente l'articolo e il lotto rappresentati sotto. - Per informazioni contattare il numero verde 800.666.555",
+  "campi_extra": {
+   "Data": "04/10/2024 Marchio del prodotto: ESSELUNGA"
+  },
+  "testo": "RICHIAMO\nData: 04/10/2024 Marchio del prodotto: ESSELUNGA\nDenominazione di vendita:Filetti di Alici in olio distesi 150g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ESSELUNGA S.p.A.\ncommercializzato:\nLotto di produzione: LTC204\nMarchio di identificazione dello stabilimento/del produttore: AL 28 P.P.\nNome del produttore: POSEIDON SH.P.K.\nSede dello stabilimento: Shengjin 4503 Lezhe Albania\nData di scadenza o termine minimo di conservazione: 22-01-2026\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nPossibile presenza di istamina superiore al limite di legge\nAvvertenze:\n- Si avvisano i consumatori di non consumare il prodotto e a riportarlo presso il punto vendita.Il richiamo\ninteressa esclusivamente l'articolo e il lotto rappresentati sotto.\n- Per informazioni contattare il numero verde 800.666.555"
+ },
+ "prima_rilevazione": "2026-10-25T06:57:19+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:19+00:00"
+}

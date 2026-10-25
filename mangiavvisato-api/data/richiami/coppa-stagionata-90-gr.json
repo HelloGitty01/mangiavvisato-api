@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-stagionata-90-gr/",
+ "titolo": "COPPA STAGIONATA 90 GR",
+ "data_pubblicazione": "2024-09-19",
+ "marca": "STELLA MONTIS",
+ "denominazione": "COPPA STAGIONATA 90 GR",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Salumeria%20del%20corso_90g_1761205734.pdf",
+ "allegati": [
+  {
+   "titolo": "Cartello COPPA STAGIONATA Salumeria del corso_90g_1761205734.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Salumeria%20del%20corso_90g_1761205734.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "coppa-stagionata-90-gr",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T06:57:49+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:49+00:00"
+}

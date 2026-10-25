@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelato-al-gusto-zabaione-variegato-cioccolato-al-rum-con-uvetta/",
+ "titolo": "gelato al gusto zabaione variegato cioccolato al rum con uvetta sultanina aromatizzata al rum",
+ "data_pubblicazione": "2024-10-09",
+ "marca": "Selex gruppo commerciale S.p.A",
+ "denominazione": "gelato al gusto zabaione variegato cioccolato al rum con uvetta sultanina aromatizzata al rum",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20compilato_1761205758.pdf",
+ "allegati": [
+  {
+   "titolo": "modello richiamo compilato_1761205758.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20compilato_1761205758.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "gelato-al-gusto-zabaione-variegato-cioccolato-al-rum-con-uvetta",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "GELATO AL GUSTO ZABAIONE VARIEGATO CIOCCOLATO AL RUM CON UVETTA SULTANINA AROMATIZZATA AL RUM VETTA",
+  "operatore": "Selex gruppo commerciale S.p.A.",
+  "lotti": [
+   "180727"
+  ],
+  "produttore": "Tonitto 1939 S.p.A.",
+  "sede_stabilimento": "Via N.S. di Lourdes 5 - 16152 Genova",
+  "scadenza": "18-07-2027",
+  "peso_volume": "200 g",
+  "motivo_esteso": "Possibile presenza di Listeria Monocytogenes",
+  "avvertenze": "Non consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato.",
+  "campi_extra": {
+   "Data": "08/10/2024 Marchio del prodotto: Saper di Sapori"
+  },
+  "testo": "RICHIAMO\nData: 08/10/2024 Marchio del prodotto: Saper di Sapori\nDenominazione di vendita:GELATO AL GUSTO ZABAIONE VARIEGATO CIOCCOLATO AL RUM CON UVETTA SULTANINA AROMATIZZATA AL RUM VETTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex gruppo commerciale S.p.A.\ncommercializzato:\nLotto di produzione: 180727\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Tonitto 1939 S.p.A.\nSede dello stabilimento: Via N.S. di Lourdes 5 - 16152 Genova\nData di scadenza o termine minimo di conservazione: 18-07-2027\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPossibile presenza di Listeria Monocytogenes\nAvvertenze:\nNon consumare il prodotto e riconsegnarlo al punto vendita dove è stato acquistato."
+ },
+ "prima_rilevazione": "2026-10-25T06:57:16+00:00",
+ "ultimo_aggiornamento": "2026-10-25T06:57:16+00:00"
+}
