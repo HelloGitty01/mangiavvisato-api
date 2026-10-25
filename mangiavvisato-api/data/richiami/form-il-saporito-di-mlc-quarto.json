@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-mlc-quarto/",
+ "titolo": "FORM. il SAPORITO di M.L.C. QUARTO",
+ "data_pubblicazione": "2024-12-04",
+ "marca": "Tessaro",
+ "denominazione": "FORM. il SAPORITO di M.L.C. QUARTO",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagnaQuarto_1761206103.pdf",
+ "allegati": [
+  {
+   "titolo": "RitiroSaporitoMontagnaQuarto_1761206103.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagnaQuarto_1761206103.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "form-il-saporito-di-mlc-quarto",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORM. il SAPORITO di M.L.C. QUARTO",
+  "operatore": "TESSARO SPA",
+  "lotti": [
+   "BT231224 - BT040125"
+  ],
+  "marchio_identificazione": "ITALIA 42/012 CEE",
+  "produttore": "CASEIFICIO SOCIALE PREDAZZO E MOENA",
+  "sede_stabilimento": "VIA FIAMME GIALLE, 48 - 38037 PREDAZZO",
+  "scadenza": "23.12.24-04.01.25",
+  "peso_volume": "FORME TAGLIATE A QUARTI 2,5 KG CIRCA",
+  "motivo_esteso": "CONTAMINAZIONE DA ESCHERICHIA COLI",
+  "avvertenze": "NON CONSUMARE. RENDERE AL FORNITORE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/11/2024 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 25/11/2024 Marchio del prodotto:\nDenominazione di vendita:FORM. il SAPORITO di M.L.C. QUARTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TESSARO SPA\ncommercializzato:\nLotto di produzione: BT231224 - BT040125\nMarchio di identificazione dello stabilimento/del produttore: ITALIA 42/012 CEE\nNome del produttore: CASEIFICIO SOCIALE PREDAZZO E MOENA\nSede dello stabilimento: VIA FIAMME GIALLE, 48 - 38037 PREDAZZO\nData di scadenza o termine minimo di conservazione: 23.12.24-04.01.25\nDescrizione peso/volume unità di vendita: FORME TAGLIATE A QUARTI 2,5 KG CIRCA\nMotivo del richiamo:\nCONTAMINAZIONE DA ESCHERICHIA COLI\nAvvertenze:\nNON CONSUMARE. RENDERE AL FORNITORE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T00:54:33+00:00",
+ "ultimo_aggiornamento": "2026-10-25T00:54:33+00:00"
+}

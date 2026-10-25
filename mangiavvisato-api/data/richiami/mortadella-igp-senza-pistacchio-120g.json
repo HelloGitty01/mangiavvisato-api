@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-igp-senza-pistacchio-120g/",
+ "titolo": "MORTADELLA IGP SENZA PISTACCHIO 120g",
+ "data_pubblicazione": "2024-11-25",
+ "marca": "Viaggio Nel Gusto",
+ "denominazione": "MORTADELLA IGP SENZA PISTACCHIO 120g",
+ "motivo": "Richiamo per rischio fisico",
+ "categoria_rischio": "fisico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_recall_COAL_%20IT.docx_1761206073.pdf",
+ "allegati": [
+  {
+   "titolo": "3_recall_COAL_ IT.docx_1761206073.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/3_recall_COAL_%20IT.docx_1761206073.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mortadella-igp-senza-pistacchio-120g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "MORTADELLA IGP SENZA PISTACCHIO 120g",
+  "operatore": "TREBON SRL L054431807",
+  "lotti": [
+   "IT 1550 L"
+  ],
+  "marchio_identificazione": "Salumificio Fratelli Beretta S.p.A.",
+  "produttore": "via Fratelli Bandiera, 12 20056 Trezzo sull'Adda (MI)",
+  "sede_stabilimento": "28/12/2024",
+  "scadenza": "120g",
+  "motivo_esteso": "Possibile presenza di frammenti plastici blu",
+  "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita",
+  "campi_extra": {
+   "Data": "22/11/2024 Marchio del prodotto: Viaggio Nel Gusto"
+  },
+  "testo": "RICHIAMO\nData: 22/11/2024 Marchio del prodotto: Viaggio Nel Gusto\nDenominazione di vendita: MORTADELLA IGP SENZA PISTACCHIO 120g\nNome o ragione sociale dell'OSA TREBON SRL\na nome del quale il prodotto è\ncommercializzato:\nL054431807\nLotto di produzione:\nIT 1550 L\nMarchio di identificazione dello stabilimento/del produttore:\nSalumificio Fratelli Beretta S.p.A.\nNome del produttore:\nvia Fratelli Bandiera, 12 20056 Trezzo sull'Adda (MI)\nSede dello stabilimento:\n28/12/2024\nData di scadenza o termine minimo di conservazione:\n120g\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nPossibile presenza di frammenti plastici blu\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita"
+ },
+ "prima_rilevazione": "2026-10-25T00:55:17+00:00",
+ "ultimo_aggiornamento": "2026-10-25T00:55:17+00:00"
+}

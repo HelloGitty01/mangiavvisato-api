@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-montagna-lc/",
+ "titolo": "FORM. IL SAPORITO di MONTAGNA L.C.",
+ "data_pubblicazione": "2024-12-04",
+ "marca": "Tessaro",
+ "denominazione": "FORM. IL SAPORITO di MONTAGNA L.C.",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagna_1761206100.pdf",
+ "allegati": [
+  {
+   "titolo": "RitiroSaporitoMontagna_1761206100.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagna_1761206100.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "form-il-saporito-di-montagna-lc",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORM. il SAPORITO di MONTAGNA L.C.",
+  "operatore": "TESSARO SPA",
+  "lotti": [
+   "L.24197-L.24201-L.24205"
+  ],
+  "marchio_identificazione": "ITALIA 42/012 CEE",
+  "produttore": "CASEIFICIO SOCIALE PREDAZZO E MOENA",
+  "sede_stabilimento": "VIA FIAMME GIALLE, 48 - 38037 PREDAZZO",
+  "peso_volume": "FORME INTERE DA CIRCA 10 Kg.",
+  "motivo_esteso": "CONTAMINAZIONE DA ESCHERICHIA COLI",
+  "avvertenze": "NON CONSUMARE. RENDERE AL FORNITORE Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "25/11/2024 Marchio del prodotto:",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 25/11/2024 Marchio del prodotto:\nDenominazione di vendita:FORM. il SAPORITO di MONTAGNA L.C.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TESSARO SPA\ncommercializzato:\nLotto di produzione: L.24197-L.24201-L.24205\nMarchio di identificazione dello stabilimento/del produttore: ITALIA 42/012 CEE\nNome del produttore: CASEIFICIO SOCIALE PREDAZZO E MOENA\nSede dello stabilimento: VIA FIAMME GIALLE, 48 - 38037 PREDAZZO\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FORME INTERE DA CIRCA 10 Kg.\nMotivo del richiamo:\nCONTAMINAZIONE DA ESCHERICHIA COLI\nAvvertenze:\nNON CONSUMARE. RENDERE AL FORNITORE\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-25T00:54:29+00:00",
+ "ultimo_aggiornamento": "2026-10-25T00:54:29+00:00"
+}

@@ -1,0 +1,27 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-essenza/",
+ "titolo": "MIX ESSENZA",
+ "data_pubblicazione": "2024-11-18",
+ "marca": "VITALSI",
+ "denominazione": "MIX ESSENZA",
+ "motivo": "Richiamo per rischio chimico",
+ "categoria_rischio": "chimico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_vital_Si_mix_essenza_vaschetta_150_1761205933.pdf",
+ "allegati": [
+  {
+   "titolo": "19_vital_Si_mix_essenza_vaschetta_150_1761205933.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_vital_Si_mix_essenza_vaschetta_150_1761205933.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "mix-essenza",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "testo": ""
+ },
+ "prima_rilevazione": "2026-10-25T00:56:10+00:00",
+ "ultimo_aggiornamento": "2026-10-25T00:56:10+00:00"
+}

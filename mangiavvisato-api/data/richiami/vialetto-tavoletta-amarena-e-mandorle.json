@@ -1,0 +1,41 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vialetto-tavoletta-amarena-e-mandorle/",
+ "titolo": "Vialetto tavoletta amarena e mandorle",
+ "data_pubblicazione": "2024-11-27",
+ "marca": "VIALETTO",
+ "denominazione": "Vialetto tavoletta amarena e mandorle",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Vialetto%20tavoletta%20amarena%20e%20mandorle_1761206078.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo Vialetto tavoletta amarena e mandorle_1761206078.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Vialetto%20tavoletta%20amarena%20e%20mandorle_1761206078.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "vialetto-tavoletta-amarena-e-mandorle",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "VIALETTO TAVOLETTA AMARENA E MANDORLE",
+  "operatore": "COLUSSI SPA",
+  "lotti": [
+   "L38D4"
+  ],
+  "produttore": "LA SUISSA SRL",
+  "sede_stabilimento": "VIA SERRAVALLE 99, 15061 ARQUATA SCRIVIA (AL)",
+  "scadenza": "19-12-2025",
+  "peso_volume": "100 g",
+  "motivo_esteso": "Possibile presenza dell'allergene \"latte\" non dichiarata in etichetta",
+  "avvertenze": "Si raccomanda alle persone allergiche al latte e ai suoi derivati di non consumare il prodotto e di riportarlo al punto di acquisto. Per maggiori informazioni rivolgersi al numero verde 800-865143",
+  "campi_extra": {
+   "Data": "20/11/2024 Marchio del prodotto: Vialetto"
+  },
+  "testo": "RICHIAMO\nData: 20/11/2024 Marchio del prodotto: Vialetto\nDenominazione di vendita: VIALETTO TAVOLETTA AMARENA E MANDORLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COLUSSI SPA\ncommercializzato:\nLotto di produzione: L38D4\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LA SUISSA SRL\nSede dello stabilimento: VIA SERRAVALLE 99, 15061 ARQUATA SCRIVIA (AL)\nData di scadenza o termine minimo di conservazione: 19-12-2025\nDescrizione peso/volume unità di vendita: 100 g\nMotivo del richiamo:\nPossibile presenza dell'allergene \"latte\" non dichiarata in etichetta\nAvvertenze:\nSi raccomanda alle persone allergiche al latte e ai suoi derivati di non consumare il prodotto e di riportarlo\nal punto di acquisto.\nPer maggiori informazioni rivolgersi al numero verde 800-865143"
+ },
+ "prima_rilevazione": "2026-10-25T00:55:08+00:00",
+ "ultimo_aggiornamento": "2026-10-25T00:55:08+00:00"
+}
