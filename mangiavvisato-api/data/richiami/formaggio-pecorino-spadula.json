@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pecorino-spadula/",
+ "titolo": "Formaggio Pecorino Spadula",
+ "data_pubblicazione": "2026-10-26",
+ "marca": "Caseificio Artigianale PINNA di Pinna Francesco",
+ "denominazione": "Formaggio Pecorino Spadula",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20formaggio%20Caseificio%20Artigianale%20Pinna%20di%20Pinna%20Francesco_1793038727.pdf",
+ "allegati": [
+  {
+   "titolo": "richiamo formaggio Caseificio Artigianale Pinna di Pinna Francesco_1793038727.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20formaggio%20Caseificio%20Artigianale%20Pinna%20di%20Pinna%20Francesco_1793038727.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "formaggio-pecorino-spadula",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "FORMAGGIO SPADULA",
+  "operatore": "Caseificio Artigianale PINNA di Francesco Pinna",
+  "lotti": [
+   "LOTTO 28"
+  ],
+  "marchio_identificazione": "029 MD2258/C/C",
+  "produttore": "Caseificio Artigianale PINNA di Francesco Pinna",
+  "sede_stabilimento": "VIA DEI COLTELLINAI 2 GONNOSFANADIGA (VS)",
+  "scadenza": "13-12-2026",
+  "peso_volume": "FORMA INTERA DA 3,5 KG O SUE PORZIONI",
+  "motivo_esteso": "RILEVATA PRESENZA DI STEC IN 25 GRAMMI",
+  "avvertenze": "Richiamo del formaggio Lotto 28 per presenza accertata di ESCHERICHIA COLI PRODUTTORI DI SHIGA TOSSINE (STEC), si chiede ai clienti che lo avessero acquistato di non consumarlo e di riportarlo nel punto vendita per il ritiro. Inserire immagine uno: Inserire immagine due",
+  "campi_extra": {
+   "Data": "23/10/2026 Marchio del prodotto: Caseificio Artigianale PINNA di Francesco Pinna",
+   "Inserire immagine uno": "Inserire immagine due:"
+  },
+  "testo": "RICHIAMO\nData: 23/10/2026 Marchio del prodotto: Caseificio Artigianale PINNA di Francesco Pinna\nDenominazione di vendita:FORMAGGIO SPADULA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Caseificio Artigianale PINNA di Francesco Pinna\ncommercializzato:\nLotto di produzione: LOTTO 28\nMarchio di identificazione dello stabilimento/del produttore: 029 MD2258/C/C\nNome del produttore: Caseificio Artigianale PINNA di Francesco Pinna\nSede dello stabilimento: VIA DEI COLTELLINAI 2 GONNOSFANADIGA (VS)\nData di scadenza o termine minimo di conservazione: 13-12-2026\nDescrizione peso/volume unità di vendita: FORMA INTERA DA 3,5 KG O SUE PORZIONI\nMotivo del richiamo:\nRILEVATA PRESENZA DI STEC IN 25 GRAMMI\nAvvertenze:\nRichiamo del formaggio Lotto 28 per presenza accertata di ESCHERICHIA COLI PRODUTTORI DI SHIGA\nTOSSINE (STEC), si chiede ai clienti che lo avessero acquistato di non consumarlo e di riportarlo nel punto\nvendita per il ritiro.\nInserire immagine uno: Inserire immagine due:"
+ },
+ "prima_rilevazione": "2026-10-26T21:46:18+00:00",
+ "ultimo_aggiornamento": "2026-10-26T21:46:18+00:00"
+}

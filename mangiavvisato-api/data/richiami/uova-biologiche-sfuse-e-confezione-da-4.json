@@ -1,0 +1,43 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-sfuse-e-confezione-da-4/",
+ "titolo": "Uova biologiche (sfuse e in confezione da 4)",
+ "data_pubblicazione": "2026-10-26",
+ "marca": "FORNASERO",
+ "denominazione": "Uova biologiche (sfuse e in confezione da 4)",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20uova%20Fornasero_1793038604.pdf",
+ "allegati": [
+  {
+   "titolo": "Richiamo uova Fornasero_1793038604.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20uova%20Fornasero_1793038604.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "uova-biologiche-sfuse-e-confezione-da-4",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "uova Biologiche",
+  "operatore": "Olivero Organic Soc.Agr.Coop.",
+  "lotti": [
+   "vedi avvertenze"
+  ],
+  "marchio_identificazione": "128CN019",
+  "produttore": "Olivero Claudio",
+  "sede_stabilimento": "Monasterolo di Savigliano",
+  "scadenza": "vedi avvertenze",
+  "peso_volume": "sfuso/confezionato",
+  "motivo_esteso": "possibile rischio biologico presenza salmonella typhimurium",
+  "avvertenze": "Non consumare e restituire al punto vendita. Lotti: 1A300926 - 1A041026 - 1A111026 con data di scadenza dal 28/10/26 al 08/11/2026",
+  "campi_extra": {
+   "Data": "20/10/2026 Marchio del prodotto: FORNASERO",
+   "Non consumare e restituire al punto vendita. Lotti": "1A300926 - 1A041026 - 1A111026 con data di"
+  },
+  "testo": "RICHIAMO\nData: 20/10/2026 Marchio del prodotto: FORNASERO\nDenominazione di vendita: uova Biologiche\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Olivero Organic Soc.Agr.Coop.\ncommercializzato:\nLotto di produzione: vedi avvertenze\nMarchio di identificazione dello stabilimento/del produttore: 128CN019\nNome del produttore: Olivero Claudio\nSede dello stabilimento: Monasterolo di Savigliano\nData di scadenza o termine minimo di conservazione: vedi avvertenze\nDescrizione peso/volume unità di vendita: sfuso/confezionato\nMotivo del richiamo:\npossibile rischio biologico\npresenza salmonella typhimurium\nAvvertenze:\nNon consumare e restituire al punto vendita. Lotti: 1A300926 - 1A041026 - 1A111026 con data di\nscadenza dal 28/10/26 al 08/11/2026"
+ },
+ "prima_rilevazione": "2026-10-26T21:46:09+00:00",
+ "ultimo_aggiornamento": "2026-10-26T21:46:09+00:00"
+}
