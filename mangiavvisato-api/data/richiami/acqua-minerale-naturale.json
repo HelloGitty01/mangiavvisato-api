@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale/",
+ "titolo": "Acqua minerale naturale",
+ "data_pubblicazione": "2026-10-27",
+ "marca": "San Zaccaria - Fonti Terme di Brennero S.r.l.",
+ "denominazione": "Acqua minerale naturale",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRichiamoSanZaccaria_1793118834.pdf",
+ "allegati": [
+  {
+   "titolo": "CartellodiRichiamoSanZaccaria_1793118834.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRichiamoSanZaccaria_1793118834.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "acqua-minerale-naturale",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ACQUA MINERALE NATURALE REGIONE SOCIALE OSA : FONTI TERME DI BRENNERO S.r.l.",
+  "produttore": "FONTI TERME DI BRENNERO S.r.l.",
+  "sede_stabilimento": "Loc. Terme di Brennero 9 - 39041 Brennero NUMERO LOTTO : L26239221100",
+  "scadenza": "27.08.2028 DESCRIZIONE UNITA DI VENDITA PESO VOLUME : 100 cl - 1/1 L - (1 dm³)",
+  "motivo_esteso": "RISCHIO MICROBIOLOGICO PER POTENZIALE PRESENZA DI PSEUDOMONAS AERUGINOSA",
+  "avvertenze": "SI RACCOMANDA DI NON CONSUMARE TALE PRODOTTO E DI RIPORTARLO AL PROPRIO NEGOZIANTE CHE PROVVEDERA` A SOSTITUIRLO O RIMBORSARLO OLTRE CHE A CHIARIRE EVENTUALI DUBBI",
+  "lotti": [
+   "L26239221100 SCADENZA 27.08.2028"
+  ],
+  "campi_extra": {
+   "DATA": "20.10.2026 Marchio del prodotto : SAN ZACCARIA",
+   "REGIONE SOCIALE OSA": "FONTI TERME DI BRENNERO S.r.l.",
+   "NUMERO LOTTO": "L26239221100",
+   "DESCRIZIONE UNITA DI VENDITA PESO VOLUME": "100 cl - 1/1 L - (1 dm³)"
+  },
+  "testo": "RICHIAMO\nDATA : 20.10.2026 Marchio del prodotto : SAN ZACCARIA\nDENOMINAZIONE DI VENDITA : ACQUA MINERALE NATURALE\nREGIONE SOCIALE OSA : FONTI TERME DI BRENNERO S.r.l.\nNOME DEL PRODUTTORE : FONTI TERME DI BRENNERO S.r.l.\nSEDE DELLO STABILIMENTO : Loc. Terme di Brennero 9 - 39041 Brennero\nNUMERO LOTTO : L26239221100\nDATA DI SCADENZA : 27.08.2028\nDESCRIZIONE UNITA DI VENDITA PESO VOLUME : 100 cl - 1/1 L - (1 dm³)\nMOTIVO DEL RICHIAMO :\nRISCHIO MICROBIOLOGICO PER POTENZIALE PRESENZA DI PSEUDOMONAS AERUGINOSA\nAVVERTENZE : SI\nRACCOMANDA DI NON CONSUMARE TALE PRODOTTO E DI RIPORTARLO AL PROPRIO\nNEGOZIANTE CHE PROVVEDERA` A SOSTITUIRLO O RIMBORSARLO OLTRE CHE A CHIARIRE EVENTUALI\nDUBBI\nLOTTO\nL26239221100\nSCADENZA\n27.08.2028"
+ },
+ "prima_rilevazione": "2026-10-27T19:06:54+00:00",
+ "ultimo_aggiornamento": "2026-10-27T19:06:54+00:00"
+}
