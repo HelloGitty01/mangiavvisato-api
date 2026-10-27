@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-emiliano/",
+ "titolo": "Salame Emiliano",
+ "data_pubblicazione": "2026-10-27",
+ "marca": "CLAI",
+ "denominazione": "Salame Emiliano",
+ "motivo": "Richiamo per rischio microbiologico",
+ "categoria_rischio": "microbiologico",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026_10_21_verbale%20di%20richiamo_1793108308.pdf",
+ "allegati": [
+  {
+   "titolo": "2026_10_21_verbale di richiamo_1793108308.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026_10_21_verbale%20di%20richiamo_1793108308.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "salame-emiliano",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "SAL EMILIANO FILZETTA",
+  "operatore": "CLAI SCA",
+  "lotti": [
+   "26794838"
+  ],
+  "marchio_identificazione": "UE IT 370 L",
+  "produttore": "CLAI SCA",
+  "sede_stabilimento": "via Gambellara 62/a, Sasso Morelli, Imola (BO)",
+  "scadenza": "12-01-2027",
+  "peso_volume": "550 gr",
+  "motivo_esteso": "potenziale rischio di contaminazione microbiologica.",
+  "avvertenze": "Non consumare il prodotto. Riportare al punto vendita dove è stato effettuato l'acquisto per la sostituzione o il rimborso.",
+  "campi_extra": {
+   "Data": "21/10/2026 Marchio del prodotto: CLAI"
+  },
+  "testo": "RICHIAMO\nData: 21/10/2026 Marchio del prodotto: CLAI\nDenominazione di vendita:SAL EMILIANO FILZETTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CLAI SCA\ncommercializzato:\nLotto di produzione: 26794838\nMarchio di identificazione dello stabilimento/del produttore: UE IT 370 L\nNome del produttore: CLAI SCA\nSede dello stabilimento: via Gambellara 62/a, Sasso Morelli, Imola (BO)\nData di scadenza o termine minimo di conservazione: 12-01-2027\nDescrizione peso/volume unità di vendita: 550 gr\nMotivo del richiamo:\npotenziale rischio di contaminazione microbiologica.\nAvvertenze:\nNon consumare il prodotto. Riportare al punto vendita dove è stato effettuato l'acquisto per la sostituzione\no il rimborso."
+ },
+ "prima_rilevazione": "2026-10-27T15:57:46+00:00",
+ "ultimo_aggiornamento": "2026-10-27T15:57:46+00:00"
+}
