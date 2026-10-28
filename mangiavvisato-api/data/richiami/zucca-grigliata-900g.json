@@ -1,0 +1,42 @@
+{
+ "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucca-grigliata-900g/",
+ "titolo": "Zucca Grigliata 900g",
+ "data_pubblicazione": "2026-10-28",
+ "marca": "Ferri - La Favola Antica",
+ "denominazione": "Zucca Grigliata 900g",
+ "motivo": "Richiamo per rischio presenza di allergeni",
+ "categoria_rischio": "allergeni",
+ "tipo": "richiamo",
+ "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20ZUCCA%20GRIGLIATA%20900%20G%20LOTTO_1793213961.pdf",
+ "allegati": [
+  {
+   "titolo": "MODELLO RICHIAMO _ ZUCCA GRIGLIATA 900 G LOTTO_1793213961.pdf",
+   "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20_%20ZUCCA%20GRIGLIATA%20900%20G%20LOTTO_1793213961.pdf"
+  }
+ ],
+ "campi_pagina": {},
+ "depubblicato": false,
+ "id": "zucca-grigliata-900g",
+ "versione_parser": 5,
+ "fonte": "Ministero della Salute",
+ "dettagli": {
+  "denominazione_vendita": "ZUCCA GRIGLIATA SOTT'OLIO",
+  "operatore": "FERRI S.A.S. DI FERRI PIERO",
+  "lotti": [
+   "26/11/25"
+  ],
+  "marchio_identificazione": "AA000657041PEIT",
+  "produttore": "FERRI S.A.S. DI FERRI PIERO",
+  "sede_stabilimento": "VIALE EUROPA, 126/F SPOLTORE (PE)",
+  "scadenza": "28/05/27",
+  "peso_volume": "900 G",
+  "motivo_esteso": "ASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI VINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011",
+  "avvertenze": "SI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA",
+  "campi_extra": {
+   "Data": "22/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA"
+  },
+  "testo": "RICHIAMO\nData: 22/10/26 Marchio del prodotto: FERRI - LA FAVOLA ANTICA\nDenominazione di vendita:ZUCCA GRIGLIATA SOTT'OLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRI S.A.S. DI FERRI PIERO\ncommercializzato:\nLotto di produzione: 26/11/25\nMarchio di identificazione dello stabilimento/del produttore: AA000657041PEIT\nNome del produttore: FERRI S.A.S. DI FERRI PIERO\nSede dello stabilimento: VIALE EUROPA, 126/F SPOLTORE (PE)\nData di scadenza o termine minimo di conservazione: 28/05/27\nDescrizione peso/volume unità di vendita: 900 G\nMotivo del richiamo:\nASSENZA IN ETICHETTA DELL'INDICAZIONE DELL'ALLERGENE \"SOLFITI\" CONTENUTI NELL'ACETO DI\nVINO, COME INVECE PREVISTO DAL REG. (CE) 1169/2011\nAvvertenze:\nSI RACCOMANDA AI SOGGETTI ALLERGICI AI SOLFITI DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO\nAL PUNTO VENDITA"
+ },
+ "prima_rilevazione": "2026-10-28T21:53:32+00:00",
+ "ultimo_aggiornamento": "2026-10-28T21:53:32+00:00"
+}
